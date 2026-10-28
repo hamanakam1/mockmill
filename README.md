@@ -1,6 +1,7 @@
 # MockMill
 
-```text
+<div align="center">
+<pre>
 -----------------------+*%@@@@@@@@@@@@@@%*+=---==========------=========
 --------------------=*#@@@@@@@@@@@@@@@@@@@@%#+---========------------===
 -------------------*%@%@@@@%%%%%%%@@@%%%%%%@@@#=---======---------------
@@ -34,7 +35,8 @@
 
                  M O C K   M I L L
              F A K E   D A T A  /  R E A L   F L O W
-```
+</pre>
+</div>
 
 [![CI](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml/badge.svg)](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-55d6be.svg)](LICENSE)
