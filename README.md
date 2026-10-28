@@ -79,7 +79,7 @@ See [foundation contracts](docs/crm-foundations.md), [adapter API](docs/adapter-
 
 The [visual guide](docs/VISUALS.md) shows the product flow, validation evidence and the exact boundary between the canonical model and the five offline adapters.
 
-For the satire layer, see the [full-color MockMill ASCII portrait](docs/visuals/mockmill-meek-mill-color-ascii.html). It is an explicitly fan-made, unaffiliated character-mosaic transformation; the source photograph is not included.
+For the satire layer, see the [full-color MockMill ASCII portrait](docs/visuals/mockmill-meek-mill-color-ascii.html) or the [GitHub-previewable SVG version](docs/visuals/mockmill-meek-mill-color-ascii.svg). It is an explicitly fan-made, unaffiliated character-mosaic transformation; the source photograph is not included.
 
 ## Model, story and evidence
 
