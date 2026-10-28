@@ -104,7 +104,7 @@ The public candidate contains independently authored generic profiles and fixtur
 The package has no runtime dependencies and exposes four command-line entry points:
 
 ```bash
-python -m pip install mockmill-0.1.0.tar.gz
+python -m pip install mockmill-0.2.0.tar.gz
 mockmill-generate --output examples/service-company
 mockmill-validate --data examples/service-company --receipt validation.json
 mockmill-preview --data examples/service-company --output examples/canonical-import-preview

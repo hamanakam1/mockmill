@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0 — MockMill rename
+
+- Established the MockMill public product name.
+- Renamed package metadata, CLI commands, repository links and visual labels.
+- Preserved the canonical schema, five offline adapters and synthetic-only safety boundary.
+
 ## Unreleased — local release candidate
 
 - Expanded the canonical CRM profile with portable account, contact, lead and opportunity fields for five target systems.
