@@ -1,0 +1,10 @@
+id,dataset_id,synthetic,invoice_id,attempted_on,amount_cents,status,reason
+d2eec5850643-payment_attempts-000001,synthetic-d2eec5850643,true,d2eec5850643-invoices-000002,2024-12-31,360000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000002,synthetic-d2eec5850643,true,d2eec5850643-invoices-000005,2025-06-29,600000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000003,synthetic-d2eec5850643,true,d2eec5850643-invoices-000116,2025-06-09,690000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000004,synthetic-d2eec5850643,true,d2eec5850643-invoices-000119,2025-12-06,990000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000005,synthetic-d2eec5850643,true,d2eec5850643-invoices-000230,2025-10-14,960000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000006,synthetic-d2eec5850643,true,d2eec5850643-invoices-000233,2026-04-12,1140000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000007,synthetic-d2eec5850643,true,d2eec5850643-invoices-000293,2026-02-07,1110000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000008,synthetic-d2eec5850643,true,d2eec5850643-invoices-000350,2026-05-28,720000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted
+d2eec5850643-payment_attempts-000009,synthetic-d2eec5850643,true,d2eec5850643-invoices-000407,2026-09-09,540000,SIMULATED_FAILED,Fictional remittance reference mismatch; no real payment attempted

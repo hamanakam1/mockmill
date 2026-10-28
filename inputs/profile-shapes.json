@@ -1,0 +1,101 @@
+{
+  "synthetic_output_only": true,
+  "provenance": {
+    "origin": "INDEPENDENTLY_AUTHORED_GENERIC_TEMPLATE",
+    "source_profile_count": 0,
+    "external_roster_used": false,
+    "description": "Ten deliberately balanced fictional job families and three independently enumerated skills per family. No imported identity, biography or private roster."
+  },
+  "shapes": [
+    {
+      "title": "Account manager",
+      "skills": [
+        "account planning",
+        "relationship review",
+        "scope clarification"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Business analyst",
+      "skills": [
+        "requirements analysis",
+        "process mapping",
+        "data review"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Consultant",
+      "skills": [
+        "workshop facilitation",
+        "evidence synthesis",
+        "recommendation writing"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Customer success specialist",
+      "skills": [
+        "onboarding planning",
+        "support triage",
+        "retention review"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Delivery coordinator",
+      "skills": [
+        "scheduling",
+        "handoff coordination",
+        "progress reporting"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Finance analyst",
+      "skills": [
+        "invoice reconciliation",
+        "budget analysis",
+        "payment review"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Project manager",
+      "skills": [
+        "dependency planning",
+        "risk review",
+        "delivery tracking"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Research specialist",
+      "skills": [
+        "source evaluation",
+        "interview design",
+        "research synthesis"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Support specialist",
+      "skills": [
+        "issue triage",
+        "knowledge writing",
+        "case follow-up"
+      ],
+      "count": 100
+    },
+    {
+      "title": "Technical advisor",
+      "skills": [
+        "interface design",
+        "test planning",
+        "technical review"
+      ],
+      "count": 100
+    }
+  ]
+}

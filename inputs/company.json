@@ -1,0 +1,43 @@
+{
+  "company_name": "Example Service Studio",
+  "company_expansion": "An independently authored fictional B2B service company",
+  "scenario": "SYNTHETIC professional services business",
+  "anchor_date": "2026-10-28",
+  "history_start": "2024-10-29",
+  "seed": 314159,
+  "customers": 100,
+  "leads": 500,
+  "talent": 1000,
+  "staff": 40,
+  "future_meetings": 40,
+  "currency": "USD",
+  "tax_assumption": "Synthetic zero-tax scenario; not accounting or tax advice",
+  "synthetic": true,
+  "live_import_authorized": false,
+  "services": [
+    [
+      "Discovery assessment",
+      1200000
+    ],
+    [
+      "Delivery planning",
+      2000000
+    ],
+    [
+      "Process design review",
+      3000000
+    ],
+    [
+      "Data quality rehearsal",
+      3600000
+    ],
+    [
+      "Customer onboarding enablement",
+      2400000
+    ],
+    [
+      "Managed knowledge review",
+      1500000
+    ]
+  ]
+}

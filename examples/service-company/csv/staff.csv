@@ -1,0 +1,41 @@
+id,dataset_id,synthetic,talent_id,display_name,title,engagement,joined_on,hourly_cost_cents,currency
+d2eec5850643-staff-000001,synthetic-d2eec5850643,true,d2eec5850643-talent-000001,Avaven Ambercrest,Account manager,FICTIONAL_EMPLOYEE,2024-10-29,4500,USD
+d2eec5850643-staff-000002,synthetic-d2eec5850643,true,d2eec5850643-talent-000027,Faralune Ambercrest,Account manager,FICTIONAL_EMPLOYEE,2024-10-29,5000,USD
+d2eec5850643-staff-000003,synthetic-d2eec5850643,true,d2eec5850643-talent-000052,Kalalune Ambercrest,Account manager,FICTIONAL_EMPLOYEE,2024-10-29,5500,USD
+d2eec5850643-staff-000004,synthetic-d2eec5850643,true,d2eec5850643-talent-000078,Perarin Ambercrest,Account manager,FICTIONAL_EMPLOYEE,2024-10-29,6000,USD
+d2eec5850643-staff-000005,synthetic-d2eec5850643,true,d2eec5850643-talent-000103,Avarin Amberfield,Business analyst,FICTIONAL_EMPLOYEE,2024-10-29,6500,USD
+d2eec5850643-staff-000006,synthetic-d2eec5850643,true,d2eec5850643-talent-000129,Farasol Amberfield,Business analyst,FICTIONAL_EMPLOYEE,2024-10-29,7000,USD
+d2eec5850643-staff-000007,synthetic-d2eec5850643,true,d2eec5850643-talent-000155,Kalamere Amberfield,Business analyst,FICTIONAL_EMPLOYEE,2024-10-29,7500,USD
+d2eec5850643-staff-000008,synthetic-d2eec5850643,true,d2eec5850643-talent-000180,Peramere Amberfield,Business analyst,FICTIONAL_EMPLOYEE,2024-10-29,8000,USD
+d2eec5850643-staff-000009,synthetic-d2eec5850643,true,d2eec5850643-talent-000206,Belaven Amberhaven,Consultant,FICTIONAL_EMPLOYEE,2024-10-29,8500,USD
+d2eec5850643-staff-000010,synthetic-d2eec5850643,true,d2eec5850643-talent-000232,Galalune Amberhaven,Consultant,FICTIONAL_EMPLOYEE,2024-10-29,4500,USD
+d2eec5850643-staff-000011,synthetic-d2eec5850643,true,d2eec5850643-talent-000257,Lirilune Amberhaven,Consultant,FICTIONAL_EMPLOYEE,2024-10-29,5000,USD
+d2eec5850643-staff-000012,synthetic-d2eec5850643,true,d2eec5850643-talent-000283,Querarin Amberhaven,Consultant,FICTIONAL_EMPLOYEE,2024-10-29,5500,USD
+d2eec5850643-staff-000013,synthetic-d2eec5850643,true,d2eec5850643-talent-000308,Belarin Amberridge,Customer success specialist,FICTIONAL_EMPLOYEE,2024-10-29,6000,USD
+d2eec5850643-staff-000014,synthetic-d2eec5850643,true,d2eec5850643-talent-000334,Galasol Amberridge,Customer success specialist,FICTIONAL_EMPLOYEE,2024-10-29,6500,USD
+d2eec5850643-staff-000015,synthetic-d2eec5850643,true,d2eec5850643-talent-000360,Lirimere Amberridge,Customer success specialist,FICTIONAL_EMPLOYEE,2024-10-29,7000,USD
+d2eec5850643-staff-000016,synthetic-d2eec5850643,true,d2eec5850643-talent-000385,Queramere Amberridge,Customer success specialist,FICTIONAL_EMPLOYEE,2024-10-29,7500,USD
+d2eec5850643-staff-000017,synthetic-d2eec5850643,true,d2eec5850643-talent-000411,Ceriven Ambervale,Delivery coordinator,FICTIONAL_EMPLOYEE,2024-10-29,8000,USD
+d2eec5850643-staff-000018,synthetic-d2eec5850643,true,d2eec5850643-talent-000436,Heriven Ambervale,Delivery coordinator,FICTIONAL_EMPLOYEE,2024-10-29,8500,USD
+d2eec5850643-staff-000019,synthetic-d2eec5850643,true,d2eec5850643-talent-000462,Maralune Ambervale,Delivery coordinator,FICTIONAL_EMPLOYEE,2024-10-29,4500,USD
+d2eec5850643-staff-000020,synthetic-d2eec5850643,true,d2eec5850643-talent-000488,Rinarin Ambervale,Delivery coordinator,FICTIONAL_EMPLOYEE,2024-10-29,5000,USD
+d2eec5850643-staff-000021,synthetic-d2eec5850643,true,d2eec5850643-talent-000513,Ceririn Birchcrest,Finance analyst,FICTIONAL_EMPLOYEE,2024-10-29,5500,USD
+d2eec5850643-staff-000022,synthetic-d2eec5850643,true,d2eec5850643-talent-000539,Herisol Birchcrest,Finance analyst,FICTIONAL_EMPLOYEE,2024-10-29,6000,USD
+d2eec5850643-staff-000023,synthetic-d2eec5850643,true,d2eec5850643-talent-000565,Maramere Birchcrest,Finance analyst,FICTIONAL_EMPLOYEE,2024-10-29,6500,USD
+d2eec5850643-staff-000024,synthetic-d2eec5850643,true,d2eec5850643-talent-000590,Rinamere Birchcrest,Finance analyst,FICTIONAL_EMPLOYEE,2024-10-29,7000,USD
+d2eec5850643-staff-000025,synthetic-d2eec5850643,true,d2eec5850643-talent-000616,Daraven Birchfield,Project manager,FICTIONAL_EMPLOYEE,2024-10-29,7500,USD
+d2eec5850643-staff-000026,synthetic-d2eec5850643,true,d2eec5850643-talent-000641,Ilaven Birchfield,Project manager,FICTIONAL_EMPLOYEE,2024-10-29,8000,USD
+d2eec5850643-staff-000027,synthetic-d2eec5850643,true,d2eec5850643-talent-000667,Nerilune Birchfield,Project manager,FICTIONAL_EMPLOYEE,2024-10-29,8500,USD
+d2eec5850643-staff-000028,synthetic-d2eec5850643,true,d2eec5850643-talent-000693,Sorarin Birchfield,Project manager,FICTIONAL_EMPLOYEE,2024-10-29,4500,USD
+d2eec5850643-staff-000029,synthetic-d2eec5850643,true,d2eec5850643-talent-000718,Dararin Birchhaven,Research specialist,FICTIONAL_EMPLOYEE,2024-10-29,5000,USD
+d2eec5850643-staff-000030,synthetic-d2eec5850643,true,d2eec5850643-talent-000744,Ilasol Birchhaven,Research specialist,FICTIONAL_EMPLOYEE,2024-10-29,5500,USD
+d2eec5850643-staff-000031,synthetic-d2eec5850643,true,d2eec5850643-talent-000769,Nerisol Birchhaven,Research specialist,FICTIONAL_EMPLOYEE,2024-10-29,6000,USD
+d2eec5850643-staff-000032,synthetic-d2eec5850643,true,d2eec5850643-talent-000795,Soramere Birchhaven,Research specialist,FICTIONAL_EMPLOYEE,2024-10-29,6500,USD
+d2eec5850643-staff-000033,synthetic-d2eec5850643,true,d2eec5850643-talent-000821,Eliven Birchridge,Support specialist,FICTIONAL_CONTRACTOR,2024-10-29,7000,USD
+d2eec5850643-staff-000034,synthetic-d2eec5850643,true,d2eec5850643-talent-000846,Joraven Birchridge,Support specialist,FICTIONAL_CONTRACTOR,2024-10-29,7500,USD
+d2eec5850643-staff-000035,synthetic-d2eec5850643,true,d2eec5850643-talent-000872,Orilune Birchridge,Support specialist,FICTIONAL_CONTRACTOR,2024-10-29,8000,USD
+d2eec5850643-staff-000036,synthetic-d2eec5850643,true,d2eec5850643-talent-000898,Talirin Birchridge,Support specialist,FICTIONAL_CONTRACTOR,2024-10-29,8500,USD
+d2eec5850643-staff-000037,synthetic-d2eec5850643,true,d2eec5850643-talent-000923,Elirin Birchvale,Technical advisor,FICTIONAL_CONTRACTOR,2024-10-29,4500,USD
+d2eec5850643-staff-000038,synthetic-d2eec5850643,true,d2eec5850643-talent-000949,Jorasol Birchvale,Technical advisor,FICTIONAL_CONTRACTOR,2024-10-29,5000,USD
+d2eec5850643-staff-000039,synthetic-d2eec5850643,true,d2eec5850643-talent-000974,Orisol Birchvale,Technical advisor,FICTIONAL_CONTRACTOR,2024-10-29,5500,USD
+d2eec5850643-staff-000040,synthetic-d2eec5850643,true,d2eec5850643-talent-001000,Talimere Birchvale,Technical advisor,FICTIONAL_CONTRACTOR,2024-10-29,6000,USD

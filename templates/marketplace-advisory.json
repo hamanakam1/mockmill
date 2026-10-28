@@ -1,0 +1,43 @@
+{
+  "company_name": "Fictional Market Entry Studio",
+  "company_expansion": "A fictional marketplace advisory business",
+  "scenario": "SYNTHETIC marketplace-readiness advisory",
+  "anchor_date": "2026-10-28",
+  "history_start": "2024-10-29",
+  "seed": 271828,
+  "customers": 100,
+  "leads": 500,
+  "talent": 1000,
+  "staff": 40,
+  "future_meetings": 40,
+  "currency": "USD",
+  "tax_assumption": "Synthetic zero-tax scenario; not accounting or tax advice",
+  "synthetic": true,
+  "live_import_authorized": false,
+  "services": [
+    [
+      "Readiness assessment",
+      1500000
+    ],
+    [
+      "Commercial planning",
+      2200000
+    ],
+    [
+      "Fulfillment review",
+      3000000
+    ],
+    [
+      "Usage reconciliation rehearsal",
+      3800000
+    ],
+    [
+      "Customer onboarding design",
+      2500000
+    ],
+    [
+      "Evidence maintenance",
+      1700000
+    ]
+  ]
+}

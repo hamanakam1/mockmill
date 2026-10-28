@@ -1,0 +1,8 @@
+id,dataset_id,synthetic,invoice_id,issued_on,amount_cents,reason,status
+d2eec5850643-credit_notes-000001,synthetic-d2eec5850643,true,d2eec5850643-invoices-000003,2025-02-12,12000,[SYNTHETIC] Agreed scope reduction,posted
+d2eec5850643-credit_notes-000002,synthetic-d2eec5850643,true,d2eec5850643-invoices-000006,2025-08-11,20000,[SYNTHETIC] Agreed scope reduction,posted
+d2eec5850643-credit_notes-000003,synthetic-d2eec5850643,true,d2eec5850643-invoices-000141,2025-08-19,18000,[SYNTHETIC] Agreed scope reduction,posted
+d2eec5850643-credit_notes-000004,synthetic-d2eec5850643,true,d2eec5850643-invoices-000144,2026-02-15,15000,[SYNTHETIC] Agreed scope reduction,posted
+d2eec5850643-credit_notes-000005,synthetic-d2eec5850643,true,d2eec5850643-invoices-000261,2026-01-15,26000,[SYNTHETIC] Agreed scope reduction,posted
+d2eec5850643-credit_notes-000006,synthetic-d2eec5850643,true,d2eec5850643-invoices-000330,2026-05-31,37000,[SYNTHETIC] Agreed scope reduction,posted
+d2eec5850643-credit_notes-000007,synthetic-d2eec5850643,true,d2eec5850643-invoices-000399,2026-10-06,30000,[SYNTHETIC] Agreed scope reduction,posted

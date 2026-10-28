@@ -1,0 +1,3502 @@
+[
+  {
+    "Name": "[SYNTHETIC] Amber Systems 001",
+    "Company domain name": "vendor0001.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000001",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Systems 002",
+    "Company domain name": "vendor0002.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000002",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Systems 003",
+    "Company domain name": "vendor0003.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000003",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Systems 004",
+    "Company domain name": "vendor0004.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000004",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Systems 005",
+    "Company domain name": "vendor0005.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000005",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Systems 006",
+    "Company domain name": "vendor0006.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000006",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Systems 007",
+    "Company domain name": "vendor0007.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000007",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Systems 008",
+    "Company domain name": "vendor0008.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000008",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Systems 009",
+    "Company domain name": "vendor0009.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000009",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Systems 010",
+    "Company domain name": "vendor0010.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000010",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Systems 011",
+    "Company domain name": "vendor0011.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000011",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Systems 012",
+    "Company domain name": "vendor0012.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000012",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Systems 013",
+    "Company domain name": "vendor0013.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000013",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Systems 014",
+    "Company domain name": "vendor0014.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000014",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Systems 015",
+    "Company domain name": "vendor0015.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000015",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Systems 016",
+    "Company domain name": "vendor0016.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000016",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Systems 017",
+    "Company domain name": "vendor0017.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000017",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Systems 018",
+    "Company domain name": "vendor0018.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000018",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Systems 019",
+    "Company domain name": "vendor0019.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000019",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Systems 020",
+    "Company domain name": "vendor0020.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000020",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Analytics 021",
+    "Company domain name": "vendor0021.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000021",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Analytics 022",
+    "Company domain name": "vendor0022.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000022",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Analytics 023",
+    "Company domain name": "vendor0023.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000023",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Analytics 024",
+    "Company domain name": "vendor0024.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000024",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Analytics 025",
+    "Company domain name": "vendor0025.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000025",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Analytics 026",
+    "Company domain name": "vendor0026.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000026",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Analytics 027",
+    "Company domain name": "vendor0027.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000027",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Analytics 028",
+    "Company domain name": "vendor0028.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000028",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Analytics 029",
+    "Company domain name": "vendor0029.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000029",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Analytics 030",
+    "Company domain name": "vendor0030.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000030",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Analytics 031",
+    "Company domain name": "vendor0031.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000031",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Analytics 032",
+    "Company domain name": "vendor0032.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000032",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Analytics 033",
+    "Company domain name": "vendor0033.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000033",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Analytics 034",
+    "Company domain name": "vendor0034.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000034",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Analytics 035",
+    "Company domain name": "vendor0035.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000035",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Analytics 036",
+    "Company domain name": "vendor0036.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000036",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Analytics 037",
+    "Company domain name": "vendor0037.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000037",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Analytics 038",
+    "Company domain name": "vendor0038.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000038",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Analytics 039",
+    "Company domain name": "vendor0039.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000039",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Analytics 040",
+    "Company domain name": "vendor0040.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000040",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Workflow 041",
+    "Company domain name": "vendor0041.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000041",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Workflow 042",
+    "Company domain name": "vendor0042.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000042",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Workflow 043",
+    "Company domain name": "vendor0043.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000043",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Workflow 044",
+    "Company domain name": "vendor0044.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000044",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Workflow 045",
+    "Company domain name": "vendor0045.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000045",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Workflow 046",
+    "Company domain name": "vendor0046.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000046",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Workflow 047",
+    "Company domain name": "vendor0047.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000047",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Workflow 048",
+    "Company domain name": "vendor0048.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000048",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Workflow 049",
+    "Company domain name": "vendor0049.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000049",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Workflow 050",
+    "Company domain name": "vendor0050.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000050",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Workflow 051",
+    "Company domain name": "vendor0051.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000051",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Workflow 052",
+    "Company domain name": "vendor0052.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000052",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Workflow 053",
+    "Company domain name": "vendor0053.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000053",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Workflow 054",
+    "Company domain name": "vendor0054.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000054",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Workflow 055",
+    "Company domain name": "vendor0055.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000055",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Workflow 056",
+    "Company domain name": "vendor0056.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000056",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Workflow 057",
+    "Company domain name": "vendor0057.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000057",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Workflow 058",
+    "Company domain name": "vendor0058.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000058",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Workflow 059",
+    "Company domain name": "vendor0059.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000059",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Workflow 060",
+    "Company domain name": "vendor0060.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000060",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Signals 061",
+    "Company domain name": "vendor0061.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000061",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Signals 062",
+    "Company domain name": "vendor0062.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000062",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Signals 063",
+    "Company domain name": "vendor0063.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000063",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Signals 064",
+    "Company domain name": "vendor0064.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000064",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Signals 065",
+    "Company domain name": "vendor0065.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000065",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Signals 066",
+    "Company domain name": "vendor0066.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000066",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Signals 067",
+    "Company domain name": "vendor0067.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000067",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Signals 068",
+    "Company domain name": "vendor0068.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000068",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Signals 069",
+    "Company domain name": "vendor0069.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000069",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Signals 070",
+    "Company domain name": "vendor0070.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000070",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Signals 071",
+    "Company domain name": "vendor0071.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000071",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Signals 072",
+    "Company domain name": "vendor0072.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000072",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Signals 073",
+    "Company domain name": "vendor0073.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000073",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Signals 074",
+    "Company domain name": "vendor0074.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000074",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Signals 075",
+    "Company domain name": "vendor0075.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000075",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Signals 076",
+    "Company domain name": "vendor0076.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000076",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Signals 077",
+    "Company domain name": "vendor0077.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000077",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Signals 078",
+    "Company domain name": "vendor0078.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000078",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Signals 079",
+    "Company domain name": "vendor0079.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000079",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Signals 080",
+    "Company domain name": "vendor0080.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000080",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Platform 081",
+    "Company domain name": "vendor0081.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000081",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Platform 082",
+    "Company domain name": "vendor0082.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000082",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Platform 083",
+    "Company domain name": "vendor0083.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000083",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Platform 084",
+    "Company domain name": "vendor0084.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000084",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Platform 085",
+    "Company domain name": "vendor0085.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000085",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Platform 086",
+    "Company domain name": "vendor0086.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000086",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Platform 087",
+    "Company domain name": "vendor0087.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000087",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Platform 088",
+    "Company domain name": "vendor0088.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000088",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Platform 089",
+    "Company domain name": "vendor0089.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000089",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Platform 090",
+    "Company domain name": "vendor0090.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000090",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Platform 091",
+    "Company domain name": "vendor0091.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000091",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Platform 092",
+    "Company domain name": "vendor0092.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000092",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Platform 093",
+    "Company domain name": "vendor0093.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000093",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Platform 094",
+    "Company domain name": "vendor0094.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000094",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Platform 095",
+    "Company domain name": "vendor0095.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000095",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Platform 096",
+    "Company domain name": "vendor0096.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000096",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Platform 097",
+    "Company domain name": "vendor0097.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000097",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Platform 098",
+    "Company domain name": "vendor0098.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000098",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Platform 099",
+    "Company domain name": "vendor0099.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000099",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Platform 100",
+    "Company domain name": "vendor0100.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000100",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Systems 101",
+    "Company domain name": "vendor0101.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000101",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Systems 102",
+    "Company domain name": "vendor0102.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000102",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Systems 103",
+    "Company domain name": "vendor0103.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000103",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Systems 104",
+    "Company domain name": "vendor0104.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000104",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Systems 105",
+    "Company domain name": "vendor0105.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000105",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Systems 106",
+    "Company domain name": "vendor0106.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000106",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Systems 107",
+    "Company domain name": "vendor0107.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000107",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Systems 108",
+    "Company domain name": "vendor0108.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000108",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Systems 109",
+    "Company domain name": "vendor0109.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000109",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Systems 110",
+    "Company domain name": "vendor0110.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000110",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Systems 111",
+    "Company domain name": "vendor0111.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000111",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Systems 112",
+    "Company domain name": "vendor0112.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000112",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Systems 113",
+    "Company domain name": "vendor0113.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000113",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Systems 114",
+    "Company domain name": "vendor0114.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000114",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Systems 115",
+    "Company domain name": "vendor0115.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000115",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Systems 116",
+    "Company domain name": "vendor0116.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000116",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Systems 117",
+    "Company domain name": "vendor0117.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000117",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Systems 118",
+    "Company domain name": "vendor0118.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000118",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Systems 119",
+    "Company domain name": "vendor0119.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000119",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Systems 120",
+    "Company domain name": "vendor0120.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000120",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Analytics 121",
+    "Company domain name": "vendor0121.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000121",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Analytics 122",
+    "Company domain name": "vendor0122.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000122",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Analytics 123",
+    "Company domain name": "vendor0123.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000123",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Analytics 124",
+    "Company domain name": "vendor0124.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000124",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Analytics 125",
+    "Company domain name": "vendor0125.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000125",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Analytics 126",
+    "Company domain name": "vendor0126.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000126",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Analytics 127",
+    "Company domain name": "vendor0127.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000127",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Analytics 128",
+    "Company domain name": "vendor0128.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000128",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Analytics 129",
+    "Company domain name": "vendor0129.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000129",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Analytics 130",
+    "Company domain name": "vendor0130.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000130",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Analytics 131",
+    "Company domain name": "vendor0131.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000131",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Analytics 132",
+    "Company domain name": "vendor0132.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000132",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Analytics 133",
+    "Company domain name": "vendor0133.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000133",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Analytics 134",
+    "Company domain name": "vendor0134.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000134",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Analytics 135",
+    "Company domain name": "vendor0135.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000135",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Analytics 136",
+    "Company domain name": "vendor0136.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000136",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Analytics 137",
+    "Company domain name": "vendor0137.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000137",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Analytics 138",
+    "Company domain name": "vendor0138.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000138",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Analytics 139",
+    "Company domain name": "vendor0139.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000139",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Analytics 140",
+    "Company domain name": "vendor0140.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000140",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Workflow 141",
+    "Company domain name": "vendor0141.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000141",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Workflow 142",
+    "Company domain name": "vendor0142.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000142",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Workflow 143",
+    "Company domain name": "vendor0143.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000143",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Workflow 144",
+    "Company domain name": "vendor0144.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000144",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Workflow 145",
+    "Company domain name": "vendor0145.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000145",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Workflow 146",
+    "Company domain name": "vendor0146.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000146",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Workflow 147",
+    "Company domain name": "vendor0147.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000147",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Workflow 148",
+    "Company domain name": "vendor0148.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000148",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Workflow 149",
+    "Company domain name": "vendor0149.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000149",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Workflow 150",
+    "Company domain name": "vendor0150.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000150",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Workflow 151",
+    "Company domain name": "vendor0151.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000151",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Workflow 152",
+    "Company domain name": "vendor0152.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000152",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Workflow 153",
+    "Company domain name": "vendor0153.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000153",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Workflow 154",
+    "Company domain name": "vendor0154.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000154",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Workflow 155",
+    "Company domain name": "vendor0155.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000155",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Workflow 156",
+    "Company domain name": "vendor0156.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000156",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Workflow 157",
+    "Company domain name": "vendor0157.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000157",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Workflow 158",
+    "Company domain name": "vendor0158.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000158",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Workflow 159",
+    "Company domain name": "vendor0159.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000159",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Workflow 160",
+    "Company domain name": "vendor0160.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000160",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Signals 161",
+    "Company domain name": "vendor0161.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000161",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Signals 162",
+    "Company domain name": "vendor0162.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000162",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Signals 163",
+    "Company domain name": "vendor0163.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000163",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Signals 164",
+    "Company domain name": "vendor0164.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000164",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Signals 165",
+    "Company domain name": "vendor0165.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000165",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Signals 166",
+    "Company domain name": "vendor0166.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000166",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Signals 167",
+    "Company domain name": "vendor0167.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000167",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Signals 168",
+    "Company domain name": "vendor0168.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000168",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Signals 169",
+    "Company domain name": "vendor0169.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000169",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Signals 170",
+    "Company domain name": "vendor0170.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000170",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Signals 171",
+    "Company domain name": "vendor0171.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000171",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Signals 172",
+    "Company domain name": "vendor0172.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000172",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Signals 173",
+    "Company domain name": "vendor0173.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000173",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Signals 174",
+    "Company domain name": "vendor0174.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000174",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Signals 175",
+    "Company domain name": "vendor0175.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000175",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Signals 176",
+    "Company domain name": "vendor0176.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000176",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Signals 177",
+    "Company domain name": "vendor0177.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000177",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Signals 178",
+    "Company domain name": "vendor0178.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000178",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Signals 179",
+    "Company domain name": "vendor0179.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000179",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Signals 180",
+    "Company domain name": "vendor0180.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000180",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Platform 181",
+    "Company domain name": "vendor0181.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000181",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Platform 182",
+    "Company domain name": "vendor0182.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000182",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Platform 183",
+    "Company domain name": "vendor0183.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000183",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Platform 184",
+    "Company domain name": "vendor0184.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000184",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Platform 185",
+    "Company domain name": "vendor0185.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000185",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Platform 186",
+    "Company domain name": "vendor0186.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000186",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Platform 187",
+    "Company domain name": "vendor0187.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000187",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Platform 188",
+    "Company domain name": "vendor0188.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000188",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Platform 189",
+    "Company domain name": "vendor0189.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000189",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Platform 190",
+    "Company domain name": "vendor0190.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000190",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Platform 191",
+    "Company domain name": "vendor0191.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000191",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Platform 192",
+    "Company domain name": "vendor0192.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000192",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Platform 193",
+    "Company domain name": "vendor0193.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000193",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Platform 194",
+    "Company domain name": "vendor0194.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000194",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Platform 195",
+    "Company domain name": "vendor0195.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000195",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Platform 196",
+    "Company domain name": "vendor0196.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000196",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Platform 197",
+    "Company domain name": "vendor0197.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000197",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Platform 198",
+    "Company domain name": "vendor0198.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000198",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Platform 199",
+    "Company domain name": "vendor0199.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000199",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Platform 200",
+    "Company domain name": "vendor0200.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000200",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Systems 201",
+    "Company domain name": "vendor0201.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000201",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Systems 202",
+    "Company domain name": "vendor0202.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000202",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Systems 203",
+    "Company domain name": "vendor0203.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000203",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Systems 204",
+    "Company domain name": "vendor0204.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000204",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Systems 205",
+    "Company domain name": "vendor0205.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000205",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Systems 206",
+    "Company domain name": "vendor0206.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000206",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Systems 207",
+    "Company domain name": "vendor0207.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000207",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Systems 208",
+    "Company domain name": "vendor0208.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000208",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Systems 209",
+    "Company domain name": "vendor0209.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000209",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Systems 210",
+    "Company domain name": "vendor0210.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000210",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Systems 211",
+    "Company domain name": "vendor0211.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000211",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Systems 212",
+    "Company domain name": "vendor0212.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000212",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Systems 213",
+    "Company domain name": "vendor0213.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000213",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Systems 214",
+    "Company domain name": "vendor0214.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000214",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Systems 215",
+    "Company domain name": "vendor0215.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000215",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Systems 216",
+    "Company domain name": "vendor0216.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000216",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Systems 217",
+    "Company domain name": "vendor0217.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000217",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Systems 218",
+    "Company domain name": "vendor0218.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000218",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Systems 219",
+    "Company domain name": "vendor0219.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000219",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Systems 220",
+    "Company domain name": "vendor0220.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000220",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Analytics 221",
+    "Company domain name": "vendor0221.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000221",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Analytics 222",
+    "Company domain name": "vendor0222.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000222",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Analytics 223",
+    "Company domain name": "vendor0223.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000223",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Analytics 224",
+    "Company domain name": "vendor0224.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000224",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Analytics 225",
+    "Company domain name": "vendor0225.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000225",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Analytics 226",
+    "Company domain name": "vendor0226.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000226",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Analytics 227",
+    "Company domain name": "vendor0227.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000227",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Analytics 228",
+    "Company domain name": "vendor0228.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000228",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Analytics 229",
+    "Company domain name": "vendor0229.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000229",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Analytics 230",
+    "Company domain name": "vendor0230.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000230",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Analytics 231",
+    "Company domain name": "vendor0231.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000231",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Analytics 232",
+    "Company domain name": "vendor0232.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000232",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Analytics 233",
+    "Company domain name": "vendor0233.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000233",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Analytics 234",
+    "Company domain name": "vendor0234.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000234",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Analytics 235",
+    "Company domain name": "vendor0235.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000235",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Analytics 236",
+    "Company domain name": "vendor0236.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000236",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Analytics 237",
+    "Company domain name": "vendor0237.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000237",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Analytics 238",
+    "Company domain name": "vendor0238.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000238",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Analytics 239",
+    "Company domain name": "vendor0239.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000239",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Analytics 240",
+    "Company domain name": "vendor0240.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000240",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Workflow 241",
+    "Company domain name": "vendor0241.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000241",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Workflow 242",
+    "Company domain name": "vendor0242.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000242",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Workflow 243",
+    "Company domain name": "vendor0243.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000243",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Workflow 244",
+    "Company domain name": "vendor0244.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000244",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Workflow 245",
+    "Company domain name": "vendor0245.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000245",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Workflow 246",
+    "Company domain name": "vendor0246.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000246",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Workflow 247",
+    "Company domain name": "vendor0247.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000247",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Workflow 248",
+    "Company domain name": "vendor0248.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000248",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Workflow 249",
+    "Company domain name": "vendor0249.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000249",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Workflow 250",
+    "Company domain name": "vendor0250.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000250",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Workflow 251",
+    "Company domain name": "vendor0251.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000251",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Workflow 252",
+    "Company domain name": "vendor0252.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000252",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Workflow 253",
+    "Company domain name": "vendor0253.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000253",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Workflow 254",
+    "Company domain name": "vendor0254.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000254",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Workflow 255",
+    "Company domain name": "vendor0255.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000255",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Workflow 256",
+    "Company domain name": "vendor0256.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000256",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Workflow 257",
+    "Company domain name": "vendor0257.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000257",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Workflow 258",
+    "Company domain name": "vendor0258.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000258",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Workflow 259",
+    "Company domain name": "vendor0259.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000259",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Workflow 260",
+    "Company domain name": "vendor0260.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000260",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Signals 261",
+    "Company domain name": "vendor0261.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000261",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Signals 262",
+    "Company domain name": "vendor0262.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000262",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Signals 263",
+    "Company domain name": "vendor0263.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000263",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Signals 264",
+    "Company domain name": "vendor0264.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000264",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Signals 265",
+    "Company domain name": "vendor0265.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000265",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Signals 266",
+    "Company domain name": "vendor0266.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000266",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Signals 267",
+    "Company domain name": "vendor0267.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000267",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Signals 268",
+    "Company domain name": "vendor0268.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000268",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Signals 269",
+    "Company domain name": "vendor0269.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000269",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Signals 270",
+    "Company domain name": "vendor0270.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000270",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Signals 271",
+    "Company domain name": "vendor0271.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000271",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Signals 272",
+    "Company domain name": "vendor0272.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000272",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Signals 273",
+    "Company domain name": "vendor0273.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000273",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Signals 274",
+    "Company domain name": "vendor0274.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000274",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Signals 275",
+    "Company domain name": "vendor0275.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000275",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Signals 276",
+    "Company domain name": "vendor0276.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000276",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Signals 277",
+    "Company domain name": "vendor0277.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000277",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Signals 278",
+    "Company domain name": "vendor0278.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000278",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Signals 279",
+    "Company domain name": "vendor0279.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000279",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Signals 280",
+    "Company domain name": "vendor0280.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000280",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Platform 281",
+    "Company domain name": "vendor0281.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000281",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Platform 282",
+    "Company domain name": "vendor0282.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000282",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Platform 283",
+    "Company domain name": "vendor0283.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000283",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Platform 284",
+    "Company domain name": "vendor0284.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000284",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Platform 285",
+    "Company domain name": "vendor0285.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000285",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Platform 286",
+    "Company domain name": "vendor0286.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000286",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Platform 287",
+    "Company domain name": "vendor0287.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000287",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Platform 288",
+    "Company domain name": "vendor0288.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000288",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Platform 289",
+    "Company domain name": "vendor0289.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000289",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Platform 290",
+    "Company domain name": "vendor0290.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000290",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Platform 291",
+    "Company domain name": "vendor0291.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000291",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Platform 292",
+    "Company domain name": "vendor0292.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000292",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Platform 293",
+    "Company domain name": "vendor0293.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000293",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Platform 294",
+    "Company domain name": "vendor0294.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000294",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Platform 295",
+    "Company domain name": "vendor0295.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000295",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Platform 296",
+    "Company domain name": "vendor0296.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000296",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Platform 297",
+    "Company domain name": "vendor0297.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000297",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Platform 298",
+    "Company domain name": "vendor0298.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000298",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Platform 299",
+    "Company domain name": "vendor0299.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000299",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Platform 300",
+    "Company domain name": "vendor0300.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000300",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Systems 301",
+    "Company domain name": "vendor0301.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000301",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Systems 302",
+    "Company domain name": "vendor0302.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000302",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Systems 303",
+    "Company domain name": "vendor0303.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000303",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Systems 304",
+    "Company domain name": "vendor0304.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000304",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Systems 305",
+    "Company domain name": "vendor0305.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000305",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Systems 306",
+    "Company domain name": "vendor0306.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000306",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Systems 307",
+    "Company domain name": "vendor0307.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000307",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Systems 308",
+    "Company domain name": "vendor0308.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000308",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Systems 309",
+    "Company domain name": "vendor0309.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000309",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Systems 310",
+    "Company domain name": "vendor0310.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000310",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Systems 311",
+    "Company domain name": "vendor0311.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000311",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Systems 312",
+    "Company domain name": "vendor0312.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000312",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Systems 313",
+    "Company domain name": "vendor0313.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000313",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Systems 314",
+    "Company domain name": "vendor0314.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000314",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Systems 315",
+    "Company domain name": "vendor0315.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000315",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Systems 316",
+    "Company domain name": "vendor0316.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000316",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Systems 317",
+    "Company domain name": "vendor0317.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000317",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Systems 318",
+    "Company domain name": "vendor0318.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000318",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Systems 319",
+    "Company domain name": "vendor0319.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000319",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Systems 320",
+    "Company domain name": "vendor0320.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000320",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Analytics 321",
+    "Company domain name": "vendor0321.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000321",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Analytics 322",
+    "Company domain name": "vendor0322.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000322",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Analytics 323",
+    "Company domain name": "vendor0323.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000323",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Analytics 324",
+    "Company domain name": "vendor0324.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000324",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Analytics 325",
+    "Company domain name": "vendor0325.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000325",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Analytics 326",
+    "Company domain name": "vendor0326.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000326",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Analytics 327",
+    "Company domain name": "vendor0327.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000327",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Analytics 328",
+    "Company domain name": "vendor0328.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000328",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Analytics 329",
+    "Company domain name": "vendor0329.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000329",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Analytics 330",
+    "Company domain name": "vendor0330.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000330",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Analytics 331",
+    "Company domain name": "vendor0331.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000331",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Analytics 332",
+    "Company domain name": "vendor0332.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000332",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Analytics 333",
+    "Company domain name": "vendor0333.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000333",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Analytics 334",
+    "Company domain name": "vendor0334.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000334",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Analytics 335",
+    "Company domain name": "vendor0335.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000335",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Analytics 336",
+    "Company domain name": "vendor0336.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000336",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Analytics 337",
+    "Company domain name": "vendor0337.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000337",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Analytics 338",
+    "Company domain name": "vendor0338.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000338",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Analytics 339",
+    "Company domain name": "vendor0339.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000339",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Analytics 340",
+    "Company domain name": "vendor0340.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000340",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Workflow 341",
+    "Company domain name": "vendor0341.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000341",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Workflow 342",
+    "Company domain name": "vendor0342.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000342",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Workflow 343",
+    "Company domain name": "vendor0343.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000343",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Workflow 344",
+    "Company domain name": "vendor0344.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000344",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Workflow 345",
+    "Company domain name": "vendor0345.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000345",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Workflow 346",
+    "Company domain name": "vendor0346.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000346",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Workflow 347",
+    "Company domain name": "vendor0347.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000347",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Workflow 348",
+    "Company domain name": "vendor0348.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000348",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Workflow 349",
+    "Company domain name": "vendor0349.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000349",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Workflow 350",
+    "Company domain name": "vendor0350.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000350",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Workflow 351",
+    "Company domain name": "vendor0351.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000351",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Workflow 352",
+    "Company domain name": "vendor0352.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000352",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Workflow 353",
+    "Company domain name": "vendor0353.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000353",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Workflow 354",
+    "Company domain name": "vendor0354.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000354",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Workflow 355",
+    "Company domain name": "vendor0355.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000355",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Workflow 356",
+    "Company domain name": "vendor0356.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000356",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Workflow 357",
+    "Company domain name": "vendor0357.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000357",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Workflow 358",
+    "Company domain name": "vendor0358.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000358",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Workflow 359",
+    "Company domain name": "vendor0359.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000359",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Workflow 360",
+    "Company domain name": "vendor0360.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000360",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Signals 361",
+    "Company domain name": "vendor0361.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000361",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Signals 362",
+    "Company domain name": "vendor0362.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000362",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Signals 363",
+    "Company domain name": "vendor0363.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000363",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Signals 364",
+    "Company domain name": "vendor0364.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000364",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Signals 365",
+    "Company domain name": "vendor0365.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000365",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Signals 366",
+    "Company domain name": "vendor0366.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000366",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Signals 367",
+    "Company domain name": "vendor0367.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000367",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Signals 368",
+    "Company domain name": "vendor0368.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000368",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Signals 369",
+    "Company domain name": "vendor0369.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000369",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Signals 370",
+    "Company domain name": "vendor0370.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000370",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Signals 371",
+    "Company domain name": "vendor0371.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000371",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Signals 372",
+    "Company domain name": "vendor0372.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000372",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Signals 373",
+    "Company domain name": "vendor0373.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000373",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Signals 374",
+    "Company domain name": "vendor0374.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000374",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Signals 375",
+    "Company domain name": "vendor0375.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000375",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Signals 376",
+    "Company domain name": "vendor0376.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000376",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Signals 377",
+    "Company domain name": "vendor0377.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000377",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Signals 378",
+    "Company domain name": "vendor0378.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000378",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Signals 379",
+    "Company domain name": "vendor0379.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000379",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Signals 380",
+    "Company domain name": "vendor0380.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000380",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Platform 381",
+    "Company domain name": "vendor0381.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000381",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Platform 382",
+    "Company domain name": "vendor0382.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000382",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Platform 383",
+    "Company domain name": "vendor0383.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000383",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Platform 384",
+    "Company domain name": "vendor0384.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000384",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Platform 385",
+    "Company domain name": "vendor0385.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000385",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Platform 386",
+    "Company domain name": "vendor0386.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000386",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Platform 387",
+    "Company domain name": "vendor0387.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000387",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Platform 388",
+    "Company domain name": "vendor0388.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000388",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Platform 389",
+    "Company domain name": "vendor0389.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000389",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Platform 390",
+    "Company domain name": "vendor0390.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000390",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Platform 391",
+    "Company domain name": "vendor0391.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000391",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Platform 392",
+    "Company domain name": "vendor0392.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000392",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Platform 393",
+    "Company domain name": "vendor0393.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000393",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Platform 394",
+    "Company domain name": "vendor0394.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000394",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Platform 395",
+    "Company domain name": "vendor0395.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000395",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Platform 396",
+    "Company domain name": "vendor0396.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000396",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Platform 397",
+    "Company domain name": "vendor0397.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000397",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Platform 398",
+    "Company domain name": "vendor0398.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000398",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Platform 399",
+    "Company domain name": "vendor0399.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000399",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Platform 400",
+    "Company domain name": "vendor0400.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000400",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Systems 401",
+    "Company domain name": "vendor0401.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000401",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Systems 402",
+    "Company domain name": "vendor0402.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000402",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Systems 403",
+    "Company domain name": "vendor0403.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000403",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Systems 404",
+    "Company domain name": "vendor0404.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000404",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Systems 405",
+    "Company domain name": "vendor0405.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000405",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Systems 406",
+    "Company domain name": "vendor0406.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000406",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Systems 407",
+    "Company domain name": "vendor0407.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000407",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Systems 408",
+    "Company domain name": "vendor0408.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000408",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Systems 409",
+    "Company domain name": "vendor0409.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000409",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Systems 410",
+    "Company domain name": "vendor0410.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000410",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Systems 411",
+    "Company domain name": "vendor0411.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000411",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Systems 412",
+    "Company domain name": "vendor0412.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000412",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Systems 413",
+    "Company domain name": "vendor0413.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000413",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Systems 414",
+    "Company domain name": "vendor0414.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000414",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Systems 415",
+    "Company domain name": "vendor0415.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000415",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Systems 416",
+    "Company domain name": "vendor0416.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000416",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Systems 417",
+    "Company domain name": "vendor0417.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000417",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Systems 418",
+    "Company domain name": "vendor0418.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000418",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Systems 419",
+    "Company domain name": "vendor0419.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000419",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Systems 420",
+    "Company domain name": "vendor0420.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000420",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Analytics 421",
+    "Company domain name": "vendor0421.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000421",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Analytics 422",
+    "Company domain name": "vendor0422.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000422",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Analytics 423",
+    "Company domain name": "vendor0423.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000423",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Analytics 424",
+    "Company domain name": "vendor0424.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000424",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Analytics 425",
+    "Company domain name": "vendor0425.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000425",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Analytics 426",
+    "Company domain name": "vendor0426.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000426",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Analytics 427",
+    "Company domain name": "vendor0427.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000427",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Analytics 428",
+    "Company domain name": "vendor0428.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000428",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Analytics 429",
+    "Company domain name": "vendor0429.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000429",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Analytics 430",
+    "Company domain name": "vendor0430.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000430",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Analytics 431",
+    "Company domain name": "vendor0431.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000431",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Analytics 432",
+    "Company domain name": "vendor0432.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000432",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Analytics 433",
+    "Company domain name": "vendor0433.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000433",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Analytics 434",
+    "Company domain name": "vendor0434.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000434",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Analytics 435",
+    "Company domain name": "vendor0435.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000435",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Analytics 436",
+    "Company domain name": "vendor0436.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000436",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Analytics 437",
+    "Company domain name": "vendor0437.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000437",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Analytics 438",
+    "Company domain name": "vendor0438.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000438",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Analytics 439",
+    "Company domain name": "vendor0439.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000439",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Analytics 440",
+    "Company domain name": "vendor0440.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000440",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Workflow 441",
+    "Company domain name": "vendor0441.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000441",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Workflow 442",
+    "Company domain name": "vendor0442.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000442",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Workflow 443",
+    "Company domain name": "vendor0443.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000443",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Workflow 444",
+    "Company domain name": "vendor0444.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000444",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Workflow 445",
+    "Company domain name": "vendor0445.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000445",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Workflow 446",
+    "Company domain name": "vendor0446.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000446",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Workflow 447",
+    "Company domain name": "vendor0447.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000447",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Workflow 448",
+    "Company domain name": "vendor0448.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000448",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Workflow 449",
+    "Company domain name": "vendor0449.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000449",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Workflow 450",
+    "Company domain name": "vendor0450.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000450",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Workflow 451",
+    "Company domain name": "vendor0451.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000451",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Workflow 452",
+    "Company domain name": "vendor0452.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000452",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Workflow 453",
+    "Company domain name": "vendor0453.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000453",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Workflow 454",
+    "Company domain name": "vendor0454.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000454",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Workflow 455",
+    "Company domain name": "vendor0455.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000455",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Workflow 456",
+    "Company domain name": "vendor0456.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000456",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Workflow 457",
+    "Company domain name": "vendor0457.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000457",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Workflow 458",
+    "Company domain name": "vendor0458.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000458",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Workflow 459",
+    "Company domain name": "vendor0459.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000459",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Workflow 460",
+    "Company domain name": "vendor0460.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000460",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Signals 461",
+    "Company domain name": "vendor0461.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000461",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Signals 462",
+    "Company domain name": "vendor0462.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000462",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Signals 463",
+    "Company domain name": "vendor0463.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000463",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Signals 464",
+    "Company domain name": "vendor0464.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000464",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Signals 465",
+    "Company domain name": "vendor0465.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000465",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Signals 466",
+    "Company domain name": "vendor0466.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000466",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Signals 467",
+    "Company domain name": "vendor0467.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000467",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Signals 468",
+    "Company domain name": "vendor0468.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000468",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Signals 469",
+    "Company domain name": "vendor0469.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000469",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Signals 470",
+    "Company domain name": "vendor0470.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000470",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Signals 471",
+    "Company domain name": "vendor0471.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000471",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Signals 472",
+    "Company domain name": "vendor0472.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000472",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Signals 473",
+    "Company domain name": "vendor0473.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000473",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Signals 474",
+    "Company domain name": "vendor0474.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000474",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Signals 475",
+    "Company domain name": "vendor0475.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000475",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Signals 476",
+    "Company domain name": "vendor0476.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000476",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Signals 477",
+    "Company domain name": "vendor0477.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000477",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Signals 478",
+    "Company domain name": "vendor0478.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000478",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Signals 479",
+    "Company domain name": "vendor0479.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000479",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Signals 480",
+    "Company domain name": "vendor0480.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000480",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Amber Platform 481",
+    "Company domain name": "vendor0481.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000481",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Birch Platform 482",
+    "Company domain name": "vendor0482.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000482",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Cloud Platform 483",
+    "Company domain name": "vendor0483.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000483",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Dawn Platform 484",
+    "Company domain name": "vendor0484.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000484",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Elm Platform 485",
+    "Company domain name": "vendor0485.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000485",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Fern Platform 486",
+    "Company domain name": "vendor0486.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000486",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Glen Platform 487",
+    "Company domain name": "vendor0487.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000487",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Harbor Platform 488",
+    "Company domain name": "vendor0488.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000488",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Ivory Platform 489",
+    "Company domain name": "vendor0489.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000489",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Juniper Platform 490",
+    "Company domain name": "vendor0490.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000490",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Kestrel Platform 491",
+    "Company domain name": "vendor0491.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000491",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Lumen Platform 492",
+    "Company domain name": "vendor0492.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000492",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Maple Platform 493",
+    "Company domain name": "vendor0493.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000493",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] North Platform 494",
+    "Company domain name": "vendor0494.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000494",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Opal Platform 495",
+    "Company domain name": "vendor0495.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000495",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Pine Platform 496",
+    "Company domain name": "vendor0496.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000496",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Quartz Platform 497",
+    "Company domain name": "vendor0497.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000497",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] River Platform 498",
+    "Company domain name": "vendor0498.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000498",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Silver Platform 499",
+    "Company domain name": "vendor0499.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000499",
+    "StoryFoundry synthetic": true
+  },
+  {
+    "Name": "[SYNTHETIC] Thistle Platform 500",
+    "Company domain name": "vendor0500.example.invalid",
+    "Description": "SYNTHETIC FICTION",
+    "StoryFoundry source key": "d2eec5850643-accounts-000500",
+    "StoryFoundry synthetic": true
+  }
+]

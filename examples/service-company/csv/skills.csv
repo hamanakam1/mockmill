@@ -1,0 +1,31 @@
+id,dataset_id,synthetic,name,classification
+d2eec5850643-skills-000001,synthetic-d2eec5850643,true,account planning,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000002,synthetic-d2eec5850643,true,budget analysis,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000003,synthetic-d2eec5850643,true,case follow-up,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000004,synthetic-d2eec5850643,true,data review,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000005,synthetic-d2eec5850643,true,delivery tracking,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000006,synthetic-d2eec5850643,true,dependency planning,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000007,synthetic-d2eec5850643,true,evidence synthesis,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000008,synthetic-d2eec5850643,true,handoff coordination,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000009,synthetic-d2eec5850643,true,interface design,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000010,synthetic-d2eec5850643,true,interview design,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000011,synthetic-d2eec5850643,true,invoice reconciliation,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000012,synthetic-d2eec5850643,true,issue triage,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000013,synthetic-d2eec5850643,true,knowledge writing,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000014,synthetic-d2eec5850643,true,onboarding planning,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000015,synthetic-d2eec5850643,true,payment review,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000016,synthetic-d2eec5850643,true,process mapping,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000017,synthetic-d2eec5850643,true,progress reporting,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000018,synthetic-d2eec5850643,true,recommendation writing,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000019,synthetic-d2eec5850643,true,relationship review,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000020,synthetic-d2eec5850643,true,requirements analysis,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000021,synthetic-d2eec5850643,true,research synthesis,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000022,synthetic-d2eec5850643,true,retention review,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000023,synthetic-d2eec5850643,true,risk review,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000024,synthetic-d2eec5850643,true,scheduling,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000025,synthetic-d2eec5850643,true,scope clarification,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000026,synthetic-d2eec5850643,true,source evaluation,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000027,synthetic-d2eec5850643,true,support triage,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000028,synthetic-d2eec5850643,true,technical review,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000029,synthetic-d2eec5850643,true,test planning,FICTIONAL_PROFILE_CAPABILITY
+d2eec5850643-skills-000030,synthetic-d2eec5850643,true,workshop facilitation,FICTIONAL_PROFILE_CAPABILITY

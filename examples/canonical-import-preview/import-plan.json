@@ -1,0 +1,1913 @@
+{
+  "synthetic": true,
+  "mode": "DRY_RUN_ONLY",
+  "target_configured": false,
+  "execution_authorized": false,
+  "network_calls": 0,
+  "dataset_id": "synthetic-d2eec5850643",
+  "objects": [
+    {
+      "object": "accounts",
+      "source": "json/accounts.jsonl",
+      "count": 500,
+      "sha256": "d0df6695e25d5bd78d370c7a789d0127ddd2e58896455ae01abac303ab58fdbd",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {},
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "account_type": "customer",
+          "address": "1 Simulation Lane, Fictional City, ZZ 00000, Exampleland",
+          "created_at": "2024-11-20T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "email": "hello@vendor0001.example.invalid",
+          "id": "d2eec5850643-accounts-000001",
+          "industry": "Developer tools",
+          "name": "[SYNTHETIC] Amber Systems 001",
+          "phone": "+1-202-555-0100",
+          "synthetic": true,
+          "website": "https://vendor0001.example.invalid"
+        },
+        {
+          "account_type": "customer",
+          "address": "2 Simulation Lane, Fictional City, ZZ 00000, Exampleland",
+          "created_at": "2024-11-30T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "email": "hello@vendor0002.example.invalid",
+          "id": "d2eec5850643-accounts-000002",
+          "industry": "Business software",
+          "name": "[SYNTHETIC] Birch Systems 002",
+          "phone": "+1-202-555-0101",
+          "synthetic": true,
+          "website": "https://vendor0002.example.invalid"
+        },
+        {
+          "account_type": "customer",
+          "address": "3 Simulation Lane, Fictional City, ZZ 00000, Exampleland",
+          "created_at": "2024-12-10T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "email": "hello@vendor0003.example.invalid",
+          "id": "d2eec5850643-accounts-000003",
+          "industry": "Data operations",
+          "name": "[SYNTHETIC] Cloud Systems 003",
+          "phone": "+1-202-555-0102",
+          "synthetic": true,
+          "website": "https://vendor0003.example.invalid"
+        }
+      ]
+    },
+    {
+      "object": "activities",
+      "source": "json/activities.jsonl",
+      "count": 1157,
+      "sha256": "81cd9ed2751851d56e7817b43bc560b24b696a24699af05c64d60a3fbefc8e73",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "actor_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "actor_id": "d2eec5850643-staff-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "delivery": "SIMULATED_ONLY",
+          "id": "d2eec5850643-activities-000001",
+          "kind": "lead_recorded",
+          "occurred_at": "2024-11-20T12:00:00Z",
+          "subject_domain": "leads",
+          "subject_id": "d2eec5850643-leads-000001",
+          "summary": "[SYNTHETIC] lead recorded",
+          "synthetic": true
+        },
+        {
+          "actor_id": "d2eec5850643-staff-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "delivery": "SIMULATED_ONLY",
+          "id": "d2eec5850643-activities-000002",
+          "kind": "fictional_sale_won",
+          "occurred_at": "2024-11-27T12:00:00Z",
+          "subject_domain": "customers",
+          "subject_id": "d2eec5850643-customers-000001",
+          "summary": "[SYNTHETIC] fictional sale won",
+          "synthetic": true
+        },
+        {
+          "actor_id": "d2eec5850643-staff-000002",
+          "dataset_id": "synthetic-d2eec5850643",
+          "delivery": "SIMULATED_ONLY",
+          "id": "d2eec5850643-activities-000003",
+          "kind": "lead_recorded",
+          "occurred_at": "2024-11-30T12:00:00Z",
+          "subject_domain": "leads",
+          "subject_id": "d2eec5850643-leads-000002",
+          "summary": "[SYNTHETIC] lead recorded",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "billing_schedule",
+      "source": "json/billing_schedule.jsonl",
+      "count": 420,
+      "sha256": "97aa8f1343845ef81b4f0aa5c3849db5c100f281cb6ace44a951204cb4c4c998",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "contract_id": "contracts"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "amount_cents": 600000,
+          "contract_id": "d2eec5850643-contracts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-billing_schedule-000001",
+          "scheduled_on": "2024-11-27",
+          "status": "invoiced",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 360000,
+          "contract_id": "d2eec5850643-contracts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-billing_schedule-000002",
+          "scheduled_on": "2024-12-27",
+          "status": "invoiced",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 240000,
+          "contract_id": "d2eec5850643-contracts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-billing_schedule-000003",
+          "scheduled_on": "2025-02-10",
+          "status": "invoiced",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "campaign_memberships",
+      "source": "json/campaign_memberships.jsonl",
+      "count": 500,
+      "sha256": "099c9b2b40a944a15ea41f6e7a91dbf46fcbfe6e4d1eb444f3a66cf7e3b087fe",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "campaign_id": "campaigns",
+        "lead_id": "leads"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "campaign_id": "d2eec5850643-campaigns-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-campaign_memberships-000001",
+          "joined_at": "2024-11-20T12:00:00Z",
+          "lead_id": "d2eec5850643-leads-000001",
+          "status": "SIMULATED_ENGAGED",
+          "synthetic": true
+        },
+        {
+          "campaign_id": "d2eec5850643-campaigns-000002",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-campaign_memberships-000002",
+          "joined_at": "2024-11-30T12:00:00Z",
+          "lead_id": "d2eec5850643-leads-000002",
+          "status": "SIMULATED_ENGAGED",
+          "synthetic": true
+        },
+        {
+          "campaign_id": "d2eec5850643-campaigns-000002",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-campaign_memberships-000003",
+          "joined_at": "2024-12-10T12:00:00Z",
+          "lead_id": "d2eec5850643-leads-000003",
+          "status": "SIMULATED_ENGAGED",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "campaigns",
+      "source": "json/campaigns.jsonl",
+      "count": 24,
+      "sha256": "bd42e21392f63ecbfe70b264246459b2325ce7d48e52640a2db1ae540b88c0cd",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {},
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "budget_cents": 50000,
+          "channel": "fictional_email",
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_on": "2024-11-27",
+          "id": "d2eec5850643-campaigns-000001",
+          "name": "[SYNTHETIC] Cohort 01 \u2014 Readiness clinic",
+          "sent_real_messages": false,
+          "starts_on": "2024-10-29",
+          "status": "SIMULATED_CLOSED",
+          "synthetic": true
+        },
+        {
+          "budget_cents": 52500,
+          "channel": "fictional_webinar",
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_on": "2024-12-28",
+          "id": "d2eec5850643-campaigns-000002",
+          "name": "[SYNTHETIC] Cohort 02 \u2014 Operator workshop",
+          "sent_real_messages": false,
+          "starts_on": "2024-11-28",
+          "status": "SIMULATED_CLOSED",
+          "synthetic": true
+        },
+        {
+          "budget_cents": 55000,
+          "channel": "fictional_referral",
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_on": "2025-01-27",
+          "id": "d2eec5850643-campaigns-000003",
+          "name": "[SYNTHETIC] Cohort 03 \u2014 Evidence playbook",
+          "sent_real_messages": false,
+          "starts_on": "2024-12-29",
+          "status": "SIMULATED_CLOSED",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "company",
+      "source": "json/company.jsonl",
+      "count": 1,
+      "sha256": "1dd0b09811339fbb0e6b15a5c56a24ac9c7664878ca282223bc3bc2b975e33c7",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {},
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "expanded_name": "An independently authored fictional B2B service company",
+          "founded_on": "2024-10-29",
+          "id": "d2eec5850643-company-000001",
+          "name": "Example Service Studio",
+          "notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+          "scenario": "SYNTHETIC professional services business",
+          "synthetic": true,
+          "talent_interpretation": "Fictional expert network, not 10,000 employees; only staff records are engaged by the fictional company",
+          "website": "https://company.example.invalid"
+        }
+      ]
+    },
+    {
+      "object": "contacts",
+      "source": "json/contacts.jsonl",
+      "count": 600,
+      "sha256": "95245b993da426b65d1f5c3948321e156ea9d6370569c060492f63fb531bd695",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "account_id": "accounts"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "consent": "SIMULATED_NO_CONTACT_PERMISSION",
+          "created_at": "2024-11-20T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Avaven Ambercrest Contact",
+          "email": "contact0001@vendor0001.example.invalid",
+          "first_name": "Avaven",
+          "id": "d2eec5850643-contacts-000001",
+          "last_name": "Ambercrest Contact",
+          "phone": null,
+          "synthetic": true,
+          "title": "Founder"
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "consent": "SIMULATED_NO_CONTACT_PERMISSION",
+          "created_at": "2024-11-27T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Avaven Ambercrest Finance",
+          "email": "finance@vendor0001.example.invalid",
+          "first_name": "Avaven",
+          "id": "d2eec5850643-contacts-000002",
+          "last_name": "Ambercrest Finance",
+          "phone": null,
+          "synthetic": true,
+          "title": "Fictional finance contact"
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000002",
+          "consent": "SIMULATED_NO_CONTACT_PERMISSION",
+          "created_at": "2024-11-30T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Avalune Ambercrest Contact",
+          "email": "contact0002@vendor0002.example.invalid",
+          "first_name": "Avalune",
+          "id": "d2eec5850643-contacts-000003",
+          "last_name": "Ambercrest Contact",
+          "phone": null,
+          "synthetic": true,
+          "title": "Operations lead"
+        }
+      ]
+    },
+    {
+      "object": "contract_lines",
+      "source": "json/contract_lines.jsonl",
+      "count": 280,
+      "sha256": "b8bb6ecd6ae5e4acedfabdf4341e83dea27a9e8826a9cc271961f0e1bcc4d727",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "contract_id": "contracts"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "contract_id": "d2eec5850643-contracts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Consulting scope",
+          "id": "d2eec5850643-contract_lines-000001",
+          "line_total_cents": 960000,
+          "quantity": 1,
+          "synthetic": true,
+          "unit_price_cents": 960000
+        },
+        {
+          "contract_id": "d2eec5850643-contracts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Workshop and handoff",
+          "id": "d2eec5850643-contract_lines-000002",
+          "line_total_cents": 240000,
+          "quantity": 1,
+          "synthetic": true,
+          "unit_price_cents": 240000
+        },
+        {
+          "contract_id": "d2eec5850643-contracts-000002",
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Consulting scope",
+          "id": "d2eec5850643-contract_lines-000003",
+          "line_total_cents": 1600000,
+          "quantity": 1,
+          "synthetic": true,
+          "unit_price_cents": 1600000
+        }
+      ]
+    },
+    {
+      "object": "contracts",
+      "source": "json/contracts.jsonl",
+      "count": 140,
+      "sha256": "19b078c22946abac3bcb35cd163ea4feee45d60851090f281b6618f6e00d38dc",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "customer_id": "customers",
+        "project_id": "projects",
+        "service_id": "services"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "amount_cents": 1200000,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "document_notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+          "ends_on": "2025-02-25",
+          "id": "d2eec5850643-contracts-000001",
+          "project_id": "d2eec5850643-projects-000001",
+          "service_id": "d2eec5850643-services-000001",
+          "signed_on": "2024-11-27",
+          "starts_on": "2024-11-27",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Engagement 001"
+        },
+        {
+          "amount_cents": 2000000,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "document_notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+          "ends_on": "2025-08-24",
+          "id": "d2eec5850643-contracts-000002",
+          "project_id": "d2eec5850643-projects-000002",
+          "service_id": "d2eec5850643-services-000002",
+          "signed_on": "2025-05-26",
+          "starts_on": "2025-05-26",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Engagement 002"
+        },
+        {
+          "amount_cents": 2100000,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000002",
+          "dataset_id": "synthetic-d2eec5850643",
+          "document_notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+          "ends_on": "2025-03-08",
+          "id": "d2eec5850643-contracts-000003",
+          "project_id": "d2eec5850643-projects-000003",
+          "service_id": "d2eec5850643-services-000002",
+          "signed_on": "2024-12-08",
+          "starts_on": "2024-12-08",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Engagement 003"
+        }
+      ]
+    },
+    {
+      "object": "conversations",
+      "source": "json/conversations.jsonl",
+      "count": 500,
+      "sha256": "723781eaedb3399dbdecaa05f017e2858441d17e65b4b77aba3ee87501c906a1",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "lead_id": "leads",
+        "contact_id": "contacts",
+        "owner_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "channel": "FICTIONAL_EMAIL_THREAD",
+          "contact_id": "d2eec5850643-contacts-000001",
+          "created_at": "2024-11-20T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-conversations-000001",
+          "lead_id": "d2eec5850643-leads-000001",
+          "owner_id": "d2eec5850643-staff-000001",
+          "subject": "[SYNTHETIC] Scope and evidence discussion",
+          "synthetic": true
+        },
+        {
+          "channel": "FICTIONAL_EMAIL_THREAD",
+          "contact_id": "d2eec5850643-contacts-000003",
+          "created_at": "2024-11-30T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-conversations-000002",
+          "lead_id": "d2eec5850643-leads-000002",
+          "owner_id": "d2eec5850643-staff-000002",
+          "subject": "[SYNTHETIC] Scope and evidence discussion",
+          "synthetic": true
+        },
+        {
+          "channel": "FICTIONAL_EMAIL_THREAD",
+          "contact_id": "d2eec5850643-contacts-000005",
+          "created_at": "2024-12-10T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-conversations-000003",
+          "lead_id": "d2eec5850643-leads-000003",
+          "owner_id": "d2eec5850643-staff-000003",
+          "subject": "[SYNTHETIC] Scope and evidence discussion",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "credit_notes",
+      "source": "json/credit_notes.jsonl",
+      "count": 7,
+      "sha256": "3a8aa8737fa5e01b0586d0ce8c0ba003d09829a7f655016c6baa9a17c033655f",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "invoice_id": "invoices"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "amount_cents": 12000,
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-credit_notes-000001",
+          "invoice_id": "d2eec5850643-invoices-000003",
+          "issued_on": "2025-02-12",
+          "reason": "[SYNTHETIC] Agreed scope reduction",
+          "status": "posted",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 20000,
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-credit_notes-000002",
+          "invoice_id": "d2eec5850643-invoices-000006",
+          "issued_on": "2025-08-11",
+          "reason": "[SYNTHETIC] Agreed scope reduction",
+          "status": "posted",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 18000,
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-credit_notes-000003",
+          "invoice_id": "d2eec5850643-invoices-000141",
+          "issued_on": "2025-08-19",
+          "reason": "[SYNTHETIC] Agreed scope reduction",
+          "status": "posted",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "customers",
+      "source": "json/customers.jsonl",
+      "count": 100,
+      "sha256": "72bc35a69a8b5bdf2c25e8a53119facad4d9c63707bd8b3e8554ccb841fc774e",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "account_id": "accounts",
+        "lead_id": "leads"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "converted_on": "2024-11-27",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-customers-000001",
+          "lead_id": "d2eec5850643-leads-000001",
+          "name": "[SYNTHETIC] Amber Systems 001",
+          "real_customer": false,
+          "segment": "starter",
+          "status": "FICTIONAL_PAYING_CUSTOMER",
+          "synthetic": true
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000002",
+          "converted_on": "2024-12-08",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-customers-000002",
+          "lead_id": "d2eec5850643-leads-000002",
+          "name": "[SYNTHETIC] Birch Systems 002",
+          "real_customer": false,
+          "segment": "growth",
+          "status": "FICTIONAL_PAYING_CUSTOMER",
+          "synthetic": true
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000003",
+          "converted_on": "2024-12-19",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-customers-000003",
+          "lead_id": "d2eec5850643-leads-000003",
+          "name": "[SYNTHETIC] Cloud Systems 003",
+          "real_customer": false,
+          "segment": "scale",
+          "status": "FICTIONAL_PAYING_CUSTOMER",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "expenses",
+      "source": "json/expenses.jsonl",
+      "count": 280,
+      "sha256": "f0bef004a34430cd47cc5a2aa656513af52d8a728ff81c2928ba915624af326d",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "project_id": "projects",
+        "staff_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "amount_cents": 2500,
+          "category": "fictional_workshop_supplies",
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-expenses-000001",
+          "project_id": "d2eec5850643-projects-000001",
+          "receipt_reference": "synthetic-receipt-1-0",
+          "spent_on": "2024-12-07",
+          "staff_id": "d2eec5850643-staff-000001",
+          "status": "SIMULATED_APPROVED",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 2500,
+          "category": "fictional_training",
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-expenses-000002",
+          "project_id": "d2eec5850643-projects-000001",
+          "receipt_reference": "synthetic-receipt-1-1",
+          "spent_on": "2024-12-27",
+          "staff_id": "d2eec5850643-staff-000002",
+          "status": "SIMULATED_APPROVED",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 2500,
+          "category": "fictional_workshop_supplies",
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-expenses-000003",
+          "project_id": "d2eec5850643-projects-000002",
+          "receipt_reference": "synthetic-receipt-2-0",
+          "spent_on": "2025-06-05",
+          "staff_id": "d2eec5850643-staff-000001",
+          "status": "SIMULATED_APPROVED",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "invoice_lines",
+      "source": "json/invoice_lines.jsonl",
+      "count": 834,
+      "sha256": "3cf9b9485ce935dd5b9bf76ec3c18daec94d77d9f9e7705840cebb26845e2471",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "invoice_id": "invoices"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Consulting services",
+          "id": "d2eec5850643-invoice_lines-000001",
+          "invoice_id": "d2eec5850643-invoices-000001",
+          "line_total_cents": 480000,
+          "quantity": 1,
+          "synthetic": true,
+          "unit_price_cents": 480000
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Workshop/handoff",
+          "id": "d2eec5850643-invoice_lines-000002",
+          "invoice_id": "d2eec5850643-invoices-000001",
+          "line_total_cents": 120000,
+          "quantity": 1,
+          "synthetic": true,
+          "unit_price_cents": 120000
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Consulting services",
+          "id": "d2eec5850643-invoice_lines-000003",
+          "invoice_id": "d2eec5850643-invoices-000002",
+          "line_total_cents": 288000,
+          "quantity": 1,
+          "synthetic": true,
+          "unit_price_cents": 288000
+        }
+      ]
+    },
+    {
+      "object": "invoices",
+      "source": "json/invoices.jsonl",
+      "count": 417,
+      "sha256": "f83b7886f9de4f93b0dd46767fabe0efe2e740ce1587582390cc9c04023772b6",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "contract_id": "contracts",
+        "customer_id": "customers",
+        "billing_schedule_id": "billing_schedule"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "balance_cents": 0,
+          "billing_schedule_id": "d2eec5850643-billing_schedule-000001",
+          "contract_id": "d2eec5850643-contracts-000001",
+          "credit_cents": 0,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2024-12-27",
+          "id": "d2eec5850643-invoices-000001",
+          "invoice_number": "SYN-0001-1",
+          "issued_on": "2024-11-27",
+          "notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+          "paid_cents": 600000,
+          "status": "paid",
+          "subtotal_cents": 600000,
+          "synthetic": true,
+          "tax_cents": 0,
+          "total_cents": 600000
+        },
+        {
+          "balance_cents": 180000,
+          "billing_schedule_id": "d2eec5850643-billing_schedule-000002",
+          "contract_id": "d2eec5850643-contracts-000001",
+          "credit_cents": 0,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2025-01-26",
+          "id": "d2eec5850643-invoices-000002",
+          "invoice_number": "SYN-0001-2",
+          "issued_on": "2024-12-27",
+          "notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+          "paid_cents": 180000,
+          "status": "overdue",
+          "subtotal_cents": 360000,
+          "synthetic": true,
+          "tax_cents": 0,
+          "total_cents": 360000
+        },
+        {
+          "balance_cents": 114000,
+          "billing_schedule_id": "d2eec5850643-billing_schedule-000003",
+          "contract_id": "d2eec5850643-contracts-000001",
+          "credit_cents": 12000,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2025-03-12",
+          "id": "d2eec5850643-invoices-000003",
+          "invoice_number": "SYN-0001-3",
+          "issued_on": "2025-02-10",
+          "notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+          "paid_cents": 114000,
+          "status": "overdue",
+          "subtotal_cents": 240000,
+          "synthetic": true,
+          "tax_cents": 0,
+          "total_cents": 240000
+        }
+      ]
+    },
+    {
+      "object": "knowledge",
+      "source": "json/knowledge.jsonl",
+      "count": 60,
+      "sha256": "cf5d4be096b6875431b3f7166616b6d371e0a9929cb309e534a457b87d54f13c",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "owner_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "body": "[SYNTHETIC] Original scenario guidance: record scope, distinguish evidence from proposals, assign an owner, review corrections, and confirm a bounded outcome. This is not current AWS policy or certification guidance.",
+          "created_at": "2024-10-29T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-knowledge-000001",
+          "owner_id": "d2eec5850643-staff-000001",
+          "status": "FICTIONAL_INTERNAL_GUIDE",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Scope-first consulting 01"
+        },
+        {
+          "body": "[SYNTHETIC] Original scenario guidance: record scope, distinguish evidence from proposals, assign an owner, review corrections, and confirm a bounded outcome. This is not current AWS policy or certification guidance.",
+          "created_at": "2024-11-10T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-knowledge-000002",
+          "owner_id": "d2eec5850643-staff-000002",
+          "status": "FICTIONAL_INTERNAL_GUIDE",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Evidence and owner review 02"
+        },
+        {
+          "body": "[SYNTHETIC] Original scenario guidance: record scope, distinguish evidence from proposals, assign an owner, review corrections, and confirm a bounded outcome. This is not current AWS policy or certification guidance.",
+          "created_at": "2024-11-22T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-knowledge-000003",
+          "owner_id": "d2eec5850643-staff-000003",
+          "status": "FICTIONAL_INTERNAL_GUIDE",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Payment reconciliation 03"
+        }
+      ]
+    },
+    {
+      "object": "knowledge_versions",
+      "source": "json/knowledge_versions.jsonl",
+      "count": 120,
+      "sha256": "631dc456196d73df515e3ae30c70cf4d562e1df7ddcb6f60c6a1931b506ee2ee",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "knowledge_id": "knowledge",
+        "author_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "author_id": "d2eec5850643-staff-000001",
+          "change_note": "[SYNTHETIC] Initial original guide",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-knowledge_versions-000001",
+          "knowledge_id": "d2eec5850643-knowledge-000001",
+          "recorded_at": "2024-10-29T12:00:00Z",
+          "synthetic": true,
+          "version": 1
+        },
+        {
+          "author_id": "d2eec5850643-staff-000001",
+          "change_note": "[SYNTHETIC] Clarified responsibilities after a fictional support question",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-knowledge_versions-000002",
+          "knowledge_id": "d2eec5850643-knowledge-000001",
+          "recorded_at": "2024-11-05T12:00:00Z",
+          "synthetic": true,
+          "version": 2
+        },
+        {
+          "author_id": "d2eec5850643-staff-000002",
+          "change_note": "[SYNTHETIC] Initial original guide",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-knowledge_versions-000003",
+          "knowledge_id": "d2eec5850643-knowledge-000002",
+          "recorded_at": "2024-11-10T12:00:00Z",
+          "synthetic": true,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "object": "leads",
+      "source": "json/leads.jsonl",
+      "count": 500,
+      "sha256": "2498a7032195465c7d5f273511bfb47a2d0c991d2587b570916788d8f4238638",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "account_id": "accounts",
+        "contact_id": "contacts",
+        "owner_id": "staff",
+        "campaign_id": "campaigns"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "campaign_id": "d2eec5850643-campaigns-000001",
+          "closed_at": "2024-11-27T12:00:00Z",
+          "contact_id": "d2eec5850643-contacts-000001",
+          "created_at": "2024-11-20T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-leads-000001",
+          "loss_reason": null,
+          "owner_id": "d2eec5850643-staff-000001",
+          "score": 30,
+          "source": "SYNTHETIC_referral",
+          "status": "won",
+          "synthetic": true
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000002",
+          "campaign_id": "d2eec5850643-campaigns-000002",
+          "closed_at": "2024-12-08T12:00:00Z",
+          "contact_id": "d2eec5850643-contacts-000003",
+          "created_at": "2024-11-30T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-leads-000002",
+          "loss_reason": null,
+          "owner_id": "d2eec5850643-staff-000002",
+          "score": 47,
+          "source": "SYNTHETIC_workshop",
+          "status": "won",
+          "synthetic": true
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000003",
+          "campaign_id": "d2eec5850643-campaigns-000002",
+          "closed_at": "2024-12-19T12:00:00Z",
+          "contact_id": "d2eec5850643-contacts-000005",
+          "created_at": "2024-12-10T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-leads-000003",
+          "loss_reason": null,
+          "owner_id": "d2eec5850643-staff-000003",
+          "score": 64,
+          "source": "SYNTHETIC_inbound",
+          "status": "won",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "meeting_attendees",
+      "source": "json/meeting_attendees.jsonl",
+      "count": 880,
+      "sha256": "31e435b8a27e1b356ba1ea35d09abad4fa01da8af2e96b0ff2d1ba6a3f7b8f67",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "meeting_id": "meetings",
+        "contact_id": "contacts",
+        "staff_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "contact_id": "d2eec5850643-contacts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-meeting_attendees-000001",
+          "meeting_id": "d2eec5850643-meetings-000001",
+          "response": "SIMULATED_ACCEPTED",
+          "staff_id": null,
+          "synthetic": true
+        },
+        {
+          "contact_id": null,
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-meeting_attendees-000002",
+          "meeting_id": "d2eec5850643-meetings-000001",
+          "response": "SIMULATED_ACCEPTED",
+          "staff_id": "d2eec5850643-staff-000001",
+          "synthetic": true
+        },
+        {
+          "contact_id": "d2eec5850643-contacts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-meeting_attendees-000003",
+          "meeting_id": "d2eec5850643-meetings-000002",
+          "response": "SIMULATED_ACCEPTED",
+          "staff_id": null,
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "meetings",
+      "source": "json/meetings.jsonl",
+      "count": 440,
+      "sha256": "b7a4c16b0220d5404ce88b3628b57f54894cf12a56b7a842308d70222800f460",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "account_id": "accounts",
+        "contact_id": "contacts",
+        "organizer_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "contact_id": "d2eec5850643-contacts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_at": "2024-11-28T16:00:00Z",
+          "id": "d2eec5850643-meetings-000001",
+          "location": "https://meeting.example.invalid/room/1",
+          "notifications_sent": false,
+          "organizer_id": "d2eec5850643-staff-000001",
+          "starts_at": "2024-11-28T15:00:00Z",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Kickoff"
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "contact_id": "d2eec5850643-contacts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_at": "2024-12-12T16:00:00Z",
+          "id": "d2eec5850643-meetings-000002",
+          "location": "https://meeting.example.invalid/room/1",
+          "notifications_sent": false,
+          "organizer_id": "d2eec5850643-staff-000001",
+          "starts_at": "2024-12-12T15:00:00Z",
+          "status": "cancelled",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Evidence review"
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "contact_id": "d2eec5850643-contacts-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_at": "2024-12-26T16:00:00Z",
+          "id": "d2eec5850643-meetings-000003",
+          "location": "https://meeting.example.invalid/room/1",
+          "notifications_sent": false,
+          "organizer_id": "d2eec5850643-staff-000001",
+          "starts_at": "2024-12-26T15:00:00Z",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Correction review"
+        }
+      ]
+    },
+    {
+      "object": "messages",
+      "source": "json/messages.jsonl",
+      "count": 1500,
+      "sha256": "53571079433f0cae1993aaa1ea66b9434d67dd05dc2ce531648dbfdd0eb985f6",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "conversation_id": "conversations",
+        "contact_id": "contacts",
+        "staff_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "body": "[SYNTHETIC] Please explain the bounded readiness review and owner responsibilities.",
+          "contact_id": "d2eec5850643-contacts-000001",
+          "conversation_id": "d2eec5850643-conversations-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "delivery_state": "NOT_SENT_SIMULATION",
+          "direction": "simulated_inbound",
+          "id": "d2eec5850643-messages-000001",
+          "occurred_at": "2024-11-20T10:00:00Z",
+          "staff_id": null,
+          "synthetic": true
+        },
+        {
+          "body": "[SYNTHETIC] We propose an evidence review with explicit exclusions, milestones and acceptance.",
+          "contact_id": null,
+          "conversation_id": "d2eec5850643-conversations-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "delivery_state": "NOT_SENT_SIMULATION",
+          "direction": "simulated_outbound",
+          "id": "d2eec5850643-messages-000002",
+          "occurred_at": "2024-11-22T11:00:00Z",
+          "staff_id": "d2eec5850643-staff-000001",
+          "synthetic": true
+        },
+        {
+          "body": "[SYNTHETIC] The fictional team will review scope, budget and timing before a decision.",
+          "contact_id": "d2eec5850643-contacts-000001",
+          "conversation_id": "d2eec5850643-conversations-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "delivery_state": "NOT_SENT_SIMULATION",
+          "direction": "simulated_inbound",
+          "id": "d2eec5850643-messages-000003",
+          "occurred_at": "2024-11-24T12:00:00Z",
+          "staff_id": null,
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "milestones",
+      "source": "json/milestones.jsonl",
+      "count": 700,
+      "sha256": "c648ca836218b62182e08796f0bb89f90289164e8a42fd0655da8dd0c96945d1",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "project_id": "projects"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "completed_on": "2024-12-02",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2024-12-02",
+          "id": "d2eec5850643-milestones-000001",
+          "name": "[SYNTHETIC] Scope agreed",
+          "project_id": "d2eec5850643-projects-000001",
+          "status": "completed",
+          "synthetic": true
+        },
+        {
+          "completed_on": "2024-12-22",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2024-12-22",
+          "id": "d2eec5850643-milestones-000002",
+          "name": "[SYNTHETIC] Evidence mapped",
+          "project_id": "d2eec5850643-projects-000001",
+          "status": "completed",
+          "synthetic": true
+        },
+        {
+          "completed_on": "2025-01-11",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2025-01-11",
+          "id": "d2eec5850643-milestones-000003",
+          "name": "[SYNTHETIC] Draft reviewed",
+          "project_id": "d2eec5850643-projects-000001",
+          "status": "completed",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "notes",
+      "source": "json/notes.jsonl",
+      "count": 640,
+      "sha256": "78dc5ccb88408a755bb88bd6cb25f66d210c0323e6b9f3ba2f350da44b2080c3",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "author_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "author_id": "d2eec5850643-staff-000001",
+          "body": "[SYNTHETIC] Fictional acquisition cohort; recorded stage won. No real outreach or customer relationship exists.",
+          "created_at": "2024-11-20T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-notes-000001",
+          "subject_domain": "leads",
+          "subject_id": "d2eec5850643-leads-000001",
+          "synthetic": true
+        },
+        {
+          "author_id": "d2eec5850643-staff-000002",
+          "body": "[SYNTHETIC] Fictional acquisition cohort; recorded stage won. No real outreach or customer relationship exists.",
+          "created_at": "2024-11-30T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-notes-000002",
+          "subject_domain": "leads",
+          "subject_id": "d2eec5850643-leads-000002",
+          "synthetic": true
+        },
+        {
+          "author_id": "d2eec5850643-staff-000003",
+          "body": "[SYNTHETIC] Fictional acquisition cohort; recorded stage won. No real outreach or customer relationship exists.",
+          "created_at": "2024-12-10T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-notes-000003",
+          "subject_domain": "leads",
+          "subject_id": "d2eec5850643-leads-000003",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "opportunities",
+      "source": "json/opportunities.jsonl",
+      "count": 500,
+      "sha256": "817749a583e28a631ef5b06ae177346182717cc01c5f6aa68bcf65df555746df",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "lead_id": "leads",
+        "account_id": "accounts",
+        "owner_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "account_id": "d2eec5850643-accounts-000001",
+          "amount_cents": 1200000,
+          "closed_on": "2024-11-27",
+          "created_at": "2024-11-20T12:00:00Z",
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "expected_close_on": "2024-11-27",
+          "id": "d2eec5850643-opportunities-000001",
+          "lead_id": "d2eec5850643-leads-000001",
+          "name": "[SYNTHETIC] Vendor 001 readiness engagement",
+          "owner_id": "d2eec5850643-staff-000001",
+          "stage": "closed_won",
+          "synthetic": true
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000002",
+          "amount_cents": 2000000,
+          "closed_on": "2024-12-08",
+          "created_at": "2024-11-30T12:00:00Z",
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "expected_close_on": "2024-12-08",
+          "id": "d2eec5850643-opportunities-000002",
+          "lead_id": "d2eec5850643-leads-000002",
+          "name": "[SYNTHETIC] Vendor 002 readiness engagement",
+          "owner_id": "d2eec5850643-staff-000002",
+          "stage": "closed_won",
+          "synthetic": true
+        },
+        {
+          "account_id": "d2eec5850643-accounts-000003",
+          "amount_cents": 3000000,
+          "closed_on": "2024-12-19",
+          "created_at": "2024-12-10T12:00:00Z",
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "expected_close_on": "2024-12-19",
+          "id": "d2eec5850643-opportunities-000003",
+          "lead_id": "d2eec5850643-leads-000003",
+          "name": "[SYNTHETIC] Vendor 003 readiness engagement",
+          "owner_id": "d2eec5850643-staff-000003",
+          "stage": "closed_won",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "payment_attempts",
+      "source": "json/payment_attempts.jsonl",
+      "count": 9,
+      "sha256": "c1df327a997e5b87a63817d3c729c7f2cc94839fbc7f70232cebf7da98cc90c5",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "invoice_id": "invoices"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "amount_cents": 360000,
+          "attempted_on": "2024-12-31",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-payment_attempts-000001",
+          "invoice_id": "d2eec5850643-invoices-000002",
+          "reason": "Fictional remittance reference mismatch; no real payment attempted",
+          "status": "SIMULATED_FAILED",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 600000,
+          "attempted_on": "2025-06-29",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-payment_attempts-000002",
+          "invoice_id": "d2eec5850643-invoices-000005",
+          "reason": "Fictional remittance reference mismatch; no real payment attempted",
+          "status": "SIMULATED_FAILED",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 690000,
+          "attempted_on": "2025-06-09",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-payment_attempts-000003",
+          "invoice_id": "d2eec5850643-invoices-000116",
+          "reason": "Fictional remittance reference mismatch; no real payment attempted",
+          "status": "SIMULATED_FAILED",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "payments",
+      "source": "json/payments.jsonl",
+      "count": 413,
+      "sha256": "4ea7fa193d31566be9e72c2f0e8e0acd17f555663848364799efdcedfd046c0b",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "invoice_id": "invoices",
+        "customer_id": "customers"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "amount_cents": 600000,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "external_reference": "SIMULATED-PAY-1-0",
+          "id": "d2eec5850643-payments-000001",
+          "invoice_id": "d2eec5850643-invoices-000001",
+          "method": "FICTIONAL_BANK_TRANSFER",
+          "paid_on": "2024-12-04",
+          "status": "posted",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 180000,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "external_reference": "SIMULATED-PAY-1-1",
+          "id": "d2eec5850643-payments-000002",
+          "invoice_id": "d2eec5850643-invoices-000002",
+          "method": "FICTIONAL_BANK_TRANSFER",
+          "paid_on": "2025-01-16",
+          "status": "posted",
+          "synthetic": true
+        },
+        {
+          "amount_cents": 114000,
+          "currency": "USD",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "external_reference": "SIMULATED-PAY-1-2",
+          "id": "d2eec5850643-payments-000003",
+          "invoice_id": "d2eec5850643-invoices-000003",
+          "method": "FICTIONAL_BANK_TRANSFER",
+          "paid_on": "2025-03-02",
+          "status": "posted",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "projects",
+      "source": "json/projects.jsonl",
+      "count": 140,
+      "sha256": "0e18fa642d87bb8142f949fdc7c695b2fbfa2731c1735625feea237670efd39e",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "customer_id": "customers",
+        "contract_id": "contracts",
+        "manager_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "budget_cents": 1200000,
+          "completed_on": "2025-02-25",
+          "contract_id": "d2eec5850643-contracts-000001",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-projects-000001",
+          "manager_id": "d2eec5850643-staff-000001",
+          "name": "[SYNTHETIC] Discovery assessment \u2014 001",
+          "outcome": "FICTIONAL deliverable accepted; no Marketplace approval claim",
+          "starts_on": "2024-11-27",
+          "status": "completed",
+          "synthetic": true,
+          "target_ends_on": "2025-02-25"
+        },
+        {
+          "budget_cents": 2000000,
+          "completed_on": "2025-08-24",
+          "contract_id": "d2eec5850643-contracts-000002",
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-projects-000002",
+          "manager_id": "d2eec5850643-staff-000001",
+          "name": "[SYNTHETIC] Delivery planning \u2014 002",
+          "outcome": "FICTIONAL deliverable accepted; no Marketplace approval claim",
+          "starts_on": "2025-05-26",
+          "status": "completed",
+          "synthetic": true,
+          "target_ends_on": "2025-08-24"
+        },
+        {
+          "budget_cents": 2100000,
+          "completed_on": "2025-03-08",
+          "contract_id": "d2eec5850643-contracts-000003",
+          "customer_id": "d2eec5850643-customers-000002",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-projects-000003",
+          "manager_id": "d2eec5850643-staff-000002",
+          "name": "[SYNTHETIC] Delivery planning \u2014 003",
+          "outcome": "FICTIONAL deliverable accepted; no Marketplace approval claim",
+          "starts_on": "2024-12-08",
+          "status": "completed",
+          "synthetic": true,
+          "target_ends_on": "2025-03-08"
+        }
+      ]
+    },
+    {
+      "object": "services",
+      "source": "json/services.jsonl",
+      "count": 6,
+      "sha256": "b78600799da70d1b8ba65900de083d7fa397517a08a8fef8a88c7de258919431",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {},
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "base_fee_cents": 1200000,
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-services-000001",
+          "name": "Discovery assessment",
+          "promise": "FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed",
+          "synthetic": true
+        },
+        {
+          "base_fee_cents": 2000000,
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-services-000002",
+          "name": "Delivery planning",
+          "promise": "FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed",
+          "synthetic": true
+        },
+        {
+          "base_fee_cents": 3000000,
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-services-000003",
+          "name": "Process design review",
+          "promise": "FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "skills",
+      "source": "json/skills.jsonl",
+      "count": 30,
+      "sha256": "9f2bd6b44572fce7085cd617cec92b532bd13df0a02d9495e60583dc9b9b277a",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {},
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "classification": "FICTIONAL_PROFILE_CAPABILITY",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-skills-000001",
+          "name": "account planning",
+          "synthetic": true
+        },
+        {
+          "classification": "FICTIONAL_PROFILE_CAPABILITY",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-skills-000002",
+          "name": "budget analysis",
+          "synthetic": true
+        },
+        {
+          "classification": "FICTIONAL_PROFILE_CAPABILITY",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-skills-000003",
+          "name": "case follow-up",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "staff",
+      "source": "json/staff.jsonl",
+      "count": 40,
+      "sha256": "ed18cd11945dd2a5b0a34be949a50b64ed0e978bd9082559dc0006f76e1a3168",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "talent_id": "talent"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Avaven Ambercrest",
+          "engagement": "FICTIONAL_EMPLOYEE",
+          "hourly_cost_cents": 4500,
+          "id": "d2eec5850643-staff-000001",
+          "joined_on": "2024-10-29",
+          "synthetic": true,
+          "talent_id": "d2eec5850643-talent-000001",
+          "title": "Account manager"
+        },
+        {
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Faralune Ambercrest",
+          "engagement": "FICTIONAL_EMPLOYEE",
+          "hourly_cost_cents": 5000,
+          "id": "d2eec5850643-staff-000002",
+          "joined_on": "2024-10-29",
+          "synthetic": true,
+          "talent_id": "d2eec5850643-talent-000027",
+          "title": "Account manager"
+        },
+        {
+          "currency": "USD",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Kalalune Ambercrest",
+          "engagement": "FICTIONAL_EMPLOYEE",
+          "hourly_cost_cents": 5500,
+          "id": "d2eec5850643-staff-000003",
+          "joined_on": "2024-10-29",
+          "synthetic": true,
+          "talent_id": "d2eec5850643-talent-000052",
+          "title": "Account manager"
+        }
+      ]
+    },
+    {
+      "object": "story_events",
+      "source": "json/story_events.jsonl",
+      "count": 5,
+      "sha256": "349aa055429cff218242c79198b28c3ecc4d17fa76b2ec6c883110b0fab4b71b",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {},
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-story_events-000001",
+          "interpretation": "Authored simulation arc, supported by generated cohort and outcome records; never a real business event",
+          "occurred_on": "2024-10-29",
+          "supporting_domain": "company",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Founding and first playbook"
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-story_events-000002",
+          "interpretation": "Authored simulation arc, supported by generated cohort and outcome records; never a real business event",
+          "occurred_on": "2025-07-15",
+          "supporting_domain": "campaigns",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Summer pipeline softness"
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-story_events-000003",
+          "interpretation": "Authored simulation arc, supported by generated cohort and outcome records; never a real business event",
+          "occurred_on": "2025-10-15",
+          "supporting_domain": "leads",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Review discipline after scope losses"
+        }
+      ]
+    },
+    {
+      "object": "support_tickets",
+      "source": "json/support_tickets.jsonl",
+      "count": 300,
+      "sha256": "c6cf22eecfeec85746e882fbf81f3c96eb3dea4f04ddb6ef25ed33dcb78ce459",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "customer_id": "customers",
+        "project_id": "projects",
+        "owner_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-support_tickets-000001",
+          "opened_at": "2024-12-07T12:00:00Z",
+          "owner_id": "d2eec5850643-staff-000001",
+          "priority": "high",
+          "project_id": "d2eec5850643-projects-000001",
+          "resolution": "[SYNTHETIC] Clarified owner and updated fictional review notes",
+          "resolved_at": "2024-12-09T12:00:00Z",
+          "status": "resolved",
+          "subject": "[SYNTHETIC] Scope interpretation",
+          "synthetic": true
+        },
+        {
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-support_tickets-000002",
+          "opened_at": "2025-01-01T12:00:00Z",
+          "owner_id": "d2eec5850643-staff-000002",
+          "priority": "high",
+          "project_id": "d2eec5850643-projects-000001",
+          "resolution": "[SYNTHETIC] Clarified owner and updated fictional review notes",
+          "resolved_at": "2025-01-03T12:00:00Z",
+          "status": "resolved",
+          "subject": "[SYNTHETIC] Evidence freshness",
+          "synthetic": true
+        },
+        {
+          "customer_id": "d2eec5850643-customers-000001",
+          "dataset_id": "synthetic-d2eec5850643",
+          "id": "d2eec5850643-support_tickets-000003",
+          "opened_at": "2025-01-26T12:00:00Z",
+          "owner_id": "d2eec5850643-staff-000003",
+          "priority": "high",
+          "project_id": "d2eec5850643-projects-000001",
+          "resolution": "[SYNTHETIC] Clarified owner and updated fictional review notes",
+          "resolved_at": "2025-01-28T12:00:00Z",
+          "status": "resolved",
+          "subject": "[SYNTHETIC] Handoff clarification",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "talent",
+      "source": "json/talent.jsonl",
+      "count": 1000,
+      "sha256": "72952dc410aa49ac5972bd6a73ed8fc9d224626155f3fa0d30b5e803fd4e0ed1",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {},
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "available_from": "2024-10-29",
+          "bio": "[SYNTHETIC] Imaginary account manager practicing account planning, relationship review, scope clarification. No real employment, credentials or biography claimed.",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Avaven Ambercrest",
+          "email": "talent00001@people.example.invalid",
+          "id": "d2eec5850643-talent-000001",
+          "location": "Fictional City, Exampleland",
+          "phone": null,
+          "pool_status": "FICTIONAL_NETWORK",
+          "synthetic": true,
+          "title": "Account manager"
+        },
+        {
+          "available_from": "2024-10-29",
+          "bio": "[SYNTHETIC] Imaginary account manager practicing account planning, relationship review, scope clarification. No real employment, credentials or biography claimed.",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Avalune Ambercrest",
+          "email": "talent00002@people.example.invalid",
+          "id": "d2eec5850643-talent-000002",
+          "location": "Fictional City, Exampleland",
+          "phone": null,
+          "pool_status": "FICTIONAL_NETWORK",
+          "synthetic": true,
+          "title": "Account manager"
+        },
+        {
+          "available_from": "2024-10-29",
+          "bio": "[SYNTHETIC] Imaginary account manager practicing account planning, relationship review, scope clarification. No real employment, credentials or biography claimed.",
+          "dataset_id": "synthetic-d2eec5850643",
+          "display_name": "Avarin Ambercrest",
+          "email": "talent00003@people.example.invalid",
+          "id": "d2eec5850643-talent-000003",
+          "location": "Fictional City, Exampleland",
+          "phone": null,
+          "pool_status": "FICTIONAL_NETWORK",
+          "synthetic": true,
+          "title": "Account manager"
+        }
+      ]
+    },
+    {
+      "object": "talent_assignments",
+      "source": "json/talent_assignments.jsonl",
+      "count": 420,
+      "sha256": "f434389f687932813f64e64f3a7947d63b2025cf0ef7eaf0360970bc50d26e52",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "project_id": "projects",
+        "staff_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "allocation_percent": 10,
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_on": "2025-02-25",
+          "id": "d2eec5850643-talent_assignments-000001",
+          "project_id": "d2eec5850643-projects-000001",
+          "role": "delivery lead",
+          "staff_id": "d2eec5850643-staff-000001",
+          "starts_on": "2024-11-27",
+          "synthetic": true
+        },
+        {
+          "allocation_percent": 15,
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_on": "2025-02-25",
+          "id": "d2eec5850643-talent_assignments-000002",
+          "project_id": "d2eec5850643-projects-000001",
+          "role": "reviewer",
+          "staff_id": "d2eec5850643-staff-000008",
+          "starts_on": "2024-11-27",
+          "synthetic": true
+        },
+        {
+          "allocation_percent": 20,
+          "dataset_id": "synthetic-d2eec5850643",
+          "ends_on": "2025-02-25",
+          "id": "d2eec5850643-talent_assignments-000003",
+          "project_id": "d2eec5850643-projects-000001",
+          "role": "specialist",
+          "staff_id": "d2eec5850643-staff-000015",
+          "starts_on": "2024-11-27",
+          "synthetic": true
+        }
+      ]
+    },
+    {
+      "object": "talent_skills",
+      "source": "json/talent_skills.jsonl",
+      "count": 3000,
+      "sha256": "7c653bc5f902ff743f9b5d251738c954cf817cb16f9effedaf88b3a0a113dfb8",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "talent_id": "talent",
+        "skill_id": "skills"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "evidence_type": "SYNTHETIC_SCENARIO_ASSIGNMENT",
+          "id": "d2eec5850643-talent_skills-000001",
+          "level": 1,
+          "skill_id": "d2eec5850643-skills-000001",
+          "synthetic": true,
+          "talent_id": "d2eec5850643-talent-000001"
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "evidence_type": "SYNTHETIC_SCENARIO_ASSIGNMENT",
+          "id": "d2eec5850643-talent_skills-000002",
+          "level": 4,
+          "skill_id": "d2eec5850643-skills-000019",
+          "synthetic": true,
+          "talent_id": "d2eec5850643-talent-000001"
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "evidence_type": "SYNTHETIC_SCENARIO_ASSIGNMENT",
+          "id": "d2eec5850643-talent_skills-000003",
+          "level": 5,
+          "skill_id": "d2eec5850643-skills-000025",
+          "synthetic": true,
+          "talent_id": "d2eec5850643-talent-000001"
+        }
+      ]
+    },
+    {
+      "object": "task_dependencies",
+      "source": "json/task_dependencies.jsonl",
+      "count": 1260,
+      "sha256": "b38eb61c7736410017d038a8fbb6e8664544f603fa0772124badf0747236b1ae",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "task_id": "tasks",
+        "depends_on_task_id": "tasks"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "depends_on_task_id": "d2eec5850643-tasks-000001",
+          "id": "d2eec5850643-task_dependencies-000001",
+          "kind": "finish_to_start",
+          "synthetic": true,
+          "task_id": "d2eec5850643-tasks-000002"
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "depends_on_task_id": "d2eec5850643-tasks-000002",
+          "id": "d2eec5850643-task_dependencies-000002",
+          "kind": "finish_to_start",
+          "synthetic": true,
+          "task_id": "d2eec5850643-tasks-000003"
+        },
+        {
+          "dataset_id": "synthetic-d2eec5850643",
+          "depends_on_task_id": "d2eec5850643-tasks-000003",
+          "id": "d2eec5850643-task_dependencies-000003",
+          "kind": "finish_to_start",
+          "synthetic": true,
+          "task_id": "d2eec5850643-tasks-000004"
+        }
+      ]
+    },
+    {
+      "object": "tasks",
+      "source": "json/tasks.jsonl",
+      "count": 1400,
+      "sha256": "45d2fab27f81ab127bd77a10274b48b41846e08978f689d13635a9649a8b3d36",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "project_id": "projects",
+        "milestone_id": "milestones",
+        "owner_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "completed_at": "2024-11-29T12:00:00Z",
+          "created_at": "2024-11-27T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2024-11-29",
+          "id": "d2eec5850643-tasks-000001",
+          "milestone_id": "d2eec5850643-milestones-000001",
+          "owner_id": "d2eec5850643-staff-000001",
+          "priority": "high",
+          "project_id": "d2eec5850643-projects-000001",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Confirm scope exclusions"
+        },
+        {
+          "completed_at": "2024-12-08T12:00:00Z",
+          "created_at": "2024-11-27T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2024-12-08",
+          "id": "d2eec5850643-tasks-000002",
+          "milestone_id": "d2eec5850643-milestones-000001",
+          "owner_id": "d2eec5850643-staff-000002",
+          "priority": "normal",
+          "project_id": "d2eec5850643-projects-000001",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Map owner decisions"
+        },
+        {
+          "completed_at": "2024-12-17T12:00:00Z",
+          "created_at": "2024-11-27T12:00:00Z",
+          "dataset_id": "synthetic-d2eec5850643",
+          "due_on": "2024-12-17",
+          "id": "d2eec5850643-tasks-000003",
+          "milestone_id": "d2eec5850643-milestones-000002",
+          "owner_id": "d2eec5850643-staff-000003",
+          "priority": "normal",
+          "project_id": "d2eec5850643-projects-000001",
+          "status": "completed",
+          "synthetic": true,
+          "title": "[SYNTHETIC] Inventory evidence"
+        }
+      ]
+    },
+    {
+      "object": "time_entries",
+      "source": "json/time_entries.jsonl",
+      "count": 2800,
+      "sha256": "0f1077f4df29f94f14cf44d91de004f979ae519b21c710b8498737fd553d34f4",
+      "external_id_field": "id",
+      "mapping_status": "TARGET_UNSELECTED",
+      "operation": "PROPOSED_MATCH_BY_STABLE_EXTERNAL_ID",
+      "relations": {
+        "project_id": "projects",
+        "task_id": "tasks",
+        "staff_id": "staff"
+      },
+      "phase": "create shells, resolve target IDs, then link; cycle-aware",
+      "preview_rows": [
+        {
+          "approval": "SIMULATED_APPROVED",
+          "billable": true,
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Evidence review and delivery work",
+          "id": "d2eec5850643-time_entries-000001",
+          "minutes": 60,
+          "project_id": "d2eec5850643-projects-000001",
+          "staff_id": "d2eec5850643-staff-000001",
+          "synthetic": true,
+          "task_id": "d2eec5850643-tasks-000001",
+          "worked_on": "2024-11-29"
+        },
+        {
+          "approval": "SIMULATED_APPROVED",
+          "billable": true,
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Evidence review and delivery work",
+          "id": "d2eec5850643-time_entries-000002",
+          "minutes": 90,
+          "project_id": "d2eec5850643-projects-000001",
+          "staff_id": "d2eec5850643-staff-000002",
+          "synthetic": true,
+          "task_id": "d2eec5850643-tasks-000001",
+          "worked_on": "2024-12-01"
+        },
+        {
+          "approval": "SIMULATED_APPROVED",
+          "billable": true,
+          "dataset_id": "synthetic-d2eec5850643",
+          "description": "[SYNTHETIC] Evidence review and delivery work",
+          "id": "d2eec5850643-time_entries-000003",
+          "minutes": 120,
+          "project_id": "d2eec5850643-projects-000001",
+          "staff_id": "d2eec5850643-staff-000003",
+          "synthetic": true,
+          "task_id": "d2eec5850643-tasks-000002",
+          "worked_on": "2024-12-03"
+        }
+      ]
+    }
+  ],
+  "replay_policy": "Stable IDs and identical payload hashes identify a repeated plan. Actual target uniqueness/upsert behavior must be configured and tested separately.",
+  "rollback_policy": "No changes performed. A future importer must capture exact preimages and created target IDs; never delete pre-existing rows or infer rollback from source IDs."
+}

@@ -1,0 +1,501 @@
+Deal name,Pipeline,Deal stage,Amount,Close date,Company domain name,StoryFoundry source key,StoryFoundry synthetic
+[SYNTHETIC] Vendor 001 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2024-11-27,vendor0001.example.invalid,d2eec5850643-opportunities-000001,true
+[SYNTHETIC] Vendor 002 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2024-12-08,vendor0002.example.invalid,d2eec5850643-opportunities-000002,true
+[SYNTHETIC] Vendor 003 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2024-12-19,vendor0003.example.invalid,d2eec5850643-opportunities-000003,true
+[SYNTHETIC] Vendor 004 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2024-12-29,vendor0004.example.invalid,d2eec5850643-opportunities-000004,true
+[SYNTHETIC] Vendor 005 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-01-07,vendor0005.example.invalid,d2eec5850643-opportunities-000005,true
+[SYNTHETIC] Vendor 006 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-01-16,vendor0006.example.invalid,d2eec5850643-opportunities-000006,true
+[SYNTHETIC] Vendor 007 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-01-25,vendor0007.example.invalid,d2eec5850643-opportunities-000007,true
+[SYNTHETIC] Vendor 008 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-02-02,vendor0008.example.invalid,d2eec5850643-opportunities-000008,true
+[SYNTHETIC] Vendor 009 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-02-11,vendor0009.example.invalid,d2eec5850643-opportunities-000009,true
+[SYNTHETIC] Vendor 010 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-02-19,vendor0010.example.invalid,d2eec5850643-opportunities-000010,true
+[SYNTHETIC] Vendor 011 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-02-27,vendor0011.example.invalid,d2eec5850643-opportunities-000011,true
+[SYNTHETIC] Vendor 012 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-03-07,vendor0012.example.invalid,d2eec5850643-opportunities-000012,true
+[SYNTHETIC] Vendor 013 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-03-15,vendor0013.example.invalid,d2eec5850643-opportunities-000013,true
+[SYNTHETIC] Vendor 014 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-03-22,vendor0014.example.invalid,d2eec5850643-opportunities-000014,true
+[SYNTHETIC] Vendor 015 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-03-30,vendor0015.example.invalid,d2eec5850643-opportunities-000015,true
+[SYNTHETIC] Vendor 016 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-04-07,vendor0016.example.invalid,d2eec5850643-opportunities-000016,true
+[SYNTHETIC] Vendor 017 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-04-14,vendor0017.example.invalid,d2eec5850643-opportunities-000017,true
+[SYNTHETIC] Vendor 018 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-04-21,vendor0018.example.invalid,d2eec5850643-opportunities-000018,true
+[SYNTHETIC] Vendor 019 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-04-29,vendor0019.example.invalid,d2eec5850643-opportunities-000019,true
+[SYNTHETIC] Vendor 020 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-05-06,vendor0020.example.invalid,d2eec5850643-opportunities-000020,true
+[SYNTHETIC] Vendor 021 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-05-13,vendor0021.example.invalid,d2eec5850643-opportunities-000021,true
+[SYNTHETIC] Vendor 022 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-05-20,vendor0022.example.invalid,d2eec5850643-opportunities-000022,true
+[SYNTHETIC] Vendor 023 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-05-27,vendor0023.example.invalid,d2eec5850643-opportunities-000023,true
+[SYNTHETIC] Vendor 024 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-06-03,vendor0024.example.invalid,d2eec5850643-opportunities-000024,true
+[SYNTHETIC] Vendor 025 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-06-10,vendor0025.example.invalid,d2eec5850643-opportunities-000025,true
+[SYNTHETIC] Vendor 026 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-06-17,vendor0026.example.invalid,d2eec5850643-opportunities-000026,true
+[SYNTHETIC] Vendor 027 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-06-24,vendor0027.example.invalid,d2eec5850643-opportunities-000027,true
+[SYNTHETIC] Vendor 028 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-06-30,vendor0028.example.invalid,d2eec5850643-opportunities-000028,true
+[SYNTHETIC] Vendor 029 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-07-07,vendor0029.example.invalid,d2eec5850643-opportunities-000029,true
+[SYNTHETIC] Vendor 030 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-07-14,vendor0030.example.invalid,d2eec5850643-opportunities-000030,true
+[SYNTHETIC] Vendor 031 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-07-20,vendor0031.example.invalid,d2eec5850643-opportunities-000031,true
+[SYNTHETIC] Vendor 032 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-07-27,vendor0032.example.invalid,d2eec5850643-opportunities-000032,true
+[SYNTHETIC] Vendor 033 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-08-02,vendor0033.example.invalid,d2eec5850643-opportunities-000033,true
+[SYNTHETIC] Vendor 034 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-08-09,vendor0034.example.invalid,d2eec5850643-opportunities-000034,true
+[SYNTHETIC] Vendor 035 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-08-16,vendor0035.example.invalid,d2eec5850643-opportunities-000035,true
+[SYNTHETIC] Vendor 036 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-08-22,vendor0036.example.invalid,d2eec5850643-opportunities-000036,true
+[SYNTHETIC] Vendor 037 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-08-28,vendor0037.example.invalid,d2eec5850643-opportunities-000037,true
+[SYNTHETIC] Vendor 038 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-09-04,vendor0038.example.invalid,d2eec5850643-opportunities-000038,true
+[SYNTHETIC] Vendor 039 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-09-10,vendor0039.example.invalid,d2eec5850643-opportunities-000039,true
+[SYNTHETIC] Vendor 040 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-09-17,vendor0040.example.invalid,d2eec5850643-opportunities-000040,true
+[SYNTHETIC] Vendor 041 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-09-23,vendor0041.example.invalid,d2eec5850643-opportunities-000041,true
+[SYNTHETIC] Vendor 042 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-09-29,vendor0042.example.invalid,d2eec5850643-opportunities-000042,true
+[SYNTHETIC] Vendor 043 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-10-05,vendor0043.example.invalid,d2eec5850643-opportunities-000043,true
+[SYNTHETIC] Vendor 044 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-10-12,vendor0044.example.invalid,d2eec5850643-opportunities-000044,true
+[SYNTHETIC] Vendor 045 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-10-18,vendor0045.example.invalid,d2eec5850643-opportunities-000045,true
+[SYNTHETIC] Vendor 046 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-10-24,vendor0046.example.invalid,d2eec5850643-opportunities-000046,true
+[SYNTHETIC] Vendor 047 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-10-30,vendor0047.example.invalid,d2eec5850643-opportunities-000047,true
+[SYNTHETIC] Vendor 048 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-11-05,vendor0048.example.invalid,d2eec5850643-opportunities-000048,true
+[SYNTHETIC] Vendor 049 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-11-11,vendor0049.example.invalid,d2eec5850643-opportunities-000049,true
+[SYNTHETIC] Vendor 050 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-11-17,vendor0050.example.invalid,d2eec5850643-opportunities-000050,true
+[SYNTHETIC] Vendor 051 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-11-24,vendor0051.example.invalid,d2eec5850643-opportunities-000051,true
+[SYNTHETIC] Vendor 052 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2025-11-30,vendor0052.example.invalid,d2eec5850643-opportunities-000052,true
+[SYNTHETIC] Vendor 053 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2025-12-06,vendor0053.example.invalid,d2eec5850643-opportunities-000053,true
+[SYNTHETIC] Vendor 054 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2025-12-12,vendor0054.example.invalid,d2eec5850643-opportunities-000054,true
+[SYNTHETIC] Vendor 055 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2025-12-18,vendor0055.example.invalid,d2eec5850643-opportunities-000055,true
+[SYNTHETIC] Vendor 056 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2025-12-24,vendor0056.example.invalid,d2eec5850643-opportunities-000056,true
+[SYNTHETIC] Vendor 057 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2025-12-29,vendor0057.example.invalid,d2eec5850643-opportunities-000057,true
+[SYNTHETIC] Vendor 058 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-01-04,vendor0058.example.invalid,d2eec5850643-opportunities-000058,true
+[SYNTHETIC] Vendor 059 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2026-01-10,vendor0059.example.invalid,d2eec5850643-opportunities-000059,true
+[SYNTHETIC] Vendor 060 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2026-01-16,vendor0060.example.invalid,d2eec5850643-opportunities-000060,true
+[SYNTHETIC] Vendor 061 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2026-01-22,vendor0061.example.invalid,d2eec5850643-opportunities-000061,true
+[SYNTHETIC] Vendor 062 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2026-01-28,vendor0062.example.invalid,d2eec5850643-opportunities-000062,true
+[SYNTHETIC] Vendor 063 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2026-02-03,vendor0063.example.invalid,d2eec5850643-opportunities-000063,true
+[SYNTHETIC] Vendor 064 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-02-09,vendor0064.example.invalid,d2eec5850643-opportunities-000064,true
+[SYNTHETIC] Vendor 065 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2026-02-14,vendor0065.example.invalid,d2eec5850643-opportunities-000065,true
+[SYNTHETIC] Vendor 066 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2026-02-20,vendor0066.example.invalid,d2eec5850643-opportunities-000066,true
+[SYNTHETIC] Vendor 067 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2026-02-26,vendor0067.example.invalid,d2eec5850643-opportunities-000067,true
+[SYNTHETIC] Vendor 068 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2026-03-04,vendor0068.example.invalid,d2eec5850643-opportunities-000068,true
+[SYNTHETIC] Vendor 069 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2026-03-09,vendor0069.example.invalid,d2eec5850643-opportunities-000069,true
+[SYNTHETIC] Vendor 070 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-03-15,vendor0070.example.invalid,d2eec5850643-opportunities-000070,true
+[SYNTHETIC] Vendor 071 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2026-03-21,vendor0071.example.invalid,d2eec5850643-opportunities-000071,true
+[SYNTHETIC] Vendor 072 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2026-03-27,vendor0072.example.invalid,d2eec5850643-opportunities-000072,true
+[SYNTHETIC] Vendor 073 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2026-04-01,vendor0073.example.invalid,d2eec5850643-opportunities-000073,true
+[SYNTHETIC] Vendor 074 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2026-04-07,vendor0074.example.invalid,d2eec5850643-opportunities-000074,true
+[SYNTHETIC] Vendor 075 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2026-04-13,vendor0075.example.invalid,d2eec5850643-opportunities-000075,true
+[SYNTHETIC] Vendor 076 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-04-18,vendor0076.example.invalid,d2eec5850643-opportunities-000076,true
+[SYNTHETIC] Vendor 077 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2026-04-24,vendor0077.example.invalid,d2eec5850643-opportunities-000077,true
+[SYNTHETIC] Vendor 078 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2026-04-29,vendor0078.example.invalid,d2eec5850643-opportunities-000078,true
+[SYNTHETIC] Vendor 079 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2026-05-05,vendor0079.example.invalid,d2eec5850643-opportunities-000079,true
+[SYNTHETIC] Vendor 080 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2026-05-11,vendor0080.example.invalid,d2eec5850643-opportunities-000080,true
+[SYNTHETIC] Vendor 081 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2026-05-16,vendor0081.example.invalid,d2eec5850643-opportunities-000081,true
+[SYNTHETIC] Vendor 082 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-05-22,vendor0082.example.invalid,d2eec5850643-opportunities-000082,true
+[SYNTHETIC] Vendor 083 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2026-05-27,vendor0083.example.invalid,d2eec5850643-opportunities-000083,true
+[SYNTHETIC] Vendor 084 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2026-06-02,vendor0084.example.invalid,d2eec5850643-opportunities-000084,true
+[SYNTHETIC] Vendor 085 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2026-06-07,vendor0085.example.invalid,d2eec5850643-opportunities-000085,true
+[SYNTHETIC] Vendor 086 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2026-06-13,vendor0086.example.invalid,d2eec5850643-opportunities-000086,true
+[SYNTHETIC] Vendor 087 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2026-06-18,vendor0087.example.invalid,d2eec5850643-opportunities-000087,true
+[SYNTHETIC] Vendor 088 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-06-24,vendor0088.example.invalid,d2eec5850643-opportunities-000088,true
+[SYNTHETIC] Vendor 089 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2026-06-29,vendor0089.example.invalid,d2eec5850643-opportunities-000089,true
+[SYNTHETIC] Vendor 090 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2026-07-05,vendor0090.example.invalid,d2eec5850643-opportunities-000090,true
+[SYNTHETIC] Vendor 091 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2026-07-10,vendor0091.example.invalid,d2eec5850643-opportunities-000091,true
+[SYNTHETIC] Vendor 092 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2026-07-16,vendor0092.example.invalid,d2eec5850643-opportunities-000092,true
+[SYNTHETIC] Vendor 093 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2026-07-21,vendor0093.example.invalid,d2eec5850643-opportunities-000093,true
+[SYNTHETIC] Vendor 094 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-07-27,vendor0094.example.invalid,d2eec5850643-opportunities-000094,true
+[SYNTHETIC] Vendor 095 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,24000.00,2026-08-01,vendor0095.example.invalid,d2eec5850643-opportunities-000095,true
+[SYNTHETIC] Vendor 096 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,15000.00,2026-08-06,vendor0096.example.invalid,d2eec5850643-opportunities-000096,true
+[SYNTHETIC] Vendor 097 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2026-08-12,vendor0097.example.invalid,d2eec5850643-opportunities-000097,true
+[SYNTHETIC] Vendor 098 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2026-08-17,vendor0098.example.invalid,d2eec5850643-opportunities-000098,true
+[SYNTHETIC] Vendor 099 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2026-08-23,vendor0099.example.invalid,d2eec5850643-opportunities-000099,true
+[SYNTHETIC] Vendor 100 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,36000.00,2026-08-28,vendor0100.example.invalid,d2eec5850643-opportunities-000100,true
+[SYNTHETIC] Vendor 101 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-05-21,vendor0101.example.invalid,d2eec5850643-opportunities-000101,true
+[SYNTHETIC] Vendor 102 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-02-16,vendor0102.example.invalid,d2eec5850643-opportunities-000102,true
+[SYNTHETIC] Vendor 103 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-09-17,vendor0103.example.invalid,d2eec5850643-opportunities-000103,true
+[SYNTHETIC] Vendor 104 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-04-16,vendor0104.example.invalid,d2eec5850643-opportunities-000104,true
+[SYNTHETIC] Vendor 105 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2026-06-15,vendor0105.example.invalid,d2eec5850643-opportunities-000105,true
+[SYNTHETIC] Vendor 106 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2024-12-16,vendor0106.example.invalid,d2eec5850643-opportunities-000106,true
+[SYNTHETIC] Vendor 107 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-04-18,vendor0107.example.invalid,d2eec5850643-opportunities-000107,true
+[SYNTHETIC] Vendor 108 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-10-06,vendor0108.example.invalid,d2eec5850643-opportunities-000108,true
+[SYNTHETIC] Vendor 109 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-04-02,vendor0109.example.invalid,d2eec5850643-opportunities-000109,true
+[SYNTHETIC] Vendor 110 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-10-24,vendor0110.example.invalid,d2eec5850643-opportunities-000110,true
+[SYNTHETIC] Vendor 111 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-10-21,vendor0111.example.invalid,d2eec5850643-opportunities-000111,true
+[SYNTHETIC] Vendor 112 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-06-03,vendor0112.example.invalid,d2eec5850643-opportunities-000112,true
+[SYNTHETIC] Vendor 113 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-06-12,vendor0113.example.invalid,d2eec5850643-opportunities-000113,true
+[SYNTHETIC] Vendor 114 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-08-12,vendor0114.example.invalid,d2eec5850643-opportunities-000114,true
+[SYNTHETIC] Vendor 115 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-08-02,vendor0115.example.invalid,d2eec5850643-opportunities-000115,true
+[SYNTHETIC] Vendor 116 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-06-30,vendor0116.example.invalid,d2eec5850643-opportunities-000116,true
+[SYNTHETIC] Vendor 117 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2026-09-29,vendor0117.example.invalid,d2eec5850643-opportunities-000117,true
+[SYNTHETIC] Vendor 118 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-09-13,vendor0118.example.invalid,d2eec5850643-opportunities-000118,true
+[SYNTHETIC] Vendor 119 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-07-24,vendor0119.example.invalid,d2eec5850643-opportunities-000119,true
+[SYNTHETIC] Vendor 120 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-05-09,vendor0120.example.invalid,d2eec5850643-opportunities-000120,true
+[SYNTHETIC] Vendor 121 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2024-12-08,vendor0121.example.invalid,d2eec5850643-opportunities-000121,true
+[SYNTHETIC] Vendor 122 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-03-30,vendor0122.example.invalid,d2eec5850643-opportunities-000122,true
+[SYNTHETIC] Vendor 123 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2024-12-17,vendor0123.example.invalid,d2eec5850643-opportunities-000123,true
+[SYNTHETIC] Vendor 124 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-12-06,vendor0124.example.invalid,d2eec5850643-opportunities-000124,true
+[SYNTHETIC] Vendor 125 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-03-12,vendor0125.example.invalid,d2eec5850643-opportunities-000125,true
+[SYNTHETIC] Vendor 126 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-02-16,vendor0126.example.invalid,d2eec5850643-opportunities-000126,true
+[SYNTHETIC] Vendor 127 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-04-04,vendor0127.example.invalid,d2eec5850643-opportunities-000127,true
+[SYNTHETIC] Vendor 128 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-01-20,vendor0128.example.invalid,d2eec5850643-opportunities-000128,true
+[SYNTHETIC] Vendor 129 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2024-12-17,vendor0129.example.invalid,d2eec5850643-opportunities-000129,true
+[SYNTHETIC] Vendor 130 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-11-10,vendor0130.example.invalid,d2eec5850643-opportunities-000130,true
+[SYNTHETIC] Vendor 131 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-12-08,vendor0131.example.invalid,d2eec5850643-opportunities-000131,true
+[SYNTHETIC] Vendor 132 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-07-05,vendor0132.example.invalid,d2eec5850643-opportunities-000132,true
+[SYNTHETIC] Vendor 133 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2026-09-13,vendor0133.example.invalid,d2eec5850643-opportunities-000133,true
+[SYNTHETIC] Vendor 134 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2024-12-31,vendor0134.example.invalid,d2eec5850643-opportunities-000134,true
+[SYNTHETIC] Vendor 135 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-06-06,vendor0135.example.invalid,d2eec5850643-opportunities-000135,true
+[SYNTHETIC] Vendor 136 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2024-11-24,vendor0136.example.invalid,d2eec5850643-opportunities-000136,true
+[SYNTHETIC] Vendor 137 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-11-22,vendor0137.example.invalid,d2eec5850643-opportunities-000137,true
+[SYNTHETIC] Vendor 138 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-08-18,vendor0138.example.invalid,d2eec5850643-opportunities-000138,true
+[SYNTHETIC] Vendor 139 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-12-15,vendor0139.example.invalid,d2eec5850643-opportunities-000139,true
+[SYNTHETIC] Vendor 140 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-06-02,vendor0140.example.invalid,d2eec5850643-opportunities-000140,true
+[SYNTHETIC] Vendor 141 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-11-02,vendor0141.example.invalid,d2eec5850643-opportunities-000141,true
+[SYNTHETIC] Vendor 142 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-05-30,vendor0142.example.invalid,d2eec5850643-opportunities-000142,true
+[SYNTHETIC] Vendor 143 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-05-07,vendor0143.example.invalid,d2eec5850643-opportunities-000143,true
+[SYNTHETIC] Vendor 144 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-12-04,vendor0144.example.invalid,d2eec5850643-opportunities-000144,true
+[SYNTHETIC] Vendor 145 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2026-07-12,vendor0145.example.invalid,d2eec5850643-opportunities-000145,true
+[SYNTHETIC] Vendor 146 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-04-15,vendor0146.example.invalid,d2eec5850643-opportunities-000146,true
+[SYNTHETIC] Vendor 147 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-04-27,vendor0147.example.invalid,d2eec5850643-opportunities-000147,true
+[SYNTHETIC] Vendor 148 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-07-13,vendor0148.example.invalid,d2eec5850643-opportunities-000148,true
+[SYNTHETIC] Vendor 149 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2024-12-11,vendor0149.example.invalid,d2eec5850643-opportunities-000149,true
+[SYNTHETIC] Vendor 150 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-07-19,vendor0150.example.invalid,d2eec5850643-opportunities-000150,true
+[SYNTHETIC] Vendor 151 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-04-03,vendor0151.example.invalid,d2eec5850643-opportunities-000151,true
+[SYNTHETIC] Vendor 152 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-08-04,vendor0152.example.invalid,d2eec5850643-opportunities-000152,true
+[SYNTHETIC] Vendor 153 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2024-12-17,vendor0153.example.invalid,d2eec5850643-opportunities-000153,true
+[SYNTHETIC] Vendor 154 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-02-24,vendor0154.example.invalid,d2eec5850643-opportunities-000154,true
+[SYNTHETIC] Vendor 155 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-03-13,vendor0155.example.invalid,d2eec5850643-opportunities-000155,true
+[SYNTHETIC] Vendor 156 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-05-06,vendor0156.example.invalid,d2eec5850643-opportunities-000156,true
+[SYNTHETIC] Vendor 157 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-04-17,vendor0157.example.invalid,d2eec5850643-opportunities-000157,true
+[SYNTHETIC] Vendor 158 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-11-05,vendor0158.example.invalid,d2eec5850643-opportunities-000158,true
+[SYNTHETIC] Vendor 159 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-11-21,vendor0159.example.invalid,d2eec5850643-opportunities-000159,true
+[SYNTHETIC] Vendor 160 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-01-18,vendor0160.example.invalid,d2eec5850643-opportunities-000160,true
+[SYNTHETIC] Vendor 161 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-04-26,vendor0161.example.invalid,d2eec5850643-opportunities-000161,true
+[SYNTHETIC] Vendor 162 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-12-14,vendor0162.example.invalid,d2eec5850643-opportunities-000162,true
+[SYNTHETIC] Vendor 163 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-07-21,vendor0163.example.invalid,d2eec5850643-opportunities-000163,true
+[SYNTHETIC] Vendor 164 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2024-11-11,vendor0164.example.invalid,d2eec5850643-opportunities-000164,true
+[SYNTHETIC] Vendor 165 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2026-05-16,vendor0165.example.invalid,d2eec5850643-opportunities-000165,true
+[SYNTHETIC] Vendor 166 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-01-19,vendor0166.example.invalid,d2eec5850643-opportunities-000166,true
+[SYNTHETIC] Vendor 167 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-09-14,vendor0167.example.invalid,d2eec5850643-opportunities-000167,true
+[SYNTHETIC] Vendor 168 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-03-16,vendor0168.example.invalid,d2eec5850643-opportunities-000168,true
+[SYNTHETIC] Vendor 169 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-07-29,vendor0169.example.invalid,d2eec5850643-opportunities-000169,true
+[SYNTHETIC] Vendor 170 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-02-08,vendor0170.example.invalid,d2eec5850643-opportunities-000170,true
+[SYNTHETIC] Vendor 171 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-05-27,vendor0171.example.invalid,d2eec5850643-opportunities-000171,true
+[SYNTHETIC] Vendor 172 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-05-20,vendor0172.example.invalid,d2eec5850643-opportunities-000172,true
+[SYNTHETIC] Vendor 173 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-05-01,vendor0173.example.invalid,d2eec5850643-opportunities-000173,true
+[SYNTHETIC] Vendor 174 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2024-12-11,vendor0174.example.invalid,d2eec5850643-opportunities-000174,true
+[SYNTHETIC] Vendor 175 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-07-29,vendor0175.example.invalid,d2eec5850643-opportunities-000175,true
+[SYNTHETIC] Vendor 176 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-09-13,vendor0176.example.invalid,d2eec5850643-opportunities-000176,true
+[SYNTHETIC] Vendor 177 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2026-03-04,vendor0177.example.invalid,d2eec5850643-opportunities-000177,true
+[SYNTHETIC] Vendor 178 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-02-08,vendor0178.example.invalid,d2eec5850643-opportunities-000178,true
+[SYNTHETIC] Vendor 179 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-01-16,vendor0179.example.invalid,d2eec5850643-opportunities-000179,true
+[SYNTHETIC] Vendor 180 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-01-11,vendor0180.example.invalid,d2eec5850643-opportunities-000180,true
+[SYNTHETIC] Vendor 181 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2026-01-08,vendor0181.example.invalid,d2eec5850643-opportunities-000181,true
+[SYNTHETIC] Vendor 182 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-04-25,vendor0182.example.invalid,d2eec5850643-opportunities-000182,true
+[SYNTHETIC] Vendor 183 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2024-11-26,vendor0183.example.invalid,d2eec5850643-opportunities-000183,true
+[SYNTHETIC] Vendor 184 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-02-10,vendor0184.example.invalid,d2eec5850643-opportunities-000184,true
+[SYNTHETIC] Vendor 185 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-07-30,vendor0185.example.invalid,d2eec5850643-opportunities-000185,true
+[SYNTHETIC] Vendor 186 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-06-06,vendor0186.example.invalid,d2eec5850643-opportunities-000186,true
+[SYNTHETIC] Vendor 187 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-06-18,vendor0187.example.invalid,d2eec5850643-opportunities-000187,true
+[SYNTHETIC] Vendor 188 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-01-23,vendor0188.example.invalid,d2eec5850643-opportunities-000188,true
+[SYNTHETIC] Vendor 189 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-03-23,vendor0189.example.invalid,d2eec5850643-opportunities-000189,true
+[SYNTHETIC] Vendor 190 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-05-21,vendor0190.example.invalid,d2eec5850643-opportunities-000190,true
+[SYNTHETIC] Vendor 191 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-04-29,vendor0191.example.invalid,d2eec5850643-opportunities-000191,true
+[SYNTHETIC] Vendor 192 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-01-14,vendor0192.example.invalid,d2eec5850643-opportunities-000192,true
+[SYNTHETIC] Vendor 193 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-10-22,vendor0193.example.invalid,d2eec5850643-opportunities-000193,true
+[SYNTHETIC] Vendor 194 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2024-12-14,vendor0194.example.invalid,d2eec5850643-opportunities-000194,true
+[SYNTHETIC] Vendor 195 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-07-22,vendor0195.example.invalid,d2eec5850643-opportunities-000195,true
+[SYNTHETIC] Vendor 196 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-10-25,vendor0196.example.invalid,d2eec5850643-opportunities-000196,true
+[SYNTHETIC] Vendor 197 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2026-02-05,vendor0197.example.invalid,d2eec5850643-opportunities-000197,true
+[SYNTHETIC] Vendor 198 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-07-16,vendor0198.example.invalid,d2eec5850643-opportunities-000198,true
+[SYNTHETIC] Vendor 199 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2026-01-22,vendor0199.example.invalid,d2eec5850643-opportunities-000199,true
+[SYNTHETIC] Vendor 200 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-09-25,vendor0200.example.invalid,d2eec5850643-opportunities-000200,true
+[SYNTHETIC] Vendor 201 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2026-08-16,vendor0201.example.invalid,d2eec5850643-opportunities-000201,true
+[SYNTHETIC] Vendor 202 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-02-27,vendor0202.example.invalid,d2eec5850643-opportunities-000202,true
+[SYNTHETIC] Vendor 203 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-09-02,vendor0203.example.invalid,d2eec5850643-opportunities-000203,true
+[SYNTHETIC] Vendor 204 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-10-23,vendor0204.example.invalid,d2eec5850643-opportunities-000204,true
+[SYNTHETIC] Vendor 205 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2024-12-25,vendor0205.example.invalid,d2eec5850643-opportunities-000205,true
+[SYNTHETIC] Vendor 206 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2024-11-17,vendor0206.example.invalid,d2eec5850643-opportunities-000206,true
+[SYNTHETIC] Vendor 207 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-03-05,vendor0207.example.invalid,d2eec5850643-opportunities-000207,true
+[SYNTHETIC] Vendor 208 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-03-15,vendor0208.example.invalid,d2eec5850643-opportunities-000208,true
+[SYNTHETIC] Vendor 209 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-09-25,vendor0209.example.invalid,d2eec5850643-opportunities-000209,true
+[SYNTHETIC] Vendor 210 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-07-23,vendor0210.example.invalid,d2eec5850643-opportunities-000210,true
+[SYNTHETIC] Vendor 211 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-05-20,vendor0211.example.invalid,d2eec5850643-opportunities-000211,true
+[SYNTHETIC] Vendor 212 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2026-06-04,vendor0212.example.invalid,d2eec5850643-opportunities-000212,true
+[SYNTHETIC] Vendor 213 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-10-27,vendor0213.example.invalid,d2eec5850643-opportunities-000213,true
+[SYNTHETIC] Vendor 214 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2025-06-16,vendor0214.example.invalid,d2eec5850643-opportunities-000214,true
+[SYNTHETIC] Vendor 215 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-10-02,vendor0215.example.invalid,d2eec5850643-opportunities-000215,true
+[SYNTHETIC] Vendor 216 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-07-07,vendor0216.example.invalid,d2eec5850643-opportunities-000216,true
+[SYNTHETIC] Vendor 217 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-12-09,vendor0217.example.invalid,d2eec5850643-opportunities-000217,true
+[SYNTHETIC] Vendor 218 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2024-12-03,vendor0218.example.invalid,d2eec5850643-opportunities-000218,true
+[SYNTHETIC] Vendor 219 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2026-04-28,vendor0219.example.invalid,d2eec5850643-opportunities-000219,true
+[SYNTHETIC] Vendor 220 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-07-25,vendor0220.example.invalid,d2eec5850643-opportunities-000220,true
+[SYNTHETIC] Vendor 221 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-11-30,vendor0221.example.invalid,d2eec5850643-opportunities-000221,true
+[SYNTHETIC] Vendor 222 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2025-09-04,vendor0222.example.invalid,d2eec5850643-opportunities-000222,true
+[SYNTHETIC] Vendor 223 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-06-11,vendor0223.example.invalid,d2eec5850643-opportunities-000223,true
+[SYNTHETIC] Vendor 224 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-01-04,vendor0224.example.invalid,d2eec5850643-opportunities-000224,true
+[SYNTHETIC] Vendor 225 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-06-05,vendor0225.example.invalid,d2eec5850643-opportunities-000225,true
+[SYNTHETIC] Vendor 226 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-10-07,vendor0226.example.invalid,d2eec5850643-opportunities-000226,true
+[SYNTHETIC] Vendor 227 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-09-03,vendor0227.example.invalid,d2eec5850643-opportunities-000227,true
+[SYNTHETIC] Vendor 228 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-07-04,vendor0228.example.invalid,d2eec5850643-opportunities-000228,true
+[SYNTHETIC] Vendor 229 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2026-02-13,vendor0229.example.invalid,d2eec5850643-opportunities-000229,true
+[SYNTHETIC] Vendor 230 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2025-09-26,vendor0230.example.invalid,d2eec5850643-opportunities-000230,true
+[SYNTHETIC] Vendor 231 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-05-13,vendor0231.example.invalid,d2eec5850643-opportunities-000231,true
+[SYNTHETIC] Vendor 232 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2024-12-17,vendor0232.example.invalid,d2eec5850643-opportunities-000232,true
+[SYNTHETIC] Vendor 233 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-07-09,vendor0233.example.invalid,d2eec5850643-opportunities-000233,true
+[SYNTHETIC] Vendor 234 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2026-10-20,vendor0234.example.invalid,d2eec5850643-opportunities-000234,true
+[SYNTHETIC] Vendor 235 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,12000.00,2025-11-14,vendor0235.example.invalid,d2eec5850643-opportunities-000235,true
+[SYNTHETIC] Vendor 236 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,20000.00,2024-12-15,vendor0236.example.invalid,d2eec5850643-opportunities-000236,true
+[SYNTHETIC] Vendor 237 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,30000.00,2025-05-05,vendor0237.example.invalid,d2eec5850643-opportunities-000237,true
+[SYNTHETIC] Vendor 238 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,36000.00,2026-01-11,vendor0238.example.invalid,d2eec5850643-opportunities-000238,true
+[SYNTHETIC] Vendor 239 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,24000.00,2025-03-02,vendor0239.example.invalid,d2eec5850643-opportunities-000239,true
+[SYNTHETIC] Vendor 240 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Lost,15000.00,2024-12-29,vendor0240.example.invalid,d2eec5850643-opportunities-000240,true
+[SYNTHETIC] Vendor 241 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-11,vendor0241.example.invalid,d2eec5850643-opportunities-000241,true
+[SYNTHETIC] Vendor 242 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-12,vendor0242.example.invalid,d2eec5850643-opportunities-000242,true
+[SYNTHETIC] Vendor 243 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-11-13,vendor0243.example.invalid,d2eec5850643-opportunities-000243,true
+[SYNTHETIC] Vendor 244 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-11-14,vendor0244.example.invalid,d2eec5850643-opportunities-000244,true
+[SYNTHETIC] Vendor 245 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-11-15,vendor0245.example.invalid,d2eec5850643-opportunities-000245,true
+[SYNTHETIC] Vendor 246 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-11-16,vendor0246.example.invalid,d2eec5850643-opportunities-000246,true
+[SYNTHETIC] Vendor 247 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-17,vendor0247.example.invalid,d2eec5850643-opportunities-000247,true
+[SYNTHETIC] Vendor 248 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-18,vendor0248.example.invalid,d2eec5850643-opportunities-000248,true
+[SYNTHETIC] Vendor 249 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-11-19,vendor0249.example.invalid,d2eec5850643-opportunities-000249,true
+[SYNTHETIC] Vendor 250 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-11-20,vendor0250.example.invalid,d2eec5850643-opportunities-000250,true
+[SYNTHETIC] Vendor 251 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-11-21,vendor0251.example.invalid,d2eec5850643-opportunities-000251,true
+[SYNTHETIC] Vendor 252 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-11-22,vendor0252.example.invalid,d2eec5850643-opportunities-000252,true
+[SYNTHETIC] Vendor 253 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-23,vendor0253.example.invalid,d2eec5850643-opportunities-000253,true
+[SYNTHETIC] Vendor 254 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-24,vendor0254.example.invalid,d2eec5850643-opportunities-000254,true
+[SYNTHETIC] Vendor 255 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-11-25,vendor0255.example.invalid,d2eec5850643-opportunities-000255,true
+[SYNTHETIC] Vendor 256 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-11-26,vendor0256.example.invalid,d2eec5850643-opportunities-000256,true
+[SYNTHETIC] Vendor 257 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-11-27,vendor0257.example.invalid,d2eec5850643-opportunities-000257,true
+[SYNTHETIC] Vendor 258 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-11-28,vendor0258.example.invalid,d2eec5850643-opportunities-000258,true
+[SYNTHETIC] Vendor 259 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-29,vendor0259.example.invalid,d2eec5850643-opportunities-000259,true
+[SYNTHETIC] Vendor 260 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-30,vendor0260.example.invalid,d2eec5850643-opportunities-000260,true
+[SYNTHETIC] Vendor 261 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-12-01,vendor0261.example.invalid,d2eec5850643-opportunities-000261,true
+[SYNTHETIC] Vendor 262 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-12-02,vendor0262.example.invalid,d2eec5850643-opportunities-000262,true
+[SYNTHETIC] Vendor 263 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-12-03,vendor0263.example.invalid,d2eec5850643-opportunities-000263,true
+[SYNTHETIC] Vendor 264 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-12-04,vendor0264.example.invalid,d2eec5850643-opportunities-000264,true
+[SYNTHETIC] Vendor 265 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-12-05,vendor0265.example.invalid,d2eec5850643-opportunities-000265,true
+[SYNTHETIC] Vendor 266 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-12-06,vendor0266.example.invalid,d2eec5850643-opportunities-000266,true
+[SYNTHETIC] Vendor 267 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-12-07,vendor0267.example.invalid,d2eec5850643-opportunities-000267,true
+[SYNTHETIC] Vendor 268 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-12-08,vendor0268.example.invalid,d2eec5850643-opportunities-000268,true
+[SYNTHETIC] Vendor 269 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-12-09,vendor0269.example.invalid,d2eec5850643-opportunities-000269,true
+[SYNTHETIC] Vendor 270 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-12-10,vendor0270.example.invalid,d2eec5850643-opportunities-000270,true
+[SYNTHETIC] Vendor 271 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-12-11,vendor0271.example.invalid,d2eec5850643-opportunities-000271,true
+[SYNTHETIC] Vendor 272 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-12-12,vendor0272.example.invalid,d2eec5850643-opportunities-000272,true
+[SYNTHETIC] Vendor 273 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-12-13,vendor0273.example.invalid,d2eec5850643-opportunities-000273,true
+[SYNTHETIC] Vendor 274 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-12-14,vendor0274.example.invalid,d2eec5850643-opportunities-000274,true
+[SYNTHETIC] Vendor 275 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-12-15,vendor0275.example.invalid,d2eec5850643-opportunities-000275,true
+[SYNTHETIC] Vendor 276 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-12-16,vendor0276.example.invalid,d2eec5850643-opportunities-000276,true
+[SYNTHETIC] Vendor 277 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-12-17,vendor0277.example.invalid,d2eec5850643-opportunities-000277,true
+[SYNTHETIC] Vendor 278 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-12-18,vendor0278.example.invalid,d2eec5850643-opportunities-000278,true
+[SYNTHETIC] Vendor 279 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-12-19,vendor0279.example.invalid,d2eec5850643-opportunities-000279,true
+[SYNTHETIC] Vendor 280 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-12-20,vendor0280.example.invalid,d2eec5850643-opportunities-000280,true
+[SYNTHETIC] Vendor 281 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-12-21,vendor0281.example.invalid,d2eec5850643-opportunities-000281,true
+[SYNTHETIC] Vendor 282 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-12-22,vendor0282.example.invalid,d2eec5850643-opportunities-000282,true
+[SYNTHETIC] Vendor 283 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-12-23,vendor0283.example.invalid,d2eec5850643-opportunities-000283,true
+[SYNTHETIC] Vendor 284 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-12-24,vendor0284.example.invalid,d2eec5850643-opportunities-000284,true
+[SYNTHETIC] Vendor 285 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-12-25,vendor0285.example.invalid,d2eec5850643-opportunities-000285,true
+[SYNTHETIC] Vendor 286 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-12-26,vendor0286.example.invalid,d2eec5850643-opportunities-000286,true
+[SYNTHETIC] Vendor 287 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-12-27,vendor0287.example.invalid,d2eec5850643-opportunities-000287,true
+[SYNTHETIC] Vendor 288 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-12-28,vendor0288.example.invalid,d2eec5850643-opportunities-000288,true
+[SYNTHETIC] Vendor 289 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-12-29,vendor0289.example.invalid,d2eec5850643-opportunities-000289,true
+[SYNTHETIC] Vendor 290 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-12-30,vendor0290.example.invalid,d2eec5850643-opportunities-000290,true
+[SYNTHETIC] Vendor 291 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-12-31,vendor0291.example.invalid,d2eec5850643-opportunities-000291,true
+[SYNTHETIC] Vendor 292 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2027-01-01,vendor0292.example.invalid,d2eec5850643-opportunities-000292,true
+[SYNTHETIC] Vendor 293 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2027-01-02,vendor0293.example.invalid,d2eec5850643-opportunities-000293,true
+[SYNTHETIC] Vendor 294 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2027-01-03,vendor0294.example.invalid,d2eec5850643-opportunities-000294,true
+[SYNTHETIC] Vendor 295 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2027-01-04,vendor0295.example.invalid,d2eec5850643-opportunities-000295,true
+[SYNTHETIC] Vendor 296 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2027-01-05,vendor0296.example.invalid,d2eec5850643-opportunities-000296,true
+[SYNTHETIC] Vendor 297 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2027-01-06,vendor0297.example.invalid,d2eec5850643-opportunities-000297,true
+[SYNTHETIC] Vendor 298 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2027-01-07,vendor0298.example.invalid,d2eec5850643-opportunities-000298,true
+[SYNTHETIC] Vendor 299 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2027-01-08,vendor0299.example.invalid,d2eec5850643-opportunities-000299,true
+[SYNTHETIC] Vendor 300 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2027-01-09,vendor0300.example.invalid,d2eec5850643-opportunities-000300,true
+[SYNTHETIC] Vendor 301 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-11,vendor0301.example.invalid,d2eec5850643-opportunities-000301,true
+[SYNTHETIC] Vendor 302 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-12,vendor0302.example.invalid,d2eec5850643-opportunities-000302,true
+[SYNTHETIC] Vendor 303 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-11-13,vendor0303.example.invalid,d2eec5850643-opportunities-000303,true
+[SYNTHETIC] Vendor 304 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-11-14,vendor0304.example.invalid,d2eec5850643-opportunities-000304,true
+[SYNTHETIC] Vendor 305 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-11-15,vendor0305.example.invalid,d2eec5850643-opportunities-000305,true
+[SYNTHETIC] Vendor 306 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-11-16,vendor0306.example.invalid,d2eec5850643-opportunities-000306,true
+[SYNTHETIC] Vendor 307 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-17,vendor0307.example.invalid,d2eec5850643-opportunities-000307,true
+[SYNTHETIC] Vendor 308 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-18,vendor0308.example.invalid,d2eec5850643-opportunities-000308,true
+[SYNTHETIC] Vendor 309 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-11-19,vendor0309.example.invalid,d2eec5850643-opportunities-000309,true
+[SYNTHETIC] Vendor 310 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-11-20,vendor0310.example.invalid,d2eec5850643-opportunities-000310,true
+[SYNTHETIC] Vendor 311 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-11-21,vendor0311.example.invalid,d2eec5850643-opportunities-000311,true
+[SYNTHETIC] Vendor 312 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-11-22,vendor0312.example.invalid,d2eec5850643-opportunities-000312,true
+[SYNTHETIC] Vendor 313 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-23,vendor0313.example.invalid,d2eec5850643-opportunities-000313,true
+[SYNTHETIC] Vendor 314 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-24,vendor0314.example.invalid,d2eec5850643-opportunities-000314,true
+[SYNTHETIC] Vendor 315 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,30000.00,2026-11-25,vendor0315.example.invalid,d2eec5850643-opportunities-000315,true
+[SYNTHETIC] Vendor 316 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,36000.00,2026-11-26,vendor0316.example.invalid,d2eec5850643-opportunities-000316,true
+[SYNTHETIC] Vendor 317 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,24000.00,2026-11-27,vendor0317.example.invalid,d2eec5850643-opportunities-000317,true
+[SYNTHETIC] Vendor 318 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,15000.00,2026-11-28,vendor0318.example.invalid,d2eec5850643-opportunities-000318,true
+[SYNTHETIC] Vendor 319 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,12000.00,2026-11-29,vendor0319.example.invalid,d2eec5850643-opportunities-000319,true
+[SYNTHETIC] Vendor 320 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Nurturing,20000.00,2026-11-30,vendor0320.example.invalid,d2eec5850643-opportunities-000320,true
+[SYNTHETIC] Vendor 321 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-12-01,vendor0321.example.invalid,d2eec5850643-opportunities-000321,true
+[SYNTHETIC] Vendor 322 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-12-02,vendor0322.example.invalid,d2eec5850643-opportunities-000322,true
+[SYNTHETIC] Vendor 323 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-12-03,vendor0323.example.invalid,d2eec5850643-opportunities-000323,true
+[SYNTHETIC] Vendor 324 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-12-04,vendor0324.example.invalid,d2eec5850643-opportunities-000324,true
+[SYNTHETIC] Vendor 325 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-12-05,vendor0325.example.invalid,d2eec5850643-opportunities-000325,true
+[SYNTHETIC] Vendor 326 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-12-06,vendor0326.example.invalid,d2eec5850643-opportunities-000326,true
+[SYNTHETIC] Vendor 327 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-12-07,vendor0327.example.invalid,d2eec5850643-opportunities-000327,true
+[SYNTHETIC] Vendor 328 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-12-08,vendor0328.example.invalid,d2eec5850643-opportunities-000328,true
+[SYNTHETIC] Vendor 329 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-12-09,vendor0329.example.invalid,d2eec5850643-opportunities-000329,true
+[SYNTHETIC] Vendor 330 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-12-10,vendor0330.example.invalid,d2eec5850643-opportunities-000330,true
+[SYNTHETIC] Vendor 331 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-12-11,vendor0331.example.invalid,d2eec5850643-opportunities-000331,true
+[SYNTHETIC] Vendor 332 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-12-12,vendor0332.example.invalid,d2eec5850643-opportunities-000332,true
+[SYNTHETIC] Vendor 333 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-12-13,vendor0333.example.invalid,d2eec5850643-opportunities-000333,true
+[SYNTHETIC] Vendor 334 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-12-14,vendor0334.example.invalid,d2eec5850643-opportunities-000334,true
+[SYNTHETIC] Vendor 335 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-12-15,vendor0335.example.invalid,d2eec5850643-opportunities-000335,true
+[SYNTHETIC] Vendor 336 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-12-16,vendor0336.example.invalid,d2eec5850643-opportunities-000336,true
+[SYNTHETIC] Vendor 337 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-12-17,vendor0337.example.invalid,d2eec5850643-opportunities-000337,true
+[SYNTHETIC] Vendor 338 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-12-18,vendor0338.example.invalid,d2eec5850643-opportunities-000338,true
+[SYNTHETIC] Vendor 339 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-12-19,vendor0339.example.invalid,d2eec5850643-opportunities-000339,true
+[SYNTHETIC] Vendor 340 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-12-20,vendor0340.example.invalid,d2eec5850643-opportunities-000340,true
+[SYNTHETIC] Vendor 341 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-12-21,vendor0341.example.invalid,d2eec5850643-opportunities-000341,true
+[SYNTHETIC] Vendor 342 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-12-22,vendor0342.example.invalid,d2eec5850643-opportunities-000342,true
+[SYNTHETIC] Vendor 343 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-12-23,vendor0343.example.invalid,d2eec5850643-opportunities-000343,true
+[SYNTHETIC] Vendor 344 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-12-24,vendor0344.example.invalid,d2eec5850643-opportunities-000344,true
+[SYNTHETIC] Vendor 345 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-12-25,vendor0345.example.invalid,d2eec5850643-opportunities-000345,true
+[SYNTHETIC] Vendor 346 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-12-26,vendor0346.example.invalid,d2eec5850643-opportunities-000346,true
+[SYNTHETIC] Vendor 347 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-12-27,vendor0347.example.invalid,d2eec5850643-opportunities-000347,true
+[SYNTHETIC] Vendor 348 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-12-28,vendor0348.example.invalid,d2eec5850643-opportunities-000348,true
+[SYNTHETIC] Vendor 349 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-12-29,vendor0349.example.invalid,d2eec5850643-opportunities-000349,true
+[SYNTHETIC] Vendor 350 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-12-30,vendor0350.example.invalid,d2eec5850643-opportunities-000350,true
+[SYNTHETIC] Vendor 351 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-12-31,vendor0351.example.invalid,d2eec5850643-opportunities-000351,true
+[SYNTHETIC] Vendor 352 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2027-01-01,vendor0352.example.invalid,d2eec5850643-opportunities-000352,true
+[SYNTHETIC] Vendor 353 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2027-01-02,vendor0353.example.invalid,d2eec5850643-opportunities-000353,true
+[SYNTHETIC] Vendor 354 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2027-01-03,vendor0354.example.invalid,d2eec5850643-opportunities-000354,true
+[SYNTHETIC] Vendor 355 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2027-01-04,vendor0355.example.invalid,d2eec5850643-opportunities-000355,true
+[SYNTHETIC] Vendor 356 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2027-01-05,vendor0356.example.invalid,d2eec5850643-opportunities-000356,true
+[SYNTHETIC] Vendor 357 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2027-01-06,vendor0357.example.invalid,d2eec5850643-opportunities-000357,true
+[SYNTHETIC] Vendor 358 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2027-01-07,vendor0358.example.invalid,d2eec5850643-opportunities-000358,true
+[SYNTHETIC] Vendor 359 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2027-01-08,vendor0359.example.invalid,d2eec5850643-opportunities-000359,true
+[SYNTHETIC] Vendor 360 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2027-01-09,vendor0360.example.invalid,d2eec5850643-opportunities-000360,true
+[SYNTHETIC] Vendor 361 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-11-11,vendor0361.example.invalid,d2eec5850643-opportunities-000361,true
+[SYNTHETIC] Vendor 362 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-11-12,vendor0362.example.invalid,d2eec5850643-opportunities-000362,true
+[SYNTHETIC] Vendor 363 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-11-13,vendor0363.example.invalid,d2eec5850643-opportunities-000363,true
+[SYNTHETIC] Vendor 364 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-11-14,vendor0364.example.invalid,d2eec5850643-opportunities-000364,true
+[SYNTHETIC] Vendor 365 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-11-15,vendor0365.example.invalid,d2eec5850643-opportunities-000365,true
+[SYNTHETIC] Vendor 366 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-11-16,vendor0366.example.invalid,d2eec5850643-opportunities-000366,true
+[SYNTHETIC] Vendor 367 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-11-17,vendor0367.example.invalid,d2eec5850643-opportunities-000367,true
+[SYNTHETIC] Vendor 368 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-11-18,vendor0368.example.invalid,d2eec5850643-opportunities-000368,true
+[SYNTHETIC] Vendor 369 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-11-19,vendor0369.example.invalid,d2eec5850643-opportunities-000369,true
+[SYNTHETIC] Vendor 370 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-11-20,vendor0370.example.invalid,d2eec5850643-opportunities-000370,true
+[SYNTHETIC] Vendor 371 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-11-21,vendor0371.example.invalid,d2eec5850643-opportunities-000371,true
+[SYNTHETIC] Vendor 372 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-11-22,vendor0372.example.invalid,d2eec5850643-opportunities-000372,true
+[SYNTHETIC] Vendor 373 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-11-23,vendor0373.example.invalid,d2eec5850643-opportunities-000373,true
+[SYNTHETIC] Vendor 374 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-11-24,vendor0374.example.invalid,d2eec5850643-opportunities-000374,true
+[SYNTHETIC] Vendor 375 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,30000.00,2026-11-25,vendor0375.example.invalid,d2eec5850643-opportunities-000375,true
+[SYNTHETIC] Vendor 376 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,36000.00,2026-11-26,vendor0376.example.invalid,d2eec5850643-opportunities-000376,true
+[SYNTHETIC] Vendor 377 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,24000.00,2026-11-27,vendor0377.example.invalid,d2eec5850643-opportunities-000377,true
+[SYNTHETIC] Vendor 378 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,15000.00,2026-11-28,vendor0378.example.invalid,d2eec5850643-opportunities-000378,true
+[SYNTHETIC] Vendor 379 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,12000.00,2026-11-29,vendor0379.example.invalid,d2eec5850643-opportunities-000379,true
+[SYNTHETIC] Vendor 380 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Qualification,20000.00,2026-11-30,vendor0380.example.invalid,d2eec5850643-opportunities-000380,true
+[SYNTHETIC] Vendor 381 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-12-01,vendor0381.example.invalid,d2eec5850643-opportunities-000381,true
+[SYNTHETIC] Vendor 382 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2026-12-02,vendor0382.example.invalid,d2eec5850643-opportunities-000382,true
+[SYNTHETIC] Vendor 383 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2026-12-03,vendor0383.example.invalid,d2eec5850643-opportunities-000383,true
+[SYNTHETIC] Vendor 384 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2026-12-04,vendor0384.example.invalid,d2eec5850643-opportunities-000384,true
+[SYNTHETIC] Vendor 385 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2026-12-05,vendor0385.example.invalid,d2eec5850643-opportunities-000385,true
+[SYNTHETIC] Vendor 386 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2026-12-06,vendor0386.example.invalid,d2eec5850643-opportunities-000386,true
+[SYNTHETIC] Vendor 387 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-12-07,vendor0387.example.invalid,d2eec5850643-opportunities-000387,true
+[SYNTHETIC] Vendor 388 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2026-12-08,vendor0388.example.invalid,d2eec5850643-opportunities-000388,true
+[SYNTHETIC] Vendor 389 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2026-12-09,vendor0389.example.invalid,d2eec5850643-opportunities-000389,true
+[SYNTHETIC] Vendor 390 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2026-12-10,vendor0390.example.invalid,d2eec5850643-opportunities-000390,true
+[SYNTHETIC] Vendor 391 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2026-12-11,vendor0391.example.invalid,d2eec5850643-opportunities-000391,true
+[SYNTHETIC] Vendor 392 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2026-12-12,vendor0392.example.invalid,d2eec5850643-opportunities-000392,true
+[SYNTHETIC] Vendor 393 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-12-13,vendor0393.example.invalid,d2eec5850643-opportunities-000393,true
+[SYNTHETIC] Vendor 394 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2026-12-14,vendor0394.example.invalid,d2eec5850643-opportunities-000394,true
+[SYNTHETIC] Vendor 395 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2026-12-15,vendor0395.example.invalid,d2eec5850643-opportunities-000395,true
+[SYNTHETIC] Vendor 396 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2026-12-16,vendor0396.example.invalid,d2eec5850643-opportunities-000396,true
+[SYNTHETIC] Vendor 397 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2026-12-17,vendor0397.example.invalid,d2eec5850643-opportunities-000397,true
+[SYNTHETIC] Vendor 398 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2026-12-18,vendor0398.example.invalid,d2eec5850643-opportunities-000398,true
+[SYNTHETIC] Vendor 399 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-12-19,vendor0399.example.invalid,d2eec5850643-opportunities-000399,true
+[SYNTHETIC] Vendor 400 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2026-12-20,vendor0400.example.invalid,d2eec5850643-opportunities-000400,true
+[SYNTHETIC] Vendor 401 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2026-12-21,vendor0401.example.invalid,d2eec5850643-opportunities-000401,true
+[SYNTHETIC] Vendor 402 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2026-12-22,vendor0402.example.invalid,d2eec5850643-opportunities-000402,true
+[SYNTHETIC] Vendor 403 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2026-12-23,vendor0403.example.invalid,d2eec5850643-opportunities-000403,true
+[SYNTHETIC] Vendor 404 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2026-12-24,vendor0404.example.invalid,d2eec5850643-opportunities-000404,true
+[SYNTHETIC] Vendor 405 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-12-25,vendor0405.example.invalid,d2eec5850643-opportunities-000405,true
+[SYNTHETIC] Vendor 406 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2026-12-26,vendor0406.example.invalid,d2eec5850643-opportunities-000406,true
+[SYNTHETIC] Vendor 407 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2026-12-27,vendor0407.example.invalid,d2eec5850643-opportunities-000407,true
+[SYNTHETIC] Vendor 408 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2026-12-28,vendor0408.example.invalid,d2eec5850643-opportunities-000408,true
+[SYNTHETIC] Vendor 409 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2026-12-29,vendor0409.example.invalid,d2eec5850643-opportunities-000409,true
+[SYNTHETIC] Vendor 410 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2026-12-30,vendor0410.example.invalid,d2eec5850643-opportunities-000410,true
+[SYNTHETIC] Vendor 411 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-12-31,vendor0411.example.invalid,d2eec5850643-opportunities-000411,true
+[SYNTHETIC] Vendor 412 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2027-01-01,vendor0412.example.invalid,d2eec5850643-opportunities-000412,true
+[SYNTHETIC] Vendor 413 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2027-01-02,vendor0413.example.invalid,d2eec5850643-opportunities-000413,true
+[SYNTHETIC] Vendor 414 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2027-01-03,vendor0414.example.invalid,d2eec5850643-opportunities-000414,true
+[SYNTHETIC] Vendor 415 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2027-01-04,vendor0415.example.invalid,d2eec5850643-opportunities-000415,true
+[SYNTHETIC] Vendor 416 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2027-01-05,vendor0416.example.invalid,d2eec5850643-opportunities-000416,true
+[SYNTHETIC] Vendor 417 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2027-01-06,vendor0417.example.invalid,d2eec5850643-opportunities-000417,true
+[SYNTHETIC] Vendor 418 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2027-01-07,vendor0418.example.invalid,d2eec5850643-opportunities-000418,true
+[SYNTHETIC] Vendor 419 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2027-01-08,vendor0419.example.invalid,d2eec5850643-opportunities-000419,true
+[SYNTHETIC] Vendor 420 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2027-01-09,vendor0420.example.invalid,d2eec5850643-opportunities-000420,true
+[SYNTHETIC] Vendor 421 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2026-11-11,vendor0421.example.invalid,d2eec5850643-opportunities-000421,true
+[SYNTHETIC] Vendor 422 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2026-11-12,vendor0422.example.invalid,d2eec5850643-opportunities-000422,true
+[SYNTHETIC] Vendor 423 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-11-13,vendor0423.example.invalid,d2eec5850643-opportunities-000423,true
+[SYNTHETIC] Vendor 424 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2026-11-14,vendor0424.example.invalid,d2eec5850643-opportunities-000424,true
+[SYNTHETIC] Vendor 425 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,24000.00,2026-11-15,vendor0425.example.invalid,d2eec5850643-opportunities-000425,true
+[SYNTHETIC] Vendor 426 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,15000.00,2026-11-16,vendor0426.example.invalid,d2eec5850643-opportunities-000426,true
+[SYNTHETIC] Vendor 427 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,12000.00,2026-11-17,vendor0427.example.invalid,d2eec5850643-opportunities-000427,true
+[SYNTHETIC] Vendor 428 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,20000.00,2026-11-18,vendor0428.example.invalid,d2eec5850643-opportunities-000428,true
+[SYNTHETIC] Vendor 429 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,30000.00,2026-11-19,vendor0429.example.invalid,d2eec5850643-opportunities-000429,true
+[SYNTHETIC] Vendor 430 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Contacted,36000.00,2026-11-20,vendor0430.example.invalid,d2eec5850643-opportunities-000430,true
+[SYNTHETIC] Vendor 431 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-11-21,vendor0431.example.invalid,d2eec5850643-opportunities-000431,true
+[SYNTHETIC] Vendor 432 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-11-22,vendor0432.example.invalid,d2eec5850643-opportunities-000432,true
+[SYNTHETIC] Vendor 433 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-11-23,vendor0433.example.invalid,d2eec5850643-opportunities-000433,true
+[SYNTHETIC] Vendor 434 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-11-24,vendor0434.example.invalid,d2eec5850643-opportunities-000434,true
+[SYNTHETIC] Vendor 435 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-11-25,vendor0435.example.invalid,d2eec5850643-opportunities-000435,true
+[SYNTHETIC] Vendor 436 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-11-26,vendor0436.example.invalid,d2eec5850643-opportunities-000436,true
+[SYNTHETIC] Vendor 437 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-11-27,vendor0437.example.invalid,d2eec5850643-opportunities-000437,true
+[SYNTHETIC] Vendor 438 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-11-28,vendor0438.example.invalid,d2eec5850643-opportunities-000438,true
+[SYNTHETIC] Vendor 439 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-11-29,vendor0439.example.invalid,d2eec5850643-opportunities-000439,true
+[SYNTHETIC] Vendor 440 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-11-30,vendor0440.example.invalid,d2eec5850643-opportunities-000440,true
+[SYNTHETIC] Vendor 441 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-12-01,vendor0441.example.invalid,d2eec5850643-opportunities-000441,true
+[SYNTHETIC] Vendor 442 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-12-02,vendor0442.example.invalid,d2eec5850643-opportunities-000442,true
+[SYNTHETIC] Vendor 443 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-12-03,vendor0443.example.invalid,d2eec5850643-opportunities-000443,true
+[SYNTHETIC] Vendor 444 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-12-04,vendor0444.example.invalid,d2eec5850643-opportunities-000444,true
+[SYNTHETIC] Vendor 445 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-12-05,vendor0445.example.invalid,d2eec5850643-opportunities-000445,true
+[SYNTHETIC] Vendor 446 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-12-06,vendor0446.example.invalid,d2eec5850643-opportunities-000446,true
+[SYNTHETIC] Vendor 447 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-12-07,vendor0447.example.invalid,d2eec5850643-opportunities-000447,true
+[SYNTHETIC] Vendor 448 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-12-08,vendor0448.example.invalid,d2eec5850643-opportunities-000448,true
+[SYNTHETIC] Vendor 449 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-12-09,vendor0449.example.invalid,d2eec5850643-opportunities-000449,true
+[SYNTHETIC] Vendor 450 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-12-10,vendor0450.example.invalid,d2eec5850643-opportunities-000450,true
+[SYNTHETIC] Vendor 451 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-12-11,vendor0451.example.invalid,d2eec5850643-opportunities-000451,true
+[SYNTHETIC] Vendor 452 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-12-12,vendor0452.example.invalid,d2eec5850643-opportunities-000452,true
+[SYNTHETIC] Vendor 453 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-12-13,vendor0453.example.invalid,d2eec5850643-opportunities-000453,true
+[SYNTHETIC] Vendor 454 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-12-14,vendor0454.example.invalid,d2eec5850643-opportunities-000454,true
+[SYNTHETIC] Vendor 455 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-12-15,vendor0455.example.invalid,d2eec5850643-opportunities-000455,true
+[SYNTHETIC] Vendor 456 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-12-16,vendor0456.example.invalid,d2eec5850643-opportunities-000456,true
+[SYNTHETIC] Vendor 457 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-12-17,vendor0457.example.invalid,d2eec5850643-opportunities-000457,true
+[SYNTHETIC] Vendor 458 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-12-18,vendor0458.example.invalid,d2eec5850643-opportunities-000458,true
+[SYNTHETIC] Vendor 459 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-12-19,vendor0459.example.invalid,d2eec5850643-opportunities-000459,true
+[SYNTHETIC] Vendor 460 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-12-20,vendor0460.example.invalid,d2eec5850643-opportunities-000460,true
+[SYNTHETIC] Vendor 461 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-12-21,vendor0461.example.invalid,d2eec5850643-opportunities-000461,true
+[SYNTHETIC] Vendor 462 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-12-22,vendor0462.example.invalid,d2eec5850643-opportunities-000462,true
+[SYNTHETIC] Vendor 463 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-12-23,vendor0463.example.invalid,d2eec5850643-opportunities-000463,true
+[SYNTHETIC] Vendor 464 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-12-24,vendor0464.example.invalid,d2eec5850643-opportunities-000464,true
+[SYNTHETIC] Vendor 465 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-12-25,vendor0465.example.invalid,d2eec5850643-opportunities-000465,true
+[SYNTHETIC] Vendor 466 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-12-26,vendor0466.example.invalid,d2eec5850643-opportunities-000466,true
+[SYNTHETIC] Vendor 467 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-12-27,vendor0467.example.invalid,d2eec5850643-opportunities-000467,true
+[SYNTHETIC] Vendor 468 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-12-28,vendor0468.example.invalid,d2eec5850643-opportunities-000468,true
+[SYNTHETIC] Vendor 469 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-12-29,vendor0469.example.invalid,d2eec5850643-opportunities-000469,true
+[SYNTHETIC] Vendor 470 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-12-30,vendor0470.example.invalid,d2eec5850643-opportunities-000470,true
+[SYNTHETIC] Vendor 471 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-12-31,vendor0471.example.invalid,d2eec5850643-opportunities-000471,true
+[SYNTHETIC] Vendor 472 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2027-01-01,vendor0472.example.invalid,d2eec5850643-opportunities-000472,true
+[SYNTHETIC] Vendor 473 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2027-01-02,vendor0473.example.invalid,d2eec5850643-opportunities-000473,true
+[SYNTHETIC] Vendor 474 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2027-01-03,vendor0474.example.invalid,d2eec5850643-opportunities-000474,true
+[SYNTHETIC] Vendor 475 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2027-01-04,vendor0475.example.invalid,d2eec5850643-opportunities-000475,true
+[SYNTHETIC] Vendor 476 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2027-01-05,vendor0476.example.invalid,d2eec5850643-opportunities-000476,true
+[SYNTHETIC] Vendor 477 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2027-01-06,vendor0477.example.invalid,d2eec5850643-opportunities-000477,true
+[SYNTHETIC] Vendor 478 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2027-01-07,vendor0478.example.invalid,d2eec5850643-opportunities-000478,true
+[SYNTHETIC] Vendor 479 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2027-01-08,vendor0479.example.invalid,d2eec5850643-opportunities-000479,true
+[SYNTHETIC] Vendor 480 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2027-01-09,vendor0480.example.invalid,d2eec5850643-opportunities-000480,true
+[SYNTHETIC] Vendor 481 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-11-11,vendor0481.example.invalid,d2eec5850643-opportunities-000481,true
+[SYNTHETIC] Vendor 482 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-11-12,vendor0482.example.invalid,d2eec5850643-opportunities-000482,true
+[SYNTHETIC] Vendor 483 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-11-13,vendor0483.example.invalid,d2eec5850643-opportunities-000483,true
+[SYNTHETIC] Vendor 484 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-11-14,vendor0484.example.invalid,d2eec5850643-opportunities-000484,true
+[SYNTHETIC] Vendor 485 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-11-15,vendor0485.example.invalid,d2eec5850643-opportunities-000485,true
+[SYNTHETIC] Vendor 486 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-11-16,vendor0486.example.invalid,d2eec5850643-opportunities-000486,true
+[SYNTHETIC] Vendor 487 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-11-17,vendor0487.example.invalid,d2eec5850643-opportunities-000487,true
+[SYNTHETIC] Vendor 488 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-11-18,vendor0488.example.invalid,d2eec5850643-opportunities-000488,true
+[SYNTHETIC] Vendor 489 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-11-19,vendor0489.example.invalid,d2eec5850643-opportunities-000489,true
+[SYNTHETIC] Vendor 490 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-11-20,vendor0490.example.invalid,d2eec5850643-opportunities-000490,true
+[SYNTHETIC] Vendor 491 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-11-21,vendor0491.example.invalid,d2eec5850643-opportunities-000491,true
+[SYNTHETIC] Vendor 492 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-11-22,vendor0492.example.invalid,d2eec5850643-opportunities-000492,true
+[SYNTHETIC] Vendor 493 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-11-23,vendor0493.example.invalid,d2eec5850643-opportunities-000493,true
+[SYNTHETIC] Vendor 494 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-11-24,vendor0494.example.invalid,d2eec5850643-opportunities-000494,true
+[SYNTHETIC] Vendor 495 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,30000.00,2026-11-25,vendor0495.example.invalid,d2eec5850643-opportunities-000495,true
+[SYNTHETIC] Vendor 496 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,36000.00,2026-11-26,vendor0496.example.invalid,d2eec5850643-opportunities-000496,true
+[SYNTHETIC] Vendor 497 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,24000.00,2026-11-27,vendor0497.example.invalid,d2eec5850643-opportunities-000497,true
+[SYNTHETIC] Vendor 498 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,15000.00,2026-11-28,vendor0498.example.invalid,d2eec5850643-opportunities-000498,true
+[SYNTHETIC] Vendor 499 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,12000.00,2026-11-29,vendor0499.example.invalid,d2eec5850643-opportunities-000499,true
+[SYNTHETIC] Vendor 500 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Prospecting,20000.00,2026-11-30,vendor0500.example.invalid,d2eec5850643-opportunities-000500,true

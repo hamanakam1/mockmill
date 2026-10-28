@@ -1,0 +1,121 @@
+id,dataset_id,synthetic,knowledge_id,author_id,version,recorded_at,change_note
+d2eec5850643-knowledge_versions-000001,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000001,d2eec5850643-staff-000001,1,2024-10-29T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000002,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000001,d2eec5850643-staff-000001,2,2024-11-05T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000003,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000002,d2eec5850643-staff-000002,1,2024-11-10T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000004,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000002,d2eec5850643-staff-000002,2,2024-11-17T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000005,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000003,d2eec5850643-staff-000003,1,2024-11-22T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000006,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000003,d2eec5850643-staff-000003,2,2024-11-29T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000007,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000004,d2eec5850643-staff-000004,1,2024-12-04T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000008,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000004,d2eec5850643-staff-000004,2,2024-12-11T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000009,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000005,d2eec5850643-staff-000005,1,2024-12-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000010,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000005,d2eec5850643-staff-000005,2,2024-12-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000011,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000006,d2eec5850643-staff-000006,1,2024-12-28T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000012,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000006,d2eec5850643-staff-000006,2,2025-01-04T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000013,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000007,d2eec5850643-staff-000007,1,2025-01-09T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000014,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000007,d2eec5850643-staff-000007,2,2025-01-16T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000015,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000008,d2eec5850643-staff-000008,1,2025-01-22T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000016,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000008,d2eec5850643-staff-000008,2,2025-01-29T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000017,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000009,d2eec5850643-staff-000009,1,2025-02-03T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000018,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000009,d2eec5850643-staff-000009,2,2025-02-10T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000019,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000010,d2eec5850643-staff-000010,1,2025-02-15T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000020,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000010,d2eec5850643-staff-000010,2,2025-02-22T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000021,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000011,d2eec5850643-staff-000011,1,2025-02-27T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000022,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000011,d2eec5850643-staff-000011,2,2025-03-06T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000023,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000012,d2eec5850643-staff-000012,1,2025-03-11T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000024,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000012,d2eec5850643-staff-000012,2,2025-03-18T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000025,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000013,d2eec5850643-staff-000013,1,2025-03-23T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000026,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000013,d2eec5850643-staff-000013,2,2025-03-30T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000027,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000014,d2eec5850643-staff-000014,1,2025-04-04T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000028,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000014,d2eec5850643-staff-000014,2,2025-04-11T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000029,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000015,d2eec5850643-staff-000015,1,2025-04-17T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000030,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000015,d2eec5850643-staff-000015,2,2025-04-24T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000031,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000016,d2eec5850643-staff-000016,1,2025-04-29T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000032,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000016,d2eec5850643-staff-000016,2,2025-05-06T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000033,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000017,d2eec5850643-staff-000017,1,2025-05-11T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000034,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000017,d2eec5850643-staff-000017,2,2025-05-18T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000035,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000018,d2eec5850643-staff-000018,1,2025-05-23T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000036,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000018,d2eec5850643-staff-000018,2,2025-05-30T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000037,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000019,d2eec5850643-staff-000019,1,2025-06-04T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000038,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000019,d2eec5850643-staff-000019,2,2025-06-11T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000039,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000020,d2eec5850643-staff-000020,1,2025-06-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000040,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000020,d2eec5850643-staff-000020,2,2025-06-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000041,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000021,d2eec5850643-staff-000021,1,2025-06-29T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000042,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000021,d2eec5850643-staff-000021,2,2025-07-06T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000043,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000022,d2eec5850643-staff-000022,1,2025-07-11T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000044,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000022,d2eec5850643-staff-000022,2,2025-07-18T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000045,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000023,d2eec5850643-staff-000023,1,2025-07-23T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000046,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000023,d2eec5850643-staff-000023,2,2025-07-30T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000047,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000024,d2eec5850643-staff-000024,1,2025-08-04T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000048,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000024,d2eec5850643-staff-000024,2,2025-08-11T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000049,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000025,d2eec5850643-staff-000025,1,2025-08-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000050,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000025,d2eec5850643-staff-000025,2,2025-08-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000051,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000026,d2eec5850643-staff-000026,1,2025-08-28T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000052,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000026,d2eec5850643-staff-000026,2,2025-09-04T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000053,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000027,d2eec5850643-staff-000027,1,2025-09-09T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000054,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000027,d2eec5850643-staff-000027,2,2025-09-16T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000055,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000028,d2eec5850643-staff-000028,1,2025-09-22T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000056,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000028,d2eec5850643-staff-000028,2,2025-09-29T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000057,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000029,d2eec5850643-staff-000029,1,2025-10-04T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000058,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000029,d2eec5850643-staff-000029,2,2025-10-11T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000059,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000030,d2eec5850643-staff-000030,1,2025-10-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000060,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000030,d2eec5850643-staff-000030,2,2025-10-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000061,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000031,d2eec5850643-staff-000031,1,2025-10-28T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000062,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000031,d2eec5850643-staff-000031,2,2025-11-04T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000063,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000032,d2eec5850643-staff-000032,1,2025-11-09T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000064,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000032,d2eec5850643-staff-000032,2,2025-11-16T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000065,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000033,d2eec5850643-staff-000033,1,2025-11-21T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000066,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000033,d2eec5850643-staff-000033,2,2025-11-28T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000067,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000034,d2eec5850643-staff-000034,1,2025-12-03T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000068,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000034,d2eec5850643-staff-000034,2,2025-12-10T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000069,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000035,d2eec5850643-staff-000035,1,2025-12-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000070,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000035,d2eec5850643-staff-000035,2,2025-12-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000071,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000036,d2eec5850643-staff-000036,1,2025-12-28T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000072,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000036,d2eec5850643-staff-000036,2,2026-01-04T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000073,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000037,d2eec5850643-staff-000037,1,2026-01-09T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000074,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000037,d2eec5850643-staff-000037,2,2026-01-16T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000075,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000038,d2eec5850643-staff-000038,1,2026-01-21T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000076,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000038,d2eec5850643-staff-000038,2,2026-01-28T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000077,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000039,d2eec5850643-staff-000039,1,2026-02-02T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000078,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000039,d2eec5850643-staff-000039,2,2026-02-09T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000079,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000040,d2eec5850643-staff-000040,1,2026-02-14T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000080,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000040,d2eec5850643-staff-000040,2,2026-02-21T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000081,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000041,d2eec5850643-staff-000001,1,2026-02-27T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000082,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000041,d2eec5850643-staff-000001,2,2026-03-06T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000083,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000042,d2eec5850643-staff-000002,1,2026-03-11T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000084,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000042,d2eec5850643-staff-000002,2,2026-03-18T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000085,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000043,d2eec5850643-staff-000003,1,2026-03-23T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000086,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000043,d2eec5850643-staff-000003,2,2026-03-30T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000087,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000044,d2eec5850643-staff-000004,1,2026-04-04T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000088,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000044,d2eec5850643-staff-000004,2,2026-04-11T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000089,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000045,d2eec5850643-staff-000005,1,2026-04-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000090,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000045,d2eec5850643-staff-000005,2,2026-04-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000091,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000046,d2eec5850643-staff-000006,1,2026-04-28T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000092,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000046,d2eec5850643-staff-000006,2,2026-05-05T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000093,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000047,d2eec5850643-staff-000007,1,2026-05-10T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000094,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000047,d2eec5850643-staff-000007,2,2026-05-17T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000095,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000048,d2eec5850643-staff-000008,1,2026-05-23T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000096,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000048,d2eec5850643-staff-000008,2,2026-05-30T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000097,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000049,d2eec5850643-staff-000009,1,2026-06-04T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000098,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000049,d2eec5850643-staff-000009,2,2026-06-11T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000099,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000050,d2eec5850643-staff-000010,1,2026-06-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000100,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000050,d2eec5850643-staff-000010,2,2026-06-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000101,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000051,d2eec5850643-staff-000011,1,2026-06-28T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000102,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000051,d2eec5850643-staff-000011,2,2026-07-05T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000103,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000052,d2eec5850643-staff-000012,1,2026-07-10T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000104,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000052,d2eec5850643-staff-000012,2,2026-07-17T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000105,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000053,d2eec5850643-staff-000013,1,2026-07-22T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000106,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000053,d2eec5850643-staff-000013,2,2026-07-29T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000107,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000054,d2eec5850643-staff-000014,1,2026-08-03T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000108,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000054,d2eec5850643-staff-000014,2,2026-08-10T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000109,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000055,d2eec5850643-staff-000015,1,2026-08-16T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000110,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000055,d2eec5850643-staff-000015,2,2026-08-23T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000111,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000056,d2eec5850643-staff-000016,1,2026-08-28T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000112,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000056,d2eec5850643-staff-000016,2,2026-09-04T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000113,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000057,d2eec5850643-staff-000017,1,2026-09-09T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000114,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000057,d2eec5850643-staff-000017,2,2026-09-16T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000115,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000058,d2eec5850643-staff-000018,1,2026-09-21T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000116,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000058,d2eec5850643-staff-000018,2,2026-09-28T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000117,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000059,d2eec5850643-staff-000019,1,2026-10-03T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000118,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000059,d2eec5850643-staff-000019,2,2026-10-10T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question
+d2eec5850643-knowledge_versions-000119,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000060,d2eec5850643-staff-000020,1,2026-10-15T12:00:00Z,[SYNTHETIC] Initial original guide
+d2eec5850643-knowledge_versions-000120,synthetic-d2eec5850643,true,d2eec5850643-knowledge-000060,d2eec5850643-staff-000020,2,2026-10-22T12:00:00Z,[SYNTHETIC] Clarified responsibilities after a fictional support question

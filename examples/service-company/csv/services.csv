@@ -1,0 +1,7 @@
+id,dataset_id,synthetic,name,base_fee_cents,currency,promise
+d2eec5850643-services-000001,synthetic-d2eec5850643,true,Discovery assessment,1200000,USD,"FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed"
+d2eec5850643-services-000002,synthetic-d2eec5850643,true,Delivery planning,2000000,USD,"FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed"
+d2eec5850643-services-000003,synthetic-d2eec5850643,true,Process design review,3000000,USD,"FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed"
+d2eec5850643-services-000004,synthetic-d2eec5850643,true,Data quality rehearsal,3600000,USD,"FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed"
+d2eec5850643-services-000005,synthetic-d2eec5850643,true,Customer onboarding enablement,2400000,USD,"FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed"
+d2eec5850643-services-000006,synthetic-d2eec5850643,true,Managed knowledge review,1500000,USD,"FICTIONAL consulting deliverable; no AWS approval, accreditation or partnership claimed"

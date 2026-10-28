@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "identity": {"required": ["id", "dataset_id", "synthetic"], "synthetic_value": true, "namespace": "seed/configuration/profile-shape fingerprint"},
+  "temporal": {"date_format": "ISO-8601", "timestamp_format": "UTC with Z", "history_anchor": "2026-10-28", "future_rows_allowed": ["meetings", "billing_schedule"]},
+  "money": {"unit": "integer minor units", "currency": "scenario configuration", "invariants": ["quantity * unit_amount_cents = line_total_cents", "subtotal + tax = gross", "gross - posted_credit - posted_payment = outstanding"]},
+  "relationships": {"source": "relationships.json", "rule": "all foreign keys resolve; task dependency graph is acyclic"},
+  "transport": {"canonical": "JSONL", "projection": "CSV", "nested_values": "JSON strings", "null": "empty", "booleans": "lower-case text", "spreadsheet_formula_prefix": "apostrophe"},
+  "domains": ["company", "accounts", "customers", "contacts", "leads", "opportunities", "services", "campaigns", "talent", "skills", "staff", "contracts", "projects", "milestones", "tasks", "time_entries", "expenses", "invoices", "credit_notes", "payments", "support_tickets", "meetings", "conversations", "notes", "activities", "knowledge", "knowledge_versions", "story_events"]
+}

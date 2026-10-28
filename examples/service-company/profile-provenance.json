@@ -1,0 +1,97 @@
+{
+  "dataset_id": "synthetic-d2eec5850643",
+  "config": {
+    "company_name": "Example Service Studio",
+    "company_expansion": "An independently authored fictional B2B service company",
+    "scenario": "SYNTHETIC professional services business",
+    "anchor_date": "2026-10-28",
+    "history_start": "2024-10-29",
+    "seed": 314159,
+    "customers": 100,
+    "leads": 500,
+    "talent": 1000,
+    "staff": 40,
+    "future_meetings": 40,
+    "currency": "USD",
+    "tax_assumption": "Synthetic zero-tax scenario; not accounting or tax advice",
+    "synthetic": true,
+    "live_import_authorized": false,
+    "services": [
+      [
+        "Discovery assessment",
+        1200000
+      ],
+      [
+        "Delivery planning",
+        2000000
+      ],
+      [
+        "Process design review",
+        3000000
+      ],
+      [
+        "Data quality rehearsal",
+        3600000
+      ],
+      [
+        "Customer onboarding enablement",
+        2400000
+      ],
+      [
+        "Managed knowledge review",
+        1500000
+      ]
+    ]
+  },
+  "profile_provenance": {
+    "origin": "INDEPENDENTLY_AUTHORED_GENERIC_TEMPLATE",
+    "source_profile_count": 0,
+    "external_roster_used": false,
+    "description": "Ten deliberately balanced fictional job families and three independently enumerated skills per family. No imported identity, biography or private roster."
+  },
+  "profile_shape_sha256": "fc2e908ec6ce8bc578d9facf1db35afa6556513f390ddc9257a3d474bfb5823f",
+  "title_counts": {
+    "Account manager": 100,
+    "Business analyst": 100,
+    "Consultant": 100,
+    "Customer success specialist": 100,
+    "Delivery coordinator": 100,
+    "Finance analyst": 100,
+    "Project manager": 100,
+    "Research specialist": 100,
+    "Support specialist": 100,
+    "Technical advisor": 100
+  },
+  "skill_incidence_counts": {
+    "account planning": 100,
+    "relationship review": 100,
+    "scope clarification": 100,
+    "data review": 100,
+    "process mapping": 100,
+    "requirements analysis": 100,
+    "evidence synthesis": 100,
+    "recommendation writing": 100,
+    "workshop facilitation": 100,
+    "onboarding planning": 100,
+    "retention review": 100,
+    "support triage": 100,
+    "handoff coordination": 100,
+    "progress reporting": 100,
+    "scheduling": 100,
+    "budget analysis": 100,
+    "invoice reconciliation": 100,
+    "payment review": 100,
+    "delivery tracking": 100,
+    "dependency planning": 100,
+    "risk review": 100,
+    "interview design": 100,
+    "research synthesis": 100,
+    "source evaluation": 100,
+    "case follow-up": 100,
+    "issue triage": 100,
+    "knowledge writing": 100,
+    "interface design": 100,
+    "technical review": 100,
+    "test planning": 100
+  }
+}

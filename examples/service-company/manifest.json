@@ -1,0 +1,469 @@
+{
+  "generator": "synthetic-business-history",
+  "schema_version": "1.0.0",
+  "synthetic": true,
+  "notice": "SYNTHETIC FICTION \u2014 NOT REAL PEOPLE, CUSTOMERS, TRANSACTIONS OR BUSINESS EVIDENCE",
+  "dataset_id": "synthetic-d2eec5850643",
+  "seed": 314159,
+  "history_start": "2024-10-29",
+  "anchor_date": "2026-10-28",
+  "live_import_authorized": false,
+  "counts": {
+    "accounts": 500,
+    "activities": 1157,
+    "billing_schedule": 420,
+    "campaign_memberships": 500,
+    "campaigns": 24,
+    "company": 1,
+    "contacts": 600,
+    "contract_lines": 280,
+    "contracts": 140,
+    "conversations": 500,
+    "credit_notes": 7,
+    "customers": 100,
+    "expenses": 280,
+    "invoice_lines": 834,
+    "invoices": 417,
+    "knowledge": 60,
+    "knowledge_versions": 120,
+    "leads": 500,
+    "meeting_attendees": 880,
+    "meetings": 440,
+    "messages": 1500,
+    "milestones": 700,
+    "notes": 640,
+    "opportunities": 500,
+    "payment_attempts": 9,
+    "payments": 413,
+    "projects": 140,
+    "services": 6,
+    "skills": 30,
+    "staff": 40,
+    "story_events": 5,
+    "support_tickets": 300,
+    "talent": 1000,
+    "talent_assignments": 420,
+    "talent_skills": 3000,
+    "task_dependencies": 1260,
+    "tasks": 1400,
+    "time_entries": 2800
+  },
+  "csv_policy": "UTF-8; nested values JSON encoded; formula-leading text escaped with an apostrophe; JSONL is canonical",
+  "files": [
+    {
+      "path": "STORY_BIBLE.md",
+      "bytes": 2861,
+      "sha256": "245d17fa1054e8190c6730cda76cf849f21c6f99810a54e9dd9baee118de496e"
+    },
+    {
+      "path": "charts/cash-collections.svg",
+      "bytes": 5995,
+      "sha256": "9f3eb554439fdb99e2a1d9b4ebd07d2ac4f1a9b3b8f929cf084aca1296e4738d"
+    },
+    {
+      "path": "charts/customer-cohorts.svg",
+      "bytes": 5840,
+      "sha256": "21cafda60209d3948aa4c148ada5bb86d35b0da9aba9107947fb2b2de5f47f2b"
+    },
+    {
+      "path": "charts/monthly-cohorts.csv",
+      "bytes": 970,
+      "sha256": "f2d52387e75803f89ce2f82d5ce1fdc747a8bfe76a4c0de57a596b50cb8667ab"
+    },
+    {
+      "path": "csv/accounts.csv",
+      "bytes": 141433,
+      "sha256": "879b06b926129158b372290f5b76724afbb99367475ead501c0950c3c3be0844"
+    },
+    {
+      "path": "csv/activities.csv",
+      "bytes": 233870,
+      "sha256": "f6d3459ffbc82707aaf5fcb0f9c66cc26f9b2cee8fb0b5532181acb24f63c885"
+    },
+    {
+      "path": "csv/billing_schedule.csv",
+      "bytes": 51846,
+      "sha256": "1c8b7d9d39f9243bf896030f688d0a29ef157e009fcc6c681bd6562f9e0022c0"
+    },
+    {
+      "path": "csv/campaign_memberships.csv",
+      "bytes": 82562,
+      "sha256": "d769b910a459562b5a7980dc92c3daf02d24a4898b30a29a1605aa96f1c4fa83"
+    },
+    {
+      "path": "csv/campaigns.csv",
+      "bytes": 4227,
+      "sha256": "16196edad871d25904ab48d0d4eb59a2915fb582c25e85bff7f19810c8b48eda"
+    },
+    {
+      "path": "csv/company.csv",
+      "bytes": 526,
+      "sha256": "0bb015c52a604d6fafae05c928a3a6600d3767a2c99c40c3a4a5e3bfa16e4c13"
+    },
+    {
+      "path": "csv/contacts.csv",
+      "bytes": 149432,
+      "sha256": "a87a41e378d44209789a54564e279e1f9439cd1445a8ffbcb985b3286f4cf412"
+    },
+    {
+      "path": "csv/contract_lines.csv",
+      "bytes": 39834,
+      "sha256": "35a6bda72da9b017ce561559d074f955547dc4470a8c7568262f09e965e2aa9a"
+    },
+    {
+      "path": "csv/contracts.csv",
+      "bytes": 44220,
+      "sha256": "5606d3eafa9940199b0d41e8b7d729a429f69e1c9f7b9afe9a4c97cca6c17798"
+    },
+    {
+      "path": "csv/conversations.csv",
+      "bytes": 115080,
+      "sha256": "22491391b72ded893e46a5294f231e4f81d12c2c832ab864d97a0ebe3eae6f53"
+    },
+    {
+      "path": "csv/credit_notes.csv",
+      "bytes": 1123,
+      "sha256": "d55d97bc92723e39e861b90e9728a53a5b7d92f0b867591dd35e912601252c49"
+    },
+    {
+      "path": "csv/customers.csv",
+      "bytes": 19582,
+      "sha256": "20f22405a46b91c2bb9e6c55df4327f70fc51475813202bedc788f8cb186e212"
+    },
+    {
+      "path": "csv/expenses.csv",
+      "bytes": 55754,
+      "sha256": "7b7c399b428b20e590b11ddee7b5ccff5b1c4e43daa3a5c7d4021f6ca16ca48a"
+    },
+    {
+      "path": "csv/invoice_lines.csv",
+      "bytes": 115506,
+      "sha256": "6b2bdfb66fa313f6bad2a32a98428fe964d7db50c3755d2e2b3ae34afb3fa87a"
+    },
+    {
+      "path": "csv/invoices.csv",
+      "bytes": 130076,
+      "sha256": "f1a26ebafcd2f1edf5db638de64b6da5eb0918d078e75477d9663b4ac0518093"
+    },
+    {
+      "path": "csv/knowledge.csv",
+      "bytes": 23443,
+      "sha256": "1eb165aa04b3282b870fe8351a97a49f09d30a7ab8df623a0105d78930028907"
+    },
+    {
+      "path": "csv/knowledge_versions.csv",
+      "bytes": 24260,
+      "sha256": "df817a8ae0d1ff4ff7fe3c5d3d1b8f6f1e07c521e58e27a176dbeeee488b97b6"
+    },
+    {
+      "path": "csv/leads.csv",
+      "bytes": 117463,
+      "sha256": "0fea749698df31642c94c4b1ff4eaade10da90af3b1753b3ca0c552f8f5a0193"
+    },
+    {
+      "path": "csv/meeting_attendees.csv",
+      "bytes": 126425,
+      "sha256": "8d504a768b6dede777a99707fb9e6440636af99a28d76df07a82a0d2c826055d"
+    },
+    {
+      "path": "csv/meetings.csv",
+      "bytes": 117978,
+      "sha256": "3ef973a7e370ce4d0308918863c4259425291203a31d10961a4e39d4b6a43538"
+    },
+    {
+      "path": "csv/messages.csv",
+      "bytes": 405603,
+      "sha256": "f2bca15b85465a94a28e94cbdba1a3d2dce8b89a8cfbce1f767c92784755cd8d"
+    },
+    {
+      "path": "csv/milestones.csv",
+      "bytes": 103876,
+      "sha256": "5e3ca3596044078652fa5916273a9e26829802c78014337399230ecc109eca10"
+    },
+    {
+      "path": "csv/notes.csv",
+      "bytes": 163137,
+      "sha256": "08013d4f62f2ae160f3f679c4453eac072d74e593ec3d4108cc50073b858ceeb"
+    },
+    {
+      "path": "csv/opportunities.csv",
+      "bytes": 123985,
+      "sha256": "463cb348191cd58c3184dae4ecc164946e8931fcccbb882e2b6d6394cb2a2b84"
+    },
+    {
+      "path": "csv/payment_attempts.csv",
+      "bytes": 1851,
+      "sha256": "0642188cf1900ef46ed11ca6f6fe64ba3facdd8f498e3fcc746fef2ed7a47bbd"
+    },
+    {
+      "path": "csv/payments.csv",
+      "bytes": 78374,
+      "sha256": "0e0f61ba0079c4239c36aa52f1d73ab0d641cfd7cb7d77652f8c8486e57a2ff0"
+    },
+    {
+      "path": "csv/projects.csv",
+      "bytes": 41905,
+      "sha256": "9e48a982001bcfac11d7961c7b7effff8b4e658aa33b527b1669cc4b4273c0a4"
+    },
+    {
+      "path": "csv/services.csv",
+      "bytes": 1162,
+      "sha256": "363177c9b05372e34c4d619a0a8b50e07e74bf0e09385155fa7eae6759d58167"
+    },
+    {
+      "path": "csv/skills.csv",
+      "bytes": 3121,
+      "sha256": "75df3e9088d3de72b18767c6945e7d8cbfa40bbdd7e3d2fe8ca1978e66bb5b2e"
+    },
+    {
+      "path": "csv/staff.csv",
+      "bytes": 6447,
+      "sha256": "5413b407b07f864f8ea7c30b3d7bf34a649b13c2c73438e044fcf047513aaba5"
+    },
+    {
+      "path": "csv/story_events.csv",
+      "bytes": 1218,
+      "sha256": "b70acc73ecec122772fee1d6c32fa10e34e05fa71281a7f9fbbdc76326ffbf43"
+    },
+    {
+      "path": "csv/support_tickets.csv",
+      "bytes": 91068,
+      "sha256": "ae244120be65836e249a7ef6f8f448a8f4a63749a9caa3112d75204b4368e7b0"
+    },
+    {
+      "path": "csv/talent.csv",
+      "bytes": 351146,
+      "sha256": "65272e4b4deba61ea1427d6ee234b5a0734d424919339c44c257923fc5ebc876"
+    },
+    {
+      "path": "csv/talent_assignments.csv",
+      "bytes": 67007,
+      "sha256": "dece1dcd046b2be264d92abff52dd0c1650a1198a8712a73050d967a2a08386a"
+    },
+    {
+      "path": "csv/talent_skills.csv",
+      "bytes": 447064,
+      "sha256": "6adf73573856f39b07d3eb3878cbffd3c086170bf3df7f0477ece74da3478051"
+    },
+    {
+      "path": "csv/task_dependencies.csv",
+      "bytes": 170157,
+      "sha256": "0c15814d8d0b64f74aa3e3cc826675c900f39d729b04294426de0b816f90cdac"
+    },
+    {
+      "path": "csv/tasks.csv",
+      "bytes": 339671,
+      "sha256": "31480a7bd4e1319c79776cdac214f172c95c531a6659b5bfeb3d959535f806c6"
+    },
+    {
+      "path": "csv/time_entries.csv",
+      "bytes": 637381,
+      "sha256": "ab7359bc2567abc705e5eaf6f97a3150b10776e207b767c8a5616be11ef9046f"
+    },
+    {
+      "path": "json/accounts.jsonl",
+      "bytes": 206342,
+      "sha256": "d0df6695e25d5bd78d370c7a789d0127ddd2e58896455ae01abac303ab58fdbd"
+    },
+    {
+      "path": "json/activities.jsonl",
+      "bytes": 386500,
+      "sha256": "81cd9ed2751851d56e7817b43bc560b24b696a24699af05c64d60a3fbefc8e73"
+    },
+    {
+      "path": "json/billing_schedule.jsonl",
+      "bytes": 91256,
+      "sha256": "97aa8f1343845ef81b4f0aa5c3849db5c100f281cb6ace44a951204cb4c4c998"
+    },
+    {
+      "path": "json/campaign_memberships.jsonl",
+      "bytes": 126500,
+      "sha256": "099c9b2b40a944a15ea41f6e7a91dbf46fcbfe6e4d1eb444f3a66cf7e3b087fe"
+    },
+    {
+      "path": "json/campaigns.jsonl",
+      "bytes": 7228,
+      "sha256": "bd42e21392f63ecbfe70b264246459b2325ce7d48e52640a2db1ae540b88c0cd"
+    },
+    {
+      "path": "json/company.jsonl",
+      "bytes": 564,
+      "sha256": "1dd0b09811339fbb0e6b15a5c56a24ac9c7664878ca282223bc3bc2b975e33c7"
+    },
+    {
+      "path": "json/contacts.jsonl",
+      "bytes": 242325,
+      "sha256": "95245b993da426b65d1f5c3948321e156ea9d6370569c060492f63fb531bd695"
+    },
+    {
+      "path": "json/contract_lines.jsonl",
+      "bytes": 72222,
+      "sha256": "b8bb6ecd6ae5e4acedfabdf4341e83dea27a9e8826a9cc271961f0e1bcc4d727"
+    },
+    {
+      "path": "json/contracts.jsonl",
+      "bytes": 70402,
+      "sha256": "19b078c22946abac3bcb35cd163ea4feee45d60851090f281b6618f6e00d38dc"
+    },
+    {
+      "path": "json/conversations.jsonl",
+      "bytes": 172000,
+      "sha256": "723781eaedb3399dbdecaa05f017e2858441d17e65b4b77aba3ee87501c906a1"
+    },
+    {
+      "path": "json/credit_notes.jsonl",
+      "bytes": 1757,
+      "sha256": "3a8aa8737fa5e01b0586d0ce8c0ba003d09829a7f655016c6baa9a17c033655f"
+    },
+    {
+      "path": "json/customers.jsonl",
+      "bytes": 32191,
+      "sha256": "72bc35a69a8b5bdf2c25e8a53119facad4d9c63707bd8b3e8554ccb841fc774e"
+    },
+    {
+      "path": "json/expenses.jsonl",
+      "bytes": 97644,
+      "sha256": "f0bef004a34430cd47cc5a2aa656513af52d8a728ff81c2928ba915624af326d"
+    },
+    {
+      "path": "json/invoice_lines.jsonl",
+      "bytes": 211325,
+      "sha256": "3cf9b9485ce935dd5b9bf76ec3c18daec94d77d9f9e7705840cebb26845e2471"
+    },
+    {
+      "path": "json/invoices.jsonl",
+      "bytes": 236212,
+      "sha256": "f83b7886f9de4f93b0dd46767fabe0efe2e740ce1587582390cc9c04023772b6"
+    },
+    {
+      "path": "json/knowledge.jsonl",
+      "bytes": 28840,
+      "sha256": "cf5d4be096b6875431b3f7166616b6d371e0a9929cb309e534a457b87d54f13c"
+    },
+    {
+      "path": "json/knowledge_versions.jsonl",
+      "bytes": 37140,
+      "sha256": "631dc456196d73df515e3ae30c70cf4d562e1df7ddcb6f60c6a1931b506ee2ee"
+    },
+    {
+      "path": "json/leads.jsonl",
+      "bytes": 203082,
+      "sha256": "2498a7032195465c7d5f273511bfb47a2d0c991d2587b570916788d8f4238638"
+    },
+    {
+      "path": "json/meeting_attendees.jsonl",
+      "bytes": 208200,
+      "sha256": "31e435b8a27e1b356ba1ea35d09abad4fa01da8af2e96b0ff2d1ba6a3f7b8f67"
+    },
+    {
+      "path": "json/meetings.jsonl",
+      "bytes": 189579,
+      "sha256": "b7a4c16b0220d5404ce88b3628b57f54894cf12a56b7a842308d70222800f460"
+    },
+    {
+      "path": "json/messages.jsonl",
+      "bytes": 618000,
+      "sha256": "53571079433f0cae1993aaa1ea66b9434d67dd05dc2ce531648dbfdd0eb985f6"
+    },
+    {
+      "path": "json/milestones.jsonl",
+      "bytes": 172420,
+      "sha256": "c648ca836218b62182e08796f0bb89f90289164e8a42fd0655da8dd0c96945d1"
+    },
+    {
+      "path": "json/notes.jsonl",
+      "bytes": 231260,
+      "sha256": "78dc5ccb88408a755bb88bd6cb25f66d210c0323e6b9f3ba2f350da44b2080c3"
+    },
+    {
+      "path": "json/opportunities.jsonl",
+      "bytes": 210880,
+      "sha256": "817749a583e28a631ef5b06ae177346182717cc01c5f6aa68bcf65df555746df"
+    },
+    {
+      "path": "json/payment_attempts.jsonl",
+      "bytes": 2711,
+      "sha256": "c1df327a997e5b87a63817d3c729c7f2cc94839fbc7f70232cebf7da98cc90c5"
+    },
+    {
+      "path": "json/payments.jsonl",
+      "bytes": 140626,
+      "sha256": "4ea7fa193d31566be9e72c2f0e8e0acd17f555663848364799efdcedfd046c0b"
+    },
+    {
+      "path": "json/projects.jsonl",
+      "bytes": 66846,
+      "sha256": "0e18fa642d87bb8142f949fdc7c695b2fbfa2731c1735625feea237670efd39e"
+    },
+    {
+      "path": "json/services.jsonl",
+      "bytes": 1604,
+      "sha256": "b78600799da70d1b8ba65900de083d7fa397517a08a8fef8a88c7de258919431"
+    },
+    {
+      "path": "json/skills.jsonl",
+      "bytes": 4966,
+      "sha256": "9f2bd6b44572fce7085cd617cec92b532bd13df0a02d9495e60583dc9b9b277a"
+    },
+    {
+      "path": "json/staff.jsonl",
+      "bytes": 11865,
+      "sha256": "ed18cd11945dd2a5b0a34be949a50b64ed0e978bd9082559dc0006f76e1a3168"
+    },
+    {
+      "path": "json/story_events.jsonl",
+      "bytes": 1642,
+      "sha256": "349aa055429cff218242c79198b28c3ecc4d17fa76b2ec6c883110b0fab4b71b"
+    },
+    {
+      "path": "json/support_tickets.jsonl",
+      "bytes": 138958,
+      "sha256": "c6cf22eecfeec85746e882fbf81f3c96eb3dea4f04ddb6ef25ed33dcb78ce459"
+    },
+    {
+      "path": "json/talent.jsonl",
+      "bytes": 487050,
+      "sha256": "72952dc410aa49ac5972bd6a73ed8fc9d224626155f3fa0d30b5e803fd4e0ed1"
+    },
+    {
+      "path": "json/talent_assignments.jsonl",
+      "bytes": 116900,
+      "sha256": "f434389f687932813f64e64f3a7947d63b2025cf0ef7eaf0360970bc50d26e52"
+    },
+    {
+      "path": "json/talent_skills.jsonl",
+      "bytes": 711000,
+      "sha256": "7c653bc5f902ff743f9b5d251738c954cf817cb16f9effedaf88b3a0a113dfb8"
+    },
+    {
+      "path": "json/task_dependencies.jsonl",
+      "bytes": 269640,
+      "sha256": "b38eb61c7736410017d038a8fbb6e8664544f603fa0772124badf0747236b1ae"
+    },
+    {
+      "path": "json/tasks.jsonl",
+      "bytes": 559380,
+      "sha256": "45d2fab27f81ab127bd77a10274b48b41846e08978f689d13635a9649a8b3d36"
+    },
+    {
+      "path": "json/time_entries.jsonl",
+      "bytes": 1026480,
+      "sha256": "0f1077f4df29f94f14cf44d91de004f979ae519b21c710b8498737fd553d34f4"
+    },
+    {
+      "path": "profile-provenance.json",
+      "bytes": 2708,
+      "sha256": "84dea56fe6cf30a3835587d323d2e23409e59e61c3a9f8864940cd393e406d98"
+    },
+    {
+      "path": "relationships.json",
+      "bytes": 2610,
+      "sha256": "aafcb6c5bdddab51b9be98187583dcbf73e092d9704c5c06b8a62e068b3381e6"
+    },
+    {
+      "path": "summary.json",
+      "bytes": 6258,
+      "sha256": "dbc8301945630897de15620e5028c90772b096f9701349da54877d313ab6368a"
+    }
+  ]
+}
