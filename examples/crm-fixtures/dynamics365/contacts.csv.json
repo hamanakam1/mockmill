@@ -2,6 +2,8 @@
   {
     "firstname": "Avaven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0001@vendor0001.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Systems 001",
     "description": "SYNTHETIC FICTION",
@@ -11,6 +13,8 @@
   {
     "firstname": "Avaven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0001.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Systems 001",
     "description": "SYNTHETIC FICTION",
@@ -20,6 +24,8 @@
   {
     "firstname": "Avalune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0002@vendor0002.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Systems 002",
     "description": "SYNTHETIC FICTION",
@@ -29,6 +35,8 @@
   {
     "firstname": "Avalune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0002.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Systems 002",
     "description": "SYNTHETIC FICTION",
@@ -38,6 +46,8 @@
   {
     "firstname": "Avarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0003@vendor0003.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Systems 003",
     "description": "SYNTHETIC FICTION",
@@ -47,6 +57,8 @@
   {
     "firstname": "Avarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0003.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Systems 003",
     "description": "SYNTHETIC FICTION",
@@ -56,6 +68,8 @@
   {
     "firstname": "Avasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0004@vendor0004.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Systems 004",
     "description": "SYNTHETIC FICTION",
@@ -65,6 +79,8 @@
   {
     "firstname": "Avasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0004.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Systems 004",
     "description": "SYNTHETIC FICTION",
@@ -74,6 +90,8 @@
   {
     "firstname": "Avamere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0005@vendor0005.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Systems 005",
     "description": "SYNTHETIC FICTION",
@@ -83,6 +101,8 @@
   {
     "firstname": "Avamere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0005.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Systems 005",
     "description": "SYNTHETIC FICTION",
@@ -92,6 +112,8 @@
   {
     "firstname": "Belaven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0006@vendor0006.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Systems 006",
     "description": "SYNTHETIC FICTION",
@@ -101,6 +123,8 @@
   {
     "firstname": "Belaven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0006.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Systems 006",
     "description": "SYNTHETIC FICTION",
@@ -110,6 +134,8 @@
   {
     "firstname": "Belalune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0007@vendor0007.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Systems 007",
     "description": "SYNTHETIC FICTION",
@@ -119,6 +145,8 @@
   {
     "firstname": "Belalune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0007.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Systems 007",
     "description": "SYNTHETIC FICTION",
@@ -128,6 +156,8 @@
   {
     "firstname": "Belarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0008@vendor0008.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Systems 008",
     "description": "SYNTHETIC FICTION",
@@ -137,6 +167,8 @@
   {
     "firstname": "Belarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0008.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Systems 008",
     "description": "SYNTHETIC FICTION",
@@ -146,6 +178,8 @@
   {
     "firstname": "Belasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0009@vendor0009.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Systems 009",
     "description": "SYNTHETIC FICTION",
@@ -155,6 +189,8 @@
   {
     "firstname": "Belasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0009.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Systems 009",
     "description": "SYNTHETIC FICTION",
@@ -164,6 +200,8 @@
   {
     "firstname": "Belamere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0010@vendor0010.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Systems 010",
     "description": "SYNTHETIC FICTION",
@@ -173,6 +211,8 @@
   {
     "firstname": "Belamere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0010.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Systems 010",
     "description": "SYNTHETIC FICTION",
@@ -182,6 +222,8 @@
   {
     "firstname": "Ceriven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0011@vendor0011.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Systems 011",
     "description": "SYNTHETIC FICTION",
@@ -191,6 +233,8 @@
   {
     "firstname": "Ceriven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0011.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Systems 011",
     "description": "SYNTHETIC FICTION",
@@ -200,6 +244,8 @@
   {
     "firstname": "Cerilune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0012@vendor0012.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Systems 012",
     "description": "SYNTHETIC FICTION",
@@ -209,6 +255,8 @@
   {
     "firstname": "Cerilune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0012.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Systems 012",
     "description": "SYNTHETIC FICTION",
@@ -218,6 +266,8 @@
   {
     "firstname": "Ceririn",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0013@vendor0013.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Systems 013",
     "description": "SYNTHETIC FICTION",
@@ -227,6 +277,8 @@
   {
     "firstname": "Ceririn",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0013.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Systems 013",
     "description": "SYNTHETIC FICTION",
@@ -236,6 +288,8 @@
   {
     "firstname": "Cerisol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0014@vendor0014.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Systems 014",
     "description": "SYNTHETIC FICTION",
@@ -245,6 +299,8 @@
   {
     "firstname": "Cerisol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0014.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Systems 014",
     "description": "SYNTHETIC FICTION",
@@ -254,6 +310,8 @@
   {
     "firstname": "Cerimere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0015@vendor0015.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Systems 015",
     "description": "SYNTHETIC FICTION",
@@ -263,6 +321,8 @@
   {
     "firstname": "Cerimere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0015.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Systems 015",
     "description": "SYNTHETIC FICTION",
@@ -272,6 +332,8 @@
   {
     "firstname": "Daraven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0016@vendor0016.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Systems 016",
     "description": "SYNTHETIC FICTION",
@@ -281,6 +343,8 @@
   {
     "firstname": "Daraven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0016.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Systems 016",
     "description": "SYNTHETIC FICTION",
@@ -290,6 +354,8 @@
   {
     "firstname": "Daralune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0017@vendor0017.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Systems 017",
     "description": "SYNTHETIC FICTION",
@@ -299,6 +365,8 @@
   {
     "firstname": "Daralune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0017.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Systems 017",
     "description": "SYNTHETIC FICTION",
@@ -308,6 +376,8 @@
   {
     "firstname": "Dararin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0018@vendor0018.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Systems 018",
     "description": "SYNTHETIC FICTION",
@@ -317,6 +387,8 @@
   {
     "firstname": "Dararin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0018.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Systems 018",
     "description": "SYNTHETIC FICTION",
@@ -326,6 +398,8 @@
   {
     "firstname": "Darasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0019@vendor0019.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Systems 019",
     "description": "SYNTHETIC FICTION",
@@ -335,6 +409,8 @@
   {
     "firstname": "Darasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0019.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Systems 019",
     "description": "SYNTHETIC FICTION",
@@ -344,6 +420,8 @@
   {
     "firstname": "Daramere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0020@vendor0020.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Systems 020",
     "description": "SYNTHETIC FICTION",
@@ -353,6 +431,8 @@
   {
     "firstname": "Daramere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0020.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Systems 020",
     "description": "SYNTHETIC FICTION",
@@ -362,6 +442,8 @@
   {
     "firstname": "Eliven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0021@vendor0021.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Analytics 021",
     "description": "SYNTHETIC FICTION",
@@ -371,6 +453,8 @@
   {
     "firstname": "Eliven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0021.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Analytics 021",
     "description": "SYNTHETIC FICTION",
@@ -380,6 +464,8 @@
   {
     "firstname": "Elilune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0022@vendor0022.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Analytics 022",
     "description": "SYNTHETIC FICTION",
@@ -389,6 +475,8 @@
   {
     "firstname": "Elilune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0022.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Analytics 022",
     "description": "SYNTHETIC FICTION",
@@ -398,6 +486,8 @@
   {
     "firstname": "Elirin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0023@vendor0023.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Analytics 023",
     "description": "SYNTHETIC FICTION",
@@ -407,6 +497,8 @@
   {
     "firstname": "Elirin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0023.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Analytics 023",
     "description": "SYNTHETIC FICTION",
@@ -416,6 +508,8 @@
   {
     "firstname": "Elisol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0024@vendor0024.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Analytics 024",
     "description": "SYNTHETIC FICTION",
@@ -425,6 +519,8 @@
   {
     "firstname": "Elisol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0024.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Analytics 024",
     "description": "SYNTHETIC FICTION",
@@ -434,6 +530,8 @@
   {
     "firstname": "Elimere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0025@vendor0025.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Analytics 025",
     "description": "SYNTHETIC FICTION",
@@ -443,6 +541,8 @@
   {
     "firstname": "Elimere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0025.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Analytics 025",
     "description": "SYNTHETIC FICTION",
@@ -452,6 +552,8 @@
   {
     "firstname": "Faraven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0026@vendor0026.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Analytics 026",
     "description": "SYNTHETIC FICTION",
@@ -461,6 +563,8 @@
   {
     "firstname": "Faraven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0026.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Analytics 026",
     "description": "SYNTHETIC FICTION",
@@ -470,6 +574,8 @@
   {
     "firstname": "Faralune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0027@vendor0027.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Analytics 027",
     "description": "SYNTHETIC FICTION",
@@ -479,6 +585,8 @@
   {
     "firstname": "Faralune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0027.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Analytics 027",
     "description": "SYNTHETIC FICTION",
@@ -488,6 +596,8 @@
   {
     "firstname": "Fararin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0028@vendor0028.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Analytics 028",
     "description": "SYNTHETIC FICTION",
@@ -497,6 +607,8 @@
   {
     "firstname": "Fararin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0028.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Analytics 028",
     "description": "SYNTHETIC FICTION",
@@ -506,6 +618,8 @@
   {
     "firstname": "Farasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0029@vendor0029.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Analytics 029",
     "description": "SYNTHETIC FICTION",
@@ -515,6 +629,8 @@
   {
     "firstname": "Farasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0029.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Analytics 029",
     "description": "SYNTHETIC FICTION",
@@ -524,6 +640,8 @@
   {
     "firstname": "Faramere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0030@vendor0030.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Analytics 030",
     "description": "SYNTHETIC FICTION",
@@ -533,6 +651,8 @@
   {
     "firstname": "Faramere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0030.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Analytics 030",
     "description": "SYNTHETIC FICTION",
@@ -542,6 +662,8 @@
   {
     "firstname": "Galaven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0031@vendor0031.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Analytics 031",
     "description": "SYNTHETIC FICTION",
@@ -551,6 +673,8 @@
   {
     "firstname": "Galaven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0031.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Analytics 031",
     "description": "SYNTHETIC FICTION",
@@ -560,6 +684,8 @@
   {
     "firstname": "Galalune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0032@vendor0032.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Analytics 032",
     "description": "SYNTHETIC FICTION",
@@ -569,6 +695,8 @@
   {
     "firstname": "Galalune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0032.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Analytics 032",
     "description": "SYNTHETIC FICTION",
@@ -578,6 +706,8 @@
   {
     "firstname": "Galarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0033@vendor0033.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Analytics 033",
     "description": "SYNTHETIC FICTION",
@@ -587,6 +717,8 @@
   {
     "firstname": "Galarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0033.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Analytics 033",
     "description": "SYNTHETIC FICTION",
@@ -596,6 +728,8 @@
   {
     "firstname": "Galasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0034@vendor0034.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Analytics 034",
     "description": "SYNTHETIC FICTION",
@@ -605,6 +739,8 @@
   {
     "firstname": "Galasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0034.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Analytics 034",
     "description": "SYNTHETIC FICTION",
@@ -614,6 +750,8 @@
   {
     "firstname": "Galamere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0035@vendor0035.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Analytics 035",
     "description": "SYNTHETIC FICTION",
@@ -623,6 +761,8 @@
   {
     "firstname": "Galamere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0035.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Analytics 035",
     "description": "SYNTHETIC FICTION",
@@ -632,6 +772,8 @@
   {
     "firstname": "Heriven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0036@vendor0036.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Analytics 036",
     "description": "SYNTHETIC FICTION",
@@ -641,6 +783,8 @@
   {
     "firstname": "Heriven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0036.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Analytics 036",
     "description": "SYNTHETIC FICTION",
@@ -650,6 +794,8 @@
   {
     "firstname": "Herilune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0037@vendor0037.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Analytics 037",
     "description": "SYNTHETIC FICTION",
@@ -659,6 +805,8 @@
   {
     "firstname": "Herilune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0037.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Analytics 037",
     "description": "SYNTHETIC FICTION",
@@ -668,6 +816,8 @@
   {
     "firstname": "Heririn",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0038@vendor0038.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Analytics 038",
     "description": "SYNTHETIC FICTION",
@@ -677,6 +827,8 @@
   {
     "firstname": "Heririn",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0038.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Analytics 038",
     "description": "SYNTHETIC FICTION",
@@ -686,6 +838,8 @@
   {
     "firstname": "Herisol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0039@vendor0039.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Analytics 039",
     "description": "SYNTHETIC FICTION",
@@ -695,6 +849,8 @@
   {
     "firstname": "Herisol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0039.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Analytics 039",
     "description": "SYNTHETIC FICTION",
@@ -704,6 +860,8 @@
   {
     "firstname": "Herimere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0040@vendor0040.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Analytics 040",
     "description": "SYNTHETIC FICTION",
@@ -713,6 +871,8 @@
   {
     "firstname": "Herimere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0040.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Analytics 040",
     "description": "SYNTHETIC FICTION",
@@ -722,6 +882,8 @@
   {
     "firstname": "Ilaven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0041@vendor0041.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Workflow 041",
     "description": "SYNTHETIC FICTION",
@@ -731,6 +893,8 @@
   {
     "firstname": "Ilaven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0041.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Workflow 041",
     "description": "SYNTHETIC FICTION",
@@ -740,6 +904,8 @@
   {
     "firstname": "Ilalune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0042@vendor0042.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Workflow 042",
     "description": "SYNTHETIC FICTION",
@@ -749,6 +915,8 @@
   {
     "firstname": "Ilalune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0042.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Workflow 042",
     "description": "SYNTHETIC FICTION",
@@ -758,6 +926,8 @@
   {
     "firstname": "Ilarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0043@vendor0043.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Workflow 043",
     "description": "SYNTHETIC FICTION",
@@ -767,6 +937,8 @@
   {
     "firstname": "Ilarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0043.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Workflow 043",
     "description": "SYNTHETIC FICTION",
@@ -776,6 +948,8 @@
   {
     "firstname": "Ilasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0044@vendor0044.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Workflow 044",
     "description": "SYNTHETIC FICTION",
@@ -785,6 +959,8 @@
   {
     "firstname": "Ilasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0044.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Workflow 044",
     "description": "SYNTHETIC FICTION",
@@ -794,6 +970,8 @@
   {
     "firstname": "Ilamere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0045@vendor0045.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Workflow 045",
     "description": "SYNTHETIC FICTION",
@@ -803,6 +981,8 @@
   {
     "firstname": "Ilamere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0045.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Workflow 045",
     "description": "SYNTHETIC FICTION",
@@ -812,6 +992,8 @@
   {
     "firstname": "Joraven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0046@vendor0046.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Workflow 046",
     "description": "SYNTHETIC FICTION",
@@ -821,6 +1003,8 @@
   {
     "firstname": "Joraven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0046.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Workflow 046",
     "description": "SYNTHETIC FICTION",
@@ -830,6 +1014,8 @@
   {
     "firstname": "Joralune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0047@vendor0047.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Workflow 047",
     "description": "SYNTHETIC FICTION",
@@ -839,6 +1025,8 @@
   {
     "firstname": "Joralune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0047.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Workflow 047",
     "description": "SYNTHETIC FICTION",
@@ -848,6 +1036,8 @@
   {
     "firstname": "Jorarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0048@vendor0048.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Workflow 048",
     "description": "SYNTHETIC FICTION",
@@ -857,6 +1047,8 @@
   {
     "firstname": "Jorarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0048.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Workflow 048",
     "description": "SYNTHETIC FICTION",
@@ -866,6 +1058,8 @@
   {
     "firstname": "Jorasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0049@vendor0049.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Workflow 049",
     "description": "SYNTHETIC FICTION",
@@ -875,6 +1069,8 @@
   {
     "firstname": "Jorasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0049.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Workflow 049",
     "description": "SYNTHETIC FICTION",
@@ -884,6 +1080,8 @@
   {
     "firstname": "Joramere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0050@vendor0050.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Workflow 050",
     "description": "SYNTHETIC FICTION",
@@ -893,6 +1091,8 @@
   {
     "firstname": "Joramere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0050.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Workflow 050",
     "description": "SYNTHETIC FICTION",
@@ -902,6 +1102,8 @@
   {
     "firstname": "Kalaven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0051@vendor0051.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Workflow 051",
     "description": "SYNTHETIC FICTION",
@@ -911,6 +1113,8 @@
   {
     "firstname": "Kalaven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0051.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Workflow 051",
     "description": "SYNTHETIC FICTION",
@@ -920,6 +1124,8 @@
   {
     "firstname": "Kalalune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0052@vendor0052.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Workflow 052",
     "description": "SYNTHETIC FICTION",
@@ -929,6 +1135,8 @@
   {
     "firstname": "Kalalune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0052.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Workflow 052",
     "description": "SYNTHETIC FICTION",
@@ -938,6 +1146,8 @@
   {
     "firstname": "Kalarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0053@vendor0053.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Workflow 053",
     "description": "SYNTHETIC FICTION",
@@ -947,6 +1157,8 @@
   {
     "firstname": "Kalarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0053.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Workflow 053",
     "description": "SYNTHETIC FICTION",
@@ -956,6 +1168,8 @@
   {
     "firstname": "Kalasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0054@vendor0054.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Workflow 054",
     "description": "SYNTHETIC FICTION",
@@ -965,6 +1179,8 @@
   {
     "firstname": "Kalasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0054.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Workflow 054",
     "description": "SYNTHETIC FICTION",
@@ -974,6 +1190,8 @@
   {
     "firstname": "Kalamere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0055@vendor0055.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Workflow 055",
     "description": "SYNTHETIC FICTION",
@@ -983,6 +1201,8 @@
   {
     "firstname": "Kalamere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0055.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Workflow 055",
     "description": "SYNTHETIC FICTION",
@@ -992,6 +1212,8 @@
   {
     "firstname": "Liriven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0056@vendor0056.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Workflow 056",
     "description": "SYNTHETIC FICTION",
@@ -1001,6 +1223,8 @@
   {
     "firstname": "Liriven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0056.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Workflow 056",
     "description": "SYNTHETIC FICTION",
@@ -1010,6 +1234,8 @@
   {
     "firstname": "Lirilune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0057@vendor0057.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Workflow 057",
     "description": "SYNTHETIC FICTION",
@@ -1019,6 +1245,8 @@
   {
     "firstname": "Lirilune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0057.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Workflow 057",
     "description": "SYNTHETIC FICTION",
@@ -1028,6 +1256,8 @@
   {
     "firstname": "Liririn",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0058@vendor0058.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Workflow 058",
     "description": "SYNTHETIC FICTION",
@@ -1037,6 +1267,8 @@
   {
     "firstname": "Liririn",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0058.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Workflow 058",
     "description": "SYNTHETIC FICTION",
@@ -1046,6 +1278,8 @@
   {
     "firstname": "Lirisol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0059@vendor0059.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Workflow 059",
     "description": "SYNTHETIC FICTION",
@@ -1055,6 +1289,8 @@
   {
     "firstname": "Lirisol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0059.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Workflow 059",
     "description": "SYNTHETIC FICTION",
@@ -1064,6 +1300,8 @@
   {
     "firstname": "Lirimere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0060@vendor0060.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Workflow 060",
     "description": "SYNTHETIC FICTION",
@@ -1073,6 +1311,8 @@
   {
     "firstname": "Lirimere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0060.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Workflow 060",
     "description": "SYNTHETIC FICTION",
@@ -1082,6 +1322,8 @@
   {
     "firstname": "Maraven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0061@vendor0061.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Signals 061",
     "description": "SYNTHETIC FICTION",
@@ -1091,6 +1333,8 @@
   {
     "firstname": "Maraven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0061.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Signals 061",
     "description": "SYNTHETIC FICTION",
@@ -1100,6 +1344,8 @@
   {
     "firstname": "Maralune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0062@vendor0062.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Signals 062",
     "description": "SYNTHETIC FICTION",
@@ -1109,6 +1355,8 @@
   {
     "firstname": "Maralune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0062.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Signals 062",
     "description": "SYNTHETIC FICTION",
@@ -1118,6 +1366,8 @@
   {
     "firstname": "Mararin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0063@vendor0063.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Signals 063",
     "description": "SYNTHETIC FICTION",
@@ -1127,6 +1377,8 @@
   {
     "firstname": "Mararin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0063.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Signals 063",
     "description": "SYNTHETIC FICTION",
@@ -1136,6 +1388,8 @@
   {
     "firstname": "Marasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0064@vendor0064.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Signals 064",
     "description": "SYNTHETIC FICTION",
@@ -1145,6 +1399,8 @@
   {
     "firstname": "Marasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0064.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Signals 064",
     "description": "SYNTHETIC FICTION",
@@ -1154,6 +1410,8 @@
   {
     "firstname": "Maramere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0065@vendor0065.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Signals 065",
     "description": "SYNTHETIC FICTION",
@@ -1163,6 +1421,8 @@
   {
     "firstname": "Maramere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0065.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Signals 065",
     "description": "SYNTHETIC FICTION",
@@ -1172,6 +1432,8 @@
   {
     "firstname": "Neriven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0066@vendor0066.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Signals 066",
     "description": "SYNTHETIC FICTION",
@@ -1181,6 +1443,8 @@
   {
     "firstname": "Neriven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0066.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Signals 066",
     "description": "SYNTHETIC FICTION",
@@ -1190,6 +1454,8 @@
   {
     "firstname": "Nerilune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0067@vendor0067.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Signals 067",
     "description": "SYNTHETIC FICTION",
@@ -1199,6 +1465,8 @@
   {
     "firstname": "Nerilune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0067.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Signals 067",
     "description": "SYNTHETIC FICTION",
@@ -1208,6 +1476,8 @@
   {
     "firstname": "Neririn",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0068@vendor0068.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Signals 068",
     "description": "SYNTHETIC FICTION",
@@ -1217,6 +1487,8 @@
   {
     "firstname": "Neririn",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0068.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Signals 068",
     "description": "SYNTHETIC FICTION",
@@ -1226,6 +1498,8 @@
   {
     "firstname": "Nerisol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0069@vendor0069.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Signals 069",
     "description": "SYNTHETIC FICTION",
@@ -1235,6 +1509,8 @@
   {
     "firstname": "Nerisol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0069.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Signals 069",
     "description": "SYNTHETIC FICTION",
@@ -1244,6 +1520,8 @@
   {
     "firstname": "Nerimere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0070@vendor0070.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Signals 070",
     "description": "SYNTHETIC FICTION",
@@ -1253,6 +1531,8 @@
   {
     "firstname": "Nerimere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0070.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Signals 070",
     "description": "SYNTHETIC FICTION",
@@ -1262,6 +1542,8 @@
   {
     "firstname": "Oriven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0071@vendor0071.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Signals 071",
     "description": "SYNTHETIC FICTION",
@@ -1271,6 +1553,8 @@
   {
     "firstname": "Oriven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0071.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Signals 071",
     "description": "SYNTHETIC FICTION",
@@ -1280,6 +1564,8 @@
   {
     "firstname": "Orilune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0072@vendor0072.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Signals 072",
     "description": "SYNTHETIC FICTION",
@@ -1289,6 +1575,8 @@
   {
     "firstname": "Orilune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0072.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Signals 072",
     "description": "SYNTHETIC FICTION",
@@ -1298,6 +1586,8 @@
   {
     "firstname": "Oririn",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0073@vendor0073.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Signals 073",
     "description": "SYNTHETIC FICTION",
@@ -1307,6 +1597,8 @@
   {
     "firstname": "Oririn",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0073.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Signals 073",
     "description": "SYNTHETIC FICTION",
@@ -1316,6 +1608,8 @@
   {
     "firstname": "Orisol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0074@vendor0074.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Signals 074",
     "description": "SYNTHETIC FICTION",
@@ -1325,6 +1619,8 @@
   {
     "firstname": "Orisol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0074.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Signals 074",
     "description": "SYNTHETIC FICTION",
@@ -1334,6 +1630,8 @@
   {
     "firstname": "Orimere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0075@vendor0075.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Signals 075",
     "description": "SYNTHETIC FICTION",
@@ -1343,6 +1641,8 @@
   {
     "firstname": "Orimere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0075.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Signals 075",
     "description": "SYNTHETIC FICTION",
@@ -1352,6 +1652,8 @@
   {
     "firstname": "Peraven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0076@vendor0076.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Signals 076",
     "description": "SYNTHETIC FICTION",
@@ -1361,6 +1663,8 @@
   {
     "firstname": "Peraven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0076.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Signals 076",
     "description": "SYNTHETIC FICTION",
@@ -1370,6 +1674,8 @@
   {
     "firstname": "Peralune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0077@vendor0077.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Signals 077",
     "description": "SYNTHETIC FICTION",
@@ -1379,6 +1685,8 @@
   {
     "firstname": "Peralune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0077.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Signals 077",
     "description": "SYNTHETIC FICTION",
@@ -1388,6 +1696,8 @@
   {
     "firstname": "Perarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0078@vendor0078.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Signals 078",
     "description": "SYNTHETIC FICTION",
@@ -1397,6 +1707,8 @@
   {
     "firstname": "Perarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0078.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Signals 078",
     "description": "SYNTHETIC FICTION",
@@ -1406,6 +1718,8 @@
   {
     "firstname": "Perasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0079@vendor0079.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Signals 079",
     "description": "SYNTHETIC FICTION",
@@ -1415,6 +1729,8 @@
   {
     "firstname": "Perasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0079.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Signals 079",
     "description": "SYNTHETIC FICTION",
@@ -1424,6 +1740,8 @@
   {
     "firstname": "Peramere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0080@vendor0080.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Signals 080",
     "description": "SYNTHETIC FICTION",
@@ -1433,6 +1751,8 @@
   {
     "firstname": "Peramere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0080.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Signals 080",
     "description": "SYNTHETIC FICTION",
@@ -1442,6 +1762,8 @@
   {
     "firstname": "Queraven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0081@vendor0081.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Platform 081",
     "description": "SYNTHETIC FICTION",
@@ -1451,6 +1773,8 @@
   {
     "firstname": "Queraven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0081.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Platform 081",
     "description": "SYNTHETIC FICTION",
@@ -1460,6 +1784,8 @@
   {
     "firstname": "Queralune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0082@vendor0082.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Platform 082",
     "description": "SYNTHETIC FICTION",
@@ -1469,6 +1795,8 @@
   {
     "firstname": "Queralune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0082.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Platform 082",
     "description": "SYNTHETIC FICTION",
@@ -1478,6 +1806,8 @@
   {
     "firstname": "Querarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0083@vendor0083.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Platform 083",
     "description": "SYNTHETIC FICTION",
@@ -1487,6 +1817,8 @@
   {
     "firstname": "Querarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0083.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Platform 083",
     "description": "SYNTHETIC FICTION",
@@ -1496,6 +1828,8 @@
   {
     "firstname": "Querasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0084@vendor0084.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Platform 084",
     "description": "SYNTHETIC FICTION",
@@ -1505,6 +1839,8 @@
   {
     "firstname": "Querasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0084.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Platform 084",
     "description": "SYNTHETIC FICTION",
@@ -1514,6 +1850,8 @@
   {
     "firstname": "Queramere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0085@vendor0085.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Platform 085",
     "description": "SYNTHETIC FICTION",
@@ -1523,6 +1861,8 @@
   {
     "firstname": "Queramere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0085.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Platform 085",
     "description": "SYNTHETIC FICTION",
@@ -1532,6 +1872,8 @@
   {
     "firstname": "Rinaven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0086@vendor0086.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Platform 086",
     "description": "SYNTHETIC FICTION",
@@ -1541,6 +1883,8 @@
   {
     "firstname": "Rinaven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0086.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Platform 086",
     "description": "SYNTHETIC FICTION",
@@ -1550,6 +1894,8 @@
   {
     "firstname": "Rinalune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0087@vendor0087.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Platform 087",
     "description": "SYNTHETIC FICTION",
@@ -1559,6 +1905,8 @@
   {
     "firstname": "Rinalune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0087.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Platform 087",
     "description": "SYNTHETIC FICTION",
@@ -1568,6 +1916,8 @@
   {
     "firstname": "Rinarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0088@vendor0088.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Platform 088",
     "description": "SYNTHETIC FICTION",
@@ -1577,6 +1927,8 @@
   {
     "firstname": "Rinarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0088.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Platform 088",
     "description": "SYNTHETIC FICTION",
@@ -1586,6 +1938,8 @@
   {
     "firstname": "Rinasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0089@vendor0089.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Platform 089",
     "description": "SYNTHETIC FICTION",
@@ -1595,6 +1949,8 @@
   {
     "firstname": "Rinasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0089.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Platform 089",
     "description": "SYNTHETIC FICTION",
@@ -1604,6 +1960,8 @@
   {
     "firstname": "Rinamere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0090@vendor0090.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Platform 090",
     "description": "SYNTHETIC FICTION",
@@ -1613,6 +1971,8 @@
   {
     "firstname": "Rinamere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0090.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Platform 090",
     "description": "SYNTHETIC FICTION",
@@ -1622,6 +1982,8 @@
   {
     "firstname": "Soraven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0091@vendor0091.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Platform 091",
     "description": "SYNTHETIC FICTION",
@@ -1631,6 +1993,8 @@
   {
     "firstname": "Soraven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0091.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Platform 091",
     "description": "SYNTHETIC FICTION",
@@ -1640,6 +2004,8 @@
   {
     "firstname": "Soralune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0092@vendor0092.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Platform 092",
     "description": "SYNTHETIC FICTION",
@@ -1649,6 +2015,8 @@
   {
     "firstname": "Soralune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0092.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Platform 092",
     "description": "SYNTHETIC FICTION",
@@ -1658,6 +2026,8 @@
   {
     "firstname": "Sorarin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0093@vendor0093.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Platform 093",
     "description": "SYNTHETIC FICTION",
@@ -1667,6 +2037,8 @@
   {
     "firstname": "Sorarin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0093.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Platform 093",
     "description": "SYNTHETIC FICTION",
@@ -1676,6 +2048,8 @@
   {
     "firstname": "Sorasol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0094@vendor0094.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Platform 094",
     "description": "SYNTHETIC FICTION",
@@ -1685,6 +2059,8 @@
   {
     "firstname": "Sorasol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0094.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Platform 094",
     "description": "SYNTHETIC FICTION",
@@ -1694,6 +2070,8 @@
   {
     "firstname": "Soramere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0095@vendor0095.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Platform 095",
     "description": "SYNTHETIC FICTION",
@@ -1703,6 +2081,8 @@
   {
     "firstname": "Soramere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0095.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Platform 095",
     "description": "SYNTHETIC FICTION",
@@ -1712,6 +2092,8 @@
   {
     "firstname": "Taliven",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0096@vendor0096.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Platform 096",
     "description": "SYNTHETIC FICTION",
@@ -1721,6 +2103,8 @@
   {
     "firstname": "Taliven",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0096.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Platform 096",
     "description": "SYNTHETIC FICTION",
@@ -1730,6 +2114,8 @@
   {
     "firstname": "Talilune",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0097@vendor0097.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Platform 097",
     "description": "SYNTHETIC FICTION",
@@ -1739,6 +2125,8 @@
   {
     "firstname": "Talilune",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0097.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Platform 097",
     "description": "SYNTHETIC FICTION",
@@ -1748,6 +2136,8 @@
   {
     "firstname": "Talirin",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0098@vendor0098.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Platform 098",
     "description": "SYNTHETIC FICTION",
@@ -1757,6 +2147,8 @@
   {
     "firstname": "Talirin",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0098.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Platform 098",
     "description": "SYNTHETIC FICTION",
@@ -1766,6 +2158,8 @@
   {
     "firstname": "Talisol",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0099@vendor0099.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Platform 099",
     "description": "SYNTHETIC FICTION",
@@ -1775,6 +2169,8 @@
   {
     "firstname": "Talisol",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0099.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Platform 099",
     "description": "SYNTHETIC FICTION",
@@ -1784,6 +2180,8 @@
   {
     "firstname": "Talimere",
     "lastname": "Ambercrest Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0100@vendor0100.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Platform 100",
     "description": "SYNTHETIC FICTION",
@@ -1793,6 +2191,8 @@
   {
     "firstname": "Talimere",
     "lastname": "Ambercrest Finance",
+    "jobtitle": "Fictional finance contact",
+    "department": "",
     "emailaddress1": "finance@vendor0100.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Platform 100",
     "description": "SYNTHETIC FICTION",
@@ -1802,6 +2202,8 @@
   {
     "firstname": "Avaven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0101@vendor0101.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Systems 101",
     "description": "SYNTHETIC FICTION",
@@ -1811,6 +2213,8 @@
   {
     "firstname": "Avalune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0102@vendor0102.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Systems 102",
     "description": "SYNTHETIC FICTION",
@@ -1820,6 +2224,8 @@
   {
     "firstname": "Avarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0103@vendor0103.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Systems 103",
     "description": "SYNTHETIC FICTION",
@@ -1829,6 +2235,8 @@
   {
     "firstname": "Avasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0104@vendor0104.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Systems 104",
     "description": "SYNTHETIC FICTION",
@@ -1838,6 +2246,8 @@
   {
     "firstname": "Avamere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0105@vendor0105.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Systems 105",
     "description": "SYNTHETIC FICTION",
@@ -1847,6 +2257,8 @@
   {
     "firstname": "Belaven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0106@vendor0106.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Systems 106",
     "description": "SYNTHETIC FICTION",
@@ -1856,6 +2268,8 @@
   {
     "firstname": "Belalune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0107@vendor0107.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Systems 107",
     "description": "SYNTHETIC FICTION",
@@ -1865,6 +2279,8 @@
   {
     "firstname": "Belarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0108@vendor0108.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Systems 108",
     "description": "SYNTHETIC FICTION",
@@ -1874,6 +2290,8 @@
   {
     "firstname": "Belasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0109@vendor0109.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Systems 109",
     "description": "SYNTHETIC FICTION",
@@ -1883,6 +2301,8 @@
   {
     "firstname": "Belamere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0110@vendor0110.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Systems 110",
     "description": "SYNTHETIC FICTION",
@@ -1892,6 +2312,8 @@
   {
     "firstname": "Ceriven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0111@vendor0111.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Systems 111",
     "description": "SYNTHETIC FICTION",
@@ -1901,6 +2323,8 @@
   {
     "firstname": "Cerilune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0112@vendor0112.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Systems 112",
     "description": "SYNTHETIC FICTION",
@@ -1910,6 +2334,8 @@
   {
     "firstname": "Ceririn",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0113@vendor0113.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Systems 113",
     "description": "SYNTHETIC FICTION",
@@ -1919,6 +2345,8 @@
   {
     "firstname": "Cerisol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0114@vendor0114.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Systems 114",
     "description": "SYNTHETIC FICTION",
@@ -1928,6 +2356,8 @@
   {
     "firstname": "Cerimere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0115@vendor0115.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Systems 115",
     "description": "SYNTHETIC FICTION",
@@ -1937,6 +2367,8 @@
   {
     "firstname": "Daraven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0116@vendor0116.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Systems 116",
     "description": "SYNTHETIC FICTION",
@@ -1946,6 +2378,8 @@
   {
     "firstname": "Daralune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0117@vendor0117.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Systems 117",
     "description": "SYNTHETIC FICTION",
@@ -1955,6 +2389,8 @@
   {
     "firstname": "Dararin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0118@vendor0118.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Systems 118",
     "description": "SYNTHETIC FICTION",
@@ -1964,6 +2400,8 @@
   {
     "firstname": "Darasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0119@vendor0119.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Systems 119",
     "description": "SYNTHETIC FICTION",
@@ -1973,6 +2411,8 @@
   {
     "firstname": "Daramere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0120@vendor0120.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Systems 120",
     "description": "SYNTHETIC FICTION",
@@ -1982,6 +2422,8 @@
   {
     "firstname": "Eliven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0121@vendor0121.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Analytics 121",
     "description": "SYNTHETIC FICTION",
@@ -1991,6 +2433,8 @@
   {
     "firstname": "Elilune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0122@vendor0122.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Analytics 122",
     "description": "SYNTHETIC FICTION",
@@ -2000,6 +2444,8 @@
   {
     "firstname": "Elirin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0123@vendor0123.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Analytics 123",
     "description": "SYNTHETIC FICTION",
@@ -2009,6 +2455,8 @@
   {
     "firstname": "Elisol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0124@vendor0124.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Analytics 124",
     "description": "SYNTHETIC FICTION",
@@ -2018,6 +2466,8 @@
   {
     "firstname": "Elimere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0125@vendor0125.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Analytics 125",
     "description": "SYNTHETIC FICTION",
@@ -2027,6 +2477,8 @@
   {
     "firstname": "Faraven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0126@vendor0126.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Analytics 126",
     "description": "SYNTHETIC FICTION",
@@ -2036,6 +2488,8 @@
   {
     "firstname": "Faralune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0127@vendor0127.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Analytics 127",
     "description": "SYNTHETIC FICTION",
@@ -2045,6 +2499,8 @@
   {
     "firstname": "Fararin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0128@vendor0128.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Analytics 128",
     "description": "SYNTHETIC FICTION",
@@ -2054,6 +2510,8 @@
   {
     "firstname": "Farasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0129@vendor0129.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Analytics 129",
     "description": "SYNTHETIC FICTION",
@@ -2063,6 +2521,8 @@
   {
     "firstname": "Faramere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0130@vendor0130.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Analytics 130",
     "description": "SYNTHETIC FICTION",
@@ -2072,6 +2532,8 @@
   {
     "firstname": "Galaven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0131@vendor0131.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Analytics 131",
     "description": "SYNTHETIC FICTION",
@@ -2081,6 +2543,8 @@
   {
     "firstname": "Galalune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0132@vendor0132.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Analytics 132",
     "description": "SYNTHETIC FICTION",
@@ -2090,6 +2554,8 @@
   {
     "firstname": "Galarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0133@vendor0133.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Analytics 133",
     "description": "SYNTHETIC FICTION",
@@ -2099,6 +2565,8 @@
   {
     "firstname": "Galasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0134@vendor0134.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Analytics 134",
     "description": "SYNTHETIC FICTION",
@@ -2108,6 +2576,8 @@
   {
     "firstname": "Galamere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0135@vendor0135.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Analytics 135",
     "description": "SYNTHETIC FICTION",
@@ -2117,6 +2587,8 @@
   {
     "firstname": "Heriven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0136@vendor0136.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Analytics 136",
     "description": "SYNTHETIC FICTION",
@@ -2126,6 +2598,8 @@
   {
     "firstname": "Herilune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0137@vendor0137.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Analytics 137",
     "description": "SYNTHETIC FICTION",
@@ -2135,6 +2609,8 @@
   {
     "firstname": "Heririn",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0138@vendor0138.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Analytics 138",
     "description": "SYNTHETIC FICTION",
@@ -2144,6 +2620,8 @@
   {
     "firstname": "Herisol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0139@vendor0139.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Analytics 139",
     "description": "SYNTHETIC FICTION",
@@ -2153,6 +2631,8 @@
   {
     "firstname": "Herimere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0140@vendor0140.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Analytics 140",
     "description": "SYNTHETIC FICTION",
@@ -2162,6 +2642,8 @@
   {
     "firstname": "Ilaven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0141@vendor0141.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Workflow 141",
     "description": "SYNTHETIC FICTION",
@@ -2171,6 +2653,8 @@
   {
     "firstname": "Ilalune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0142@vendor0142.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Workflow 142",
     "description": "SYNTHETIC FICTION",
@@ -2180,6 +2664,8 @@
   {
     "firstname": "Ilarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0143@vendor0143.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Workflow 143",
     "description": "SYNTHETIC FICTION",
@@ -2189,6 +2675,8 @@
   {
     "firstname": "Ilasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0144@vendor0144.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Workflow 144",
     "description": "SYNTHETIC FICTION",
@@ -2198,6 +2686,8 @@
   {
     "firstname": "Ilamere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0145@vendor0145.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Workflow 145",
     "description": "SYNTHETIC FICTION",
@@ -2207,6 +2697,8 @@
   {
     "firstname": "Joraven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0146@vendor0146.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Workflow 146",
     "description": "SYNTHETIC FICTION",
@@ -2216,6 +2708,8 @@
   {
     "firstname": "Joralune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0147@vendor0147.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Workflow 147",
     "description": "SYNTHETIC FICTION",
@@ -2225,6 +2719,8 @@
   {
     "firstname": "Jorarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0148@vendor0148.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Workflow 148",
     "description": "SYNTHETIC FICTION",
@@ -2234,6 +2730,8 @@
   {
     "firstname": "Jorasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0149@vendor0149.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Workflow 149",
     "description": "SYNTHETIC FICTION",
@@ -2243,6 +2741,8 @@
   {
     "firstname": "Joramere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0150@vendor0150.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Workflow 150",
     "description": "SYNTHETIC FICTION",
@@ -2252,6 +2752,8 @@
   {
     "firstname": "Kalaven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0151@vendor0151.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Workflow 151",
     "description": "SYNTHETIC FICTION",
@@ -2261,6 +2763,8 @@
   {
     "firstname": "Kalalune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0152@vendor0152.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Workflow 152",
     "description": "SYNTHETIC FICTION",
@@ -2270,6 +2774,8 @@
   {
     "firstname": "Kalarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0153@vendor0153.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Workflow 153",
     "description": "SYNTHETIC FICTION",
@@ -2279,6 +2785,8 @@
   {
     "firstname": "Kalasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0154@vendor0154.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Workflow 154",
     "description": "SYNTHETIC FICTION",
@@ -2288,6 +2796,8 @@
   {
     "firstname": "Kalamere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0155@vendor0155.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Workflow 155",
     "description": "SYNTHETIC FICTION",
@@ -2297,6 +2807,8 @@
   {
     "firstname": "Liriven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0156@vendor0156.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Workflow 156",
     "description": "SYNTHETIC FICTION",
@@ -2306,6 +2818,8 @@
   {
     "firstname": "Lirilune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0157@vendor0157.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Workflow 157",
     "description": "SYNTHETIC FICTION",
@@ -2315,6 +2829,8 @@
   {
     "firstname": "Liririn",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0158@vendor0158.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Workflow 158",
     "description": "SYNTHETIC FICTION",
@@ -2324,6 +2840,8 @@
   {
     "firstname": "Lirisol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0159@vendor0159.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Workflow 159",
     "description": "SYNTHETIC FICTION",
@@ -2333,6 +2851,8 @@
   {
     "firstname": "Lirimere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0160@vendor0160.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Workflow 160",
     "description": "SYNTHETIC FICTION",
@@ -2342,6 +2862,8 @@
   {
     "firstname": "Maraven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0161@vendor0161.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Signals 161",
     "description": "SYNTHETIC FICTION",
@@ -2351,6 +2873,8 @@
   {
     "firstname": "Maralune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0162@vendor0162.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Signals 162",
     "description": "SYNTHETIC FICTION",
@@ -2360,6 +2884,8 @@
   {
     "firstname": "Mararin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0163@vendor0163.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Signals 163",
     "description": "SYNTHETIC FICTION",
@@ -2369,6 +2895,8 @@
   {
     "firstname": "Marasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0164@vendor0164.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Signals 164",
     "description": "SYNTHETIC FICTION",
@@ -2378,6 +2906,8 @@
   {
     "firstname": "Maramere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0165@vendor0165.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Signals 165",
     "description": "SYNTHETIC FICTION",
@@ -2387,6 +2917,8 @@
   {
     "firstname": "Neriven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0166@vendor0166.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Signals 166",
     "description": "SYNTHETIC FICTION",
@@ -2396,6 +2928,8 @@
   {
     "firstname": "Nerilune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0167@vendor0167.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Signals 167",
     "description": "SYNTHETIC FICTION",
@@ -2405,6 +2939,8 @@
   {
     "firstname": "Neririn",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0168@vendor0168.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Signals 168",
     "description": "SYNTHETIC FICTION",
@@ -2414,6 +2950,8 @@
   {
     "firstname": "Nerisol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0169@vendor0169.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Signals 169",
     "description": "SYNTHETIC FICTION",
@@ -2423,6 +2961,8 @@
   {
     "firstname": "Nerimere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0170@vendor0170.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Signals 170",
     "description": "SYNTHETIC FICTION",
@@ -2432,6 +2972,8 @@
   {
     "firstname": "Oriven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0171@vendor0171.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Signals 171",
     "description": "SYNTHETIC FICTION",
@@ -2441,6 +2983,8 @@
   {
     "firstname": "Orilune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0172@vendor0172.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Signals 172",
     "description": "SYNTHETIC FICTION",
@@ -2450,6 +2994,8 @@
   {
     "firstname": "Oririn",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0173@vendor0173.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Signals 173",
     "description": "SYNTHETIC FICTION",
@@ -2459,6 +3005,8 @@
   {
     "firstname": "Orisol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0174@vendor0174.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Signals 174",
     "description": "SYNTHETIC FICTION",
@@ -2468,6 +3016,8 @@
   {
     "firstname": "Orimere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0175@vendor0175.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Signals 175",
     "description": "SYNTHETIC FICTION",
@@ -2477,6 +3027,8 @@
   {
     "firstname": "Peraven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0176@vendor0176.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Signals 176",
     "description": "SYNTHETIC FICTION",
@@ -2486,6 +3038,8 @@
   {
     "firstname": "Peralune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0177@vendor0177.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Signals 177",
     "description": "SYNTHETIC FICTION",
@@ -2495,6 +3049,8 @@
   {
     "firstname": "Perarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0178@vendor0178.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Signals 178",
     "description": "SYNTHETIC FICTION",
@@ -2504,6 +3060,8 @@
   {
     "firstname": "Perasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0179@vendor0179.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Signals 179",
     "description": "SYNTHETIC FICTION",
@@ -2513,6 +3071,8 @@
   {
     "firstname": "Peramere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0180@vendor0180.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Signals 180",
     "description": "SYNTHETIC FICTION",
@@ -2522,6 +3082,8 @@
   {
     "firstname": "Queraven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0181@vendor0181.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Platform 181",
     "description": "SYNTHETIC FICTION",
@@ -2531,6 +3093,8 @@
   {
     "firstname": "Queralune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0182@vendor0182.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Platform 182",
     "description": "SYNTHETIC FICTION",
@@ -2540,6 +3104,8 @@
   {
     "firstname": "Querarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0183@vendor0183.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Platform 183",
     "description": "SYNTHETIC FICTION",
@@ -2549,6 +3115,8 @@
   {
     "firstname": "Querasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0184@vendor0184.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Platform 184",
     "description": "SYNTHETIC FICTION",
@@ -2558,6 +3126,8 @@
   {
     "firstname": "Queramere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0185@vendor0185.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Platform 185",
     "description": "SYNTHETIC FICTION",
@@ -2567,6 +3137,8 @@
   {
     "firstname": "Rinaven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0186@vendor0186.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Platform 186",
     "description": "SYNTHETIC FICTION",
@@ -2576,6 +3148,8 @@
   {
     "firstname": "Rinalune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0187@vendor0187.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Platform 187",
     "description": "SYNTHETIC FICTION",
@@ -2585,6 +3159,8 @@
   {
     "firstname": "Rinarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0188@vendor0188.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Platform 188",
     "description": "SYNTHETIC FICTION",
@@ -2594,6 +3170,8 @@
   {
     "firstname": "Rinasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0189@vendor0189.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Platform 189",
     "description": "SYNTHETIC FICTION",
@@ -2603,6 +3181,8 @@
   {
     "firstname": "Rinamere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0190@vendor0190.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Platform 190",
     "description": "SYNTHETIC FICTION",
@@ -2612,6 +3192,8 @@
   {
     "firstname": "Soraven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0191@vendor0191.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Platform 191",
     "description": "SYNTHETIC FICTION",
@@ -2621,6 +3203,8 @@
   {
     "firstname": "Soralune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0192@vendor0192.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Platform 192",
     "description": "SYNTHETIC FICTION",
@@ -2630,6 +3214,8 @@
   {
     "firstname": "Sorarin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0193@vendor0193.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Platform 193",
     "description": "SYNTHETIC FICTION",
@@ -2639,6 +3225,8 @@
   {
     "firstname": "Sorasol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0194@vendor0194.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Platform 194",
     "description": "SYNTHETIC FICTION",
@@ -2648,6 +3236,8 @@
   {
     "firstname": "Soramere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0195@vendor0195.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Platform 195",
     "description": "SYNTHETIC FICTION",
@@ -2657,6 +3247,8 @@
   {
     "firstname": "Taliven",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0196@vendor0196.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Platform 196",
     "description": "SYNTHETIC FICTION",
@@ -2666,6 +3258,8 @@
   {
     "firstname": "Talilune",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0197@vendor0197.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Platform 197",
     "description": "SYNTHETIC FICTION",
@@ -2675,6 +3269,8 @@
   {
     "firstname": "Talirin",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0198@vendor0198.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Platform 198",
     "description": "SYNTHETIC FICTION",
@@ -2684,6 +3280,8 @@
   {
     "firstname": "Talisol",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0199@vendor0199.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Platform 199",
     "description": "SYNTHETIC FICTION",
@@ -2693,6 +3291,8 @@
   {
     "firstname": "Talimere",
     "lastname": "Amberfield Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0200@vendor0200.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Platform 200",
     "description": "SYNTHETIC FICTION",
@@ -2702,6 +3302,8 @@
   {
     "firstname": "Avaven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0201@vendor0201.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Systems 201",
     "description": "SYNTHETIC FICTION",
@@ -2711,6 +3313,8 @@
   {
     "firstname": "Avalune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0202@vendor0202.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Systems 202",
     "description": "SYNTHETIC FICTION",
@@ -2720,6 +3324,8 @@
   {
     "firstname": "Avarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0203@vendor0203.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Systems 203",
     "description": "SYNTHETIC FICTION",
@@ -2729,6 +3335,8 @@
   {
     "firstname": "Avasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0204@vendor0204.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Systems 204",
     "description": "SYNTHETIC FICTION",
@@ -2738,6 +3346,8 @@
   {
     "firstname": "Avamere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0205@vendor0205.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Systems 205",
     "description": "SYNTHETIC FICTION",
@@ -2747,6 +3357,8 @@
   {
     "firstname": "Belaven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0206@vendor0206.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Systems 206",
     "description": "SYNTHETIC FICTION",
@@ -2756,6 +3368,8 @@
   {
     "firstname": "Belalune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0207@vendor0207.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Systems 207",
     "description": "SYNTHETIC FICTION",
@@ -2765,6 +3379,8 @@
   {
     "firstname": "Belarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0208@vendor0208.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Systems 208",
     "description": "SYNTHETIC FICTION",
@@ -2774,6 +3390,8 @@
   {
     "firstname": "Belasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0209@vendor0209.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Systems 209",
     "description": "SYNTHETIC FICTION",
@@ -2783,6 +3401,8 @@
   {
     "firstname": "Belamere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0210@vendor0210.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Systems 210",
     "description": "SYNTHETIC FICTION",
@@ -2792,6 +3412,8 @@
   {
     "firstname": "Ceriven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0211@vendor0211.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Systems 211",
     "description": "SYNTHETIC FICTION",
@@ -2801,6 +3423,8 @@
   {
     "firstname": "Cerilune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0212@vendor0212.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Systems 212",
     "description": "SYNTHETIC FICTION",
@@ -2810,6 +3434,8 @@
   {
     "firstname": "Ceririn",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0213@vendor0213.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Systems 213",
     "description": "SYNTHETIC FICTION",
@@ -2819,6 +3445,8 @@
   {
     "firstname": "Cerisol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0214@vendor0214.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Systems 214",
     "description": "SYNTHETIC FICTION",
@@ -2828,6 +3456,8 @@
   {
     "firstname": "Cerimere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0215@vendor0215.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Systems 215",
     "description": "SYNTHETIC FICTION",
@@ -2837,6 +3467,8 @@
   {
     "firstname": "Daraven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0216@vendor0216.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Systems 216",
     "description": "SYNTHETIC FICTION",
@@ -2846,6 +3478,8 @@
   {
     "firstname": "Daralune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0217@vendor0217.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Systems 217",
     "description": "SYNTHETIC FICTION",
@@ -2855,6 +3489,8 @@
   {
     "firstname": "Dararin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0218@vendor0218.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Systems 218",
     "description": "SYNTHETIC FICTION",
@@ -2864,6 +3500,8 @@
   {
     "firstname": "Darasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0219@vendor0219.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Systems 219",
     "description": "SYNTHETIC FICTION",
@@ -2873,6 +3511,8 @@
   {
     "firstname": "Daramere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0220@vendor0220.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Systems 220",
     "description": "SYNTHETIC FICTION",
@@ -2882,6 +3522,8 @@
   {
     "firstname": "Eliven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0221@vendor0221.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Analytics 221",
     "description": "SYNTHETIC FICTION",
@@ -2891,6 +3533,8 @@
   {
     "firstname": "Elilune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0222@vendor0222.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Analytics 222",
     "description": "SYNTHETIC FICTION",
@@ -2900,6 +3544,8 @@
   {
     "firstname": "Elirin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0223@vendor0223.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Analytics 223",
     "description": "SYNTHETIC FICTION",
@@ -2909,6 +3555,8 @@
   {
     "firstname": "Elisol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0224@vendor0224.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Analytics 224",
     "description": "SYNTHETIC FICTION",
@@ -2918,6 +3566,8 @@
   {
     "firstname": "Elimere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0225@vendor0225.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Analytics 225",
     "description": "SYNTHETIC FICTION",
@@ -2927,6 +3577,8 @@
   {
     "firstname": "Faraven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0226@vendor0226.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Analytics 226",
     "description": "SYNTHETIC FICTION",
@@ -2936,6 +3588,8 @@
   {
     "firstname": "Faralune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0227@vendor0227.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Analytics 227",
     "description": "SYNTHETIC FICTION",
@@ -2945,6 +3599,8 @@
   {
     "firstname": "Fararin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0228@vendor0228.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Analytics 228",
     "description": "SYNTHETIC FICTION",
@@ -2954,6 +3610,8 @@
   {
     "firstname": "Farasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0229@vendor0229.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Analytics 229",
     "description": "SYNTHETIC FICTION",
@@ -2963,6 +3621,8 @@
   {
     "firstname": "Faramere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0230@vendor0230.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Analytics 230",
     "description": "SYNTHETIC FICTION",
@@ -2972,6 +3632,8 @@
   {
     "firstname": "Galaven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0231@vendor0231.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Analytics 231",
     "description": "SYNTHETIC FICTION",
@@ -2981,6 +3643,8 @@
   {
     "firstname": "Galalune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0232@vendor0232.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Analytics 232",
     "description": "SYNTHETIC FICTION",
@@ -2990,6 +3654,8 @@
   {
     "firstname": "Galarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0233@vendor0233.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Analytics 233",
     "description": "SYNTHETIC FICTION",
@@ -2999,6 +3665,8 @@
   {
     "firstname": "Galasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0234@vendor0234.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Analytics 234",
     "description": "SYNTHETIC FICTION",
@@ -3008,6 +3676,8 @@
   {
     "firstname": "Galamere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0235@vendor0235.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Analytics 235",
     "description": "SYNTHETIC FICTION",
@@ -3017,6 +3687,8 @@
   {
     "firstname": "Heriven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0236@vendor0236.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Analytics 236",
     "description": "SYNTHETIC FICTION",
@@ -3026,6 +3698,8 @@
   {
     "firstname": "Herilune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0237@vendor0237.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Analytics 237",
     "description": "SYNTHETIC FICTION",
@@ -3035,6 +3709,8 @@
   {
     "firstname": "Heririn",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0238@vendor0238.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Analytics 238",
     "description": "SYNTHETIC FICTION",
@@ -3044,6 +3720,8 @@
   {
     "firstname": "Herisol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0239@vendor0239.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Analytics 239",
     "description": "SYNTHETIC FICTION",
@@ -3053,6 +3731,8 @@
   {
     "firstname": "Herimere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0240@vendor0240.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Analytics 240",
     "description": "SYNTHETIC FICTION",
@@ -3062,6 +3742,8 @@
   {
     "firstname": "Ilaven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0241@vendor0241.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Workflow 241",
     "description": "SYNTHETIC FICTION",
@@ -3071,6 +3753,8 @@
   {
     "firstname": "Ilalune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0242@vendor0242.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Workflow 242",
     "description": "SYNTHETIC FICTION",
@@ -3080,6 +3764,8 @@
   {
     "firstname": "Ilarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0243@vendor0243.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Workflow 243",
     "description": "SYNTHETIC FICTION",
@@ -3089,6 +3775,8 @@
   {
     "firstname": "Ilasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0244@vendor0244.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Workflow 244",
     "description": "SYNTHETIC FICTION",
@@ -3098,6 +3786,8 @@
   {
     "firstname": "Ilamere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0245@vendor0245.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Workflow 245",
     "description": "SYNTHETIC FICTION",
@@ -3107,6 +3797,8 @@
   {
     "firstname": "Joraven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0246@vendor0246.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Workflow 246",
     "description": "SYNTHETIC FICTION",
@@ -3116,6 +3808,8 @@
   {
     "firstname": "Joralune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0247@vendor0247.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Workflow 247",
     "description": "SYNTHETIC FICTION",
@@ -3125,6 +3819,8 @@
   {
     "firstname": "Jorarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0248@vendor0248.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Workflow 248",
     "description": "SYNTHETIC FICTION",
@@ -3134,6 +3830,8 @@
   {
     "firstname": "Jorasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0249@vendor0249.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Workflow 249",
     "description": "SYNTHETIC FICTION",
@@ -3143,6 +3841,8 @@
   {
     "firstname": "Joramere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0250@vendor0250.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Workflow 250",
     "description": "SYNTHETIC FICTION",
@@ -3152,6 +3852,8 @@
   {
     "firstname": "Kalaven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0251@vendor0251.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Workflow 251",
     "description": "SYNTHETIC FICTION",
@@ -3161,6 +3863,8 @@
   {
     "firstname": "Kalalune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0252@vendor0252.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Workflow 252",
     "description": "SYNTHETIC FICTION",
@@ -3170,6 +3874,8 @@
   {
     "firstname": "Kalarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0253@vendor0253.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Workflow 253",
     "description": "SYNTHETIC FICTION",
@@ -3179,6 +3885,8 @@
   {
     "firstname": "Kalasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0254@vendor0254.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Workflow 254",
     "description": "SYNTHETIC FICTION",
@@ -3188,6 +3896,8 @@
   {
     "firstname": "Kalamere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0255@vendor0255.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Workflow 255",
     "description": "SYNTHETIC FICTION",
@@ -3197,6 +3907,8 @@
   {
     "firstname": "Liriven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0256@vendor0256.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Workflow 256",
     "description": "SYNTHETIC FICTION",
@@ -3206,6 +3918,8 @@
   {
     "firstname": "Lirilune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0257@vendor0257.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Workflow 257",
     "description": "SYNTHETIC FICTION",
@@ -3215,6 +3929,8 @@
   {
     "firstname": "Liririn",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0258@vendor0258.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Workflow 258",
     "description": "SYNTHETIC FICTION",
@@ -3224,6 +3940,8 @@
   {
     "firstname": "Lirisol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0259@vendor0259.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Workflow 259",
     "description": "SYNTHETIC FICTION",
@@ -3233,6 +3951,8 @@
   {
     "firstname": "Lirimere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0260@vendor0260.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Workflow 260",
     "description": "SYNTHETIC FICTION",
@@ -3242,6 +3962,8 @@
   {
     "firstname": "Maraven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0261@vendor0261.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Signals 261",
     "description": "SYNTHETIC FICTION",
@@ -3251,6 +3973,8 @@
   {
     "firstname": "Maralune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0262@vendor0262.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Signals 262",
     "description": "SYNTHETIC FICTION",
@@ -3260,6 +3984,8 @@
   {
     "firstname": "Mararin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0263@vendor0263.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Signals 263",
     "description": "SYNTHETIC FICTION",
@@ -3269,6 +3995,8 @@
   {
     "firstname": "Marasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0264@vendor0264.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Signals 264",
     "description": "SYNTHETIC FICTION",
@@ -3278,6 +4006,8 @@
   {
     "firstname": "Maramere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0265@vendor0265.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Signals 265",
     "description": "SYNTHETIC FICTION",
@@ -3287,6 +4017,8 @@
   {
     "firstname": "Neriven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0266@vendor0266.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Signals 266",
     "description": "SYNTHETIC FICTION",
@@ -3296,6 +4028,8 @@
   {
     "firstname": "Nerilune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0267@vendor0267.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Signals 267",
     "description": "SYNTHETIC FICTION",
@@ -3305,6 +4039,8 @@
   {
     "firstname": "Neririn",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0268@vendor0268.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Signals 268",
     "description": "SYNTHETIC FICTION",
@@ -3314,6 +4050,8 @@
   {
     "firstname": "Nerisol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0269@vendor0269.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Signals 269",
     "description": "SYNTHETIC FICTION",
@@ -3323,6 +4061,8 @@
   {
     "firstname": "Nerimere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0270@vendor0270.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Signals 270",
     "description": "SYNTHETIC FICTION",
@@ -3332,6 +4072,8 @@
   {
     "firstname": "Oriven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0271@vendor0271.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Signals 271",
     "description": "SYNTHETIC FICTION",
@@ -3341,6 +4083,8 @@
   {
     "firstname": "Orilune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0272@vendor0272.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Signals 272",
     "description": "SYNTHETIC FICTION",
@@ -3350,6 +4094,8 @@
   {
     "firstname": "Oririn",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0273@vendor0273.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Signals 273",
     "description": "SYNTHETIC FICTION",
@@ -3359,6 +4105,8 @@
   {
     "firstname": "Orisol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0274@vendor0274.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Signals 274",
     "description": "SYNTHETIC FICTION",
@@ -3368,6 +4116,8 @@
   {
     "firstname": "Orimere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0275@vendor0275.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Signals 275",
     "description": "SYNTHETIC FICTION",
@@ -3377,6 +4127,8 @@
   {
     "firstname": "Peraven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0276@vendor0276.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Signals 276",
     "description": "SYNTHETIC FICTION",
@@ -3386,6 +4138,8 @@
   {
     "firstname": "Peralune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0277@vendor0277.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Signals 277",
     "description": "SYNTHETIC FICTION",
@@ -3395,6 +4149,8 @@
   {
     "firstname": "Perarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0278@vendor0278.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Signals 278",
     "description": "SYNTHETIC FICTION",
@@ -3404,6 +4160,8 @@
   {
     "firstname": "Perasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0279@vendor0279.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Signals 279",
     "description": "SYNTHETIC FICTION",
@@ -3413,6 +4171,8 @@
   {
     "firstname": "Peramere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0280@vendor0280.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Signals 280",
     "description": "SYNTHETIC FICTION",
@@ -3422,6 +4182,8 @@
   {
     "firstname": "Queraven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0281@vendor0281.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Platform 281",
     "description": "SYNTHETIC FICTION",
@@ -3431,6 +4193,8 @@
   {
     "firstname": "Queralune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0282@vendor0282.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Platform 282",
     "description": "SYNTHETIC FICTION",
@@ -3440,6 +4204,8 @@
   {
     "firstname": "Querarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0283@vendor0283.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Platform 283",
     "description": "SYNTHETIC FICTION",
@@ -3449,6 +4215,8 @@
   {
     "firstname": "Querasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0284@vendor0284.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Platform 284",
     "description": "SYNTHETIC FICTION",
@@ -3458,6 +4226,8 @@
   {
     "firstname": "Queramere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0285@vendor0285.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Platform 285",
     "description": "SYNTHETIC FICTION",
@@ -3467,6 +4237,8 @@
   {
     "firstname": "Rinaven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0286@vendor0286.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Platform 286",
     "description": "SYNTHETIC FICTION",
@@ -3476,6 +4248,8 @@
   {
     "firstname": "Rinalune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0287@vendor0287.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Platform 287",
     "description": "SYNTHETIC FICTION",
@@ -3485,6 +4259,8 @@
   {
     "firstname": "Rinarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0288@vendor0288.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Platform 288",
     "description": "SYNTHETIC FICTION",
@@ -3494,6 +4270,8 @@
   {
     "firstname": "Rinasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0289@vendor0289.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Platform 289",
     "description": "SYNTHETIC FICTION",
@@ -3503,6 +4281,8 @@
   {
     "firstname": "Rinamere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0290@vendor0290.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Platform 290",
     "description": "SYNTHETIC FICTION",
@@ -3512,6 +4292,8 @@
   {
     "firstname": "Soraven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0291@vendor0291.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Platform 291",
     "description": "SYNTHETIC FICTION",
@@ -3521,6 +4303,8 @@
   {
     "firstname": "Soralune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0292@vendor0292.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Platform 292",
     "description": "SYNTHETIC FICTION",
@@ -3530,6 +4314,8 @@
   {
     "firstname": "Sorarin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0293@vendor0293.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Platform 293",
     "description": "SYNTHETIC FICTION",
@@ -3539,6 +4325,8 @@
   {
     "firstname": "Sorasol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0294@vendor0294.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Platform 294",
     "description": "SYNTHETIC FICTION",
@@ -3548,6 +4336,8 @@
   {
     "firstname": "Soramere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0295@vendor0295.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Platform 295",
     "description": "SYNTHETIC FICTION",
@@ -3557,6 +4347,8 @@
   {
     "firstname": "Taliven",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0296@vendor0296.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Platform 296",
     "description": "SYNTHETIC FICTION",
@@ -3566,6 +4358,8 @@
   {
     "firstname": "Talilune",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0297@vendor0297.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Platform 297",
     "description": "SYNTHETIC FICTION",
@@ -3575,6 +4369,8 @@
   {
     "firstname": "Talirin",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0298@vendor0298.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Platform 298",
     "description": "SYNTHETIC FICTION",
@@ -3584,6 +4380,8 @@
   {
     "firstname": "Talisol",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0299@vendor0299.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Platform 299",
     "description": "SYNTHETIC FICTION",
@@ -3593,6 +4391,8 @@
   {
     "firstname": "Talimere",
     "lastname": "Amberhaven Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0300@vendor0300.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Platform 300",
     "description": "SYNTHETIC FICTION",
@@ -3602,6 +4402,8 @@
   {
     "firstname": "Avaven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0301@vendor0301.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Systems 301",
     "description": "SYNTHETIC FICTION",
@@ -3611,6 +4413,8 @@
   {
     "firstname": "Avalune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0302@vendor0302.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Systems 302",
     "description": "SYNTHETIC FICTION",
@@ -3620,6 +4424,8 @@
   {
     "firstname": "Avarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0303@vendor0303.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Systems 303",
     "description": "SYNTHETIC FICTION",
@@ -3629,6 +4435,8 @@
   {
     "firstname": "Avasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0304@vendor0304.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Systems 304",
     "description": "SYNTHETIC FICTION",
@@ -3638,6 +4446,8 @@
   {
     "firstname": "Avamere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0305@vendor0305.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Systems 305",
     "description": "SYNTHETIC FICTION",
@@ -3647,6 +4457,8 @@
   {
     "firstname": "Belaven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0306@vendor0306.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Systems 306",
     "description": "SYNTHETIC FICTION",
@@ -3656,6 +4468,8 @@
   {
     "firstname": "Belalune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0307@vendor0307.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Systems 307",
     "description": "SYNTHETIC FICTION",
@@ -3665,6 +4479,8 @@
   {
     "firstname": "Belarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0308@vendor0308.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Systems 308",
     "description": "SYNTHETIC FICTION",
@@ -3674,6 +4490,8 @@
   {
     "firstname": "Belasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0309@vendor0309.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Systems 309",
     "description": "SYNTHETIC FICTION",
@@ -3683,6 +4501,8 @@
   {
     "firstname": "Belamere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0310@vendor0310.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Systems 310",
     "description": "SYNTHETIC FICTION",
@@ -3692,6 +4512,8 @@
   {
     "firstname": "Ceriven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0311@vendor0311.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Systems 311",
     "description": "SYNTHETIC FICTION",
@@ -3701,6 +4523,8 @@
   {
     "firstname": "Cerilune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0312@vendor0312.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Systems 312",
     "description": "SYNTHETIC FICTION",
@@ -3710,6 +4534,8 @@
   {
     "firstname": "Ceririn",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0313@vendor0313.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Systems 313",
     "description": "SYNTHETIC FICTION",
@@ -3719,6 +4545,8 @@
   {
     "firstname": "Cerisol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0314@vendor0314.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Systems 314",
     "description": "SYNTHETIC FICTION",
@@ -3728,6 +4556,8 @@
   {
     "firstname": "Cerimere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0315@vendor0315.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Systems 315",
     "description": "SYNTHETIC FICTION",
@@ -3737,6 +4567,8 @@
   {
     "firstname": "Daraven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0316@vendor0316.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Systems 316",
     "description": "SYNTHETIC FICTION",
@@ -3746,6 +4578,8 @@
   {
     "firstname": "Daralune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0317@vendor0317.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Systems 317",
     "description": "SYNTHETIC FICTION",
@@ -3755,6 +4589,8 @@
   {
     "firstname": "Dararin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0318@vendor0318.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Systems 318",
     "description": "SYNTHETIC FICTION",
@@ -3764,6 +4600,8 @@
   {
     "firstname": "Darasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0319@vendor0319.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Systems 319",
     "description": "SYNTHETIC FICTION",
@@ -3773,6 +4611,8 @@
   {
     "firstname": "Daramere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0320@vendor0320.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Systems 320",
     "description": "SYNTHETIC FICTION",
@@ -3782,6 +4622,8 @@
   {
     "firstname": "Eliven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0321@vendor0321.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Analytics 321",
     "description": "SYNTHETIC FICTION",
@@ -3791,6 +4633,8 @@
   {
     "firstname": "Elilune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0322@vendor0322.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Analytics 322",
     "description": "SYNTHETIC FICTION",
@@ -3800,6 +4644,8 @@
   {
     "firstname": "Elirin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0323@vendor0323.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Analytics 323",
     "description": "SYNTHETIC FICTION",
@@ -3809,6 +4655,8 @@
   {
     "firstname": "Elisol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0324@vendor0324.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Analytics 324",
     "description": "SYNTHETIC FICTION",
@@ -3818,6 +4666,8 @@
   {
     "firstname": "Elimere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0325@vendor0325.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Analytics 325",
     "description": "SYNTHETIC FICTION",
@@ -3827,6 +4677,8 @@
   {
     "firstname": "Faraven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0326@vendor0326.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Analytics 326",
     "description": "SYNTHETIC FICTION",
@@ -3836,6 +4688,8 @@
   {
     "firstname": "Faralune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0327@vendor0327.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Analytics 327",
     "description": "SYNTHETIC FICTION",
@@ -3845,6 +4699,8 @@
   {
     "firstname": "Fararin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0328@vendor0328.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Analytics 328",
     "description": "SYNTHETIC FICTION",
@@ -3854,6 +4710,8 @@
   {
     "firstname": "Farasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0329@vendor0329.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Analytics 329",
     "description": "SYNTHETIC FICTION",
@@ -3863,6 +4721,8 @@
   {
     "firstname": "Faramere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0330@vendor0330.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Analytics 330",
     "description": "SYNTHETIC FICTION",
@@ -3872,6 +4732,8 @@
   {
     "firstname": "Galaven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0331@vendor0331.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Analytics 331",
     "description": "SYNTHETIC FICTION",
@@ -3881,6 +4743,8 @@
   {
     "firstname": "Galalune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0332@vendor0332.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Analytics 332",
     "description": "SYNTHETIC FICTION",
@@ -3890,6 +4754,8 @@
   {
     "firstname": "Galarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0333@vendor0333.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Analytics 333",
     "description": "SYNTHETIC FICTION",
@@ -3899,6 +4765,8 @@
   {
     "firstname": "Galasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0334@vendor0334.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Analytics 334",
     "description": "SYNTHETIC FICTION",
@@ -3908,6 +4776,8 @@
   {
     "firstname": "Galamere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0335@vendor0335.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Analytics 335",
     "description": "SYNTHETIC FICTION",
@@ -3917,6 +4787,8 @@
   {
     "firstname": "Heriven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0336@vendor0336.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Analytics 336",
     "description": "SYNTHETIC FICTION",
@@ -3926,6 +4798,8 @@
   {
     "firstname": "Herilune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0337@vendor0337.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Analytics 337",
     "description": "SYNTHETIC FICTION",
@@ -3935,6 +4809,8 @@
   {
     "firstname": "Heririn",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0338@vendor0338.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Analytics 338",
     "description": "SYNTHETIC FICTION",
@@ -3944,6 +4820,8 @@
   {
     "firstname": "Herisol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0339@vendor0339.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Analytics 339",
     "description": "SYNTHETIC FICTION",
@@ -3953,6 +4831,8 @@
   {
     "firstname": "Herimere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0340@vendor0340.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Analytics 340",
     "description": "SYNTHETIC FICTION",
@@ -3962,6 +4842,8 @@
   {
     "firstname": "Ilaven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0341@vendor0341.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Workflow 341",
     "description": "SYNTHETIC FICTION",
@@ -3971,6 +4853,8 @@
   {
     "firstname": "Ilalune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0342@vendor0342.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Workflow 342",
     "description": "SYNTHETIC FICTION",
@@ -3980,6 +4864,8 @@
   {
     "firstname": "Ilarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0343@vendor0343.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Workflow 343",
     "description": "SYNTHETIC FICTION",
@@ -3989,6 +4875,8 @@
   {
     "firstname": "Ilasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0344@vendor0344.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Workflow 344",
     "description": "SYNTHETIC FICTION",
@@ -3998,6 +4886,8 @@
   {
     "firstname": "Ilamere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0345@vendor0345.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Workflow 345",
     "description": "SYNTHETIC FICTION",
@@ -4007,6 +4897,8 @@
   {
     "firstname": "Joraven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0346@vendor0346.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Workflow 346",
     "description": "SYNTHETIC FICTION",
@@ -4016,6 +4908,8 @@
   {
     "firstname": "Joralune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0347@vendor0347.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Workflow 347",
     "description": "SYNTHETIC FICTION",
@@ -4025,6 +4919,8 @@
   {
     "firstname": "Jorarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0348@vendor0348.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Workflow 348",
     "description": "SYNTHETIC FICTION",
@@ -4034,6 +4930,8 @@
   {
     "firstname": "Jorasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0349@vendor0349.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Workflow 349",
     "description": "SYNTHETIC FICTION",
@@ -4043,6 +4941,8 @@
   {
     "firstname": "Joramere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0350@vendor0350.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Workflow 350",
     "description": "SYNTHETIC FICTION",
@@ -4052,6 +4952,8 @@
   {
     "firstname": "Kalaven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0351@vendor0351.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Workflow 351",
     "description": "SYNTHETIC FICTION",
@@ -4061,6 +4963,8 @@
   {
     "firstname": "Kalalune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0352@vendor0352.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Workflow 352",
     "description": "SYNTHETIC FICTION",
@@ -4070,6 +4974,8 @@
   {
     "firstname": "Kalarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0353@vendor0353.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Workflow 353",
     "description": "SYNTHETIC FICTION",
@@ -4079,6 +4985,8 @@
   {
     "firstname": "Kalasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0354@vendor0354.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Workflow 354",
     "description": "SYNTHETIC FICTION",
@@ -4088,6 +4996,8 @@
   {
     "firstname": "Kalamere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0355@vendor0355.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Workflow 355",
     "description": "SYNTHETIC FICTION",
@@ -4097,6 +5007,8 @@
   {
     "firstname": "Liriven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0356@vendor0356.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Workflow 356",
     "description": "SYNTHETIC FICTION",
@@ -4106,6 +5018,8 @@
   {
     "firstname": "Lirilune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0357@vendor0357.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Workflow 357",
     "description": "SYNTHETIC FICTION",
@@ -4115,6 +5029,8 @@
   {
     "firstname": "Liririn",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0358@vendor0358.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Workflow 358",
     "description": "SYNTHETIC FICTION",
@@ -4124,6 +5040,8 @@
   {
     "firstname": "Lirisol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0359@vendor0359.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Workflow 359",
     "description": "SYNTHETIC FICTION",
@@ -4133,6 +5051,8 @@
   {
     "firstname": "Lirimere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0360@vendor0360.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Workflow 360",
     "description": "SYNTHETIC FICTION",
@@ -4142,6 +5062,8 @@
   {
     "firstname": "Maraven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0361@vendor0361.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Signals 361",
     "description": "SYNTHETIC FICTION",
@@ -4151,6 +5073,8 @@
   {
     "firstname": "Maralune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0362@vendor0362.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Signals 362",
     "description": "SYNTHETIC FICTION",
@@ -4160,6 +5084,8 @@
   {
     "firstname": "Mararin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0363@vendor0363.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Signals 363",
     "description": "SYNTHETIC FICTION",
@@ -4169,6 +5095,8 @@
   {
     "firstname": "Marasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0364@vendor0364.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Signals 364",
     "description": "SYNTHETIC FICTION",
@@ -4178,6 +5106,8 @@
   {
     "firstname": "Maramere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0365@vendor0365.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Signals 365",
     "description": "SYNTHETIC FICTION",
@@ -4187,6 +5117,8 @@
   {
     "firstname": "Neriven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0366@vendor0366.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Signals 366",
     "description": "SYNTHETIC FICTION",
@@ -4196,6 +5128,8 @@
   {
     "firstname": "Nerilune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0367@vendor0367.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Signals 367",
     "description": "SYNTHETIC FICTION",
@@ -4205,6 +5139,8 @@
   {
     "firstname": "Neririn",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0368@vendor0368.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Signals 368",
     "description": "SYNTHETIC FICTION",
@@ -4214,6 +5150,8 @@
   {
     "firstname": "Nerisol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0369@vendor0369.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Signals 369",
     "description": "SYNTHETIC FICTION",
@@ -4223,6 +5161,8 @@
   {
     "firstname": "Nerimere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0370@vendor0370.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Signals 370",
     "description": "SYNTHETIC FICTION",
@@ -4232,6 +5172,8 @@
   {
     "firstname": "Oriven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0371@vendor0371.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Signals 371",
     "description": "SYNTHETIC FICTION",
@@ -4241,6 +5183,8 @@
   {
     "firstname": "Orilune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0372@vendor0372.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Signals 372",
     "description": "SYNTHETIC FICTION",
@@ -4250,6 +5194,8 @@
   {
     "firstname": "Oririn",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0373@vendor0373.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Signals 373",
     "description": "SYNTHETIC FICTION",
@@ -4259,6 +5205,8 @@
   {
     "firstname": "Orisol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0374@vendor0374.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Signals 374",
     "description": "SYNTHETIC FICTION",
@@ -4268,6 +5216,8 @@
   {
     "firstname": "Orimere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0375@vendor0375.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Signals 375",
     "description": "SYNTHETIC FICTION",
@@ -4277,6 +5227,8 @@
   {
     "firstname": "Peraven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0376@vendor0376.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Signals 376",
     "description": "SYNTHETIC FICTION",
@@ -4286,6 +5238,8 @@
   {
     "firstname": "Peralune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0377@vendor0377.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Signals 377",
     "description": "SYNTHETIC FICTION",
@@ -4295,6 +5249,8 @@
   {
     "firstname": "Perarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0378@vendor0378.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Signals 378",
     "description": "SYNTHETIC FICTION",
@@ -4304,6 +5260,8 @@
   {
     "firstname": "Perasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0379@vendor0379.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Signals 379",
     "description": "SYNTHETIC FICTION",
@@ -4313,6 +5271,8 @@
   {
     "firstname": "Peramere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0380@vendor0380.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Signals 380",
     "description": "SYNTHETIC FICTION",
@@ -4322,6 +5282,8 @@
   {
     "firstname": "Queraven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0381@vendor0381.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Platform 381",
     "description": "SYNTHETIC FICTION",
@@ -4331,6 +5293,8 @@
   {
     "firstname": "Queralune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0382@vendor0382.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Platform 382",
     "description": "SYNTHETIC FICTION",
@@ -4340,6 +5304,8 @@
   {
     "firstname": "Querarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0383@vendor0383.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Platform 383",
     "description": "SYNTHETIC FICTION",
@@ -4349,6 +5315,8 @@
   {
     "firstname": "Querasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0384@vendor0384.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Platform 384",
     "description": "SYNTHETIC FICTION",
@@ -4358,6 +5326,8 @@
   {
     "firstname": "Queramere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0385@vendor0385.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Platform 385",
     "description": "SYNTHETIC FICTION",
@@ -4367,6 +5337,8 @@
   {
     "firstname": "Rinaven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0386@vendor0386.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Platform 386",
     "description": "SYNTHETIC FICTION",
@@ -4376,6 +5348,8 @@
   {
     "firstname": "Rinalune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0387@vendor0387.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Platform 387",
     "description": "SYNTHETIC FICTION",
@@ -4385,6 +5359,8 @@
   {
     "firstname": "Rinarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0388@vendor0388.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Platform 388",
     "description": "SYNTHETIC FICTION",
@@ -4394,6 +5370,8 @@
   {
     "firstname": "Rinasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0389@vendor0389.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Platform 389",
     "description": "SYNTHETIC FICTION",
@@ -4403,6 +5381,8 @@
   {
     "firstname": "Rinamere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0390@vendor0390.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Platform 390",
     "description": "SYNTHETIC FICTION",
@@ -4412,6 +5392,8 @@
   {
     "firstname": "Soraven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0391@vendor0391.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Platform 391",
     "description": "SYNTHETIC FICTION",
@@ -4421,6 +5403,8 @@
   {
     "firstname": "Soralune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0392@vendor0392.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Platform 392",
     "description": "SYNTHETIC FICTION",
@@ -4430,6 +5414,8 @@
   {
     "firstname": "Sorarin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0393@vendor0393.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Platform 393",
     "description": "SYNTHETIC FICTION",
@@ -4439,6 +5425,8 @@
   {
     "firstname": "Sorasol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0394@vendor0394.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Platform 394",
     "description": "SYNTHETIC FICTION",
@@ -4448,6 +5436,8 @@
   {
     "firstname": "Soramere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0395@vendor0395.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Platform 395",
     "description": "SYNTHETIC FICTION",
@@ -4457,6 +5447,8 @@
   {
     "firstname": "Taliven",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0396@vendor0396.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Platform 396",
     "description": "SYNTHETIC FICTION",
@@ -4466,6 +5458,8 @@
   {
     "firstname": "Talilune",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0397@vendor0397.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Platform 397",
     "description": "SYNTHETIC FICTION",
@@ -4475,6 +5469,8 @@
   {
     "firstname": "Talirin",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0398@vendor0398.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Platform 398",
     "description": "SYNTHETIC FICTION",
@@ -4484,6 +5480,8 @@
   {
     "firstname": "Talisol",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0399@vendor0399.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Platform 399",
     "description": "SYNTHETIC FICTION",
@@ -4493,6 +5491,8 @@
   {
     "firstname": "Talimere",
     "lastname": "Amberridge Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0400@vendor0400.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Platform 400",
     "description": "SYNTHETIC FICTION",
@@ -4502,6 +5502,8 @@
   {
     "firstname": "Avaven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0401@vendor0401.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Systems 401",
     "description": "SYNTHETIC FICTION",
@@ -4511,6 +5513,8 @@
   {
     "firstname": "Avalune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0402@vendor0402.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Systems 402",
     "description": "SYNTHETIC FICTION",
@@ -4520,6 +5524,8 @@
   {
     "firstname": "Avarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0403@vendor0403.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Systems 403",
     "description": "SYNTHETIC FICTION",
@@ -4529,6 +5535,8 @@
   {
     "firstname": "Avasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0404@vendor0404.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Systems 404",
     "description": "SYNTHETIC FICTION",
@@ -4538,6 +5546,8 @@
   {
     "firstname": "Avamere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0405@vendor0405.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Systems 405",
     "description": "SYNTHETIC FICTION",
@@ -4547,6 +5557,8 @@
   {
     "firstname": "Belaven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0406@vendor0406.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Systems 406",
     "description": "SYNTHETIC FICTION",
@@ -4556,6 +5568,8 @@
   {
     "firstname": "Belalune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0407@vendor0407.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Systems 407",
     "description": "SYNTHETIC FICTION",
@@ -4565,6 +5579,8 @@
   {
     "firstname": "Belarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0408@vendor0408.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Systems 408",
     "description": "SYNTHETIC FICTION",
@@ -4574,6 +5590,8 @@
   {
     "firstname": "Belasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0409@vendor0409.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Systems 409",
     "description": "SYNTHETIC FICTION",
@@ -4583,6 +5601,8 @@
   {
     "firstname": "Belamere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0410@vendor0410.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Systems 410",
     "description": "SYNTHETIC FICTION",
@@ -4592,6 +5612,8 @@
   {
     "firstname": "Ceriven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0411@vendor0411.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Systems 411",
     "description": "SYNTHETIC FICTION",
@@ -4601,6 +5623,8 @@
   {
     "firstname": "Cerilune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0412@vendor0412.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Systems 412",
     "description": "SYNTHETIC FICTION",
@@ -4610,6 +5634,8 @@
   {
     "firstname": "Ceririn",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0413@vendor0413.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Systems 413",
     "description": "SYNTHETIC FICTION",
@@ -4619,6 +5645,8 @@
   {
     "firstname": "Cerisol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0414@vendor0414.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Systems 414",
     "description": "SYNTHETIC FICTION",
@@ -4628,6 +5656,8 @@
   {
     "firstname": "Cerimere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0415@vendor0415.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Systems 415",
     "description": "SYNTHETIC FICTION",
@@ -4637,6 +5667,8 @@
   {
     "firstname": "Daraven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0416@vendor0416.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Systems 416",
     "description": "SYNTHETIC FICTION",
@@ -4646,6 +5678,8 @@
   {
     "firstname": "Daralune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0417@vendor0417.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Systems 417",
     "description": "SYNTHETIC FICTION",
@@ -4655,6 +5689,8 @@
   {
     "firstname": "Dararin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0418@vendor0418.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Systems 418",
     "description": "SYNTHETIC FICTION",
@@ -4664,6 +5700,8 @@
   {
     "firstname": "Darasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0419@vendor0419.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Systems 419",
     "description": "SYNTHETIC FICTION",
@@ -4673,6 +5711,8 @@
   {
     "firstname": "Daramere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0420@vendor0420.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Systems 420",
     "description": "SYNTHETIC FICTION",
@@ -4682,6 +5722,8 @@
   {
     "firstname": "Eliven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0421@vendor0421.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Analytics 421",
     "description": "SYNTHETIC FICTION",
@@ -4691,6 +5733,8 @@
   {
     "firstname": "Elilune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0422@vendor0422.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Analytics 422",
     "description": "SYNTHETIC FICTION",
@@ -4700,6 +5744,8 @@
   {
     "firstname": "Elirin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0423@vendor0423.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Analytics 423",
     "description": "SYNTHETIC FICTION",
@@ -4709,6 +5755,8 @@
   {
     "firstname": "Elisol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0424@vendor0424.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Analytics 424",
     "description": "SYNTHETIC FICTION",
@@ -4718,6 +5766,8 @@
   {
     "firstname": "Elimere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0425@vendor0425.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Analytics 425",
     "description": "SYNTHETIC FICTION",
@@ -4727,6 +5777,8 @@
   {
     "firstname": "Faraven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0426@vendor0426.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Analytics 426",
     "description": "SYNTHETIC FICTION",
@@ -4736,6 +5788,8 @@
   {
     "firstname": "Faralune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0427@vendor0427.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Analytics 427",
     "description": "SYNTHETIC FICTION",
@@ -4745,6 +5799,8 @@
   {
     "firstname": "Fararin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0428@vendor0428.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Analytics 428",
     "description": "SYNTHETIC FICTION",
@@ -4754,6 +5810,8 @@
   {
     "firstname": "Farasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0429@vendor0429.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Analytics 429",
     "description": "SYNTHETIC FICTION",
@@ -4763,6 +5821,8 @@
   {
     "firstname": "Faramere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0430@vendor0430.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Analytics 430",
     "description": "SYNTHETIC FICTION",
@@ -4772,6 +5832,8 @@
   {
     "firstname": "Galaven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0431@vendor0431.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Analytics 431",
     "description": "SYNTHETIC FICTION",
@@ -4781,6 +5843,8 @@
   {
     "firstname": "Galalune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0432@vendor0432.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Analytics 432",
     "description": "SYNTHETIC FICTION",
@@ -4790,6 +5854,8 @@
   {
     "firstname": "Galarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0433@vendor0433.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Analytics 433",
     "description": "SYNTHETIC FICTION",
@@ -4799,6 +5865,8 @@
   {
     "firstname": "Galasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0434@vendor0434.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Analytics 434",
     "description": "SYNTHETIC FICTION",
@@ -4808,6 +5876,8 @@
   {
     "firstname": "Galamere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0435@vendor0435.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Analytics 435",
     "description": "SYNTHETIC FICTION",
@@ -4817,6 +5887,8 @@
   {
     "firstname": "Heriven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0436@vendor0436.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Analytics 436",
     "description": "SYNTHETIC FICTION",
@@ -4826,6 +5898,8 @@
   {
     "firstname": "Herilune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0437@vendor0437.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Analytics 437",
     "description": "SYNTHETIC FICTION",
@@ -4835,6 +5909,8 @@
   {
     "firstname": "Heririn",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0438@vendor0438.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Analytics 438",
     "description": "SYNTHETIC FICTION",
@@ -4844,6 +5920,8 @@
   {
     "firstname": "Herisol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0439@vendor0439.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Analytics 439",
     "description": "SYNTHETIC FICTION",
@@ -4853,6 +5931,8 @@
   {
     "firstname": "Herimere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0440@vendor0440.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Analytics 440",
     "description": "SYNTHETIC FICTION",
@@ -4862,6 +5942,8 @@
   {
     "firstname": "Ilaven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0441@vendor0441.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Workflow 441",
     "description": "SYNTHETIC FICTION",
@@ -4871,6 +5953,8 @@
   {
     "firstname": "Ilalune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0442@vendor0442.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Workflow 442",
     "description": "SYNTHETIC FICTION",
@@ -4880,6 +5964,8 @@
   {
     "firstname": "Ilarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0443@vendor0443.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Workflow 443",
     "description": "SYNTHETIC FICTION",
@@ -4889,6 +5975,8 @@
   {
     "firstname": "Ilasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0444@vendor0444.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Workflow 444",
     "description": "SYNTHETIC FICTION",
@@ -4898,6 +5986,8 @@
   {
     "firstname": "Ilamere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0445@vendor0445.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Workflow 445",
     "description": "SYNTHETIC FICTION",
@@ -4907,6 +5997,8 @@
   {
     "firstname": "Joraven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0446@vendor0446.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Workflow 446",
     "description": "SYNTHETIC FICTION",
@@ -4916,6 +6008,8 @@
   {
     "firstname": "Joralune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0447@vendor0447.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Workflow 447",
     "description": "SYNTHETIC FICTION",
@@ -4925,6 +6019,8 @@
   {
     "firstname": "Jorarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0448@vendor0448.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Workflow 448",
     "description": "SYNTHETIC FICTION",
@@ -4934,6 +6030,8 @@
   {
     "firstname": "Jorasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0449@vendor0449.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Workflow 449",
     "description": "SYNTHETIC FICTION",
@@ -4943,6 +6041,8 @@
   {
     "firstname": "Joramere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0450@vendor0450.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Workflow 450",
     "description": "SYNTHETIC FICTION",
@@ -4952,6 +6052,8 @@
   {
     "firstname": "Kalaven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0451@vendor0451.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Workflow 451",
     "description": "SYNTHETIC FICTION",
@@ -4961,6 +6063,8 @@
   {
     "firstname": "Kalalune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0452@vendor0452.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Workflow 452",
     "description": "SYNTHETIC FICTION",
@@ -4970,6 +6074,8 @@
   {
     "firstname": "Kalarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0453@vendor0453.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Workflow 453",
     "description": "SYNTHETIC FICTION",
@@ -4979,6 +6085,8 @@
   {
     "firstname": "Kalasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0454@vendor0454.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Workflow 454",
     "description": "SYNTHETIC FICTION",
@@ -4988,6 +6096,8 @@
   {
     "firstname": "Kalamere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0455@vendor0455.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Workflow 455",
     "description": "SYNTHETIC FICTION",
@@ -4997,6 +6107,8 @@
   {
     "firstname": "Liriven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0456@vendor0456.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Workflow 456",
     "description": "SYNTHETIC FICTION",
@@ -5006,6 +6118,8 @@
   {
     "firstname": "Lirilune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0457@vendor0457.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Workflow 457",
     "description": "SYNTHETIC FICTION",
@@ -5015,6 +6129,8 @@
   {
     "firstname": "Liririn",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0458@vendor0458.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Workflow 458",
     "description": "SYNTHETIC FICTION",
@@ -5024,6 +6140,8 @@
   {
     "firstname": "Lirisol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0459@vendor0459.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Workflow 459",
     "description": "SYNTHETIC FICTION",
@@ -5033,6 +6151,8 @@
   {
     "firstname": "Lirimere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0460@vendor0460.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Workflow 460",
     "description": "SYNTHETIC FICTION",
@@ -5042,6 +6162,8 @@
   {
     "firstname": "Maraven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0461@vendor0461.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Signals 461",
     "description": "SYNTHETIC FICTION",
@@ -5051,6 +6173,8 @@
   {
     "firstname": "Maralune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0462@vendor0462.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Signals 462",
     "description": "SYNTHETIC FICTION",
@@ -5060,6 +6184,8 @@
   {
     "firstname": "Mararin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0463@vendor0463.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Signals 463",
     "description": "SYNTHETIC FICTION",
@@ -5069,6 +6195,8 @@
   {
     "firstname": "Marasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0464@vendor0464.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Signals 464",
     "description": "SYNTHETIC FICTION",
@@ -5078,6 +6206,8 @@
   {
     "firstname": "Maramere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0465@vendor0465.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Signals 465",
     "description": "SYNTHETIC FICTION",
@@ -5087,6 +6217,8 @@
   {
     "firstname": "Neriven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0466@vendor0466.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Signals 466",
     "description": "SYNTHETIC FICTION",
@@ -5096,6 +6228,8 @@
   {
     "firstname": "Nerilune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0467@vendor0467.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Signals 467",
     "description": "SYNTHETIC FICTION",
@@ -5105,6 +6239,8 @@
   {
     "firstname": "Neririn",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0468@vendor0468.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Signals 468",
     "description": "SYNTHETIC FICTION",
@@ -5114,6 +6250,8 @@
   {
     "firstname": "Nerisol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0469@vendor0469.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Signals 469",
     "description": "SYNTHETIC FICTION",
@@ -5123,6 +6261,8 @@
   {
     "firstname": "Nerimere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0470@vendor0470.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Signals 470",
     "description": "SYNTHETIC FICTION",
@@ -5132,6 +6272,8 @@
   {
     "firstname": "Oriven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0471@vendor0471.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Signals 471",
     "description": "SYNTHETIC FICTION",
@@ -5141,6 +6283,8 @@
   {
     "firstname": "Orilune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0472@vendor0472.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Signals 472",
     "description": "SYNTHETIC FICTION",
@@ -5150,6 +6294,8 @@
   {
     "firstname": "Oririn",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0473@vendor0473.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Signals 473",
     "description": "SYNTHETIC FICTION",
@@ -5159,6 +6305,8 @@
   {
     "firstname": "Orisol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0474@vendor0474.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Signals 474",
     "description": "SYNTHETIC FICTION",
@@ -5168,6 +6316,8 @@
   {
     "firstname": "Orimere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0475@vendor0475.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Signals 475",
     "description": "SYNTHETIC FICTION",
@@ -5177,6 +6327,8 @@
   {
     "firstname": "Peraven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0476@vendor0476.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Signals 476",
     "description": "SYNTHETIC FICTION",
@@ -5186,6 +6338,8 @@
   {
     "firstname": "Peralune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0477@vendor0477.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Signals 477",
     "description": "SYNTHETIC FICTION",
@@ -5195,6 +6349,8 @@
   {
     "firstname": "Perarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0478@vendor0478.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Signals 478",
     "description": "SYNTHETIC FICTION",
@@ -5204,6 +6360,8 @@
   {
     "firstname": "Perasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0479@vendor0479.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Signals 479",
     "description": "SYNTHETIC FICTION",
@@ -5213,6 +6371,8 @@
   {
     "firstname": "Peramere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0480@vendor0480.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Signals 480",
     "description": "SYNTHETIC FICTION",
@@ -5222,6 +6382,8 @@
   {
     "firstname": "Queraven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0481@vendor0481.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Amber Platform 481",
     "description": "SYNTHETIC FICTION",
@@ -5231,6 +6393,8 @@
   {
     "firstname": "Queralune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0482@vendor0482.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Birch Platform 482",
     "description": "SYNTHETIC FICTION",
@@ -5240,6 +6404,8 @@
   {
     "firstname": "Querarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0483@vendor0483.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Cloud Platform 483",
     "description": "SYNTHETIC FICTION",
@@ -5249,6 +6415,8 @@
   {
     "firstname": "Querasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0484@vendor0484.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Dawn Platform 484",
     "description": "SYNTHETIC FICTION",
@@ -5258,6 +6426,8 @@
   {
     "firstname": "Queramere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0485@vendor0485.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Elm Platform 485",
     "description": "SYNTHETIC FICTION",
@@ -5267,6 +6437,8 @@
   {
     "firstname": "Rinaven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0486@vendor0486.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Fern Platform 486",
     "description": "SYNTHETIC FICTION",
@@ -5276,6 +6448,8 @@
   {
     "firstname": "Rinalune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0487@vendor0487.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Glen Platform 487",
     "description": "SYNTHETIC FICTION",
@@ -5285,6 +6459,8 @@
   {
     "firstname": "Rinarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0488@vendor0488.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Harbor Platform 488",
     "description": "SYNTHETIC FICTION",
@@ -5294,6 +6470,8 @@
   {
     "firstname": "Rinasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0489@vendor0489.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Ivory Platform 489",
     "description": "SYNTHETIC FICTION",
@@ -5303,6 +6481,8 @@
   {
     "firstname": "Rinamere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0490@vendor0490.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Juniper Platform 490",
     "description": "SYNTHETIC FICTION",
@@ -5312,6 +6492,8 @@
   {
     "firstname": "Soraven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0491@vendor0491.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Kestrel Platform 491",
     "description": "SYNTHETIC FICTION",
@@ -5321,6 +6503,8 @@
   {
     "firstname": "Soralune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0492@vendor0492.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Lumen Platform 492",
     "description": "SYNTHETIC FICTION",
@@ -5330,6 +6514,8 @@
   {
     "firstname": "Sorarin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0493@vendor0493.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Maple Platform 493",
     "description": "SYNTHETIC FICTION",
@@ -5339,6 +6525,8 @@
   {
     "firstname": "Sorasol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0494@vendor0494.example.invalid",
     "parentcustomerid": "[SYNTHETIC] North Platform 494",
     "description": "SYNTHETIC FICTION",
@@ -5348,6 +6536,8 @@
   {
     "firstname": "Soramere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0495@vendor0495.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Opal Platform 495",
     "description": "SYNTHETIC FICTION",
@@ -5357,6 +6547,8 @@
   {
     "firstname": "Taliven",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0496@vendor0496.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Pine Platform 496",
     "description": "SYNTHETIC FICTION",
@@ -5366,6 +6558,8 @@
   {
     "firstname": "Talilune",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Founder",
+    "department": "Operations",
     "emailaddress1": "contact0497@vendor0497.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Quartz Platform 497",
     "description": "SYNTHETIC FICTION",
@@ -5375,6 +6569,8 @@
   {
     "firstname": "Talirin",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Operations lead",
+    "department": "Product",
     "emailaddress1": "contact0498@vendor0498.example.invalid",
     "parentcustomerid": "[SYNTHETIC] River Platform 498",
     "description": "SYNTHETIC FICTION",
@@ -5384,6 +6580,8 @@
   {
     "firstname": "Talisol",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Product lead",
+    "department": "Finance",
     "emailaddress1": "contact0499@vendor0499.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Silver Platform 499",
     "description": "SYNTHETIC FICTION",
@@ -5393,6 +6591,8 @@
   {
     "firstname": "Talimere",
     "lastname": "Ambervale Contact",
+    "jobtitle": "Commercial lead",
+    "department": "Commercial",
     "emailaddress1": "contact0500@vendor0500.example.invalid",
     "parentcustomerid": "[SYNTHETIC] Thistle Platform 500",
     "description": "SYNTHETIC FICTION",

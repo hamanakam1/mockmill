@@ -2,6 +2,8 @@
   {
     "First Name": "Avaven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0001@vendor0001.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Systems 001",
     "Description": "SYNTHETIC FICTION",
@@ -11,6 +13,8 @@
   {
     "First Name": "Avaven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0001.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Systems 001",
     "Description": "SYNTHETIC FICTION",
@@ -20,6 +24,8 @@
   {
     "First Name": "Avalune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0002@vendor0002.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Systems 002",
     "Description": "SYNTHETIC FICTION",
@@ -29,6 +35,8 @@
   {
     "First Name": "Avalune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0002.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Systems 002",
     "Description": "SYNTHETIC FICTION",
@@ -38,6 +46,8 @@
   {
     "First Name": "Avarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0003@vendor0003.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Systems 003",
     "Description": "SYNTHETIC FICTION",
@@ -47,6 +57,8 @@
   {
     "First Name": "Avarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0003.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Systems 003",
     "Description": "SYNTHETIC FICTION",
@@ -56,6 +68,8 @@
   {
     "First Name": "Avasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0004@vendor0004.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Systems 004",
     "Description": "SYNTHETIC FICTION",
@@ -65,6 +79,8 @@
   {
     "First Name": "Avasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0004.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Systems 004",
     "Description": "SYNTHETIC FICTION",
@@ -74,6 +90,8 @@
   {
     "First Name": "Avamere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0005@vendor0005.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Systems 005",
     "Description": "SYNTHETIC FICTION",
@@ -83,6 +101,8 @@
   {
     "First Name": "Avamere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0005.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Systems 005",
     "Description": "SYNTHETIC FICTION",
@@ -92,6 +112,8 @@
   {
     "First Name": "Belaven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0006@vendor0006.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Systems 006",
     "Description": "SYNTHETIC FICTION",
@@ -101,6 +123,8 @@
   {
     "First Name": "Belaven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0006.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Systems 006",
     "Description": "SYNTHETIC FICTION",
@@ -110,6 +134,8 @@
   {
     "First Name": "Belalune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0007@vendor0007.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Systems 007",
     "Description": "SYNTHETIC FICTION",
@@ -119,6 +145,8 @@
   {
     "First Name": "Belalune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0007.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Systems 007",
     "Description": "SYNTHETIC FICTION",
@@ -128,6 +156,8 @@
   {
     "First Name": "Belarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0008@vendor0008.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Systems 008",
     "Description": "SYNTHETIC FICTION",
@@ -137,6 +167,8 @@
   {
     "First Name": "Belarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0008.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Systems 008",
     "Description": "SYNTHETIC FICTION",
@@ -146,6 +178,8 @@
   {
     "First Name": "Belasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0009@vendor0009.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Systems 009",
     "Description": "SYNTHETIC FICTION",
@@ -155,6 +189,8 @@
   {
     "First Name": "Belasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0009.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Systems 009",
     "Description": "SYNTHETIC FICTION",
@@ -164,6 +200,8 @@
   {
     "First Name": "Belamere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0010@vendor0010.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Systems 010",
     "Description": "SYNTHETIC FICTION",
@@ -173,6 +211,8 @@
   {
     "First Name": "Belamere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0010.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Systems 010",
     "Description": "SYNTHETIC FICTION",
@@ -182,6 +222,8 @@
   {
     "First Name": "Ceriven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0011@vendor0011.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Systems 011",
     "Description": "SYNTHETIC FICTION",
@@ -191,6 +233,8 @@
   {
     "First Name": "Ceriven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0011.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Systems 011",
     "Description": "SYNTHETIC FICTION",
@@ -200,6 +244,8 @@
   {
     "First Name": "Cerilune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0012@vendor0012.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Systems 012",
     "Description": "SYNTHETIC FICTION",
@@ -209,6 +255,8 @@
   {
     "First Name": "Cerilune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0012.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Systems 012",
     "Description": "SYNTHETIC FICTION",
@@ -218,6 +266,8 @@
   {
     "First Name": "Ceririn",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0013@vendor0013.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Systems 013",
     "Description": "SYNTHETIC FICTION",
@@ -227,6 +277,8 @@
   {
     "First Name": "Ceririn",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0013.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Systems 013",
     "Description": "SYNTHETIC FICTION",
@@ -236,6 +288,8 @@
   {
     "First Name": "Cerisol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0014@vendor0014.example.invalid",
     "Account Name": "[SYNTHETIC] North Systems 014",
     "Description": "SYNTHETIC FICTION",
@@ -245,6 +299,8 @@
   {
     "First Name": "Cerisol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0014.example.invalid",
     "Account Name": "[SYNTHETIC] North Systems 014",
     "Description": "SYNTHETIC FICTION",
@@ -254,6 +310,8 @@
   {
     "First Name": "Cerimere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0015@vendor0015.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Systems 015",
     "Description": "SYNTHETIC FICTION",
@@ -263,6 +321,8 @@
   {
     "First Name": "Cerimere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0015.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Systems 015",
     "Description": "SYNTHETIC FICTION",
@@ -272,6 +332,8 @@
   {
     "First Name": "Daraven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0016@vendor0016.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Systems 016",
     "Description": "SYNTHETIC FICTION",
@@ -281,6 +343,8 @@
   {
     "First Name": "Daraven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0016.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Systems 016",
     "Description": "SYNTHETIC FICTION",
@@ -290,6 +354,8 @@
   {
     "First Name": "Daralune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0017@vendor0017.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Systems 017",
     "Description": "SYNTHETIC FICTION",
@@ -299,6 +365,8 @@
   {
     "First Name": "Daralune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0017.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Systems 017",
     "Description": "SYNTHETIC FICTION",
@@ -308,6 +376,8 @@
   {
     "First Name": "Dararin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0018@vendor0018.example.invalid",
     "Account Name": "[SYNTHETIC] River Systems 018",
     "Description": "SYNTHETIC FICTION",
@@ -317,6 +387,8 @@
   {
     "First Name": "Dararin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0018.example.invalid",
     "Account Name": "[SYNTHETIC] River Systems 018",
     "Description": "SYNTHETIC FICTION",
@@ -326,6 +398,8 @@
   {
     "First Name": "Darasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0019@vendor0019.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Systems 019",
     "Description": "SYNTHETIC FICTION",
@@ -335,6 +409,8 @@
   {
     "First Name": "Darasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0019.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Systems 019",
     "Description": "SYNTHETIC FICTION",
@@ -344,6 +420,8 @@
   {
     "First Name": "Daramere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0020@vendor0020.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Systems 020",
     "Description": "SYNTHETIC FICTION",
@@ -353,6 +431,8 @@
   {
     "First Name": "Daramere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0020.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Systems 020",
     "Description": "SYNTHETIC FICTION",
@@ -362,6 +442,8 @@
   {
     "First Name": "Eliven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0021@vendor0021.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Analytics 021",
     "Description": "SYNTHETIC FICTION",
@@ -371,6 +453,8 @@
   {
     "First Name": "Eliven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0021.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Analytics 021",
     "Description": "SYNTHETIC FICTION",
@@ -380,6 +464,8 @@
   {
     "First Name": "Elilune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0022@vendor0022.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Analytics 022",
     "Description": "SYNTHETIC FICTION",
@@ -389,6 +475,8 @@
   {
     "First Name": "Elilune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0022.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Analytics 022",
     "Description": "SYNTHETIC FICTION",
@@ -398,6 +486,8 @@
   {
     "First Name": "Elirin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0023@vendor0023.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Analytics 023",
     "Description": "SYNTHETIC FICTION",
@@ -407,6 +497,8 @@
   {
     "First Name": "Elirin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0023.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Analytics 023",
     "Description": "SYNTHETIC FICTION",
@@ -416,6 +508,8 @@
   {
     "First Name": "Elisol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0024@vendor0024.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Analytics 024",
     "Description": "SYNTHETIC FICTION",
@@ -425,6 +519,8 @@
   {
     "First Name": "Elisol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0024.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Analytics 024",
     "Description": "SYNTHETIC FICTION",
@@ -434,6 +530,8 @@
   {
     "First Name": "Elimere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0025@vendor0025.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Analytics 025",
     "Description": "SYNTHETIC FICTION",
@@ -443,6 +541,8 @@
   {
     "First Name": "Elimere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0025.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Analytics 025",
     "Description": "SYNTHETIC FICTION",
@@ -452,6 +552,8 @@
   {
     "First Name": "Faraven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0026@vendor0026.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Analytics 026",
     "Description": "SYNTHETIC FICTION",
@@ -461,6 +563,8 @@
   {
     "First Name": "Faraven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0026.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Analytics 026",
     "Description": "SYNTHETIC FICTION",
@@ -470,6 +574,8 @@
   {
     "First Name": "Faralune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0027@vendor0027.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Analytics 027",
     "Description": "SYNTHETIC FICTION",
@@ -479,6 +585,8 @@
   {
     "First Name": "Faralune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0027.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Analytics 027",
     "Description": "SYNTHETIC FICTION",
@@ -488,6 +596,8 @@
   {
     "First Name": "Fararin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0028@vendor0028.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Analytics 028",
     "Description": "SYNTHETIC FICTION",
@@ -497,6 +607,8 @@
   {
     "First Name": "Fararin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0028.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Analytics 028",
     "Description": "SYNTHETIC FICTION",
@@ -506,6 +618,8 @@
   {
     "First Name": "Farasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0029@vendor0029.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Analytics 029",
     "Description": "SYNTHETIC FICTION",
@@ -515,6 +629,8 @@
   {
     "First Name": "Farasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0029.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Analytics 029",
     "Description": "SYNTHETIC FICTION",
@@ -524,6 +640,8 @@
   {
     "First Name": "Faramere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0030@vendor0030.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Analytics 030",
     "Description": "SYNTHETIC FICTION",
@@ -533,6 +651,8 @@
   {
     "First Name": "Faramere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0030.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Analytics 030",
     "Description": "SYNTHETIC FICTION",
@@ -542,6 +662,8 @@
   {
     "First Name": "Galaven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0031@vendor0031.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Analytics 031",
     "Description": "SYNTHETIC FICTION",
@@ -551,6 +673,8 @@
   {
     "First Name": "Galaven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0031.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Analytics 031",
     "Description": "SYNTHETIC FICTION",
@@ -560,6 +684,8 @@
   {
     "First Name": "Galalune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0032@vendor0032.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Analytics 032",
     "Description": "SYNTHETIC FICTION",
@@ -569,6 +695,8 @@
   {
     "First Name": "Galalune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0032.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Analytics 032",
     "Description": "SYNTHETIC FICTION",
@@ -578,6 +706,8 @@
   {
     "First Name": "Galarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0033@vendor0033.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Analytics 033",
     "Description": "SYNTHETIC FICTION",
@@ -587,6 +717,8 @@
   {
     "First Name": "Galarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0033.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Analytics 033",
     "Description": "SYNTHETIC FICTION",
@@ -596,6 +728,8 @@
   {
     "First Name": "Galasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0034@vendor0034.example.invalid",
     "Account Name": "[SYNTHETIC] North Analytics 034",
     "Description": "SYNTHETIC FICTION",
@@ -605,6 +739,8 @@
   {
     "First Name": "Galasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0034.example.invalid",
     "Account Name": "[SYNTHETIC] North Analytics 034",
     "Description": "SYNTHETIC FICTION",
@@ -614,6 +750,8 @@
   {
     "First Name": "Galamere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0035@vendor0035.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Analytics 035",
     "Description": "SYNTHETIC FICTION",
@@ -623,6 +761,8 @@
   {
     "First Name": "Galamere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0035.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Analytics 035",
     "Description": "SYNTHETIC FICTION",
@@ -632,6 +772,8 @@
   {
     "First Name": "Heriven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0036@vendor0036.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Analytics 036",
     "Description": "SYNTHETIC FICTION",
@@ -641,6 +783,8 @@
   {
     "First Name": "Heriven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0036.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Analytics 036",
     "Description": "SYNTHETIC FICTION",
@@ -650,6 +794,8 @@
   {
     "First Name": "Herilune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0037@vendor0037.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Analytics 037",
     "Description": "SYNTHETIC FICTION",
@@ -659,6 +805,8 @@
   {
     "First Name": "Herilune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0037.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Analytics 037",
     "Description": "SYNTHETIC FICTION",
@@ -668,6 +816,8 @@
   {
     "First Name": "Heririn",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0038@vendor0038.example.invalid",
     "Account Name": "[SYNTHETIC] River Analytics 038",
     "Description": "SYNTHETIC FICTION",
@@ -677,6 +827,8 @@
   {
     "First Name": "Heririn",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0038.example.invalid",
     "Account Name": "[SYNTHETIC] River Analytics 038",
     "Description": "SYNTHETIC FICTION",
@@ -686,6 +838,8 @@
   {
     "First Name": "Herisol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0039@vendor0039.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Analytics 039",
     "Description": "SYNTHETIC FICTION",
@@ -695,6 +849,8 @@
   {
     "First Name": "Herisol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0039.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Analytics 039",
     "Description": "SYNTHETIC FICTION",
@@ -704,6 +860,8 @@
   {
     "First Name": "Herimere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0040@vendor0040.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Analytics 040",
     "Description": "SYNTHETIC FICTION",
@@ -713,6 +871,8 @@
   {
     "First Name": "Herimere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0040.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Analytics 040",
     "Description": "SYNTHETIC FICTION",
@@ -722,6 +882,8 @@
   {
     "First Name": "Ilaven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0041@vendor0041.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Workflow 041",
     "Description": "SYNTHETIC FICTION",
@@ -731,6 +893,8 @@
   {
     "First Name": "Ilaven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0041.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Workflow 041",
     "Description": "SYNTHETIC FICTION",
@@ -740,6 +904,8 @@
   {
     "First Name": "Ilalune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0042@vendor0042.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Workflow 042",
     "Description": "SYNTHETIC FICTION",
@@ -749,6 +915,8 @@
   {
     "First Name": "Ilalune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0042.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Workflow 042",
     "Description": "SYNTHETIC FICTION",
@@ -758,6 +926,8 @@
   {
     "First Name": "Ilarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0043@vendor0043.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Workflow 043",
     "Description": "SYNTHETIC FICTION",
@@ -767,6 +937,8 @@
   {
     "First Name": "Ilarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0043.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Workflow 043",
     "Description": "SYNTHETIC FICTION",
@@ -776,6 +948,8 @@
   {
     "First Name": "Ilasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0044@vendor0044.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Workflow 044",
     "Description": "SYNTHETIC FICTION",
@@ -785,6 +959,8 @@
   {
     "First Name": "Ilasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0044.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Workflow 044",
     "Description": "SYNTHETIC FICTION",
@@ -794,6 +970,8 @@
   {
     "First Name": "Ilamere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0045@vendor0045.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Workflow 045",
     "Description": "SYNTHETIC FICTION",
@@ -803,6 +981,8 @@
   {
     "First Name": "Ilamere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0045.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Workflow 045",
     "Description": "SYNTHETIC FICTION",
@@ -812,6 +992,8 @@
   {
     "First Name": "Joraven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0046@vendor0046.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Workflow 046",
     "Description": "SYNTHETIC FICTION",
@@ -821,6 +1003,8 @@
   {
     "First Name": "Joraven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0046.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Workflow 046",
     "Description": "SYNTHETIC FICTION",
@@ -830,6 +1014,8 @@
   {
     "First Name": "Joralune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0047@vendor0047.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Workflow 047",
     "Description": "SYNTHETIC FICTION",
@@ -839,6 +1025,8 @@
   {
     "First Name": "Joralune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0047.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Workflow 047",
     "Description": "SYNTHETIC FICTION",
@@ -848,6 +1036,8 @@
   {
     "First Name": "Jorarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0048@vendor0048.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Workflow 048",
     "Description": "SYNTHETIC FICTION",
@@ -857,6 +1047,8 @@
   {
     "First Name": "Jorarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0048.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Workflow 048",
     "Description": "SYNTHETIC FICTION",
@@ -866,6 +1058,8 @@
   {
     "First Name": "Jorasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0049@vendor0049.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Workflow 049",
     "Description": "SYNTHETIC FICTION",
@@ -875,6 +1069,8 @@
   {
     "First Name": "Jorasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0049.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Workflow 049",
     "Description": "SYNTHETIC FICTION",
@@ -884,6 +1080,8 @@
   {
     "First Name": "Joramere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0050@vendor0050.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Workflow 050",
     "Description": "SYNTHETIC FICTION",
@@ -893,6 +1091,8 @@
   {
     "First Name": "Joramere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0050.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Workflow 050",
     "Description": "SYNTHETIC FICTION",
@@ -902,6 +1102,8 @@
   {
     "First Name": "Kalaven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0051@vendor0051.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Workflow 051",
     "Description": "SYNTHETIC FICTION",
@@ -911,6 +1113,8 @@
   {
     "First Name": "Kalaven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0051.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Workflow 051",
     "Description": "SYNTHETIC FICTION",
@@ -920,6 +1124,8 @@
   {
     "First Name": "Kalalune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0052@vendor0052.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Workflow 052",
     "Description": "SYNTHETIC FICTION",
@@ -929,6 +1135,8 @@
   {
     "First Name": "Kalalune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0052.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Workflow 052",
     "Description": "SYNTHETIC FICTION",
@@ -938,6 +1146,8 @@
   {
     "First Name": "Kalarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0053@vendor0053.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Workflow 053",
     "Description": "SYNTHETIC FICTION",
@@ -947,6 +1157,8 @@
   {
     "First Name": "Kalarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0053.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Workflow 053",
     "Description": "SYNTHETIC FICTION",
@@ -956,6 +1168,8 @@
   {
     "First Name": "Kalasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0054@vendor0054.example.invalid",
     "Account Name": "[SYNTHETIC] North Workflow 054",
     "Description": "SYNTHETIC FICTION",
@@ -965,6 +1179,8 @@
   {
     "First Name": "Kalasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0054.example.invalid",
     "Account Name": "[SYNTHETIC] North Workflow 054",
     "Description": "SYNTHETIC FICTION",
@@ -974,6 +1190,8 @@
   {
     "First Name": "Kalamere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0055@vendor0055.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Workflow 055",
     "Description": "SYNTHETIC FICTION",
@@ -983,6 +1201,8 @@
   {
     "First Name": "Kalamere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0055.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Workflow 055",
     "Description": "SYNTHETIC FICTION",
@@ -992,6 +1212,8 @@
   {
     "First Name": "Liriven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0056@vendor0056.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Workflow 056",
     "Description": "SYNTHETIC FICTION",
@@ -1001,6 +1223,8 @@
   {
     "First Name": "Liriven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0056.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Workflow 056",
     "Description": "SYNTHETIC FICTION",
@@ -1010,6 +1234,8 @@
   {
     "First Name": "Lirilune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0057@vendor0057.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Workflow 057",
     "Description": "SYNTHETIC FICTION",
@@ -1019,6 +1245,8 @@
   {
     "First Name": "Lirilune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0057.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Workflow 057",
     "Description": "SYNTHETIC FICTION",
@@ -1028,6 +1256,8 @@
   {
     "First Name": "Liririn",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0058@vendor0058.example.invalid",
     "Account Name": "[SYNTHETIC] River Workflow 058",
     "Description": "SYNTHETIC FICTION",
@@ -1037,6 +1267,8 @@
   {
     "First Name": "Liririn",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0058.example.invalid",
     "Account Name": "[SYNTHETIC] River Workflow 058",
     "Description": "SYNTHETIC FICTION",
@@ -1046,6 +1278,8 @@
   {
     "First Name": "Lirisol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0059@vendor0059.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Workflow 059",
     "Description": "SYNTHETIC FICTION",
@@ -1055,6 +1289,8 @@
   {
     "First Name": "Lirisol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0059.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Workflow 059",
     "Description": "SYNTHETIC FICTION",
@@ -1064,6 +1300,8 @@
   {
     "First Name": "Lirimere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0060@vendor0060.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Workflow 060",
     "Description": "SYNTHETIC FICTION",
@@ -1073,6 +1311,8 @@
   {
     "First Name": "Lirimere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0060.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Workflow 060",
     "Description": "SYNTHETIC FICTION",
@@ -1082,6 +1322,8 @@
   {
     "First Name": "Maraven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0061@vendor0061.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Signals 061",
     "Description": "SYNTHETIC FICTION",
@@ -1091,6 +1333,8 @@
   {
     "First Name": "Maraven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0061.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Signals 061",
     "Description": "SYNTHETIC FICTION",
@@ -1100,6 +1344,8 @@
   {
     "First Name": "Maralune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0062@vendor0062.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Signals 062",
     "Description": "SYNTHETIC FICTION",
@@ -1109,6 +1355,8 @@
   {
     "First Name": "Maralune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0062.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Signals 062",
     "Description": "SYNTHETIC FICTION",
@@ -1118,6 +1366,8 @@
   {
     "First Name": "Mararin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0063@vendor0063.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Signals 063",
     "Description": "SYNTHETIC FICTION",
@@ -1127,6 +1377,8 @@
   {
     "First Name": "Mararin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0063.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Signals 063",
     "Description": "SYNTHETIC FICTION",
@@ -1136,6 +1388,8 @@
   {
     "First Name": "Marasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0064@vendor0064.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Signals 064",
     "Description": "SYNTHETIC FICTION",
@@ -1145,6 +1399,8 @@
   {
     "First Name": "Marasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0064.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Signals 064",
     "Description": "SYNTHETIC FICTION",
@@ -1154,6 +1410,8 @@
   {
     "First Name": "Maramere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0065@vendor0065.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Signals 065",
     "Description": "SYNTHETIC FICTION",
@@ -1163,6 +1421,8 @@
   {
     "First Name": "Maramere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0065.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Signals 065",
     "Description": "SYNTHETIC FICTION",
@@ -1172,6 +1432,8 @@
   {
     "First Name": "Neriven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0066@vendor0066.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Signals 066",
     "Description": "SYNTHETIC FICTION",
@@ -1181,6 +1443,8 @@
   {
     "First Name": "Neriven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0066.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Signals 066",
     "Description": "SYNTHETIC FICTION",
@@ -1190,6 +1454,8 @@
   {
     "First Name": "Nerilune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0067@vendor0067.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Signals 067",
     "Description": "SYNTHETIC FICTION",
@@ -1199,6 +1465,8 @@
   {
     "First Name": "Nerilune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0067.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Signals 067",
     "Description": "SYNTHETIC FICTION",
@@ -1208,6 +1476,8 @@
   {
     "First Name": "Neririn",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0068@vendor0068.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Signals 068",
     "Description": "SYNTHETIC FICTION",
@@ -1217,6 +1487,8 @@
   {
     "First Name": "Neririn",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0068.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Signals 068",
     "Description": "SYNTHETIC FICTION",
@@ -1226,6 +1498,8 @@
   {
     "First Name": "Nerisol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0069@vendor0069.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Signals 069",
     "Description": "SYNTHETIC FICTION",
@@ -1235,6 +1509,8 @@
   {
     "First Name": "Nerisol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0069.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Signals 069",
     "Description": "SYNTHETIC FICTION",
@@ -1244,6 +1520,8 @@
   {
     "First Name": "Nerimere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0070@vendor0070.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Signals 070",
     "Description": "SYNTHETIC FICTION",
@@ -1253,6 +1531,8 @@
   {
     "First Name": "Nerimere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0070.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Signals 070",
     "Description": "SYNTHETIC FICTION",
@@ -1262,6 +1542,8 @@
   {
     "First Name": "Oriven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0071@vendor0071.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Signals 071",
     "Description": "SYNTHETIC FICTION",
@@ -1271,6 +1553,8 @@
   {
     "First Name": "Oriven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0071.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Signals 071",
     "Description": "SYNTHETIC FICTION",
@@ -1280,6 +1564,8 @@
   {
     "First Name": "Orilune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0072@vendor0072.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Signals 072",
     "Description": "SYNTHETIC FICTION",
@@ -1289,6 +1575,8 @@
   {
     "First Name": "Orilune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0072.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Signals 072",
     "Description": "SYNTHETIC FICTION",
@@ -1298,6 +1586,8 @@
   {
     "First Name": "Oririn",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0073@vendor0073.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Signals 073",
     "Description": "SYNTHETIC FICTION",
@@ -1307,6 +1597,8 @@
   {
     "First Name": "Oririn",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0073.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Signals 073",
     "Description": "SYNTHETIC FICTION",
@@ -1316,6 +1608,8 @@
   {
     "First Name": "Orisol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0074@vendor0074.example.invalid",
     "Account Name": "[SYNTHETIC] North Signals 074",
     "Description": "SYNTHETIC FICTION",
@@ -1325,6 +1619,8 @@
   {
     "First Name": "Orisol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0074.example.invalid",
     "Account Name": "[SYNTHETIC] North Signals 074",
     "Description": "SYNTHETIC FICTION",
@@ -1334,6 +1630,8 @@
   {
     "First Name": "Orimere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0075@vendor0075.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Signals 075",
     "Description": "SYNTHETIC FICTION",
@@ -1343,6 +1641,8 @@
   {
     "First Name": "Orimere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0075.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Signals 075",
     "Description": "SYNTHETIC FICTION",
@@ -1352,6 +1652,8 @@
   {
     "First Name": "Peraven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0076@vendor0076.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Signals 076",
     "Description": "SYNTHETIC FICTION",
@@ -1361,6 +1663,8 @@
   {
     "First Name": "Peraven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0076.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Signals 076",
     "Description": "SYNTHETIC FICTION",
@@ -1370,6 +1674,8 @@
   {
     "First Name": "Peralune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0077@vendor0077.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Signals 077",
     "Description": "SYNTHETIC FICTION",
@@ -1379,6 +1685,8 @@
   {
     "First Name": "Peralune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0077.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Signals 077",
     "Description": "SYNTHETIC FICTION",
@@ -1388,6 +1696,8 @@
   {
     "First Name": "Perarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0078@vendor0078.example.invalid",
     "Account Name": "[SYNTHETIC] River Signals 078",
     "Description": "SYNTHETIC FICTION",
@@ -1397,6 +1707,8 @@
   {
     "First Name": "Perarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0078.example.invalid",
     "Account Name": "[SYNTHETIC] River Signals 078",
     "Description": "SYNTHETIC FICTION",
@@ -1406,6 +1718,8 @@
   {
     "First Name": "Perasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0079@vendor0079.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Signals 079",
     "Description": "SYNTHETIC FICTION",
@@ -1415,6 +1729,8 @@
   {
     "First Name": "Perasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0079.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Signals 079",
     "Description": "SYNTHETIC FICTION",
@@ -1424,6 +1740,8 @@
   {
     "First Name": "Peramere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0080@vendor0080.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Signals 080",
     "Description": "SYNTHETIC FICTION",
@@ -1433,6 +1751,8 @@
   {
     "First Name": "Peramere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0080.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Signals 080",
     "Description": "SYNTHETIC FICTION",
@@ -1442,6 +1762,8 @@
   {
     "First Name": "Queraven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0081@vendor0081.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Platform 081",
     "Description": "SYNTHETIC FICTION",
@@ -1451,6 +1773,8 @@
   {
     "First Name": "Queraven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0081.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Platform 081",
     "Description": "SYNTHETIC FICTION",
@@ -1460,6 +1784,8 @@
   {
     "First Name": "Queralune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0082@vendor0082.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Platform 082",
     "Description": "SYNTHETIC FICTION",
@@ -1469,6 +1795,8 @@
   {
     "First Name": "Queralune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0082.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Platform 082",
     "Description": "SYNTHETIC FICTION",
@@ -1478,6 +1806,8 @@
   {
     "First Name": "Querarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0083@vendor0083.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Platform 083",
     "Description": "SYNTHETIC FICTION",
@@ -1487,6 +1817,8 @@
   {
     "First Name": "Querarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0083.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Platform 083",
     "Description": "SYNTHETIC FICTION",
@@ -1496,6 +1828,8 @@
   {
     "First Name": "Querasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0084@vendor0084.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Platform 084",
     "Description": "SYNTHETIC FICTION",
@@ -1505,6 +1839,8 @@
   {
     "First Name": "Querasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0084.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Platform 084",
     "Description": "SYNTHETIC FICTION",
@@ -1514,6 +1850,8 @@
   {
     "First Name": "Queramere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0085@vendor0085.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Platform 085",
     "Description": "SYNTHETIC FICTION",
@@ -1523,6 +1861,8 @@
   {
     "First Name": "Queramere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0085.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Platform 085",
     "Description": "SYNTHETIC FICTION",
@@ -1532,6 +1872,8 @@
   {
     "First Name": "Rinaven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0086@vendor0086.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Platform 086",
     "Description": "SYNTHETIC FICTION",
@@ -1541,6 +1883,8 @@
   {
     "First Name": "Rinaven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0086.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Platform 086",
     "Description": "SYNTHETIC FICTION",
@@ -1550,6 +1894,8 @@
   {
     "First Name": "Rinalune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0087@vendor0087.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Platform 087",
     "Description": "SYNTHETIC FICTION",
@@ -1559,6 +1905,8 @@
   {
     "First Name": "Rinalune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0087.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Platform 087",
     "Description": "SYNTHETIC FICTION",
@@ -1568,6 +1916,8 @@
   {
     "First Name": "Rinarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0088@vendor0088.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Platform 088",
     "Description": "SYNTHETIC FICTION",
@@ -1577,6 +1927,8 @@
   {
     "First Name": "Rinarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0088.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Platform 088",
     "Description": "SYNTHETIC FICTION",
@@ -1586,6 +1938,8 @@
   {
     "First Name": "Rinasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0089@vendor0089.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Platform 089",
     "Description": "SYNTHETIC FICTION",
@@ -1595,6 +1949,8 @@
   {
     "First Name": "Rinasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0089.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Platform 089",
     "Description": "SYNTHETIC FICTION",
@@ -1604,6 +1960,8 @@
   {
     "First Name": "Rinamere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0090@vendor0090.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Platform 090",
     "Description": "SYNTHETIC FICTION",
@@ -1613,6 +1971,8 @@
   {
     "First Name": "Rinamere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0090.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Platform 090",
     "Description": "SYNTHETIC FICTION",
@@ -1622,6 +1982,8 @@
   {
     "First Name": "Soraven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0091@vendor0091.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Platform 091",
     "Description": "SYNTHETIC FICTION",
@@ -1631,6 +1993,8 @@
   {
     "First Name": "Soraven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0091.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Platform 091",
     "Description": "SYNTHETIC FICTION",
@@ -1640,6 +2004,8 @@
   {
     "First Name": "Soralune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0092@vendor0092.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Platform 092",
     "Description": "SYNTHETIC FICTION",
@@ -1649,6 +2015,8 @@
   {
     "First Name": "Soralune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0092.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Platform 092",
     "Description": "SYNTHETIC FICTION",
@@ -1658,6 +2026,8 @@
   {
     "First Name": "Sorarin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0093@vendor0093.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Platform 093",
     "Description": "SYNTHETIC FICTION",
@@ -1667,6 +2037,8 @@
   {
     "First Name": "Sorarin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0093.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Platform 093",
     "Description": "SYNTHETIC FICTION",
@@ -1676,6 +2048,8 @@
   {
     "First Name": "Sorasol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0094@vendor0094.example.invalid",
     "Account Name": "[SYNTHETIC] North Platform 094",
     "Description": "SYNTHETIC FICTION",
@@ -1685,6 +2059,8 @@
   {
     "First Name": "Sorasol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0094.example.invalid",
     "Account Name": "[SYNTHETIC] North Platform 094",
     "Description": "SYNTHETIC FICTION",
@@ -1694,6 +2070,8 @@
   {
     "First Name": "Soramere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0095@vendor0095.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Platform 095",
     "Description": "SYNTHETIC FICTION",
@@ -1703,6 +2081,8 @@
   {
     "First Name": "Soramere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0095.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Platform 095",
     "Description": "SYNTHETIC FICTION",
@@ -1712,6 +2092,8 @@
   {
     "First Name": "Taliven",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0096@vendor0096.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Platform 096",
     "Description": "SYNTHETIC FICTION",
@@ -1721,6 +2103,8 @@
   {
     "First Name": "Taliven",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0096.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Platform 096",
     "Description": "SYNTHETIC FICTION",
@@ -1730,6 +2114,8 @@
   {
     "First Name": "Talilune",
     "Last Name": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0097@vendor0097.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Platform 097",
     "Description": "SYNTHETIC FICTION",
@@ -1739,6 +2125,8 @@
   {
     "First Name": "Talilune",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0097.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Platform 097",
     "Description": "SYNTHETIC FICTION",
@@ -1748,6 +2136,8 @@
   {
     "First Name": "Talirin",
     "Last Name": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0098@vendor0098.example.invalid",
     "Account Name": "[SYNTHETIC] River Platform 098",
     "Description": "SYNTHETIC FICTION",
@@ -1757,6 +2147,8 @@
   {
     "First Name": "Talirin",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0098.example.invalid",
     "Account Name": "[SYNTHETIC] River Platform 098",
     "Description": "SYNTHETIC FICTION",
@@ -1766,6 +2158,8 @@
   {
     "First Name": "Talisol",
     "Last Name": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0099@vendor0099.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Platform 099",
     "Description": "SYNTHETIC FICTION",
@@ -1775,6 +2169,8 @@
   {
     "First Name": "Talisol",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0099.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Platform 099",
     "Description": "SYNTHETIC FICTION",
@@ -1784,6 +2180,8 @@
   {
     "First Name": "Talimere",
     "Last Name": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0100@vendor0100.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Platform 100",
     "Description": "SYNTHETIC FICTION",
@@ -1793,6 +2191,8 @@
   {
     "First Name": "Talimere",
     "Last Name": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0100.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Platform 100",
     "Description": "SYNTHETIC FICTION",
@@ -1802,6 +2202,8 @@
   {
     "First Name": "Avaven",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0101@vendor0101.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Systems 101",
     "Description": "SYNTHETIC FICTION",
@@ -1811,6 +2213,8 @@
   {
     "First Name": "Avalune",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0102@vendor0102.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Systems 102",
     "Description": "SYNTHETIC FICTION",
@@ -1820,6 +2224,8 @@
   {
     "First Name": "Avarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0103@vendor0103.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Systems 103",
     "Description": "SYNTHETIC FICTION",
@@ -1829,6 +2235,8 @@
   {
     "First Name": "Avasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0104@vendor0104.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Systems 104",
     "Description": "SYNTHETIC FICTION",
@@ -1838,6 +2246,8 @@
   {
     "First Name": "Avamere",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0105@vendor0105.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Systems 105",
     "Description": "SYNTHETIC FICTION",
@@ -1847,6 +2257,8 @@
   {
     "First Name": "Belaven",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0106@vendor0106.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Systems 106",
     "Description": "SYNTHETIC FICTION",
@@ -1856,6 +2268,8 @@
   {
     "First Name": "Belalune",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0107@vendor0107.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Systems 107",
     "Description": "SYNTHETIC FICTION",
@@ -1865,6 +2279,8 @@
   {
     "First Name": "Belarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0108@vendor0108.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Systems 108",
     "Description": "SYNTHETIC FICTION",
@@ -1874,6 +2290,8 @@
   {
     "First Name": "Belasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0109@vendor0109.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Systems 109",
     "Description": "SYNTHETIC FICTION",
@@ -1883,6 +2301,8 @@
   {
     "First Name": "Belamere",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0110@vendor0110.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Systems 110",
     "Description": "SYNTHETIC FICTION",
@@ -1892,6 +2312,8 @@
   {
     "First Name": "Ceriven",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0111@vendor0111.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Systems 111",
     "Description": "SYNTHETIC FICTION",
@@ -1901,6 +2323,8 @@
   {
     "First Name": "Cerilune",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0112@vendor0112.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Systems 112",
     "Description": "SYNTHETIC FICTION",
@@ -1910,6 +2334,8 @@
   {
     "First Name": "Ceririn",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0113@vendor0113.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Systems 113",
     "Description": "SYNTHETIC FICTION",
@@ -1919,6 +2345,8 @@
   {
     "First Name": "Cerisol",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0114@vendor0114.example.invalid",
     "Account Name": "[SYNTHETIC] North Systems 114",
     "Description": "SYNTHETIC FICTION",
@@ -1928,6 +2356,8 @@
   {
     "First Name": "Cerimere",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0115@vendor0115.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Systems 115",
     "Description": "SYNTHETIC FICTION",
@@ -1937,6 +2367,8 @@
   {
     "First Name": "Daraven",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0116@vendor0116.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Systems 116",
     "Description": "SYNTHETIC FICTION",
@@ -1946,6 +2378,8 @@
   {
     "First Name": "Daralune",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0117@vendor0117.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Systems 117",
     "Description": "SYNTHETIC FICTION",
@@ -1955,6 +2389,8 @@
   {
     "First Name": "Dararin",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0118@vendor0118.example.invalid",
     "Account Name": "[SYNTHETIC] River Systems 118",
     "Description": "SYNTHETIC FICTION",
@@ -1964,6 +2400,8 @@
   {
     "First Name": "Darasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0119@vendor0119.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Systems 119",
     "Description": "SYNTHETIC FICTION",
@@ -1973,6 +2411,8 @@
   {
     "First Name": "Daramere",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0120@vendor0120.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Systems 120",
     "Description": "SYNTHETIC FICTION",
@@ -1982,6 +2422,8 @@
   {
     "First Name": "Eliven",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0121@vendor0121.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Analytics 121",
     "Description": "SYNTHETIC FICTION",
@@ -1991,6 +2433,8 @@
   {
     "First Name": "Elilune",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0122@vendor0122.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Analytics 122",
     "Description": "SYNTHETIC FICTION",
@@ -2000,6 +2444,8 @@
   {
     "First Name": "Elirin",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0123@vendor0123.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Analytics 123",
     "Description": "SYNTHETIC FICTION",
@@ -2009,6 +2455,8 @@
   {
     "First Name": "Elisol",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0124@vendor0124.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Analytics 124",
     "Description": "SYNTHETIC FICTION",
@@ -2018,6 +2466,8 @@
   {
     "First Name": "Elimere",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0125@vendor0125.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Analytics 125",
     "Description": "SYNTHETIC FICTION",
@@ -2027,6 +2477,8 @@
   {
     "First Name": "Faraven",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0126@vendor0126.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Analytics 126",
     "Description": "SYNTHETIC FICTION",
@@ -2036,6 +2488,8 @@
   {
     "First Name": "Faralune",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0127@vendor0127.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Analytics 127",
     "Description": "SYNTHETIC FICTION",
@@ -2045,6 +2499,8 @@
   {
     "First Name": "Fararin",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0128@vendor0128.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Analytics 128",
     "Description": "SYNTHETIC FICTION",
@@ -2054,6 +2510,8 @@
   {
     "First Name": "Farasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0129@vendor0129.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Analytics 129",
     "Description": "SYNTHETIC FICTION",
@@ -2063,6 +2521,8 @@
   {
     "First Name": "Faramere",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0130@vendor0130.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Analytics 130",
     "Description": "SYNTHETIC FICTION",
@@ -2072,6 +2532,8 @@
   {
     "First Name": "Galaven",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0131@vendor0131.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Analytics 131",
     "Description": "SYNTHETIC FICTION",
@@ -2081,6 +2543,8 @@
   {
     "First Name": "Galalune",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0132@vendor0132.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Analytics 132",
     "Description": "SYNTHETIC FICTION",
@@ -2090,6 +2554,8 @@
   {
     "First Name": "Galarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0133@vendor0133.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Analytics 133",
     "Description": "SYNTHETIC FICTION",
@@ -2099,6 +2565,8 @@
   {
     "First Name": "Galasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0134@vendor0134.example.invalid",
     "Account Name": "[SYNTHETIC] North Analytics 134",
     "Description": "SYNTHETIC FICTION",
@@ -2108,6 +2576,8 @@
   {
     "First Name": "Galamere",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0135@vendor0135.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Analytics 135",
     "Description": "SYNTHETIC FICTION",
@@ -2117,6 +2587,8 @@
   {
     "First Name": "Heriven",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0136@vendor0136.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Analytics 136",
     "Description": "SYNTHETIC FICTION",
@@ -2126,6 +2598,8 @@
   {
     "First Name": "Herilune",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0137@vendor0137.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Analytics 137",
     "Description": "SYNTHETIC FICTION",
@@ -2135,6 +2609,8 @@
   {
     "First Name": "Heririn",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0138@vendor0138.example.invalid",
     "Account Name": "[SYNTHETIC] River Analytics 138",
     "Description": "SYNTHETIC FICTION",
@@ -2144,6 +2620,8 @@
   {
     "First Name": "Herisol",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0139@vendor0139.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Analytics 139",
     "Description": "SYNTHETIC FICTION",
@@ -2153,6 +2631,8 @@
   {
     "First Name": "Herimere",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0140@vendor0140.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Analytics 140",
     "Description": "SYNTHETIC FICTION",
@@ -2162,6 +2642,8 @@
   {
     "First Name": "Ilaven",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0141@vendor0141.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Workflow 141",
     "Description": "SYNTHETIC FICTION",
@@ -2171,6 +2653,8 @@
   {
     "First Name": "Ilalune",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0142@vendor0142.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Workflow 142",
     "Description": "SYNTHETIC FICTION",
@@ -2180,6 +2664,8 @@
   {
     "First Name": "Ilarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0143@vendor0143.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Workflow 143",
     "Description": "SYNTHETIC FICTION",
@@ -2189,6 +2675,8 @@
   {
     "First Name": "Ilasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0144@vendor0144.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Workflow 144",
     "Description": "SYNTHETIC FICTION",
@@ -2198,6 +2686,8 @@
   {
     "First Name": "Ilamere",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0145@vendor0145.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Workflow 145",
     "Description": "SYNTHETIC FICTION",
@@ -2207,6 +2697,8 @@
   {
     "First Name": "Joraven",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0146@vendor0146.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Workflow 146",
     "Description": "SYNTHETIC FICTION",
@@ -2216,6 +2708,8 @@
   {
     "First Name": "Joralune",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0147@vendor0147.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Workflow 147",
     "Description": "SYNTHETIC FICTION",
@@ -2225,6 +2719,8 @@
   {
     "First Name": "Jorarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0148@vendor0148.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Workflow 148",
     "Description": "SYNTHETIC FICTION",
@@ -2234,6 +2730,8 @@
   {
     "First Name": "Jorasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0149@vendor0149.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Workflow 149",
     "Description": "SYNTHETIC FICTION",
@@ -2243,6 +2741,8 @@
   {
     "First Name": "Joramere",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0150@vendor0150.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Workflow 150",
     "Description": "SYNTHETIC FICTION",
@@ -2252,6 +2752,8 @@
   {
     "First Name": "Kalaven",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0151@vendor0151.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Workflow 151",
     "Description": "SYNTHETIC FICTION",
@@ -2261,6 +2763,8 @@
   {
     "First Name": "Kalalune",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0152@vendor0152.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Workflow 152",
     "Description": "SYNTHETIC FICTION",
@@ -2270,6 +2774,8 @@
   {
     "First Name": "Kalarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0153@vendor0153.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Workflow 153",
     "Description": "SYNTHETIC FICTION",
@@ -2279,6 +2785,8 @@
   {
     "First Name": "Kalasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0154@vendor0154.example.invalid",
     "Account Name": "[SYNTHETIC] North Workflow 154",
     "Description": "SYNTHETIC FICTION",
@@ -2288,6 +2796,8 @@
   {
     "First Name": "Kalamere",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0155@vendor0155.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Workflow 155",
     "Description": "SYNTHETIC FICTION",
@@ -2297,6 +2807,8 @@
   {
     "First Name": "Liriven",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0156@vendor0156.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Workflow 156",
     "Description": "SYNTHETIC FICTION",
@@ -2306,6 +2818,8 @@
   {
     "First Name": "Lirilune",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0157@vendor0157.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Workflow 157",
     "Description": "SYNTHETIC FICTION",
@@ -2315,6 +2829,8 @@
   {
     "First Name": "Liririn",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0158@vendor0158.example.invalid",
     "Account Name": "[SYNTHETIC] River Workflow 158",
     "Description": "SYNTHETIC FICTION",
@@ -2324,6 +2840,8 @@
   {
     "First Name": "Lirisol",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0159@vendor0159.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Workflow 159",
     "Description": "SYNTHETIC FICTION",
@@ -2333,6 +2851,8 @@
   {
     "First Name": "Lirimere",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0160@vendor0160.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Workflow 160",
     "Description": "SYNTHETIC FICTION",
@@ -2342,6 +2862,8 @@
   {
     "First Name": "Maraven",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0161@vendor0161.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Signals 161",
     "Description": "SYNTHETIC FICTION",
@@ -2351,6 +2873,8 @@
   {
     "First Name": "Maralune",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0162@vendor0162.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Signals 162",
     "Description": "SYNTHETIC FICTION",
@@ -2360,6 +2884,8 @@
   {
     "First Name": "Mararin",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0163@vendor0163.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Signals 163",
     "Description": "SYNTHETIC FICTION",
@@ -2369,6 +2895,8 @@
   {
     "First Name": "Marasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0164@vendor0164.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Signals 164",
     "Description": "SYNTHETIC FICTION",
@@ -2378,6 +2906,8 @@
   {
     "First Name": "Maramere",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0165@vendor0165.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Signals 165",
     "Description": "SYNTHETIC FICTION",
@@ -2387,6 +2917,8 @@
   {
     "First Name": "Neriven",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0166@vendor0166.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Signals 166",
     "Description": "SYNTHETIC FICTION",
@@ -2396,6 +2928,8 @@
   {
     "First Name": "Nerilune",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0167@vendor0167.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Signals 167",
     "Description": "SYNTHETIC FICTION",
@@ -2405,6 +2939,8 @@
   {
     "First Name": "Neririn",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0168@vendor0168.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Signals 168",
     "Description": "SYNTHETIC FICTION",
@@ -2414,6 +2950,8 @@
   {
     "First Name": "Nerisol",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0169@vendor0169.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Signals 169",
     "Description": "SYNTHETIC FICTION",
@@ -2423,6 +2961,8 @@
   {
     "First Name": "Nerimere",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0170@vendor0170.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Signals 170",
     "Description": "SYNTHETIC FICTION",
@@ -2432,6 +2972,8 @@
   {
     "First Name": "Oriven",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0171@vendor0171.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Signals 171",
     "Description": "SYNTHETIC FICTION",
@@ -2441,6 +2983,8 @@
   {
     "First Name": "Orilune",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0172@vendor0172.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Signals 172",
     "Description": "SYNTHETIC FICTION",
@@ -2450,6 +2994,8 @@
   {
     "First Name": "Oririn",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0173@vendor0173.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Signals 173",
     "Description": "SYNTHETIC FICTION",
@@ -2459,6 +3005,8 @@
   {
     "First Name": "Orisol",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0174@vendor0174.example.invalid",
     "Account Name": "[SYNTHETIC] North Signals 174",
     "Description": "SYNTHETIC FICTION",
@@ -2468,6 +3016,8 @@
   {
     "First Name": "Orimere",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0175@vendor0175.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Signals 175",
     "Description": "SYNTHETIC FICTION",
@@ -2477,6 +3027,8 @@
   {
     "First Name": "Peraven",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0176@vendor0176.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Signals 176",
     "Description": "SYNTHETIC FICTION",
@@ -2486,6 +3038,8 @@
   {
     "First Name": "Peralune",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0177@vendor0177.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Signals 177",
     "Description": "SYNTHETIC FICTION",
@@ -2495,6 +3049,8 @@
   {
     "First Name": "Perarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0178@vendor0178.example.invalid",
     "Account Name": "[SYNTHETIC] River Signals 178",
     "Description": "SYNTHETIC FICTION",
@@ -2504,6 +3060,8 @@
   {
     "First Name": "Perasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0179@vendor0179.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Signals 179",
     "Description": "SYNTHETIC FICTION",
@@ -2513,6 +3071,8 @@
   {
     "First Name": "Peramere",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0180@vendor0180.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Signals 180",
     "Description": "SYNTHETIC FICTION",
@@ -2522,6 +3082,8 @@
   {
     "First Name": "Queraven",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0181@vendor0181.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Platform 181",
     "Description": "SYNTHETIC FICTION",
@@ -2531,6 +3093,8 @@
   {
     "First Name": "Queralune",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0182@vendor0182.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Platform 182",
     "Description": "SYNTHETIC FICTION",
@@ -2540,6 +3104,8 @@
   {
     "First Name": "Querarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0183@vendor0183.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Platform 183",
     "Description": "SYNTHETIC FICTION",
@@ -2549,6 +3115,8 @@
   {
     "First Name": "Querasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0184@vendor0184.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Platform 184",
     "Description": "SYNTHETIC FICTION",
@@ -2558,6 +3126,8 @@
   {
     "First Name": "Queramere",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0185@vendor0185.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Platform 185",
     "Description": "SYNTHETIC FICTION",
@@ -2567,6 +3137,8 @@
   {
     "First Name": "Rinaven",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0186@vendor0186.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Platform 186",
     "Description": "SYNTHETIC FICTION",
@@ -2576,6 +3148,8 @@
   {
     "First Name": "Rinalune",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0187@vendor0187.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Platform 187",
     "Description": "SYNTHETIC FICTION",
@@ -2585,6 +3159,8 @@
   {
     "First Name": "Rinarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0188@vendor0188.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Platform 188",
     "Description": "SYNTHETIC FICTION",
@@ -2594,6 +3170,8 @@
   {
     "First Name": "Rinasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0189@vendor0189.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Platform 189",
     "Description": "SYNTHETIC FICTION",
@@ -2603,6 +3181,8 @@
   {
     "First Name": "Rinamere",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0190@vendor0190.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Platform 190",
     "Description": "SYNTHETIC FICTION",
@@ -2612,6 +3192,8 @@
   {
     "First Name": "Soraven",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0191@vendor0191.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Platform 191",
     "Description": "SYNTHETIC FICTION",
@@ -2621,6 +3203,8 @@
   {
     "First Name": "Soralune",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0192@vendor0192.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Platform 192",
     "Description": "SYNTHETIC FICTION",
@@ -2630,6 +3214,8 @@
   {
     "First Name": "Sorarin",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0193@vendor0193.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Platform 193",
     "Description": "SYNTHETIC FICTION",
@@ -2639,6 +3225,8 @@
   {
     "First Name": "Sorasol",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0194@vendor0194.example.invalid",
     "Account Name": "[SYNTHETIC] North Platform 194",
     "Description": "SYNTHETIC FICTION",
@@ -2648,6 +3236,8 @@
   {
     "First Name": "Soramere",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0195@vendor0195.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Platform 195",
     "Description": "SYNTHETIC FICTION",
@@ -2657,6 +3247,8 @@
   {
     "First Name": "Taliven",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0196@vendor0196.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Platform 196",
     "Description": "SYNTHETIC FICTION",
@@ -2666,6 +3258,8 @@
   {
     "First Name": "Talilune",
     "Last Name": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0197@vendor0197.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Platform 197",
     "Description": "SYNTHETIC FICTION",
@@ -2675,6 +3269,8 @@
   {
     "First Name": "Talirin",
     "Last Name": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0198@vendor0198.example.invalid",
     "Account Name": "[SYNTHETIC] River Platform 198",
     "Description": "SYNTHETIC FICTION",
@@ -2684,6 +3280,8 @@
   {
     "First Name": "Talisol",
     "Last Name": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0199@vendor0199.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Platform 199",
     "Description": "SYNTHETIC FICTION",
@@ -2693,6 +3291,8 @@
   {
     "First Name": "Talimere",
     "Last Name": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0200@vendor0200.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Platform 200",
     "Description": "SYNTHETIC FICTION",
@@ -2702,6 +3302,8 @@
   {
     "First Name": "Avaven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0201@vendor0201.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Systems 201",
     "Description": "SYNTHETIC FICTION",
@@ -2711,6 +3313,8 @@
   {
     "First Name": "Avalune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0202@vendor0202.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Systems 202",
     "Description": "SYNTHETIC FICTION",
@@ -2720,6 +3324,8 @@
   {
     "First Name": "Avarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0203@vendor0203.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Systems 203",
     "Description": "SYNTHETIC FICTION",
@@ -2729,6 +3335,8 @@
   {
     "First Name": "Avasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0204@vendor0204.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Systems 204",
     "Description": "SYNTHETIC FICTION",
@@ -2738,6 +3346,8 @@
   {
     "First Name": "Avamere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0205@vendor0205.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Systems 205",
     "Description": "SYNTHETIC FICTION",
@@ -2747,6 +3357,8 @@
   {
     "First Name": "Belaven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0206@vendor0206.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Systems 206",
     "Description": "SYNTHETIC FICTION",
@@ -2756,6 +3368,8 @@
   {
     "First Name": "Belalune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0207@vendor0207.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Systems 207",
     "Description": "SYNTHETIC FICTION",
@@ -2765,6 +3379,8 @@
   {
     "First Name": "Belarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0208@vendor0208.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Systems 208",
     "Description": "SYNTHETIC FICTION",
@@ -2774,6 +3390,8 @@
   {
     "First Name": "Belasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0209@vendor0209.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Systems 209",
     "Description": "SYNTHETIC FICTION",
@@ -2783,6 +3401,8 @@
   {
     "First Name": "Belamere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0210@vendor0210.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Systems 210",
     "Description": "SYNTHETIC FICTION",
@@ -2792,6 +3412,8 @@
   {
     "First Name": "Ceriven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0211@vendor0211.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Systems 211",
     "Description": "SYNTHETIC FICTION",
@@ -2801,6 +3423,8 @@
   {
     "First Name": "Cerilune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0212@vendor0212.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Systems 212",
     "Description": "SYNTHETIC FICTION",
@@ -2810,6 +3434,8 @@
   {
     "First Name": "Ceririn",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0213@vendor0213.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Systems 213",
     "Description": "SYNTHETIC FICTION",
@@ -2819,6 +3445,8 @@
   {
     "First Name": "Cerisol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0214@vendor0214.example.invalid",
     "Account Name": "[SYNTHETIC] North Systems 214",
     "Description": "SYNTHETIC FICTION",
@@ -2828,6 +3456,8 @@
   {
     "First Name": "Cerimere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0215@vendor0215.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Systems 215",
     "Description": "SYNTHETIC FICTION",
@@ -2837,6 +3467,8 @@
   {
     "First Name": "Daraven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0216@vendor0216.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Systems 216",
     "Description": "SYNTHETIC FICTION",
@@ -2846,6 +3478,8 @@
   {
     "First Name": "Daralune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0217@vendor0217.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Systems 217",
     "Description": "SYNTHETIC FICTION",
@@ -2855,6 +3489,8 @@
   {
     "First Name": "Dararin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0218@vendor0218.example.invalid",
     "Account Name": "[SYNTHETIC] River Systems 218",
     "Description": "SYNTHETIC FICTION",
@@ -2864,6 +3500,8 @@
   {
     "First Name": "Darasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0219@vendor0219.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Systems 219",
     "Description": "SYNTHETIC FICTION",
@@ -2873,6 +3511,8 @@
   {
     "First Name": "Daramere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0220@vendor0220.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Systems 220",
     "Description": "SYNTHETIC FICTION",
@@ -2882,6 +3522,8 @@
   {
     "First Name": "Eliven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0221@vendor0221.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Analytics 221",
     "Description": "SYNTHETIC FICTION",
@@ -2891,6 +3533,8 @@
   {
     "First Name": "Elilune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0222@vendor0222.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Analytics 222",
     "Description": "SYNTHETIC FICTION",
@@ -2900,6 +3544,8 @@
   {
     "First Name": "Elirin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0223@vendor0223.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Analytics 223",
     "Description": "SYNTHETIC FICTION",
@@ -2909,6 +3555,8 @@
   {
     "First Name": "Elisol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0224@vendor0224.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Analytics 224",
     "Description": "SYNTHETIC FICTION",
@@ -2918,6 +3566,8 @@
   {
     "First Name": "Elimere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0225@vendor0225.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Analytics 225",
     "Description": "SYNTHETIC FICTION",
@@ -2927,6 +3577,8 @@
   {
     "First Name": "Faraven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0226@vendor0226.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Analytics 226",
     "Description": "SYNTHETIC FICTION",
@@ -2936,6 +3588,8 @@
   {
     "First Name": "Faralune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0227@vendor0227.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Analytics 227",
     "Description": "SYNTHETIC FICTION",
@@ -2945,6 +3599,8 @@
   {
     "First Name": "Fararin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0228@vendor0228.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Analytics 228",
     "Description": "SYNTHETIC FICTION",
@@ -2954,6 +3610,8 @@
   {
     "First Name": "Farasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0229@vendor0229.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Analytics 229",
     "Description": "SYNTHETIC FICTION",
@@ -2963,6 +3621,8 @@
   {
     "First Name": "Faramere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0230@vendor0230.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Analytics 230",
     "Description": "SYNTHETIC FICTION",
@@ -2972,6 +3632,8 @@
   {
     "First Name": "Galaven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0231@vendor0231.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Analytics 231",
     "Description": "SYNTHETIC FICTION",
@@ -2981,6 +3643,8 @@
   {
     "First Name": "Galalune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0232@vendor0232.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Analytics 232",
     "Description": "SYNTHETIC FICTION",
@@ -2990,6 +3654,8 @@
   {
     "First Name": "Galarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0233@vendor0233.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Analytics 233",
     "Description": "SYNTHETIC FICTION",
@@ -2999,6 +3665,8 @@
   {
     "First Name": "Galasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0234@vendor0234.example.invalid",
     "Account Name": "[SYNTHETIC] North Analytics 234",
     "Description": "SYNTHETIC FICTION",
@@ -3008,6 +3676,8 @@
   {
     "First Name": "Galamere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0235@vendor0235.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Analytics 235",
     "Description": "SYNTHETIC FICTION",
@@ -3017,6 +3687,8 @@
   {
     "First Name": "Heriven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0236@vendor0236.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Analytics 236",
     "Description": "SYNTHETIC FICTION",
@@ -3026,6 +3698,8 @@
   {
     "First Name": "Herilune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0237@vendor0237.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Analytics 237",
     "Description": "SYNTHETIC FICTION",
@@ -3035,6 +3709,8 @@
   {
     "First Name": "Heririn",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0238@vendor0238.example.invalid",
     "Account Name": "[SYNTHETIC] River Analytics 238",
     "Description": "SYNTHETIC FICTION",
@@ -3044,6 +3720,8 @@
   {
     "First Name": "Herisol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0239@vendor0239.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Analytics 239",
     "Description": "SYNTHETIC FICTION",
@@ -3053,6 +3731,8 @@
   {
     "First Name": "Herimere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0240@vendor0240.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Analytics 240",
     "Description": "SYNTHETIC FICTION",
@@ -3062,6 +3742,8 @@
   {
     "First Name": "Ilaven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0241@vendor0241.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Workflow 241",
     "Description": "SYNTHETIC FICTION",
@@ -3071,6 +3753,8 @@
   {
     "First Name": "Ilalune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0242@vendor0242.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Workflow 242",
     "Description": "SYNTHETIC FICTION",
@@ -3080,6 +3764,8 @@
   {
     "First Name": "Ilarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0243@vendor0243.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Workflow 243",
     "Description": "SYNTHETIC FICTION",
@@ -3089,6 +3775,8 @@
   {
     "First Name": "Ilasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0244@vendor0244.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Workflow 244",
     "Description": "SYNTHETIC FICTION",
@@ -3098,6 +3786,8 @@
   {
     "First Name": "Ilamere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0245@vendor0245.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Workflow 245",
     "Description": "SYNTHETIC FICTION",
@@ -3107,6 +3797,8 @@
   {
     "First Name": "Joraven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0246@vendor0246.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Workflow 246",
     "Description": "SYNTHETIC FICTION",
@@ -3116,6 +3808,8 @@
   {
     "First Name": "Joralune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0247@vendor0247.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Workflow 247",
     "Description": "SYNTHETIC FICTION",
@@ -3125,6 +3819,8 @@
   {
     "First Name": "Jorarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0248@vendor0248.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Workflow 248",
     "Description": "SYNTHETIC FICTION",
@@ -3134,6 +3830,8 @@
   {
     "First Name": "Jorasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0249@vendor0249.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Workflow 249",
     "Description": "SYNTHETIC FICTION",
@@ -3143,6 +3841,8 @@
   {
     "First Name": "Joramere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0250@vendor0250.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Workflow 250",
     "Description": "SYNTHETIC FICTION",
@@ -3152,6 +3852,8 @@
   {
     "First Name": "Kalaven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0251@vendor0251.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Workflow 251",
     "Description": "SYNTHETIC FICTION",
@@ -3161,6 +3863,8 @@
   {
     "First Name": "Kalalune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0252@vendor0252.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Workflow 252",
     "Description": "SYNTHETIC FICTION",
@@ -3170,6 +3874,8 @@
   {
     "First Name": "Kalarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0253@vendor0253.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Workflow 253",
     "Description": "SYNTHETIC FICTION",
@@ -3179,6 +3885,8 @@
   {
     "First Name": "Kalasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0254@vendor0254.example.invalid",
     "Account Name": "[SYNTHETIC] North Workflow 254",
     "Description": "SYNTHETIC FICTION",
@@ -3188,6 +3896,8 @@
   {
     "First Name": "Kalamere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0255@vendor0255.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Workflow 255",
     "Description": "SYNTHETIC FICTION",
@@ -3197,6 +3907,8 @@
   {
     "First Name": "Liriven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0256@vendor0256.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Workflow 256",
     "Description": "SYNTHETIC FICTION",
@@ -3206,6 +3918,8 @@
   {
     "First Name": "Lirilune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0257@vendor0257.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Workflow 257",
     "Description": "SYNTHETIC FICTION",
@@ -3215,6 +3929,8 @@
   {
     "First Name": "Liririn",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0258@vendor0258.example.invalid",
     "Account Name": "[SYNTHETIC] River Workflow 258",
     "Description": "SYNTHETIC FICTION",
@@ -3224,6 +3940,8 @@
   {
     "First Name": "Lirisol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0259@vendor0259.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Workflow 259",
     "Description": "SYNTHETIC FICTION",
@@ -3233,6 +3951,8 @@
   {
     "First Name": "Lirimere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0260@vendor0260.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Workflow 260",
     "Description": "SYNTHETIC FICTION",
@@ -3242,6 +3962,8 @@
   {
     "First Name": "Maraven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0261@vendor0261.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Signals 261",
     "Description": "SYNTHETIC FICTION",
@@ -3251,6 +3973,8 @@
   {
     "First Name": "Maralune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0262@vendor0262.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Signals 262",
     "Description": "SYNTHETIC FICTION",
@@ -3260,6 +3984,8 @@
   {
     "First Name": "Mararin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0263@vendor0263.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Signals 263",
     "Description": "SYNTHETIC FICTION",
@@ -3269,6 +3995,8 @@
   {
     "First Name": "Marasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0264@vendor0264.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Signals 264",
     "Description": "SYNTHETIC FICTION",
@@ -3278,6 +4006,8 @@
   {
     "First Name": "Maramere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0265@vendor0265.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Signals 265",
     "Description": "SYNTHETIC FICTION",
@@ -3287,6 +4017,8 @@
   {
     "First Name": "Neriven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0266@vendor0266.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Signals 266",
     "Description": "SYNTHETIC FICTION",
@@ -3296,6 +4028,8 @@
   {
     "First Name": "Nerilune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0267@vendor0267.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Signals 267",
     "Description": "SYNTHETIC FICTION",
@@ -3305,6 +4039,8 @@
   {
     "First Name": "Neririn",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0268@vendor0268.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Signals 268",
     "Description": "SYNTHETIC FICTION",
@@ -3314,6 +4050,8 @@
   {
     "First Name": "Nerisol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0269@vendor0269.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Signals 269",
     "Description": "SYNTHETIC FICTION",
@@ -3323,6 +4061,8 @@
   {
     "First Name": "Nerimere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0270@vendor0270.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Signals 270",
     "Description": "SYNTHETIC FICTION",
@@ -3332,6 +4072,8 @@
   {
     "First Name": "Oriven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0271@vendor0271.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Signals 271",
     "Description": "SYNTHETIC FICTION",
@@ -3341,6 +4083,8 @@
   {
     "First Name": "Orilune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0272@vendor0272.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Signals 272",
     "Description": "SYNTHETIC FICTION",
@@ -3350,6 +4094,8 @@
   {
     "First Name": "Oririn",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0273@vendor0273.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Signals 273",
     "Description": "SYNTHETIC FICTION",
@@ -3359,6 +4105,8 @@
   {
     "First Name": "Orisol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0274@vendor0274.example.invalid",
     "Account Name": "[SYNTHETIC] North Signals 274",
     "Description": "SYNTHETIC FICTION",
@@ -3368,6 +4116,8 @@
   {
     "First Name": "Orimere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0275@vendor0275.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Signals 275",
     "Description": "SYNTHETIC FICTION",
@@ -3377,6 +4127,8 @@
   {
     "First Name": "Peraven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0276@vendor0276.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Signals 276",
     "Description": "SYNTHETIC FICTION",
@@ -3386,6 +4138,8 @@
   {
     "First Name": "Peralune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0277@vendor0277.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Signals 277",
     "Description": "SYNTHETIC FICTION",
@@ -3395,6 +4149,8 @@
   {
     "First Name": "Perarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0278@vendor0278.example.invalid",
     "Account Name": "[SYNTHETIC] River Signals 278",
     "Description": "SYNTHETIC FICTION",
@@ -3404,6 +4160,8 @@
   {
     "First Name": "Perasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0279@vendor0279.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Signals 279",
     "Description": "SYNTHETIC FICTION",
@@ -3413,6 +4171,8 @@
   {
     "First Name": "Peramere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0280@vendor0280.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Signals 280",
     "Description": "SYNTHETIC FICTION",
@@ -3422,6 +4182,8 @@
   {
     "First Name": "Queraven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0281@vendor0281.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Platform 281",
     "Description": "SYNTHETIC FICTION",
@@ -3431,6 +4193,8 @@
   {
     "First Name": "Queralune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0282@vendor0282.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Platform 282",
     "Description": "SYNTHETIC FICTION",
@@ -3440,6 +4204,8 @@
   {
     "First Name": "Querarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0283@vendor0283.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Platform 283",
     "Description": "SYNTHETIC FICTION",
@@ -3449,6 +4215,8 @@
   {
     "First Name": "Querasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0284@vendor0284.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Platform 284",
     "Description": "SYNTHETIC FICTION",
@@ -3458,6 +4226,8 @@
   {
     "First Name": "Queramere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0285@vendor0285.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Platform 285",
     "Description": "SYNTHETIC FICTION",
@@ -3467,6 +4237,8 @@
   {
     "First Name": "Rinaven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0286@vendor0286.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Platform 286",
     "Description": "SYNTHETIC FICTION",
@@ -3476,6 +4248,8 @@
   {
     "First Name": "Rinalune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0287@vendor0287.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Platform 287",
     "Description": "SYNTHETIC FICTION",
@@ -3485,6 +4259,8 @@
   {
     "First Name": "Rinarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0288@vendor0288.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Platform 288",
     "Description": "SYNTHETIC FICTION",
@@ -3494,6 +4270,8 @@
   {
     "First Name": "Rinasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0289@vendor0289.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Platform 289",
     "Description": "SYNTHETIC FICTION",
@@ -3503,6 +4281,8 @@
   {
     "First Name": "Rinamere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0290@vendor0290.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Platform 290",
     "Description": "SYNTHETIC FICTION",
@@ -3512,6 +4292,8 @@
   {
     "First Name": "Soraven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0291@vendor0291.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Platform 291",
     "Description": "SYNTHETIC FICTION",
@@ -3521,6 +4303,8 @@
   {
     "First Name": "Soralune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0292@vendor0292.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Platform 292",
     "Description": "SYNTHETIC FICTION",
@@ -3530,6 +4314,8 @@
   {
     "First Name": "Sorarin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0293@vendor0293.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Platform 293",
     "Description": "SYNTHETIC FICTION",
@@ -3539,6 +4325,8 @@
   {
     "First Name": "Sorasol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0294@vendor0294.example.invalid",
     "Account Name": "[SYNTHETIC] North Platform 294",
     "Description": "SYNTHETIC FICTION",
@@ -3548,6 +4336,8 @@
   {
     "First Name": "Soramere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0295@vendor0295.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Platform 295",
     "Description": "SYNTHETIC FICTION",
@@ -3557,6 +4347,8 @@
   {
     "First Name": "Taliven",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0296@vendor0296.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Platform 296",
     "Description": "SYNTHETIC FICTION",
@@ -3566,6 +4358,8 @@
   {
     "First Name": "Talilune",
     "Last Name": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0297@vendor0297.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Platform 297",
     "Description": "SYNTHETIC FICTION",
@@ -3575,6 +4369,8 @@
   {
     "First Name": "Talirin",
     "Last Name": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0298@vendor0298.example.invalid",
     "Account Name": "[SYNTHETIC] River Platform 298",
     "Description": "SYNTHETIC FICTION",
@@ -3584,6 +4380,8 @@
   {
     "First Name": "Talisol",
     "Last Name": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0299@vendor0299.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Platform 299",
     "Description": "SYNTHETIC FICTION",
@@ -3593,6 +4391,8 @@
   {
     "First Name": "Talimere",
     "Last Name": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0300@vendor0300.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Platform 300",
     "Description": "SYNTHETIC FICTION",
@@ -3602,6 +4402,8 @@
   {
     "First Name": "Avaven",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0301@vendor0301.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Systems 301",
     "Description": "SYNTHETIC FICTION",
@@ -3611,6 +4413,8 @@
   {
     "First Name": "Avalune",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0302@vendor0302.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Systems 302",
     "Description": "SYNTHETIC FICTION",
@@ -3620,6 +4424,8 @@
   {
     "First Name": "Avarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0303@vendor0303.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Systems 303",
     "Description": "SYNTHETIC FICTION",
@@ -3629,6 +4435,8 @@
   {
     "First Name": "Avasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0304@vendor0304.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Systems 304",
     "Description": "SYNTHETIC FICTION",
@@ -3638,6 +4446,8 @@
   {
     "First Name": "Avamere",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0305@vendor0305.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Systems 305",
     "Description": "SYNTHETIC FICTION",
@@ -3647,6 +4457,8 @@
   {
     "First Name": "Belaven",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0306@vendor0306.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Systems 306",
     "Description": "SYNTHETIC FICTION",
@@ -3656,6 +4468,8 @@
   {
     "First Name": "Belalune",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0307@vendor0307.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Systems 307",
     "Description": "SYNTHETIC FICTION",
@@ -3665,6 +4479,8 @@
   {
     "First Name": "Belarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0308@vendor0308.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Systems 308",
     "Description": "SYNTHETIC FICTION",
@@ -3674,6 +4490,8 @@
   {
     "First Name": "Belasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0309@vendor0309.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Systems 309",
     "Description": "SYNTHETIC FICTION",
@@ -3683,6 +4501,8 @@
   {
     "First Name": "Belamere",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0310@vendor0310.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Systems 310",
     "Description": "SYNTHETIC FICTION",
@@ -3692,6 +4512,8 @@
   {
     "First Name": "Ceriven",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0311@vendor0311.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Systems 311",
     "Description": "SYNTHETIC FICTION",
@@ -3701,6 +4523,8 @@
   {
     "First Name": "Cerilune",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0312@vendor0312.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Systems 312",
     "Description": "SYNTHETIC FICTION",
@@ -3710,6 +4534,8 @@
   {
     "First Name": "Ceririn",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0313@vendor0313.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Systems 313",
     "Description": "SYNTHETIC FICTION",
@@ -3719,6 +4545,8 @@
   {
     "First Name": "Cerisol",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0314@vendor0314.example.invalid",
     "Account Name": "[SYNTHETIC] North Systems 314",
     "Description": "SYNTHETIC FICTION",
@@ -3728,6 +4556,8 @@
   {
     "First Name": "Cerimere",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0315@vendor0315.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Systems 315",
     "Description": "SYNTHETIC FICTION",
@@ -3737,6 +4567,8 @@
   {
     "First Name": "Daraven",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0316@vendor0316.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Systems 316",
     "Description": "SYNTHETIC FICTION",
@@ -3746,6 +4578,8 @@
   {
     "First Name": "Daralune",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0317@vendor0317.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Systems 317",
     "Description": "SYNTHETIC FICTION",
@@ -3755,6 +4589,8 @@
   {
     "First Name": "Dararin",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0318@vendor0318.example.invalid",
     "Account Name": "[SYNTHETIC] River Systems 318",
     "Description": "SYNTHETIC FICTION",
@@ -3764,6 +4600,8 @@
   {
     "First Name": "Darasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0319@vendor0319.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Systems 319",
     "Description": "SYNTHETIC FICTION",
@@ -3773,6 +4611,8 @@
   {
     "First Name": "Daramere",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0320@vendor0320.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Systems 320",
     "Description": "SYNTHETIC FICTION",
@@ -3782,6 +4622,8 @@
   {
     "First Name": "Eliven",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0321@vendor0321.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Analytics 321",
     "Description": "SYNTHETIC FICTION",
@@ -3791,6 +4633,8 @@
   {
     "First Name": "Elilune",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0322@vendor0322.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Analytics 322",
     "Description": "SYNTHETIC FICTION",
@@ -3800,6 +4644,8 @@
   {
     "First Name": "Elirin",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0323@vendor0323.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Analytics 323",
     "Description": "SYNTHETIC FICTION",
@@ -3809,6 +4655,8 @@
   {
     "First Name": "Elisol",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0324@vendor0324.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Analytics 324",
     "Description": "SYNTHETIC FICTION",
@@ -3818,6 +4666,8 @@
   {
     "First Name": "Elimere",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0325@vendor0325.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Analytics 325",
     "Description": "SYNTHETIC FICTION",
@@ -3827,6 +4677,8 @@
   {
     "First Name": "Faraven",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0326@vendor0326.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Analytics 326",
     "Description": "SYNTHETIC FICTION",
@@ -3836,6 +4688,8 @@
   {
     "First Name": "Faralune",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0327@vendor0327.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Analytics 327",
     "Description": "SYNTHETIC FICTION",
@@ -3845,6 +4699,8 @@
   {
     "First Name": "Fararin",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0328@vendor0328.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Analytics 328",
     "Description": "SYNTHETIC FICTION",
@@ -3854,6 +4710,8 @@
   {
     "First Name": "Farasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0329@vendor0329.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Analytics 329",
     "Description": "SYNTHETIC FICTION",
@@ -3863,6 +4721,8 @@
   {
     "First Name": "Faramere",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0330@vendor0330.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Analytics 330",
     "Description": "SYNTHETIC FICTION",
@@ -3872,6 +4732,8 @@
   {
     "First Name": "Galaven",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0331@vendor0331.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Analytics 331",
     "Description": "SYNTHETIC FICTION",
@@ -3881,6 +4743,8 @@
   {
     "First Name": "Galalune",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0332@vendor0332.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Analytics 332",
     "Description": "SYNTHETIC FICTION",
@@ -3890,6 +4754,8 @@
   {
     "First Name": "Galarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0333@vendor0333.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Analytics 333",
     "Description": "SYNTHETIC FICTION",
@@ -3899,6 +4765,8 @@
   {
     "First Name": "Galasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0334@vendor0334.example.invalid",
     "Account Name": "[SYNTHETIC] North Analytics 334",
     "Description": "SYNTHETIC FICTION",
@@ -3908,6 +4776,8 @@
   {
     "First Name": "Galamere",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0335@vendor0335.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Analytics 335",
     "Description": "SYNTHETIC FICTION",
@@ -3917,6 +4787,8 @@
   {
     "First Name": "Heriven",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0336@vendor0336.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Analytics 336",
     "Description": "SYNTHETIC FICTION",
@@ -3926,6 +4798,8 @@
   {
     "First Name": "Herilune",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0337@vendor0337.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Analytics 337",
     "Description": "SYNTHETIC FICTION",
@@ -3935,6 +4809,8 @@
   {
     "First Name": "Heririn",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0338@vendor0338.example.invalid",
     "Account Name": "[SYNTHETIC] River Analytics 338",
     "Description": "SYNTHETIC FICTION",
@@ -3944,6 +4820,8 @@
   {
     "First Name": "Herisol",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0339@vendor0339.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Analytics 339",
     "Description": "SYNTHETIC FICTION",
@@ -3953,6 +4831,8 @@
   {
     "First Name": "Herimere",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0340@vendor0340.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Analytics 340",
     "Description": "SYNTHETIC FICTION",
@@ -3962,6 +4842,8 @@
   {
     "First Name": "Ilaven",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0341@vendor0341.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Workflow 341",
     "Description": "SYNTHETIC FICTION",
@@ -3971,6 +4853,8 @@
   {
     "First Name": "Ilalune",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0342@vendor0342.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Workflow 342",
     "Description": "SYNTHETIC FICTION",
@@ -3980,6 +4864,8 @@
   {
     "First Name": "Ilarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0343@vendor0343.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Workflow 343",
     "Description": "SYNTHETIC FICTION",
@@ -3989,6 +4875,8 @@
   {
     "First Name": "Ilasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0344@vendor0344.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Workflow 344",
     "Description": "SYNTHETIC FICTION",
@@ -3998,6 +4886,8 @@
   {
     "First Name": "Ilamere",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0345@vendor0345.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Workflow 345",
     "Description": "SYNTHETIC FICTION",
@@ -4007,6 +4897,8 @@
   {
     "First Name": "Joraven",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0346@vendor0346.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Workflow 346",
     "Description": "SYNTHETIC FICTION",
@@ -4016,6 +4908,8 @@
   {
     "First Name": "Joralune",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0347@vendor0347.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Workflow 347",
     "Description": "SYNTHETIC FICTION",
@@ -4025,6 +4919,8 @@
   {
     "First Name": "Jorarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0348@vendor0348.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Workflow 348",
     "Description": "SYNTHETIC FICTION",
@@ -4034,6 +4930,8 @@
   {
     "First Name": "Jorasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0349@vendor0349.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Workflow 349",
     "Description": "SYNTHETIC FICTION",
@@ -4043,6 +4941,8 @@
   {
     "First Name": "Joramere",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0350@vendor0350.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Workflow 350",
     "Description": "SYNTHETIC FICTION",
@@ -4052,6 +4952,8 @@
   {
     "First Name": "Kalaven",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0351@vendor0351.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Workflow 351",
     "Description": "SYNTHETIC FICTION",
@@ -4061,6 +4963,8 @@
   {
     "First Name": "Kalalune",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0352@vendor0352.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Workflow 352",
     "Description": "SYNTHETIC FICTION",
@@ -4070,6 +4974,8 @@
   {
     "First Name": "Kalarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0353@vendor0353.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Workflow 353",
     "Description": "SYNTHETIC FICTION",
@@ -4079,6 +4985,8 @@
   {
     "First Name": "Kalasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0354@vendor0354.example.invalid",
     "Account Name": "[SYNTHETIC] North Workflow 354",
     "Description": "SYNTHETIC FICTION",
@@ -4088,6 +4996,8 @@
   {
     "First Name": "Kalamere",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0355@vendor0355.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Workflow 355",
     "Description": "SYNTHETIC FICTION",
@@ -4097,6 +5007,8 @@
   {
     "First Name": "Liriven",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0356@vendor0356.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Workflow 356",
     "Description": "SYNTHETIC FICTION",
@@ -4106,6 +5018,8 @@
   {
     "First Name": "Lirilune",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0357@vendor0357.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Workflow 357",
     "Description": "SYNTHETIC FICTION",
@@ -4115,6 +5029,8 @@
   {
     "First Name": "Liririn",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0358@vendor0358.example.invalid",
     "Account Name": "[SYNTHETIC] River Workflow 358",
     "Description": "SYNTHETIC FICTION",
@@ -4124,6 +5040,8 @@
   {
     "First Name": "Lirisol",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0359@vendor0359.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Workflow 359",
     "Description": "SYNTHETIC FICTION",
@@ -4133,6 +5051,8 @@
   {
     "First Name": "Lirimere",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0360@vendor0360.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Workflow 360",
     "Description": "SYNTHETIC FICTION",
@@ -4142,6 +5062,8 @@
   {
     "First Name": "Maraven",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0361@vendor0361.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Signals 361",
     "Description": "SYNTHETIC FICTION",
@@ -4151,6 +5073,8 @@
   {
     "First Name": "Maralune",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0362@vendor0362.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Signals 362",
     "Description": "SYNTHETIC FICTION",
@@ -4160,6 +5084,8 @@
   {
     "First Name": "Mararin",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0363@vendor0363.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Signals 363",
     "Description": "SYNTHETIC FICTION",
@@ -4169,6 +5095,8 @@
   {
     "First Name": "Marasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0364@vendor0364.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Signals 364",
     "Description": "SYNTHETIC FICTION",
@@ -4178,6 +5106,8 @@
   {
     "First Name": "Maramere",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0365@vendor0365.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Signals 365",
     "Description": "SYNTHETIC FICTION",
@@ -4187,6 +5117,8 @@
   {
     "First Name": "Neriven",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0366@vendor0366.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Signals 366",
     "Description": "SYNTHETIC FICTION",
@@ -4196,6 +5128,8 @@
   {
     "First Name": "Nerilune",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0367@vendor0367.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Signals 367",
     "Description": "SYNTHETIC FICTION",
@@ -4205,6 +5139,8 @@
   {
     "First Name": "Neririn",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0368@vendor0368.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Signals 368",
     "Description": "SYNTHETIC FICTION",
@@ -4214,6 +5150,8 @@
   {
     "First Name": "Nerisol",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0369@vendor0369.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Signals 369",
     "Description": "SYNTHETIC FICTION",
@@ -4223,6 +5161,8 @@
   {
     "First Name": "Nerimere",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0370@vendor0370.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Signals 370",
     "Description": "SYNTHETIC FICTION",
@@ -4232,6 +5172,8 @@
   {
     "First Name": "Oriven",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0371@vendor0371.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Signals 371",
     "Description": "SYNTHETIC FICTION",
@@ -4241,6 +5183,8 @@
   {
     "First Name": "Orilune",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0372@vendor0372.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Signals 372",
     "Description": "SYNTHETIC FICTION",
@@ -4250,6 +5194,8 @@
   {
     "First Name": "Oririn",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0373@vendor0373.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Signals 373",
     "Description": "SYNTHETIC FICTION",
@@ -4259,6 +5205,8 @@
   {
     "First Name": "Orisol",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0374@vendor0374.example.invalid",
     "Account Name": "[SYNTHETIC] North Signals 374",
     "Description": "SYNTHETIC FICTION",
@@ -4268,6 +5216,8 @@
   {
     "First Name": "Orimere",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0375@vendor0375.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Signals 375",
     "Description": "SYNTHETIC FICTION",
@@ -4277,6 +5227,8 @@
   {
     "First Name": "Peraven",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0376@vendor0376.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Signals 376",
     "Description": "SYNTHETIC FICTION",
@@ -4286,6 +5238,8 @@
   {
     "First Name": "Peralune",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0377@vendor0377.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Signals 377",
     "Description": "SYNTHETIC FICTION",
@@ -4295,6 +5249,8 @@
   {
     "First Name": "Perarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0378@vendor0378.example.invalid",
     "Account Name": "[SYNTHETIC] River Signals 378",
     "Description": "SYNTHETIC FICTION",
@@ -4304,6 +5260,8 @@
   {
     "First Name": "Perasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0379@vendor0379.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Signals 379",
     "Description": "SYNTHETIC FICTION",
@@ -4313,6 +5271,8 @@
   {
     "First Name": "Peramere",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0380@vendor0380.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Signals 380",
     "Description": "SYNTHETIC FICTION",
@@ -4322,6 +5282,8 @@
   {
     "First Name": "Queraven",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0381@vendor0381.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Platform 381",
     "Description": "SYNTHETIC FICTION",
@@ -4331,6 +5293,8 @@
   {
     "First Name": "Queralune",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0382@vendor0382.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Platform 382",
     "Description": "SYNTHETIC FICTION",
@@ -4340,6 +5304,8 @@
   {
     "First Name": "Querarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0383@vendor0383.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Platform 383",
     "Description": "SYNTHETIC FICTION",
@@ -4349,6 +5315,8 @@
   {
     "First Name": "Querasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0384@vendor0384.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Platform 384",
     "Description": "SYNTHETIC FICTION",
@@ -4358,6 +5326,8 @@
   {
     "First Name": "Queramere",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0385@vendor0385.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Platform 385",
     "Description": "SYNTHETIC FICTION",
@@ -4367,6 +5337,8 @@
   {
     "First Name": "Rinaven",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0386@vendor0386.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Platform 386",
     "Description": "SYNTHETIC FICTION",
@@ -4376,6 +5348,8 @@
   {
     "First Name": "Rinalune",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0387@vendor0387.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Platform 387",
     "Description": "SYNTHETIC FICTION",
@@ -4385,6 +5359,8 @@
   {
     "First Name": "Rinarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0388@vendor0388.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Platform 388",
     "Description": "SYNTHETIC FICTION",
@@ -4394,6 +5370,8 @@
   {
     "First Name": "Rinasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0389@vendor0389.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Platform 389",
     "Description": "SYNTHETIC FICTION",
@@ -4403,6 +5381,8 @@
   {
     "First Name": "Rinamere",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0390@vendor0390.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Platform 390",
     "Description": "SYNTHETIC FICTION",
@@ -4412,6 +5392,8 @@
   {
     "First Name": "Soraven",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0391@vendor0391.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Platform 391",
     "Description": "SYNTHETIC FICTION",
@@ -4421,6 +5403,8 @@
   {
     "First Name": "Soralune",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0392@vendor0392.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Platform 392",
     "Description": "SYNTHETIC FICTION",
@@ -4430,6 +5414,8 @@
   {
     "First Name": "Sorarin",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0393@vendor0393.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Platform 393",
     "Description": "SYNTHETIC FICTION",
@@ -4439,6 +5425,8 @@
   {
     "First Name": "Sorasol",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0394@vendor0394.example.invalid",
     "Account Name": "[SYNTHETIC] North Platform 394",
     "Description": "SYNTHETIC FICTION",
@@ -4448,6 +5436,8 @@
   {
     "First Name": "Soramere",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0395@vendor0395.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Platform 395",
     "Description": "SYNTHETIC FICTION",
@@ -4457,6 +5447,8 @@
   {
     "First Name": "Taliven",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0396@vendor0396.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Platform 396",
     "Description": "SYNTHETIC FICTION",
@@ -4466,6 +5458,8 @@
   {
     "First Name": "Talilune",
     "Last Name": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0397@vendor0397.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Platform 397",
     "Description": "SYNTHETIC FICTION",
@@ -4475,6 +5469,8 @@
   {
     "First Name": "Talirin",
     "Last Name": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0398@vendor0398.example.invalid",
     "Account Name": "[SYNTHETIC] River Platform 398",
     "Description": "SYNTHETIC FICTION",
@@ -4484,6 +5480,8 @@
   {
     "First Name": "Talisol",
     "Last Name": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0399@vendor0399.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Platform 399",
     "Description": "SYNTHETIC FICTION",
@@ -4493,6 +5491,8 @@
   {
     "First Name": "Talimere",
     "Last Name": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0400@vendor0400.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Platform 400",
     "Description": "SYNTHETIC FICTION",
@@ -4502,6 +5502,8 @@
   {
     "First Name": "Avaven",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0401@vendor0401.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Systems 401",
     "Description": "SYNTHETIC FICTION",
@@ -4511,6 +5513,8 @@
   {
     "First Name": "Avalune",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0402@vendor0402.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Systems 402",
     "Description": "SYNTHETIC FICTION",
@@ -4520,6 +5524,8 @@
   {
     "First Name": "Avarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0403@vendor0403.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Systems 403",
     "Description": "SYNTHETIC FICTION",
@@ -4529,6 +5535,8 @@
   {
     "First Name": "Avasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0404@vendor0404.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Systems 404",
     "Description": "SYNTHETIC FICTION",
@@ -4538,6 +5546,8 @@
   {
     "First Name": "Avamere",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0405@vendor0405.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Systems 405",
     "Description": "SYNTHETIC FICTION",
@@ -4547,6 +5557,8 @@
   {
     "First Name": "Belaven",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0406@vendor0406.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Systems 406",
     "Description": "SYNTHETIC FICTION",
@@ -4556,6 +5568,8 @@
   {
     "First Name": "Belalune",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0407@vendor0407.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Systems 407",
     "Description": "SYNTHETIC FICTION",
@@ -4565,6 +5579,8 @@
   {
     "First Name": "Belarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0408@vendor0408.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Systems 408",
     "Description": "SYNTHETIC FICTION",
@@ -4574,6 +5590,8 @@
   {
     "First Name": "Belasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0409@vendor0409.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Systems 409",
     "Description": "SYNTHETIC FICTION",
@@ -4583,6 +5601,8 @@
   {
     "First Name": "Belamere",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0410@vendor0410.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Systems 410",
     "Description": "SYNTHETIC FICTION",
@@ -4592,6 +5612,8 @@
   {
     "First Name": "Ceriven",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0411@vendor0411.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Systems 411",
     "Description": "SYNTHETIC FICTION",
@@ -4601,6 +5623,8 @@
   {
     "First Name": "Cerilune",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0412@vendor0412.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Systems 412",
     "Description": "SYNTHETIC FICTION",
@@ -4610,6 +5634,8 @@
   {
     "First Name": "Ceririn",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0413@vendor0413.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Systems 413",
     "Description": "SYNTHETIC FICTION",
@@ -4619,6 +5645,8 @@
   {
     "First Name": "Cerisol",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0414@vendor0414.example.invalid",
     "Account Name": "[SYNTHETIC] North Systems 414",
     "Description": "SYNTHETIC FICTION",
@@ -4628,6 +5656,8 @@
   {
     "First Name": "Cerimere",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0415@vendor0415.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Systems 415",
     "Description": "SYNTHETIC FICTION",
@@ -4637,6 +5667,8 @@
   {
     "First Name": "Daraven",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0416@vendor0416.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Systems 416",
     "Description": "SYNTHETIC FICTION",
@@ -4646,6 +5678,8 @@
   {
     "First Name": "Daralune",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0417@vendor0417.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Systems 417",
     "Description": "SYNTHETIC FICTION",
@@ -4655,6 +5689,8 @@
   {
     "First Name": "Dararin",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0418@vendor0418.example.invalid",
     "Account Name": "[SYNTHETIC] River Systems 418",
     "Description": "SYNTHETIC FICTION",
@@ -4664,6 +5700,8 @@
   {
     "First Name": "Darasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0419@vendor0419.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Systems 419",
     "Description": "SYNTHETIC FICTION",
@@ -4673,6 +5711,8 @@
   {
     "First Name": "Daramere",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0420@vendor0420.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Systems 420",
     "Description": "SYNTHETIC FICTION",
@@ -4682,6 +5722,8 @@
   {
     "First Name": "Eliven",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0421@vendor0421.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Analytics 421",
     "Description": "SYNTHETIC FICTION",
@@ -4691,6 +5733,8 @@
   {
     "First Name": "Elilune",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0422@vendor0422.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Analytics 422",
     "Description": "SYNTHETIC FICTION",
@@ -4700,6 +5744,8 @@
   {
     "First Name": "Elirin",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0423@vendor0423.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Analytics 423",
     "Description": "SYNTHETIC FICTION",
@@ -4709,6 +5755,8 @@
   {
     "First Name": "Elisol",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0424@vendor0424.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Analytics 424",
     "Description": "SYNTHETIC FICTION",
@@ -4718,6 +5766,8 @@
   {
     "First Name": "Elimere",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0425@vendor0425.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Analytics 425",
     "Description": "SYNTHETIC FICTION",
@@ -4727,6 +5777,8 @@
   {
     "First Name": "Faraven",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0426@vendor0426.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Analytics 426",
     "Description": "SYNTHETIC FICTION",
@@ -4736,6 +5788,8 @@
   {
     "First Name": "Faralune",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0427@vendor0427.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Analytics 427",
     "Description": "SYNTHETIC FICTION",
@@ -4745,6 +5799,8 @@
   {
     "First Name": "Fararin",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0428@vendor0428.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Analytics 428",
     "Description": "SYNTHETIC FICTION",
@@ -4754,6 +5810,8 @@
   {
     "First Name": "Farasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0429@vendor0429.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Analytics 429",
     "Description": "SYNTHETIC FICTION",
@@ -4763,6 +5821,8 @@
   {
     "First Name": "Faramere",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0430@vendor0430.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Analytics 430",
     "Description": "SYNTHETIC FICTION",
@@ -4772,6 +5832,8 @@
   {
     "First Name": "Galaven",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0431@vendor0431.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Analytics 431",
     "Description": "SYNTHETIC FICTION",
@@ -4781,6 +5843,8 @@
   {
     "First Name": "Galalune",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0432@vendor0432.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Analytics 432",
     "Description": "SYNTHETIC FICTION",
@@ -4790,6 +5854,8 @@
   {
     "First Name": "Galarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0433@vendor0433.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Analytics 433",
     "Description": "SYNTHETIC FICTION",
@@ -4799,6 +5865,8 @@
   {
     "First Name": "Galasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0434@vendor0434.example.invalid",
     "Account Name": "[SYNTHETIC] North Analytics 434",
     "Description": "SYNTHETIC FICTION",
@@ -4808,6 +5876,8 @@
   {
     "First Name": "Galamere",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0435@vendor0435.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Analytics 435",
     "Description": "SYNTHETIC FICTION",
@@ -4817,6 +5887,8 @@
   {
     "First Name": "Heriven",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0436@vendor0436.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Analytics 436",
     "Description": "SYNTHETIC FICTION",
@@ -4826,6 +5898,8 @@
   {
     "First Name": "Herilune",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0437@vendor0437.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Analytics 437",
     "Description": "SYNTHETIC FICTION",
@@ -4835,6 +5909,8 @@
   {
     "First Name": "Heririn",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0438@vendor0438.example.invalid",
     "Account Name": "[SYNTHETIC] River Analytics 438",
     "Description": "SYNTHETIC FICTION",
@@ -4844,6 +5920,8 @@
   {
     "First Name": "Herisol",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0439@vendor0439.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Analytics 439",
     "Description": "SYNTHETIC FICTION",
@@ -4853,6 +5931,8 @@
   {
     "First Name": "Herimere",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0440@vendor0440.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Analytics 440",
     "Description": "SYNTHETIC FICTION",
@@ -4862,6 +5942,8 @@
   {
     "First Name": "Ilaven",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0441@vendor0441.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Workflow 441",
     "Description": "SYNTHETIC FICTION",
@@ -4871,6 +5953,8 @@
   {
     "First Name": "Ilalune",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0442@vendor0442.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Workflow 442",
     "Description": "SYNTHETIC FICTION",
@@ -4880,6 +5964,8 @@
   {
     "First Name": "Ilarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0443@vendor0443.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Workflow 443",
     "Description": "SYNTHETIC FICTION",
@@ -4889,6 +5975,8 @@
   {
     "First Name": "Ilasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0444@vendor0444.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Workflow 444",
     "Description": "SYNTHETIC FICTION",
@@ -4898,6 +5986,8 @@
   {
     "First Name": "Ilamere",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0445@vendor0445.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Workflow 445",
     "Description": "SYNTHETIC FICTION",
@@ -4907,6 +5997,8 @@
   {
     "First Name": "Joraven",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0446@vendor0446.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Workflow 446",
     "Description": "SYNTHETIC FICTION",
@@ -4916,6 +6008,8 @@
   {
     "First Name": "Joralune",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0447@vendor0447.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Workflow 447",
     "Description": "SYNTHETIC FICTION",
@@ -4925,6 +6019,8 @@
   {
     "First Name": "Jorarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0448@vendor0448.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Workflow 448",
     "Description": "SYNTHETIC FICTION",
@@ -4934,6 +6030,8 @@
   {
     "First Name": "Jorasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0449@vendor0449.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Workflow 449",
     "Description": "SYNTHETIC FICTION",
@@ -4943,6 +6041,8 @@
   {
     "First Name": "Joramere",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0450@vendor0450.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Workflow 450",
     "Description": "SYNTHETIC FICTION",
@@ -4952,6 +6052,8 @@
   {
     "First Name": "Kalaven",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0451@vendor0451.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Workflow 451",
     "Description": "SYNTHETIC FICTION",
@@ -4961,6 +6063,8 @@
   {
     "First Name": "Kalalune",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0452@vendor0452.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Workflow 452",
     "Description": "SYNTHETIC FICTION",
@@ -4970,6 +6074,8 @@
   {
     "First Name": "Kalarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0453@vendor0453.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Workflow 453",
     "Description": "SYNTHETIC FICTION",
@@ -4979,6 +6085,8 @@
   {
     "First Name": "Kalasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0454@vendor0454.example.invalid",
     "Account Name": "[SYNTHETIC] North Workflow 454",
     "Description": "SYNTHETIC FICTION",
@@ -4988,6 +6096,8 @@
   {
     "First Name": "Kalamere",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0455@vendor0455.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Workflow 455",
     "Description": "SYNTHETIC FICTION",
@@ -4997,6 +6107,8 @@
   {
     "First Name": "Liriven",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0456@vendor0456.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Workflow 456",
     "Description": "SYNTHETIC FICTION",
@@ -5006,6 +6118,8 @@
   {
     "First Name": "Lirilune",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0457@vendor0457.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Workflow 457",
     "Description": "SYNTHETIC FICTION",
@@ -5015,6 +6129,8 @@
   {
     "First Name": "Liririn",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0458@vendor0458.example.invalid",
     "Account Name": "[SYNTHETIC] River Workflow 458",
     "Description": "SYNTHETIC FICTION",
@@ -5024,6 +6140,8 @@
   {
     "First Name": "Lirisol",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0459@vendor0459.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Workflow 459",
     "Description": "SYNTHETIC FICTION",
@@ -5033,6 +6151,8 @@
   {
     "First Name": "Lirimere",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0460@vendor0460.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Workflow 460",
     "Description": "SYNTHETIC FICTION",
@@ -5042,6 +6162,8 @@
   {
     "First Name": "Maraven",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0461@vendor0461.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Signals 461",
     "Description": "SYNTHETIC FICTION",
@@ -5051,6 +6173,8 @@
   {
     "First Name": "Maralune",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0462@vendor0462.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Signals 462",
     "Description": "SYNTHETIC FICTION",
@@ -5060,6 +6184,8 @@
   {
     "First Name": "Mararin",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0463@vendor0463.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Signals 463",
     "Description": "SYNTHETIC FICTION",
@@ -5069,6 +6195,8 @@
   {
     "First Name": "Marasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0464@vendor0464.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Signals 464",
     "Description": "SYNTHETIC FICTION",
@@ -5078,6 +6206,8 @@
   {
     "First Name": "Maramere",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0465@vendor0465.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Signals 465",
     "Description": "SYNTHETIC FICTION",
@@ -5087,6 +6217,8 @@
   {
     "First Name": "Neriven",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0466@vendor0466.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Signals 466",
     "Description": "SYNTHETIC FICTION",
@@ -5096,6 +6228,8 @@
   {
     "First Name": "Nerilune",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0467@vendor0467.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Signals 467",
     "Description": "SYNTHETIC FICTION",
@@ -5105,6 +6239,8 @@
   {
     "First Name": "Neririn",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0468@vendor0468.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Signals 468",
     "Description": "SYNTHETIC FICTION",
@@ -5114,6 +6250,8 @@
   {
     "First Name": "Nerisol",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0469@vendor0469.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Signals 469",
     "Description": "SYNTHETIC FICTION",
@@ -5123,6 +6261,8 @@
   {
     "First Name": "Nerimere",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0470@vendor0470.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Signals 470",
     "Description": "SYNTHETIC FICTION",
@@ -5132,6 +6272,8 @@
   {
     "First Name": "Oriven",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0471@vendor0471.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Signals 471",
     "Description": "SYNTHETIC FICTION",
@@ -5141,6 +6283,8 @@
   {
     "First Name": "Orilune",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0472@vendor0472.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Signals 472",
     "Description": "SYNTHETIC FICTION",
@@ -5150,6 +6294,8 @@
   {
     "First Name": "Oririn",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0473@vendor0473.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Signals 473",
     "Description": "SYNTHETIC FICTION",
@@ -5159,6 +6305,8 @@
   {
     "First Name": "Orisol",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0474@vendor0474.example.invalid",
     "Account Name": "[SYNTHETIC] North Signals 474",
     "Description": "SYNTHETIC FICTION",
@@ -5168,6 +6316,8 @@
   {
     "First Name": "Orimere",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0475@vendor0475.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Signals 475",
     "Description": "SYNTHETIC FICTION",
@@ -5177,6 +6327,8 @@
   {
     "First Name": "Peraven",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0476@vendor0476.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Signals 476",
     "Description": "SYNTHETIC FICTION",
@@ -5186,6 +6338,8 @@
   {
     "First Name": "Peralune",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0477@vendor0477.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Signals 477",
     "Description": "SYNTHETIC FICTION",
@@ -5195,6 +6349,8 @@
   {
     "First Name": "Perarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0478@vendor0478.example.invalid",
     "Account Name": "[SYNTHETIC] River Signals 478",
     "Description": "SYNTHETIC FICTION",
@@ -5204,6 +6360,8 @@
   {
     "First Name": "Perasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0479@vendor0479.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Signals 479",
     "Description": "SYNTHETIC FICTION",
@@ -5213,6 +6371,8 @@
   {
     "First Name": "Peramere",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0480@vendor0480.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Signals 480",
     "Description": "SYNTHETIC FICTION",
@@ -5222,6 +6382,8 @@
   {
     "First Name": "Queraven",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0481@vendor0481.example.invalid",
     "Account Name": "[SYNTHETIC] Amber Platform 481",
     "Description": "SYNTHETIC FICTION",
@@ -5231,6 +6393,8 @@
   {
     "First Name": "Queralune",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0482@vendor0482.example.invalid",
     "Account Name": "[SYNTHETIC] Birch Platform 482",
     "Description": "SYNTHETIC FICTION",
@@ -5240,6 +6404,8 @@
   {
     "First Name": "Querarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0483@vendor0483.example.invalid",
     "Account Name": "[SYNTHETIC] Cloud Platform 483",
     "Description": "SYNTHETIC FICTION",
@@ -5249,6 +6415,8 @@
   {
     "First Name": "Querasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0484@vendor0484.example.invalid",
     "Account Name": "[SYNTHETIC] Dawn Platform 484",
     "Description": "SYNTHETIC FICTION",
@@ -5258,6 +6426,8 @@
   {
     "First Name": "Queramere",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0485@vendor0485.example.invalid",
     "Account Name": "[SYNTHETIC] Elm Platform 485",
     "Description": "SYNTHETIC FICTION",
@@ -5267,6 +6437,8 @@
   {
     "First Name": "Rinaven",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0486@vendor0486.example.invalid",
     "Account Name": "[SYNTHETIC] Fern Platform 486",
     "Description": "SYNTHETIC FICTION",
@@ -5276,6 +6448,8 @@
   {
     "First Name": "Rinalune",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0487@vendor0487.example.invalid",
     "Account Name": "[SYNTHETIC] Glen Platform 487",
     "Description": "SYNTHETIC FICTION",
@@ -5285,6 +6459,8 @@
   {
     "First Name": "Rinarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0488@vendor0488.example.invalid",
     "Account Name": "[SYNTHETIC] Harbor Platform 488",
     "Description": "SYNTHETIC FICTION",
@@ -5294,6 +6470,8 @@
   {
     "First Name": "Rinasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0489@vendor0489.example.invalid",
     "Account Name": "[SYNTHETIC] Ivory Platform 489",
     "Description": "SYNTHETIC FICTION",
@@ -5303,6 +6481,8 @@
   {
     "First Name": "Rinamere",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0490@vendor0490.example.invalid",
     "Account Name": "[SYNTHETIC] Juniper Platform 490",
     "Description": "SYNTHETIC FICTION",
@@ -5312,6 +6492,8 @@
   {
     "First Name": "Soraven",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0491@vendor0491.example.invalid",
     "Account Name": "[SYNTHETIC] Kestrel Platform 491",
     "Description": "SYNTHETIC FICTION",
@@ -5321,6 +6503,8 @@
   {
     "First Name": "Soralune",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0492@vendor0492.example.invalid",
     "Account Name": "[SYNTHETIC] Lumen Platform 492",
     "Description": "SYNTHETIC FICTION",
@@ -5330,6 +6514,8 @@
   {
     "First Name": "Sorarin",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0493@vendor0493.example.invalid",
     "Account Name": "[SYNTHETIC] Maple Platform 493",
     "Description": "SYNTHETIC FICTION",
@@ -5339,6 +6525,8 @@
   {
     "First Name": "Sorasol",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0494@vendor0494.example.invalid",
     "Account Name": "[SYNTHETIC] North Platform 494",
     "Description": "SYNTHETIC FICTION",
@@ -5348,6 +6536,8 @@
   {
     "First Name": "Soramere",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0495@vendor0495.example.invalid",
     "Account Name": "[SYNTHETIC] Opal Platform 495",
     "Description": "SYNTHETIC FICTION",
@@ -5357,6 +6547,8 @@
   {
     "First Name": "Taliven",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0496@vendor0496.example.invalid",
     "Account Name": "[SYNTHETIC] Pine Platform 496",
     "Description": "SYNTHETIC FICTION",
@@ -5366,6 +6558,8 @@
   {
     "First Name": "Talilune",
     "Last Name": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0497@vendor0497.example.invalid",
     "Account Name": "[SYNTHETIC] Quartz Platform 497",
     "Description": "SYNTHETIC FICTION",
@@ -5375,6 +6569,8 @@
   {
     "First Name": "Talirin",
     "Last Name": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0498@vendor0498.example.invalid",
     "Account Name": "[SYNTHETIC] River Platform 498",
     "Description": "SYNTHETIC FICTION",
@@ -5384,6 +6580,8 @@
   {
     "First Name": "Talisol",
     "Last Name": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0499@vendor0499.example.invalid",
     "Account Name": "[SYNTHETIC] Silver Platform 499",
     "Description": "SYNTHETIC FICTION",
@@ -5393,6 +6591,8 @@
   {
     "First Name": "Talimere",
     "Last Name": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0500@vendor0500.example.invalid",
     "Account Name": "[SYNTHETIC] Thistle Platform 500",
     "Description": "SYNTHETIC FICTION",

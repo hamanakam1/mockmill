@@ -5,6 +5,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2024-11-27",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0001.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000001",
     "StoryFoundry synthetic": true
@@ -15,6 +17,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2024-12-08",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0002.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000002",
     "StoryFoundry synthetic": true
@@ -25,6 +29,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2024-12-19",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0003.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000003",
     "StoryFoundry synthetic": true
@@ -35,6 +41,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2024-12-29",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0004.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000004",
     "StoryFoundry synthetic": true
@@ -45,6 +53,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-01-07",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0005.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000005",
     "StoryFoundry synthetic": true
@@ -55,6 +65,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-01-16",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0006.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000006",
     "StoryFoundry synthetic": true
@@ -65,6 +77,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-01-25",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0007.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000007",
     "StoryFoundry synthetic": true
@@ -75,6 +89,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-02-02",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0008.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000008",
     "StoryFoundry synthetic": true
@@ -85,6 +101,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-02-11",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0009.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000009",
     "StoryFoundry synthetic": true
@@ -95,6 +113,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-02-19",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0010.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000010",
     "StoryFoundry synthetic": true
@@ -105,6 +125,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-02-27",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0011.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000011",
     "StoryFoundry synthetic": true
@@ -115,6 +137,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-03-07",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0012.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000012",
     "StoryFoundry synthetic": true
@@ -125,6 +149,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-03-15",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0013.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000013",
     "StoryFoundry synthetic": true
@@ -135,6 +161,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-03-22",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0014.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000014",
     "StoryFoundry synthetic": true
@@ -145,6 +173,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-03-30",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0015.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000015",
     "StoryFoundry synthetic": true
@@ -155,6 +185,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-04-07",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0016.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000016",
     "StoryFoundry synthetic": true
@@ -165,6 +197,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-04-14",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0017.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000017",
     "StoryFoundry synthetic": true
@@ -175,6 +209,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-04-21",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0018.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000018",
     "StoryFoundry synthetic": true
@@ -185,6 +221,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-04-29",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0019.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000019",
     "StoryFoundry synthetic": true
@@ -195,6 +233,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-05-06",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0020.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000020",
     "StoryFoundry synthetic": true
@@ -205,6 +245,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-05-13",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0021.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000021",
     "StoryFoundry synthetic": true
@@ -215,6 +257,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-05-20",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0022.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000022",
     "StoryFoundry synthetic": true
@@ -225,6 +269,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-05-27",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0023.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000023",
     "StoryFoundry synthetic": true
@@ -235,6 +281,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-06-03",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0024.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000024",
     "StoryFoundry synthetic": true
@@ -245,6 +293,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-06-10",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0025.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000025",
     "StoryFoundry synthetic": true
@@ -255,6 +305,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-06-17",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0026.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000026",
     "StoryFoundry synthetic": true
@@ -265,6 +317,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-06-24",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0027.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000027",
     "StoryFoundry synthetic": true
@@ -275,6 +329,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-06-30",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0028.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000028",
     "StoryFoundry synthetic": true
@@ -285,6 +341,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-07-07",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0029.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000029",
     "StoryFoundry synthetic": true
@@ -295,6 +353,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-07-14",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0030.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000030",
     "StoryFoundry synthetic": true
@@ -305,6 +365,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-07-20",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0031.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000031",
     "StoryFoundry synthetic": true
@@ -315,6 +377,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-07-27",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0032.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000032",
     "StoryFoundry synthetic": true
@@ -325,6 +389,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-08-02",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0033.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000033",
     "StoryFoundry synthetic": true
@@ -335,6 +401,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-08-09",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0034.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000034",
     "StoryFoundry synthetic": true
@@ -345,6 +413,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-08-16",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0035.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000035",
     "StoryFoundry synthetic": true
@@ -355,6 +425,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-08-22",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0036.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000036",
     "StoryFoundry synthetic": true
@@ -365,6 +437,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-08-28",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0037.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000037",
     "StoryFoundry synthetic": true
@@ -375,6 +449,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-09-04",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0038.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000038",
     "StoryFoundry synthetic": true
@@ -385,6 +461,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-09-10",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0039.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000039",
     "StoryFoundry synthetic": true
@@ -395,6 +473,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-09-17",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0040.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000040",
     "StoryFoundry synthetic": true
@@ -405,6 +485,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-09-23",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0041.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000041",
     "StoryFoundry synthetic": true
@@ -415,6 +497,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-09-29",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0042.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000042",
     "StoryFoundry synthetic": true
@@ -425,6 +509,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-10-05",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0043.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000043",
     "StoryFoundry synthetic": true
@@ -435,6 +521,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-10-12",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0044.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000044",
     "StoryFoundry synthetic": true
@@ -445,6 +533,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-10-18",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0045.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000045",
     "StoryFoundry synthetic": true
@@ -455,6 +545,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-10-24",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0046.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000046",
     "StoryFoundry synthetic": true
@@ -465,6 +557,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-10-30",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0047.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000047",
     "StoryFoundry synthetic": true
@@ -475,6 +569,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-11-05",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0048.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000048",
     "StoryFoundry synthetic": true
@@ -485,6 +581,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-11-11",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0049.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000049",
     "StoryFoundry synthetic": true
@@ -495,6 +593,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-11-17",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0050.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000050",
     "StoryFoundry synthetic": true
@@ -505,6 +605,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-11-24",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0051.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000051",
     "StoryFoundry synthetic": true
@@ -515,6 +617,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2025-11-30",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0052.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000052",
     "StoryFoundry synthetic": true
@@ -525,6 +629,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2025-12-06",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0053.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000053",
     "StoryFoundry synthetic": true
@@ -535,6 +641,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2025-12-12",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0054.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000054",
     "StoryFoundry synthetic": true
@@ -545,6 +653,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2025-12-18",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0055.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000055",
     "StoryFoundry synthetic": true
@@ -555,6 +665,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2025-12-24",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0056.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000056",
     "StoryFoundry synthetic": true
@@ -565,6 +677,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2025-12-29",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0057.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000057",
     "StoryFoundry synthetic": true
@@ -575,6 +689,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-01-04",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0058.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000058",
     "StoryFoundry synthetic": true
@@ -585,6 +701,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2026-01-10",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0059.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000059",
     "StoryFoundry synthetic": true
@@ -595,6 +713,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2026-01-16",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0060.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000060",
     "StoryFoundry synthetic": true
@@ -605,6 +725,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2026-01-22",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0061.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000061",
     "StoryFoundry synthetic": true
@@ -615,6 +737,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2026-01-28",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0062.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000062",
     "StoryFoundry synthetic": true
@@ -625,6 +749,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2026-02-03",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0063.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000063",
     "StoryFoundry synthetic": true
@@ -635,6 +761,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-02-09",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0064.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000064",
     "StoryFoundry synthetic": true
@@ -645,6 +773,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2026-02-14",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0065.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000065",
     "StoryFoundry synthetic": true
@@ -655,6 +785,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2026-02-20",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0066.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000066",
     "StoryFoundry synthetic": true
@@ -665,6 +797,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2026-02-26",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0067.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000067",
     "StoryFoundry synthetic": true
@@ -675,6 +809,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2026-03-04",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0068.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000068",
     "StoryFoundry synthetic": true
@@ -685,6 +821,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2026-03-09",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0069.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000069",
     "StoryFoundry synthetic": true
@@ -695,6 +833,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-03-15",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0070.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000070",
     "StoryFoundry synthetic": true
@@ -705,6 +845,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2026-03-21",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0071.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000071",
     "StoryFoundry synthetic": true
@@ -715,6 +857,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2026-03-27",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0072.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000072",
     "StoryFoundry synthetic": true
@@ -725,6 +869,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2026-04-01",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0073.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000073",
     "StoryFoundry synthetic": true
@@ -735,6 +881,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2026-04-07",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0074.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000074",
     "StoryFoundry synthetic": true
@@ -745,6 +893,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2026-04-13",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0075.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000075",
     "StoryFoundry synthetic": true
@@ -755,6 +905,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-04-18",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0076.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000076",
     "StoryFoundry synthetic": true
@@ -765,6 +917,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2026-04-24",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0077.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000077",
     "StoryFoundry synthetic": true
@@ -775,6 +929,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2026-04-29",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0078.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000078",
     "StoryFoundry synthetic": true
@@ -785,6 +941,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2026-05-05",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0079.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000079",
     "StoryFoundry synthetic": true
@@ -795,6 +953,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2026-05-11",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0080.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000080",
     "StoryFoundry synthetic": true
@@ -805,6 +965,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2026-05-16",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0081.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000081",
     "StoryFoundry synthetic": true
@@ -815,6 +977,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-05-22",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0082.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000082",
     "StoryFoundry synthetic": true
@@ -825,6 +989,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2026-05-27",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0083.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000083",
     "StoryFoundry synthetic": true
@@ -835,6 +1001,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2026-06-02",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0084.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000084",
     "StoryFoundry synthetic": true
@@ -845,6 +1013,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2026-06-07",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0085.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000085",
     "StoryFoundry synthetic": true
@@ -855,6 +1025,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2026-06-13",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0086.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000086",
     "StoryFoundry synthetic": true
@@ -865,6 +1037,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2026-06-18",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0087.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000087",
     "StoryFoundry synthetic": true
@@ -875,6 +1049,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-06-24",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0088.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000088",
     "StoryFoundry synthetic": true
@@ -885,6 +1061,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2026-06-29",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0089.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000089",
     "StoryFoundry synthetic": true
@@ -895,6 +1073,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2026-07-05",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0090.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000090",
     "StoryFoundry synthetic": true
@@ -905,6 +1085,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2026-07-10",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0091.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000091",
     "StoryFoundry synthetic": true
@@ -915,6 +1097,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2026-07-16",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0092.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000092",
     "StoryFoundry synthetic": true
@@ -925,6 +1109,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2026-07-21",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0093.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000093",
     "StoryFoundry synthetic": true
@@ -935,6 +1121,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-07-27",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0094.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000094",
     "StoryFoundry synthetic": true
@@ -945,6 +1133,8 @@
     "Deal stage": "Closed Won",
     "Amount": "24000.00",
     "Close date": "2026-08-01",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0095.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000095",
     "StoryFoundry synthetic": true
@@ -955,6 +1145,8 @@
     "Deal stage": "Closed Won",
     "Amount": "15000.00",
     "Close date": "2026-08-06",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0096.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000096",
     "StoryFoundry synthetic": true
@@ -965,6 +1157,8 @@
     "Deal stage": "Closed Won",
     "Amount": "12000.00",
     "Close date": "2026-08-12",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0097.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000097",
     "StoryFoundry synthetic": true
@@ -975,6 +1169,8 @@
     "Deal stage": "Closed Won",
     "Amount": "20000.00",
     "Close date": "2026-08-17",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0098.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000098",
     "StoryFoundry synthetic": true
@@ -985,6 +1181,8 @@
     "Deal stage": "Closed Won",
     "Amount": "30000.00",
     "Close date": "2026-08-23",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0099.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000099",
     "StoryFoundry synthetic": true
@@ -995,6 +1193,8 @@
     "Deal stage": "Closed Won",
     "Amount": "36000.00",
     "Close date": "2026-08-28",
+    "Forecast category": "closed",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0100.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000100",
     "StoryFoundry synthetic": true
@@ -1005,6 +1205,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-05-21",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0101.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000101",
     "StoryFoundry synthetic": true
@@ -1015,6 +1217,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-02-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0102.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000102",
     "StoryFoundry synthetic": true
@@ -1025,6 +1229,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-09-17",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0103.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000103",
     "StoryFoundry synthetic": true
@@ -1035,6 +1241,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-04-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0104.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000104",
     "StoryFoundry synthetic": true
@@ -1045,6 +1253,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2026-06-15",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0105.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000105",
     "StoryFoundry synthetic": true
@@ -1055,6 +1265,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2024-12-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0106.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000106",
     "StoryFoundry synthetic": true
@@ -1065,6 +1277,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-04-18",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0107.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000107",
     "StoryFoundry synthetic": true
@@ -1075,6 +1289,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-10-06",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0108.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000108",
     "StoryFoundry synthetic": true
@@ -1085,6 +1301,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-04-02",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0109.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000109",
     "StoryFoundry synthetic": true
@@ -1095,6 +1313,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-10-24",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0110.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000110",
     "StoryFoundry synthetic": true
@@ -1105,6 +1325,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-10-21",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0111.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000111",
     "StoryFoundry synthetic": true
@@ -1115,6 +1337,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-06-03",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0112.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000112",
     "StoryFoundry synthetic": true
@@ -1125,6 +1349,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-06-12",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0113.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000113",
     "StoryFoundry synthetic": true
@@ -1135,6 +1361,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-08-12",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0114.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000114",
     "StoryFoundry synthetic": true
@@ -1145,6 +1373,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-08-02",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0115.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000115",
     "StoryFoundry synthetic": true
@@ -1155,6 +1385,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-06-30",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0116.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000116",
     "StoryFoundry synthetic": true
@@ -1165,6 +1397,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2026-09-29",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0117.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000117",
     "StoryFoundry synthetic": true
@@ -1175,6 +1409,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-09-13",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0118.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000118",
     "StoryFoundry synthetic": true
@@ -1185,6 +1421,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-07-24",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0119.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000119",
     "StoryFoundry synthetic": true
@@ -1195,6 +1433,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-05-09",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0120.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000120",
     "StoryFoundry synthetic": true
@@ -1205,6 +1445,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2024-12-08",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0121.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000121",
     "StoryFoundry synthetic": true
@@ -1215,6 +1457,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-03-30",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0122.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000122",
     "StoryFoundry synthetic": true
@@ -1225,6 +1469,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2024-12-17",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0123.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000123",
     "StoryFoundry synthetic": true
@@ -1235,6 +1481,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-12-06",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0124.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000124",
     "StoryFoundry synthetic": true
@@ -1245,6 +1493,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-03-12",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0125.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000125",
     "StoryFoundry synthetic": true
@@ -1255,6 +1505,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-02-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0126.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000126",
     "StoryFoundry synthetic": true
@@ -1265,6 +1517,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-04-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0127.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000127",
     "StoryFoundry synthetic": true
@@ -1275,6 +1529,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-01-20",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0128.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000128",
     "StoryFoundry synthetic": true
@@ -1285,6 +1541,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2024-12-17",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0129.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000129",
     "StoryFoundry synthetic": true
@@ -1295,6 +1553,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-11-10",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0130.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000130",
     "StoryFoundry synthetic": true
@@ -1305,6 +1565,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-12-08",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0131.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000131",
     "StoryFoundry synthetic": true
@@ -1315,6 +1577,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-07-05",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0132.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000132",
     "StoryFoundry synthetic": true
@@ -1325,6 +1589,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2026-09-13",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0133.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000133",
     "StoryFoundry synthetic": true
@@ -1335,6 +1601,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2024-12-31",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0134.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000134",
     "StoryFoundry synthetic": true
@@ -1345,6 +1613,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-06-06",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0135.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000135",
     "StoryFoundry synthetic": true
@@ -1355,6 +1625,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2024-11-24",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0136.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000136",
     "StoryFoundry synthetic": true
@@ -1365,6 +1637,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-11-22",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0137.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000137",
     "StoryFoundry synthetic": true
@@ -1375,6 +1649,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-08-18",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0138.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000138",
     "StoryFoundry synthetic": true
@@ -1385,6 +1661,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-12-15",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0139.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000139",
     "StoryFoundry synthetic": true
@@ -1395,6 +1673,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-06-02",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0140.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000140",
     "StoryFoundry synthetic": true
@@ -1405,6 +1685,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-11-02",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0141.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000141",
     "StoryFoundry synthetic": true
@@ -1415,6 +1697,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-05-30",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0142.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000142",
     "StoryFoundry synthetic": true
@@ -1425,6 +1709,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-05-07",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0143.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000143",
     "StoryFoundry synthetic": true
@@ -1435,6 +1721,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-12-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0144.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000144",
     "StoryFoundry synthetic": true
@@ -1445,6 +1733,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2026-07-12",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0145.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000145",
     "StoryFoundry synthetic": true
@@ -1455,6 +1745,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-04-15",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0146.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000146",
     "StoryFoundry synthetic": true
@@ -1465,6 +1757,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-04-27",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0147.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000147",
     "StoryFoundry synthetic": true
@@ -1475,6 +1769,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-07-13",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0148.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000148",
     "StoryFoundry synthetic": true
@@ -1485,6 +1781,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2024-12-11",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0149.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000149",
     "StoryFoundry synthetic": true
@@ -1495,6 +1793,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-07-19",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0150.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000150",
     "StoryFoundry synthetic": true
@@ -1505,6 +1805,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-04-03",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0151.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000151",
     "StoryFoundry synthetic": true
@@ -1515,6 +1817,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-08-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0152.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000152",
     "StoryFoundry synthetic": true
@@ -1525,6 +1829,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2024-12-17",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0153.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000153",
     "StoryFoundry synthetic": true
@@ -1535,6 +1841,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-02-24",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0154.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000154",
     "StoryFoundry synthetic": true
@@ -1545,6 +1853,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-03-13",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0155.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000155",
     "StoryFoundry synthetic": true
@@ -1555,6 +1865,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-05-06",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0156.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000156",
     "StoryFoundry synthetic": true
@@ -1565,6 +1877,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-04-17",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0157.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000157",
     "StoryFoundry synthetic": true
@@ -1575,6 +1889,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-11-05",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0158.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000158",
     "StoryFoundry synthetic": true
@@ -1585,6 +1901,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-11-21",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0159.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000159",
     "StoryFoundry synthetic": true
@@ -1595,6 +1913,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-01-18",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0160.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000160",
     "StoryFoundry synthetic": true
@@ -1605,6 +1925,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-04-26",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0161.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000161",
     "StoryFoundry synthetic": true
@@ -1615,6 +1937,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-12-14",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0162.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000162",
     "StoryFoundry synthetic": true
@@ -1625,6 +1949,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-07-21",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0163.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000163",
     "StoryFoundry synthetic": true
@@ -1635,6 +1961,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2024-11-11",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0164.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000164",
     "StoryFoundry synthetic": true
@@ -1645,6 +1973,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2026-05-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0165.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000165",
     "StoryFoundry synthetic": true
@@ -1655,6 +1985,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-01-19",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0166.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000166",
     "StoryFoundry synthetic": true
@@ -1665,6 +1997,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-09-14",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0167.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000167",
     "StoryFoundry synthetic": true
@@ -1675,6 +2009,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-03-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0168.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000168",
     "StoryFoundry synthetic": true
@@ -1685,6 +2021,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-07-29",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0169.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000169",
     "StoryFoundry synthetic": true
@@ -1695,6 +2033,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-02-08",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0170.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000170",
     "StoryFoundry synthetic": true
@@ -1705,6 +2045,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-05-27",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0171.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000171",
     "StoryFoundry synthetic": true
@@ -1715,6 +2057,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-05-20",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0172.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000172",
     "StoryFoundry synthetic": true
@@ -1725,6 +2069,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-05-01",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0173.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000173",
     "StoryFoundry synthetic": true
@@ -1735,6 +2081,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2024-12-11",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0174.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000174",
     "StoryFoundry synthetic": true
@@ -1745,6 +2093,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-07-29",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0175.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000175",
     "StoryFoundry synthetic": true
@@ -1755,6 +2105,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-09-13",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0176.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000176",
     "StoryFoundry synthetic": true
@@ -1765,6 +2117,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2026-03-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0177.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000177",
     "StoryFoundry synthetic": true
@@ -1775,6 +2129,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-02-08",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0178.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000178",
     "StoryFoundry synthetic": true
@@ -1785,6 +2141,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-01-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0179.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000179",
     "StoryFoundry synthetic": true
@@ -1795,6 +2153,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-01-11",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0180.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000180",
     "StoryFoundry synthetic": true
@@ -1805,6 +2165,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2026-01-08",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0181.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000181",
     "StoryFoundry synthetic": true
@@ -1815,6 +2177,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-04-25",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0182.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000182",
     "StoryFoundry synthetic": true
@@ -1825,6 +2189,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2024-11-26",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0183.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000183",
     "StoryFoundry synthetic": true
@@ -1835,6 +2201,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-02-10",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0184.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000184",
     "StoryFoundry synthetic": true
@@ -1845,6 +2213,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-07-30",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0185.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000185",
     "StoryFoundry synthetic": true
@@ -1855,6 +2225,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-06-06",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0186.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000186",
     "StoryFoundry synthetic": true
@@ -1865,6 +2237,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-06-18",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0187.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000187",
     "StoryFoundry synthetic": true
@@ -1875,6 +2249,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-01-23",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0188.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000188",
     "StoryFoundry synthetic": true
@@ -1885,6 +2261,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-03-23",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0189.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000189",
     "StoryFoundry synthetic": true
@@ -1895,6 +2273,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-05-21",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0190.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000190",
     "StoryFoundry synthetic": true
@@ -1905,6 +2285,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-04-29",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0191.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000191",
     "StoryFoundry synthetic": true
@@ -1915,6 +2297,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-01-14",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0192.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000192",
     "StoryFoundry synthetic": true
@@ -1925,6 +2309,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-10-22",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0193.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000193",
     "StoryFoundry synthetic": true
@@ -1935,6 +2321,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2024-12-14",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0194.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000194",
     "StoryFoundry synthetic": true
@@ -1945,6 +2333,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-07-22",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0195.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000195",
     "StoryFoundry synthetic": true
@@ -1955,6 +2345,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-10-25",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0196.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000196",
     "StoryFoundry synthetic": true
@@ -1965,6 +2357,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2026-02-05",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0197.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000197",
     "StoryFoundry synthetic": true
@@ -1975,6 +2369,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-07-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0198.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000198",
     "StoryFoundry synthetic": true
@@ -1985,6 +2381,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2026-01-22",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0199.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000199",
     "StoryFoundry synthetic": true
@@ -1995,6 +2393,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-09-25",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0200.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000200",
     "StoryFoundry synthetic": true
@@ -2005,6 +2405,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2026-08-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0201.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000201",
     "StoryFoundry synthetic": true
@@ -2015,6 +2417,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-02-27",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0202.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000202",
     "StoryFoundry synthetic": true
@@ -2025,6 +2429,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-09-02",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0203.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000203",
     "StoryFoundry synthetic": true
@@ -2035,6 +2441,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-10-23",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0204.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000204",
     "StoryFoundry synthetic": true
@@ -2045,6 +2453,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2024-12-25",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0205.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000205",
     "StoryFoundry synthetic": true
@@ -2055,6 +2465,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2024-11-17",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0206.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000206",
     "StoryFoundry synthetic": true
@@ -2065,6 +2477,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-03-05",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0207.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000207",
     "StoryFoundry synthetic": true
@@ -2075,6 +2489,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-03-15",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0208.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000208",
     "StoryFoundry synthetic": true
@@ -2085,6 +2501,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-09-25",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0209.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000209",
     "StoryFoundry synthetic": true
@@ -2095,6 +2513,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-07-23",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0210.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000210",
     "StoryFoundry synthetic": true
@@ -2105,6 +2525,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-05-20",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0211.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000211",
     "StoryFoundry synthetic": true
@@ -2115,6 +2537,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2026-06-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0212.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000212",
     "StoryFoundry synthetic": true
@@ -2125,6 +2549,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-10-27",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0213.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000213",
     "StoryFoundry synthetic": true
@@ -2135,6 +2561,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2025-06-16",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0214.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000214",
     "StoryFoundry synthetic": true
@@ -2145,6 +2573,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-10-02",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0215.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000215",
     "StoryFoundry synthetic": true
@@ -2155,6 +2585,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-07-07",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0216.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000216",
     "StoryFoundry synthetic": true
@@ -2165,6 +2597,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-12-09",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0217.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000217",
     "StoryFoundry synthetic": true
@@ -2175,6 +2609,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2024-12-03",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0218.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000218",
     "StoryFoundry synthetic": true
@@ -2185,6 +2621,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2026-04-28",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0219.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000219",
     "StoryFoundry synthetic": true
@@ -2195,6 +2633,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-07-25",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0220.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000220",
     "StoryFoundry synthetic": true
@@ -2205,6 +2645,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-11-30",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0221.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000221",
     "StoryFoundry synthetic": true
@@ -2215,6 +2657,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2025-09-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0222.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000222",
     "StoryFoundry synthetic": true
@@ -2225,6 +2669,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-06-11",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0223.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000223",
     "StoryFoundry synthetic": true
@@ -2235,6 +2681,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-01-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0224.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000224",
     "StoryFoundry synthetic": true
@@ -2245,6 +2693,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-06-05",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0225.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000225",
     "StoryFoundry synthetic": true
@@ -2255,6 +2705,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-10-07",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0226.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000226",
     "StoryFoundry synthetic": true
@@ -2265,6 +2717,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-09-03",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0227.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000227",
     "StoryFoundry synthetic": true
@@ -2275,6 +2729,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-07-04",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0228.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000228",
     "StoryFoundry synthetic": true
@@ -2285,6 +2741,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2026-02-13",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0229.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000229",
     "StoryFoundry synthetic": true
@@ -2295,6 +2753,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2025-09-26",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0230.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000230",
     "StoryFoundry synthetic": true
@@ -2305,6 +2765,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-05-13",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0231.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000231",
     "StoryFoundry synthetic": true
@@ -2315,6 +2777,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2024-12-17",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0232.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000232",
     "StoryFoundry synthetic": true
@@ -2325,6 +2789,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-07-09",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0233.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000233",
     "StoryFoundry synthetic": true
@@ -2335,6 +2801,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2026-10-20",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0234.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000234",
     "StoryFoundry synthetic": true
@@ -2345,6 +2813,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "12000.00",
     "Close date": "2025-11-14",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0235.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000235",
     "StoryFoundry synthetic": true
@@ -2355,6 +2825,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "20000.00",
     "Close date": "2024-12-15",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0236.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000236",
     "StoryFoundry synthetic": true
@@ -2365,6 +2837,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "30000.00",
     "Close date": "2025-05-05",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0237.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000237",
     "StoryFoundry synthetic": true
@@ -2375,6 +2849,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "36000.00",
     "Close date": "2026-01-11",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0238.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000238",
     "StoryFoundry synthetic": true
@@ -2385,6 +2861,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "24000.00",
     "Close date": "2025-03-02",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0239.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000239",
     "StoryFoundry synthetic": true
@@ -2395,6 +2873,8 @@
     "Deal stage": "Closed Lost",
     "Amount": "15000.00",
     "Close date": "2024-12-29",
+    "Forecast category": "omitted",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0240.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000240",
     "StoryFoundry synthetic": true
@@ -2405,6 +2885,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0241.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000241",
     "StoryFoundry synthetic": true
@@ -2415,6 +2897,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0242.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000242",
     "StoryFoundry synthetic": true
@@ -2425,6 +2909,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-11-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0243.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000243",
     "StoryFoundry synthetic": true
@@ -2435,6 +2921,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-11-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0244.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000244",
     "StoryFoundry synthetic": true
@@ -2445,6 +2933,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-11-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0245.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000245",
     "StoryFoundry synthetic": true
@@ -2455,6 +2945,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-11-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0246.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000246",
     "StoryFoundry synthetic": true
@@ -2465,6 +2957,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0247.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000247",
     "StoryFoundry synthetic": true
@@ -2475,6 +2969,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0248.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000248",
     "StoryFoundry synthetic": true
@@ -2485,6 +2981,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-11-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0249.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000249",
     "StoryFoundry synthetic": true
@@ -2495,6 +2993,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-11-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0250.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000250",
     "StoryFoundry synthetic": true
@@ -2505,6 +3005,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-11-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0251.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000251",
     "StoryFoundry synthetic": true
@@ -2515,6 +3017,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-11-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0252.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000252",
     "StoryFoundry synthetic": true
@@ -2525,6 +3029,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0253.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000253",
     "StoryFoundry synthetic": true
@@ -2535,6 +3041,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0254.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000254",
     "StoryFoundry synthetic": true
@@ -2545,6 +3053,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-11-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0255.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000255",
     "StoryFoundry synthetic": true
@@ -2555,6 +3065,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-11-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0256.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000256",
     "StoryFoundry synthetic": true
@@ -2565,6 +3077,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-11-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0257.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000257",
     "StoryFoundry synthetic": true
@@ -2575,6 +3089,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-11-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0258.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000258",
     "StoryFoundry synthetic": true
@@ -2585,6 +3101,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0259.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000259",
     "StoryFoundry synthetic": true
@@ -2595,6 +3113,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0260.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000260",
     "StoryFoundry synthetic": true
@@ -2605,6 +3125,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-12-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0261.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000261",
     "StoryFoundry synthetic": true
@@ -2615,6 +3137,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-12-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0262.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000262",
     "StoryFoundry synthetic": true
@@ -2625,6 +3149,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-12-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0263.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000263",
     "StoryFoundry synthetic": true
@@ -2635,6 +3161,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-12-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0264.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000264",
     "StoryFoundry synthetic": true
@@ -2645,6 +3173,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-12-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0265.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000265",
     "StoryFoundry synthetic": true
@@ -2655,6 +3185,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-12-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0266.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000266",
     "StoryFoundry synthetic": true
@@ -2665,6 +3197,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-12-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0267.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000267",
     "StoryFoundry synthetic": true
@@ -2675,6 +3209,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-12-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0268.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000268",
     "StoryFoundry synthetic": true
@@ -2685,6 +3221,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-12-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0269.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000269",
     "StoryFoundry synthetic": true
@@ -2695,6 +3233,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-12-10",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0270.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000270",
     "StoryFoundry synthetic": true
@@ -2705,6 +3245,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-12-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0271.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000271",
     "StoryFoundry synthetic": true
@@ -2715,6 +3257,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-12-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0272.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000272",
     "StoryFoundry synthetic": true
@@ -2725,6 +3269,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-12-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0273.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000273",
     "StoryFoundry synthetic": true
@@ -2735,6 +3281,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-12-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0274.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000274",
     "StoryFoundry synthetic": true
@@ -2745,6 +3293,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-12-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0275.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000275",
     "StoryFoundry synthetic": true
@@ -2755,6 +3305,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-12-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0276.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000276",
     "StoryFoundry synthetic": true
@@ -2765,6 +3317,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-12-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0277.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000277",
     "StoryFoundry synthetic": true
@@ -2775,6 +3329,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-12-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0278.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000278",
     "StoryFoundry synthetic": true
@@ -2785,6 +3341,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-12-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0279.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000279",
     "StoryFoundry synthetic": true
@@ -2795,6 +3353,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-12-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0280.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000280",
     "StoryFoundry synthetic": true
@@ -2805,6 +3365,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-12-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0281.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000281",
     "StoryFoundry synthetic": true
@@ -2815,6 +3377,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-12-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0282.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000282",
     "StoryFoundry synthetic": true
@@ -2825,6 +3389,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-12-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0283.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000283",
     "StoryFoundry synthetic": true
@@ -2835,6 +3401,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-12-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0284.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000284",
     "StoryFoundry synthetic": true
@@ -2845,6 +3413,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-12-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0285.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000285",
     "StoryFoundry synthetic": true
@@ -2855,6 +3425,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-12-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0286.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000286",
     "StoryFoundry synthetic": true
@@ -2865,6 +3437,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-12-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0287.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000287",
     "StoryFoundry synthetic": true
@@ -2875,6 +3449,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-12-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0288.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000288",
     "StoryFoundry synthetic": true
@@ -2885,6 +3461,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-12-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0289.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000289",
     "StoryFoundry synthetic": true
@@ -2895,6 +3473,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-12-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0290.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000290",
     "StoryFoundry synthetic": true
@@ -2905,6 +3485,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-12-31",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0291.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000291",
     "StoryFoundry synthetic": true
@@ -2915,6 +3497,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2027-01-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0292.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000292",
     "StoryFoundry synthetic": true
@@ -2925,6 +3509,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2027-01-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0293.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000293",
     "StoryFoundry synthetic": true
@@ -2935,6 +3521,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2027-01-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0294.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000294",
     "StoryFoundry synthetic": true
@@ -2945,6 +3533,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2027-01-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0295.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000295",
     "StoryFoundry synthetic": true
@@ -2955,6 +3545,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2027-01-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0296.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000296",
     "StoryFoundry synthetic": true
@@ -2965,6 +3557,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2027-01-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0297.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000297",
     "StoryFoundry synthetic": true
@@ -2975,6 +3569,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2027-01-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0298.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000298",
     "StoryFoundry synthetic": true
@@ -2985,6 +3581,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2027-01-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0299.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000299",
     "StoryFoundry synthetic": true
@@ -2995,6 +3593,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2027-01-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0300.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000300",
     "StoryFoundry synthetic": true
@@ -3005,6 +3605,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0301.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000301",
     "StoryFoundry synthetic": true
@@ -3015,6 +3617,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0302.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000302",
     "StoryFoundry synthetic": true
@@ -3025,6 +3629,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-11-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0303.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000303",
     "StoryFoundry synthetic": true
@@ -3035,6 +3641,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-11-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0304.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000304",
     "StoryFoundry synthetic": true
@@ -3045,6 +3653,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-11-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0305.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000305",
     "StoryFoundry synthetic": true
@@ -3055,6 +3665,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-11-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0306.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000306",
     "StoryFoundry synthetic": true
@@ -3065,6 +3677,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0307.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000307",
     "StoryFoundry synthetic": true
@@ -3075,6 +3689,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0308.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000308",
     "StoryFoundry synthetic": true
@@ -3085,6 +3701,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-11-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0309.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000309",
     "StoryFoundry synthetic": true
@@ -3095,6 +3713,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-11-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0310.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000310",
     "StoryFoundry synthetic": true
@@ -3105,6 +3725,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-11-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0311.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000311",
     "StoryFoundry synthetic": true
@@ -3115,6 +3737,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-11-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0312.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000312",
     "StoryFoundry synthetic": true
@@ -3125,6 +3749,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0313.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000313",
     "StoryFoundry synthetic": true
@@ -3135,6 +3761,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0314.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000314",
     "StoryFoundry synthetic": true
@@ -3145,6 +3773,8 @@
     "Deal stage": "Nurturing",
     "Amount": "30000.00",
     "Close date": "2026-11-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0315.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000315",
     "StoryFoundry synthetic": true
@@ -3155,6 +3785,8 @@
     "Deal stage": "Nurturing",
     "Amount": "36000.00",
     "Close date": "2026-11-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0316.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000316",
     "StoryFoundry synthetic": true
@@ -3165,6 +3797,8 @@
     "Deal stage": "Nurturing",
     "Amount": "24000.00",
     "Close date": "2026-11-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0317.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000317",
     "StoryFoundry synthetic": true
@@ -3175,6 +3809,8 @@
     "Deal stage": "Nurturing",
     "Amount": "15000.00",
     "Close date": "2026-11-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0318.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000318",
     "StoryFoundry synthetic": true
@@ -3185,6 +3821,8 @@
     "Deal stage": "Nurturing",
     "Amount": "12000.00",
     "Close date": "2026-11-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0319.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000319",
     "StoryFoundry synthetic": true
@@ -3195,6 +3833,8 @@
     "Deal stage": "Nurturing",
     "Amount": "20000.00",
     "Close date": "2026-11-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0320.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000320",
     "StoryFoundry synthetic": true
@@ -3205,6 +3845,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-12-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0321.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000321",
     "StoryFoundry synthetic": true
@@ -3215,6 +3857,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-12-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0322.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000322",
     "StoryFoundry synthetic": true
@@ -3225,6 +3869,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-12-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0323.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000323",
     "StoryFoundry synthetic": true
@@ -3235,6 +3881,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-12-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0324.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000324",
     "StoryFoundry synthetic": true
@@ -3245,6 +3893,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-12-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0325.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000325",
     "StoryFoundry synthetic": true
@@ -3255,6 +3905,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-12-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0326.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000326",
     "StoryFoundry synthetic": true
@@ -3265,6 +3917,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-12-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0327.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000327",
     "StoryFoundry synthetic": true
@@ -3275,6 +3929,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-12-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0328.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000328",
     "StoryFoundry synthetic": true
@@ -3285,6 +3941,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-12-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0329.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000329",
     "StoryFoundry synthetic": true
@@ -3295,6 +3953,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-12-10",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0330.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000330",
     "StoryFoundry synthetic": true
@@ -3305,6 +3965,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-12-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0331.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000331",
     "StoryFoundry synthetic": true
@@ -3315,6 +3977,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-12-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0332.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000332",
     "StoryFoundry synthetic": true
@@ -3325,6 +3989,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-12-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0333.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000333",
     "StoryFoundry synthetic": true
@@ -3335,6 +4001,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-12-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0334.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000334",
     "StoryFoundry synthetic": true
@@ -3345,6 +4013,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-12-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0335.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000335",
     "StoryFoundry synthetic": true
@@ -3355,6 +4025,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-12-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0336.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000336",
     "StoryFoundry synthetic": true
@@ -3365,6 +4037,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-12-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0337.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000337",
     "StoryFoundry synthetic": true
@@ -3375,6 +4049,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-12-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0338.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000338",
     "StoryFoundry synthetic": true
@@ -3385,6 +4061,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-12-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0339.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000339",
     "StoryFoundry synthetic": true
@@ -3395,6 +4073,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-12-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0340.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000340",
     "StoryFoundry synthetic": true
@@ -3405,6 +4085,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-12-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0341.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000341",
     "StoryFoundry synthetic": true
@@ -3415,6 +4097,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-12-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0342.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000342",
     "StoryFoundry synthetic": true
@@ -3425,6 +4109,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-12-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0343.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000343",
     "StoryFoundry synthetic": true
@@ -3435,6 +4121,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-12-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0344.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000344",
     "StoryFoundry synthetic": true
@@ -3445,6 +4133,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-12-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0345.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000345",
     "StoryFoundry synthetic": true
@@ -3455,6 +4145,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-12-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0346.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000346",
     "StoryFoundry synthetic": true
@@ -3465,6 +4157,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-12-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0347.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000347",
     "StoryFoundry synthetic": true
@@ -3475,6 +4169,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-12-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0348.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000348",
     "StoryFoundry synthetic": true
@@ -3485,6 +4181,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-12-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0349.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000349",
     "StoryFoundry synthetic": true
@@ -3495,6 +4193,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-12-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0350.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000350",
     "StoryFoundry synthetic": true
@@ -3505,6 +4205,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-12-31",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0351.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000351",
     "StoryFoundry synthetic": true
@@ -3515,6 +4217,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2027-01-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0352.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000352",
     "StoryFoundry synthetic": true
@@ -3525,6 +4229,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2027-01-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0353.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000353",
     "StoryFoundry synthetic": true
@@ -3535,6 +4241,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2027-01-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0354.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000354",
     "StoryFoundry synthetic": true
@@ -3545,6 +4253,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2027-01-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0355.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000355",
     "StoryFoundry synthetic": true
@@ -3555,6 +4265,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2027-01-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0356.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000356",
     "StoryFoundry synthetic": true
@@ -3565,6 +4277,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2027-01-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0357.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000357",
     "StoryFoundry synthetic": true
@@ -3575,6 +4289,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2027-01-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0358.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000358",
     "StoryFoundry synthetic": true
@@ -3585,6 +4301,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2027-01-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0359.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000359",
     "StoryFoundry synthetic": true
@@ -3595,6 +4313,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2027-01-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0360.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000360",
     "StoryFoundry synthetic": true
@@ -3605,6 +4325,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-11-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0361.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000361",
     "StoryFoundry synthetic": true
@@ -3615,6 +4337,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-11-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0362.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000362",
     "StoryFoundry synthetic": true
@@ -3625,6 +4349,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-11-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0363.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000363",
     "StoryFoundry synthetic": true
@@ -3635,6 +4361,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-11-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0364.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000364",
     "StoryFoundry synthetic": true
@@ -3645,6 +4373,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-11-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0365.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000365",
     "StoryFoundry synthetic": true
@@ -3655,6 +4385,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-11-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0366.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000366",
     "StoryFoundry synthetic": true
@@ -3665,6 +4397,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-11-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0367.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000367",
     "StoryFoundry synthetic": true
@@ -3675,6 +4409,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-11-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0368.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000368",
     "StoryFoundry synthetic": true
@@ -3685,6 +4421,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-11-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0369.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000369",
     "StoryFoundry synthetic": true
@@ -3695,6 +4433,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-11-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0370.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000370",
     "StoryFoundry synthetic": true
@@ -3705,6 +4445,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-11-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0371.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000371",
     "StoryFoundry synthetic": true
@@ -3715,6 +4457,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-11-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0372.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000372",
     "StoryFoundry synthetic": true
@@ -3725,6 +4469,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-11-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0373.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000373",
     "StoryFoundry synthetic": true
@@ -3735,6 +4481,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-11-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0374.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000374",
     "StoryFoundry synthetic": true
@@ -3745,6 +4493,8 @@
     "Deal stage": "Qualification",
     "Amount": "30000.00",
     "Close date": "2026-11-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0375.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000375",
     "StoryFoundry synthetic": true
@@ -3755,6 +4505,8 @@
     "Deal stage": "Qualification",
     "Amount": "36000.00",
     "Close date": "2026-11-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0376.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000376",
     "StoryFoundry synthetic": true
@@ -3765,6 +4517,8 @@
     "Deal stage": "Qualification",
     "Amount": "24000.00",
     "Close date": "2026-11-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0377.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000377",
     "StoryFoundry synthetic": true
@@ -3775,6 +4529,8 @@
     "Deal stage": "Qualification",
     "Amount": "15000.00",
     "Close date": "2026-11-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0378.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000378",
     "StoryFoundry synthetic": true
@@ -3785,6 +4541,8 @@
     "Deal stage": "Qualification",
     "Amount": "12000.00",
     "Close date": "2026-11-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0379.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000379",
     "StoryFoundry synthetic": true
@@ -3795,6 +4553,8 @@
     "Deal stage": "Qualification",
     "Amount": "20000.00",
     "Close date": "2026-11-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0380.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000380",
     "StoryFoundry synthetic": true
@@ -3805,6 +4565,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-12-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0381.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000381",
     "StoryFoundry synthetic": true
@@ -3815,6 +4577,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2026-12-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0382.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000382",
     "StoryFoundry synthetic": true
@@ -3825,6 +4589,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2026-12-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0383.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000383",
     "StoryFoundry synthetic": true
@@ -3835,6 +4601,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2026-12-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0384.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000384",
     "StoryFoundry synthetic": true
@@ -3845,6 +4613,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2026-12-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0385.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000385",
     "StoryFoundry synthetic": true
@@ -3855,6 +4625,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2026-12-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0386.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000386",
     "StoryFoundry synthetic": true
@@ -3865,6 +4637,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-12-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0387.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000387",
     "StoryFoundry synthetic": true
@@ -3875,6 +4649,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2026-12-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0388.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000388",
     "StoryFoundry synthetic": true
@@ -3885,6 +4661,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2026-12-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0389.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000389",
     "StoryFoundry synthetic": true
@@ -3895,6 +4673,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2026-12-10",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0390.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000390",
     "StoryFoundry synthetic": true
@@ -3905,6 +4685,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2026-12-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0391.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000391",
     "StoryFoundry synthetic": true
@@ -3915,6 +4697,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2026-12-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0392.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000392",
     "StoryFoundry synthetic": true
@@ -3925,6 +4709,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-12-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0393.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000393",
     "StoryFoundry synthetic": true
@@ -3935,6 +4721,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2026-12-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0394.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000394",
     "StoryFoundry synthetic": true
@@ -3945,6 +4733,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2026-12-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0395.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000395",
     "StoryFoundry synthetic": true
@@ -3955,6 +4745,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2026-12-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0396.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000396",
     "StoryFoundry synthetic": true
@@ -3965,6 +4757,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2026-12-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0397.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000397",
     "StoryFoundry synthetic": true
@@ -3975,6 +4769,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2026-12-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0398.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000398",
     "StoryFoundry synthetic": true
@@ -3985,6 +4781,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-12-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0399.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000399",
     "StoryFoundry synthetic": true
@@ -3995,6 +4793,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2026-12-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0400.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000400",
     "StoryFoundry synthetic": true
@@ -4005,6 +4805,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2026-12-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0401.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000401",
     "StoryFoundry synthetic": true
@@ -4015,6 +4817,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2026-12-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0402.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000402",
     "StoryFoundry synthetic": true
@@ -4025,6 +4829,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2026-12-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0403.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000403",
     "StoryFoundry synthetic": true
@@ -4035,6 +4841,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2026-12-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0404.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000404",
     "StoryFoundry synthetic": true
@@ -4045,6 +4853,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-12-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0405.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000405",
     "StoryFoundry synthetic": true
@@ -4055,6 +4865,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2026-12-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0406.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000406",
     "StoryFoundry synthetic": true
@@ -4065,6 +4877,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2026-12-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0407.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000407",
     "StoryFoundry synthetic": true
@@ -4075,6 +4889,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2026-12-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0408.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000408",
     "StoryFoundry synthetic": true
@@ -4085,6 +4901,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2026-12-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0409.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000409",
     "StoryFoundry synthetic": true
@@ -4095,6 +4913,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2026-12-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0410.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000410",
     "StoryFoundry synthetic": true
@@ -4105,6 +4925,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-12-31",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0411.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000411",
     "StoryFoundry synthetic": true
@@ -4115,6 +4937,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2027-01-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0412.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000412",
     "StoryFoundry synthetic": true
@@ -4125,6 +4949,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2027-01-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0413.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000413",
     "StoryFoundry synthetic": true
@@ -4135,6 +4961,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2027-01-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0414.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000414",
     "StoryFoundry synthetic": true
@@ -4145,6 +4973,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2027-01-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0415.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000415",
     "StoryFoundry synthetic": true
@@ -4155,6 +4985,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2027-01-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0416.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000416",
     "StoryFoundry synthetic": true
@@ -4165,6 +4997,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2027-01-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0417.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000417",
     "StoryFoundry synthetic": true
@@ -4175,6 +5009,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2027-01-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0418.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000418",
     "StoryFoundry synthetic": true
@@ -4185,6 +5021,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2027-01-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0419.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000419",
     "StoryFoundry synthetic": true
@@ -4195,6 +5033,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2027-01-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0420.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000420",
     "StoryFoundry synthetic": true
@@ -4205,6 +5045,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2026-11-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0421.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000421",
     "StoryFoundry synthetic": true
@@ -4215,6 +5057,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2026-11-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0422.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000422",
     "StoryFoundry synthetic": true
@@ -4225,6 +5069,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-11-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0423.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000423",
     "StoryFoundry synthetic": true
@@ -4235,6 +5081,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2026-11-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0424.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000424",
     "StoryFoundry synthetic": true
@@ -4245,6 +5093,8 @@
     "Deal stage": "Contacted",
     "Amount": "24000.00",
     "Close date": "2026-11-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0425.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000425",
     "StoryFoundry synthetic": true
@@ -4255,6 +5105,8 @@
     "Deal stage": "Contacted",
     "Amount": "15000.00",
     "Close date": "2026-11-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0426.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000426",
     "StoryFoundry synthetic": true
@@ -4265,6 +5117,8 @@
     "Deal stage": "Contacted",
     "Amount": "12000.00",
     "Close date": "2026-11-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0427.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000427",
     "StoryFoundry synthetic": true
@@ -4275,6 +5129,8 @@
     "Deal stage": "Contacted",
     "Amount": "20000.00",
     "Close date": "2026-11-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0428.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000428",
     "StoryFoundry synthetic": true
@@ -4285,6 +5141,8 @@
     "Deal stage": "Contacted",
     "Amount": "30000.00",
     "Close date": "2026-11-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0429.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000429",
     "StoryFoundry synthetic": true
@@ -4295,6 +5153,8 @@
     "Deal stage": "Contacted",
     "Amount": "36000.00",
     "Close date": "2026-11-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0430.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000430",
     "StoryFoundry synthetic": true
@@ -4305,6 +5165,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-11-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0431.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000431",
     "StoryFoundry synthetic": true
@@ -4315,6 +5177,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-11-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0432.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000432",
     "StoryFoundry synthetic": true
@@ -4325,6 +5189,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-11-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0433.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000433",
     "StoryFoundry synthetic": true
@@ -4335,6 +5201,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-11-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0434.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000434",
     "StoryFoundry synthetic": true
@@ -4345,6 +5213,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-11-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0435.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000435",
     "StoryFoundry synthetic": true
@@ -4355,6 +5225,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-11-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0436.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000436",
     "StoryFoundry synthetic": true
@@ -4365,6 +5237,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-11-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0437.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000437",
     "StoryFoundry synthetic": true
@@ -4375,6 +5249,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-11-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0438.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000438",
     "StoryFoundry synthetic": true
@@ -4385,6 +5261,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-11-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0439.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000439",
     "StoryFoundry synthetic": true
@@ -4395,6 +5273,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-11-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0440.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000440",
     "StoryFoundry synthetic": true
@@ -4405,6 +5285,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-12-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0441.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000441",
     "StoryFoundry synthetic": true
@@ -4415,6 +5297,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-12-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0442.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000442",
     "StoryFoundry synthetic": true
@@ -4425,6 +5309,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-12-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0443.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000443",
     "StoryFoundry synthetic": true
@@ -4435,6 +5321,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-12-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0444.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000444",
     "StoryFoundry synthetic": true
@@ -4445,6 +5333,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-12-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0445.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000445",
     "StoryFoundry synthetic": true
@@ -4455,6 +5345,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-12-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0446.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000446",
     "StoryFoundry synthetic": true
@@ -4465,6 +5357,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-12-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0447.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000447",
     "StoryFoundry synthetic": true
@@ -4475,6 +5369,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-12-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0448.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000448",
     "StoryFoundry synthetic": true
@@ -4485,6 +5381,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-12-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0449.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000449",
     "StoryFoundry synthetic": true
@@ -4495,6 +5393,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-12-10",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0450.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000450",
     "StoryFoundry synthetic": true
@@ -4505,6 +5405,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-12-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0451.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000451",
     "StoryFoundry synthetic": true
@@ -4515,6 +5417,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-12-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0452.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000452",
     "StoryFoundry synthetic": true
@@ -4525,6 +5429,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-12-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0453.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000453",
     "StoryFoundry synthetic": true
@@ -4535,6 +5441,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-12-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0454.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000454",
     "StoryFoundry synthetic": true
@@ -4545,6 +5453,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-12-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0455.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000455",
     "StoryFoundry synthetic": true
@@ -4555,6 +5465,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-12-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0456.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000456",
     "StoryFoundry synthetic": true
@@ -4565,6 +5477,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-12-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0457.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000457",
     "StoryFoundry synthetic": true
@@ -4575,6 +5489,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-12-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0458.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000458",
     "StoryFoundry synthetic": true
@@ -4585,6 +5501,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-12-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0459.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000459",
     "StoryFoundry synthetic": true
@@ -4595,6 +5513,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-12-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0460.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000460",
     "StoryFoundry synthetic": true
@@ -4605,6 +5525,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-12-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0461.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000461",
     "StoryFoundry synthetic": true
@@ -4615,6 +5537,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-12-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0462.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000462",
     "StoryFoundry synthetic": true
@@ -4625,6 +5549,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-12-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0463.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000463",
     "StoryFoundry synthetic": true
@@ -4635,6 +5561,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-12-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0464.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000464",
     "StoryFoundry synthetic": true
@@ -4645,6 +5573,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-12-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0465.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000465",
     "StoryFoundry synthetic": true
@@ -4655,6 +5585,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-12-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0466.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000466",
     "StoryFoundry synthetic": true
@@ -4665,6 +5597,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-12-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0467.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000467",
     "StoryFoundry synthetic": true
@@ -4675,6 +5609,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-12-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0468.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000468",
     "StoryFoundry synthetic": true
@@ -4685,6 +5621,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-12-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0469.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000469",
     "StoryFoundry synthetic": true
@@ -4695,6 +5633,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-12-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0470.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000470",
     "StoryFoundry synthetic": true
@@ -4705,6 +5645,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-12-31",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0471.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000471",
     "StoryFoundry synthetic": true
@@ -4715,6 +5657,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2027-01-01",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0472.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000472",
     "StoryFoundry synthetic": true
@@ -4725,6 +5669,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2027-01-02",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0473.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000473",
     "StoryFoundry synthetic": true
@@ -4735,6 +5681,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2027-01-03",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0474.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000474",
     "StoryFoundry synthetic": true
@@ -4745,6 +5693,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2027-01-04",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0475.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000475",
     "StoryFoundry synthetic": true
@@ -4755,6 +5705,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2027-01-05",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0476.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000476",
     "StoryFoundry synthetic": true
@@ -4765,6 +5717,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2027-01-06",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0477.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000477",
     "StoryFoundry synthetic": true
@@ -4775,6 +5729,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2027-01-07",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0478.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000478",
     "StoryFoundry synthetic": true
@@ -4785,6 +5741,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2027-01-08",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0479.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000479",
     "StoryFoundry synthetic": true
@@ -4795,6 +5753,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2027-01-09",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0480.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000480",
     "StoryFoundry synthetic": true
@@ -4805,6 +5765,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-11-11",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0481.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000481",
     "StoryFoundry synthetic": true
@@ -4815,6 +5777,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-11-12",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0482.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000482",
     "StoryFoundry synthetic": true
@@ -4825,6 +5789,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-11-13",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0483.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000483",
     "StoryFoundry synthetic": true
@@ -4835,6 +5801,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-11-14",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0484.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000484",
     "StoryFoundry synthetic": true
@@ -4845,6 +5813,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-11-15",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0485.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000485",
     "StoryFoundry synthetic": true
@@ -4855,6 +5825,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-11-16",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0486.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000486",
     "StoryFoundry synthetic": true
@@ -4865,6 +5837,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-11-17",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0487.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000487",
     "StoryFoundry synthetic": true
@@ -4875,6 +5849,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-11-18",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0488.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000488",
     "StoryFoundry synthetic": true
@@ -4885,6 +5861,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-11-19",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0489.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000489",
     "StoryFoundry synthetic": true
@@ -4895,6 +5873,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-11-20",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0490.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000490",
     "StoryFoundry synthetic": true
@@ -4905,6 +5885,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-11-21",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0491.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000491",
     "StoryFoundry synthetic": true
@@ -4915,6 +5897,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-11-22",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0492.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000492",
     "StoryFoundry synthetic": true
@@ -4925,6 +5909,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-11-23",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0493.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000493",
     "StoryFoundry synthetic": true
@@ -4935,6 +5921,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-11-24",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0494.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000494",
     "StoryFoundry synthetic": true
@@ -4945,6 +5933,8 @@
     "Deal stage": "Prospecting",
     "Amount": "30000.00",
     "Close date": "2026-11-25",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0495.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000495",
     "StoryFoundry synthetic": true
@@ -4955,6 +5945,8 @@
     "Deal stage": "Prospecting",
     "Amount": "36000.00",
     "Close date": "2026-11-26",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0496.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000496",
     "StoryFoundry synthetic": true
@@ -4965,6 +5957,8 @@
     "Deal stage": "Prospecting",
     "Amount": "24000.00",
     "Close date": "2026-11-27",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0497.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000497",
     "StoryFoundry synthetic": true
@@ -4975,6 +5969,8 @@
     "Deal stage": "Prospecting",
     "Amount": "15000.00",
     "Close date": "2026-11-28",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0498.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000498",
     "StoryFoundry synthetic": true
@@ -4985,6 +5981,8 @@
     "Deal stage": "Prospecting",
     "Amount": "12000.00",
     "Close date": "2026-11-29",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0499.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000499",
     "StoryFoundry synthetic": true
@@ -4995,6 +5993,8 @@
     "Deal stage": "Prospecting",
     "Amount": "20000.00",
     "Close date": "2026-11-30",
+    "Forecast category": "pipeline",
+    "Next step": "[SYNTHETIC] Confirm scope and target prerequisites",
     "Company domain name": "vendor0500.example.invalid",
     "StoryFoundry source key": "d2eec5850643-opportunities-000500",
     "StoryFoundry synthetic": true

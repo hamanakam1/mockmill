@@ -2,6 +2,8 @@
   {
     "FirstName": "Avaven",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0001@vendor0001.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000001",
     "Description": "SYNTHETIC FICTION",
@@ -11,6 +13,8 @@
   {
     "FirstName": "Avaven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0001.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000001",
     "Description": "SYNTHETIC FICTION",
@@ -20,6 +24,8 @@
   {
     "FirstName": "Avalune",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0002@vendor0002.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000002",
     "Description": "SYNTHETIC FICTION",
@@ -29,6 +35,8 @@
   {
     "FirstName": "Avalune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0002.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000002",
     "Description": "SYNTHETIC FICTION",
@@ -38,6 +46,8 @@
   {
     "FirstName": "Avarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0003@vendor0003.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000003",
     "Description": "SYNTHETIC FICTION",
@@ -47,6 +57,8 @@
   {
     "FirstName": "Avarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0003.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000003",
     "Description": "SYNTHETIC FICTION",
@@ -56,6 +68,8 @@
   {
     "FirstName": "Avasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0004@vendor0004.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000004",
     "Description": "SYNTHETIC FICTION",
@@ -65,6 +79,8 @@
   {
     "FirstName": "Avasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0004.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000004",
     "Description": "SYNTHETIC FICTION",
@@ -74,6 +90,8 @@
   {
     "FirstName": "Avamere",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0005@vendor0005.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000005",
     "Description": "SYNTHETIC FICTION",
@@ -83,6 +101,8 @@
   {
     "FirstName": "Avamere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0005.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000005",
     "Description": "SYNTHETIC FICTION",
@@ -92,6 +112,8 @@
   {
     "FirstName": "Belaven",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0006@vendor0006.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000006",
     "Description": "SYNTHETIC FICTION",
@@ -101,6 +123,8 @@
   {
     "FirstName": "Belaven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0006.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000006",
     "Description": "SYNTHETIC FICTION",
@@ -110,6 +134,8 @@
   {
     "FirstName": "Belalune",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0007@vendor0007.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000007",
     "Description": "SYNTHETIC FICTION",
@@ -119,6 +145,8 @@
   {
     "FirstName": "Belalune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0007.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000007",
     "Description": "SYNTHETIC FICTION",
@@ -128,6 +156,8 @@
   {
     "FirstName": "Belarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0008@vendor0008.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000008",
     "Description": "SYNTHETIC FICTION",
@@ -137,6 +167,8 @@
   {
     "FirstName": "Belarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0008.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000008",
     "Description": "SYNTHETIC FICTION",
@@ -146,6 +178,8 @@
   {
     "FirstName": "Belasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0009@vendor0009.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000009",
     "Description": "SYNTHETIC FICTION",
@@ -155,6 +189,8 @@
   {
     "FirstName": "Belasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0009.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000009",
     "Description": "SYNTHETIC FICTION",
@@ -164,6 +200,8 @@
   {
     "FirstName": "Belamere",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0010@vendor0010.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000010",
     "Description": "SYNTHETIC FICTION",
@@ -173,6 +211,8 @@
   {
     "FirstName": "Belamere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0010.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000010",
     "Description": "SYNTHETIC FICTION",
@@ -182,6 +222,8 @@
   {
     "FirstName": "Ceriven",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0011@vendor0011.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000011",
     "Description": "SYNTHETIC FICTION",
@@ -191,6 +233,8 @@
   {
     "FirstName": "Ceriven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0011.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000011",
     "Description": "SYNTHETIC FICTION",
@@ -200,6 +244,8 @@
   {
     "FirstName": "Cerilune",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0012@vendor0012.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000012",
     "Description": "SYNTHETIC FICTION",
@@ -209,6 +255,8 @@
   {
     "FirstName": "Cerilune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0012.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000012",
     "Description": "SYNTHETIC FICTION",
@@ -218,6 +266,8 @@
   {
     "FirstName": "Ceririn",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0013@vendor0013.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000013",
     "Description": "SYNTHETIC FICTION",
@@ -227,6 +277,8 @@
   {
     "FirstName": "Ceririn",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0013.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000013",
     "Description": "SYNTHETIC FICTION",
@@ -236,6 +288,8 @@
   {
     "FirstName": "Cerisol",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0014@vendor0014.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000014",
     "Description": "SYNTHETIC FICTION",
@@ -245,6 +299,8 @@
   {
     "FirstName": "Cerisol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0014.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000014",
     "Description": "SYNTHETIC FICTION",
@@ -254,6 +310,8 @@
   {
     "FirstName": "Cerimere",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0015@vendor0015.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000015",
     "Description": "SYNTHETIC FICTION",
@@ -263,6 +321,8 @@
   {
     "FirstName": "Cerimere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0015.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000015",
     "Description": "SYNTHETIC FICTION",
@@ -272,6 +332,8 @@
   {
     "FirstName": "Daraven",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0016@vendor0016.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000016",
     "Description": "SYNTHETIC FICTION",
@@ -281,6 +343,8 @@
   {
     "FirstName": "Daraven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0016.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000016",
     "Description": "SYNTHETIC FICTION",
@@ -290,6 +354,8 @@
   {
     "FirstName": "Daralune",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0017@vendor0017.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000017",
     "Description": "SYNTHETIC FICTION",
@@ -299,6 +365,8 @@
   {
     "FirstName": "Daralune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0017.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000017",
     "Description": "SYNTHETIC FICTION",
@@ -308,6 +376,8 @@
   {
     "FirstName": "Dararin",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0018@vendor0018.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000018",
     "Description": "SYNTHETIC FICTION",
@@ -317,6 +387,8 @@
   {
     "FirstName": "Dararin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0018.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000018",
     "Description": "SYNTHETIC FICTION",
@@ -326,6 +398,8 @@
   {
     "FirstName": "Darasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0019@vendor0019.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000019",
     "Description": "SYNTHETIC FICTION",
@@ -335,6 +409,8 @@
   {
     "FirstName": "Darasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0019.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000019",
     "Description": "SYNTHETIC FICTION",
@@ -344,6 +420,8 @@
   {
     "FirstName": "Daramere",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0020@vendor0020.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000020",
     "Description": "SYNTHETIC FICTION",
@@ -353,6 +431,8 @@
   {
     "FirstName": "Daramere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0020.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000020",
     "Description": "SYNTHETIC FICTION",
@@ -362,6 +442,8 @@
   {
     "FirstName": "Eliven",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0021@vendor0021.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000021",
     "Description": "SYNTHETIC FICTION",
@@ -371,6 +453,8 @@
   {
     "FirstName": "Eliven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0021.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000021",
     "Description": "SYNTHETIC FICTION",
@@ -380,6 +464,8 @@
   {
     "FirstName": "Elilune",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0022@vendor0022.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000022",
     "Description": "SYNTHETIC FICTION",
@@ -389,6 +475,8 @@
   {
     "FirstName": "Elilune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0022.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000022",
     "Description": "SYNTHETIC FICTION",
@@ -398,6 +486,8 @@
   {
     "FirstName": "Elirin",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0023@vendor0023.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000023",
     "Description": "SYNTHETIC FICTION",
@@ -407,6 +497,8 @@
   {
     "FirstName": "Elirin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0023.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000023",
     "Description": "SYNTHETIC FICTION",
@@ -416,6 +508,8 @@
   {
     "FirstName": "Elisol",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0024@vendor0024.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000024",
     "Description": "SYNTHETIC FICTION",
@@ -425,6 +519,8 @@
   {
     "FirstName": "Elisol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0024.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000024",
     "Description": "SYNTHETIC FICTION",
@@ -434,6 +530,8 @@
   {
     "FirstName": "Elimere",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0025@vendor0025.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000025",
     "Description": "SYNTHETIC FICTION",
@@ -443,6 +541,8 @@
   {
     "FirstName": "Elimere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0025.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000025",
     "Description": "SYNTHETIC FICTION",
@@ -452,6 +552,8 @@
   {
     "FirstName": "Faraven",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0026@vendor0026.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000026",
     "Description": "SYNTHETIC FICTION",
@@ -461,6 +563,8 @@
   {
     "FirstName": "Faraven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0026.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000026",
     "Description": "SYNTHETIC FICTION",
@@ -470,6 +574,8 @@
   {
     "FirstName": "Faralune",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0027@vendor0027.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000027",
     "Description": "SYNTHETIC FICTION",
@@ -479,6 +585,8 @@
   {
     "FirstName": "Faralune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0027.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000027",
     "Description": "SYNTHETIC FICTION",
@@ -488,6 +596,8 @@
   {
     "FirstName": "Fararin",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0028@vendor0028.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000028",
     "Description": "SYNTHETIC FICTION",
@@ -497,6 +607,8 @@
   {
     "FirstName": "Fararin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0028.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000028",
     "Description": "SYNTHETIC FICTION",
@@ -506,6 +618,8 @@
   {
     "FirstName": "Farasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0029@vendor0029.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000029",
     "Description": "SYNTHETIC FICTION",
@@ -515,6 +629,8 @@
   {
     "FirstName": "Farasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0029.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000029",
     "Description": "SYNTHETIC FICTION",
@@ -524,6 +640,8 @@
   {
     "FirstName": "Faramere",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0030@vendor0030.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000030",
     "Description": "SYNTHETIC FICTION",
@@ -533,6 +651,8 @@
   {
     "FirstName": "Faramere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0030.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000030",
     "Description": "SYNTHETIC FICTION",
@@ -542,6 +662,8 @@
   {
     "FirstName": "Galaven",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0031@vendor0031.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000031",
     "Description": "SYNTHETIC FICTION",
@@ -551,6 +673,8 @@
   {
     "FirstName": "Galaven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0031.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000031",
     "Description": "SYNTHETIC FICTION",
@@ -560,6 +684,8 @@
   {
     "FirstName": "Galalune",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0032@vendor0032.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000032",
     "Description": "SYNTHETIC FICTION",
@@ -569,6 +695,8 @@
   {
     "FirstName": "Galalune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0032.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000032",
     "Description": "SYNTHETIC FICTION",
@@ -578,6 +706,8 @@
   {
     "FirstName": "Galarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0033@vendor0033.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000033",
     "Description": "SYNTHETIC FICTION",
@@ -587,6 +717,8 @@
   {
     "FirstName": "Galarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0033.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000033",
     "Description": "SYNTHETIC FICTION",
@@ -596,6 +728,8 @@
   {
     "FirstName": "Galasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0034@vendor0034.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000034",
     "Description": "SYNTHETIC FICTION",
@@ -605,6 +739,8 @@
   {
     "FirstName": "Galasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0034.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000034",
     "Description": "SYNTHETIC FICTION",
@@ -614,6 +750,8 @@
   {
     "FirstName": "Galamere",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0035@vendor0035.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000035",
     "Description": "SYNTHETIC FICTION",
@@ -623,6 +761,8 @@
   {
     "FirstName": "Galamere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0035.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000035",
     "Description": "SYNTHETIC FICTION",
@@ -632,6 +772,8 @@
   {
     "FirstName": "Heriven",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0036@vendor0036.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000036",
     "Description": "SYNTHETIC FICTION",
@@ -641,6 +783,8 @@
   {
     "FirstName": "Heriven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0036.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000036",
     "Description": "SYNTHETIC FICTION",
@@ -650,6 +794,8 @@
   {
     "FirstName": "Herilune",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0037@vendor0037.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000037",
     "Description": "SYNTHETIC FICTION",
@@ -659,6 +805,8 @@
   {
     "FirstName": "Herilune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0037.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000037",
     "Description": "SYNTHETIC FICTION",
@@ -668,6 +816,8 @@
   {
     "FirstName": "Heririn",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0038@vendor0038.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000038",
     "Description": "SYNTHETIC FICTION",
@@ -677,6 +827,8 @@
   {
     "FirstName": "Heririn",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0038.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000038",
     "Description": "SYNTHETIC FICTION",
@@ -686,6 +838,8 @@
   {
     "FirstName": "Herisol",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0039@vendor0039.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000039",
     "Description": "SYNTHETIC FICTION",
@@ -695,6 +849,8 @@
   {
     "FirstName": "Herisol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0039.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000039",
     "Description": "SYNTHETIC FICTION",
@@ -704,6 +860,8 @@
   {
     "FirstName": "Herimere",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0040@vendor0040.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000040",
     "Description": "SYNTHETIC FICTION",
@@ -713,6 +871,8 @@
   {
     "FirstName": "Herimere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0040.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000040",
     "Description": "SYNTHETIC FICTION",
@@ -722,6 +882,8 @@
   {
     "FirstName": "Ilaven",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0041@vendor0041.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000041",
     "Description": "SYNTHETIC FICTION",
@@ -731,6 +893,8 @@
   {
     "FirstName": "Ilaven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0041.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000041",
     "Description": "SYNTHETIC FICTION",
@@ -740,6 +904,8 @@
   {
     "FirstName": "Ilalune",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0042@vendor0042.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000042",
     "Description": "SYNTHETIC FICTION",
@@ -749,6 +915,8 @@
   {
     "FirstName": "Ilalune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0042.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000042",
     "Description": "SYNTHETIC FICTION",
@@ -758,6 +926,8 @@
   {
     "FirstName": "Ilarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0043@vendor0043.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000043",
     "Description": "SYNTHETIC FICTION",
@@ -767,6 +937,8 @@
   {
     "FirstName": "Ilarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0043.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000043",
     "Description": "SYNTHETIC FICTION",
@@ -776,6 +948,8 @@
   {
     "FirstName": "Ilasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0044@vendor0044.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000044",
     "Description": "SYNTHETIC FICTION",
@@ -785,6 +959,8 @@
   {
     "FirstName": "Ilasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0044.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000044",
     "Description": "SYNTHETIC FICTION",
@@ -794,6 +970,8 @@
   {
     "FirstName": "Ilamere",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0045@vendor0045.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000045",
     "Description": "SYNTHETIC FICTION",
@@ -803,6 +981,8 @@
   {
     "FirstName": "Ilamere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0045.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000045",
     "Description": "SYNTHETIC FICTION",
@@ -812,6 +992,8 @@
   {
     "FirstName": "Joraven",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0046@vendor0046.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000046",
     "Description": "SYNTHETIC FICTION",
@@ -821,6 +1003,8 @@
   {
     "FirstName": "Joraven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0046.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000046",
     "Description": "SYNTHETIC FICTION",
@@ -830,6 +1014,8 @@
   {
     "FirstName": "Joralune",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0047@vendor0047.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000047",
     "Description": "SYNTHETIC FICTION",
@@ -839,6 +1025,8 @@
   {
     "FirstName": "Joralune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0047.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000047",
     "Description": "SYNTHETIC FICTION",
@@ -848,6 +1036,8 @@
   {
     "FirstName": "Jorarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0048@vendor0048.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000048",
     "Description": "SYNTHETIC FICTION",
@@ -857,6 +1047,8 @@
   {
     "FirstName": "Jorarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0048.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000048",
     "Description": "SYNTHETIC FICTION",
@@ -866,6 +1058,8 @@
   {
     "FirstName": "Jorasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0049@vendor0049.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000049",
     "Description": "SYNTHETIC FICTION",
@@ -875,6 +1069,8 @@
   {
     "FirstName": "Jorasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0049.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000049",
     "Description": "SYNTHETIC FICTION",
@@ -884,6 +1080,8 @@
   {
     "FirstName": "Joramere",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0050@vendor0050.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000050",
     "Description": "SYNTHETIC FICTION",
@@ -893,6 +1091,8 @@
   {
     "FirstName": "Joramere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0050.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000050",
     "Description": "SYNTHETIC FICTION",
@@ -902,6 +1102,8 @@
   {
     "FirstName": "Kalaven",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0051@vendor0051.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000051",
     "Description": "SYNTHETIC FICTION",
@@ -911,6 +1113,8 @@
   {
     "FirstName": "Kalaven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0051.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000051",
     "Description": "SYNTHETIC FICTION",
@@ -920,6 +1124,8 @@
   {
     "FirstName": "Kalalune",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0052@vendor0052.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000052",
     "Description": "SYNTHETIC FICTION",
@@ -929,6 +1135,8 @@
   {
     "FirstName": "Kalalune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0052.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000052",
     "Description": "SYNTHETIC FICTION",
@@ -938,6 +1146,8 @@
   {
     "FirstName": "Kalarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0053@vendor0053.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000053",
     "Description": "SYNTHETIC FICTION",
@@ -947,6 +1157,8 @@
   {
     "FirstName": "Kalarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0053.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000053",
     "Description": "SYNTHETIC FICTION",
@@ -956,6 +1168,8 @@
   {
     "FirstName": "Kalasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0054@vendor0054.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000054",
     "Description": "SYNTHETIC FICTION",
@@ -965,6 +1179,8 @@
   {
     "FirstName": "Kalasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0054.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000054",
     "Description": "SYNTHETIC FICTION",
@@ -974,6 +1190,8 @@
   {
     "FirstName": "Kalamere",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0055@vendor0055.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000055",
     "Description": "SYNTHETIC FICTION",
@@ -983,6 +1201,8 @@
   {
     "FirstName": "Kalamere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0055.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000055",
     "Description": "SYNTHETIC FICTION",
@@ -992,6 +1212,8 @@
   {
     "FirstName": "Liriven",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0056@vendor0056.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000056",
     "Description": "SYNTHETIC FICTION",
@@ -1001,6 +1223,8 @@
   {
     "FirstName": "Liriven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0056.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000056",
     "Description": "SYNTHETIC FICTION",
@@ -1010,6 +1234,8 @@
   {
     "FirstName": "Lirilune",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0057@vendor0057.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000057",
     "Description": "SYNTHETIC FICTION",
@@ -1019,6 +1245,8 @@
   {
     "FirstName": "Lirilune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0057.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000057",
     "Description": "SYNTHETIC FICTION",
@@ -1028,6 +1256,8 @@
   {
     "FirstName": "Liririn",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0058@vendor0058.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000058",
     "Description": "SYNTHETIC FICTION",
@@ -1037,6 +1267,8 @@
   {
     "FirstName": "Liririn",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0058.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000058",
     "Description": "SYNTHETIC FICTION",
@@ -1046,6 +1278,8 @@
   {
     "FirstName": "Lirisol",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0059@vendor0059.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000059",
     "Description": "SYNTHETIC FICTION",
@@ -1055,6 +1289,8 @@
   {
     "FirstName": "Lirisol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0059.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000059",
     "Description": "SYNTHETIC FICTION",
@@ -1064,6 +1300,8 @@
   {
     "FirstName": "Lirimere",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0060@vendor0060.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000060",
     "Description": "SYNTHETIC FICTION",
@@ -1073,6 +1311,8 @@
   {
     "FirstName": "Lirimere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0060.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000060",
     "Description": "SYNTHETIC FICTION",
@@ -1082,6 +1322,8 @@
   {
     "FirstName": "Maraven",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0061@vendor0061.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000061",
     "Description": "SYNTHETIC FICTION",
@@ -1091,6 +1333,8 @@
   {
     "FirstName": "Maraven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0061.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000061",
     "Description": "SYNTHETIC FICTION",
@@ -1100,6 +1344,8 @@
   {
     "FirstName": "Maralune",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0062@vendor0062.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000062",
     "Description": "SYNTHETIC FICTION",
@@ -1109,6 +1355,8 @@
   {
     "FirstName": "Maralune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0062.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000062",
     "Description": "SYNTHETIC FICTION",
@@ -1118,6 +1366,8 @@
   {
     "FirstName": "Mararin",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0063@vendor0063.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000063",
     "Description": "SYNTHETIC FICTION",
@@ -1127,6 +1377,8 @@
   {
     "FirstName": "Mararin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0063.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000063",
     "Description": "SYNTHETIC FICTION",
@@ -1136,6 +1388,8 @@
   {
     "FirstName": "Marasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0064@vendor0064.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000064",
     "Description": "SYNTHETIC FICTION",
@@ -1145,6 +1399,8 @@
   {
     "FirstName": "Marasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0064.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000064",
     "Description": "SYNTHETIC FICTION",
@@ -1154,6 +1410,8 @@
   {
     "FirstName": "Maramere",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0065@vendor0065.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000065",
     "Description": "SYNTHETIC FICTION",
@@ -1163,6 +1421,8 @@
   {
     "FirstName": "Maramere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0065.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000065",
     "Description": "SYNTHETIC FICTION",
@@ -1172,6 +1432,8 @@
   {
     "FirstName": "Neriven",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0066@vendor0066.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000066",
     "Description": "SYNTHETIC FICTION",
@@ -1181,6 +1443,8 @@
   {
     "FirstName": "Neriven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0066.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000066",
     "Description": "SYNTHETIC FICTION",
@@ -1190,6 +1454,8 @@
   {
     "FirstName": "Nerilune",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0067@vendor0067.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000067",
     "Description": "SYNTHETIC FICTION",
@@ -1199,6 +1465,8 @@
   {
     "FirstName": "Nerilune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0067.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000067",
     "Description": "SYNTHETIC FICTION",
@@ -1208,6 +1476,8 @@
   {
     "FirstName": "Neririn",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0068@vendor0068.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000068",
     "Description": "SYNTHETIC FICTION",
@@ -1217,6 +1487,8 @@
   {
     "FirstName": "Neririn",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0068.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000068",
     "Description": "SYNTHETIC FICTION",
@@ -1226,6 +1498,8 @@
   {
     "FirstName": "Nerisol",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0069@vendor0069.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000069",
     "Description": "SYNTHETIC FICTION",
@@ -1235,6 +1509,8 @@
   {
     "FirstName": "Nerisol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0069.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000069",
     "Description": "SYNTHETIC FICTION",
@@ -1244,6 +1520,8 @@
   {
     "FirstName": "Nerimere",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0070@vendor0070.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000070",
     "Description": "SYNTHETIC FICTION",
@@ -1253,6 +1531,8 @@
   {
     "FirstName": "Nerimere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0070.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000070",
     "Description": "SYNTHETIC FICTION",
@@ -1262,6 +1542,8 @@
   {
     "FirstName": "Oriven",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0071@vendor0071.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000071",
     "Description": "SYNTHETIC FICTION",
@@ -1271,6 +1553,8 @@
   {
     "FirstName": "Oriven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0071.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000071",
     "Description": "SYNTHETIC FICTION",
@@ -1280,6 +1564,8 @@
   {
     "FirstName": "Orilune",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0072@vendor0072.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000072",
     "Description": "SYNTHETIC FICTION",
@@ -1289,6 +1575,8 @@
   {
     "FirstName": "Orilune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0072.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000072",
     "Description": "SYNTHETIC FICTION",
@@ -1298,6 +1586,8 @@
   {
     "FirstName": "Oririn",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0073@vendor0073.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000073",
     "Description": "SYNTHETIC FICTION",
@@ -1307,6 +1597,8 @@
   {
     "FirstName": "Oririn",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0073.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000073",
     "Description": "SYNTHETIC FICTION",
@@ -1316,6 +1608,8 @@
   {
     "FirstName": "Orisol",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0074@vendor0074.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000074",
     "Description": "SYNTHETIC FICTION",
@@ -1325,6 +1619,8 @@
   {
     "FirstName": "Orisol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0074.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000074",
     "Description": "SYNTHETIC FICTION",
@@ -1334,6 +1630,8 @@
   {
     "FirstName": "Orimere",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0075@vendor0075.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000075",
     "Description": "SYNTHETIC FICTION",
@@ -1343,6 +1641,8 @@
   {
     "FirstName": "Orimere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0075.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000075",
     "Description": "SYNTHETIC FICTION",
@@ -1352,6 +1652,8 @@
   {
     "FirstName": "Peraven",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0076@vendor0076.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000076",
     "Description": "SYNTHETIC FICTION",
@@ -1361,6 +1663,8 @@
   {
     "FirstName": "Peraven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0076.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000076",
     "Description": "SYNTHETIC FICTION",
@@ -1370,6 +1674,8 @@
   {
     "FirstName": "Peralune",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0077@vendor0077.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000077",
     "Description": "SYNTHETIC FICTION",
@@ -1379,6 +1685,8 @@
   {
     "FirstName": "Peralune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0077.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000077",
     "Description": "SYNTHETIC FICTION",
@@ -1388,6 +1696,8 @@
   {
     "FirstName": "Perarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0078@vendor0078.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000078",
     "Description": "SYNTHETIC FICTION",
@@ -1397,6 +1707,8 @@
   {
     "FirstName": "Perarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0078.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000078",
     "Description": "SYNTHETIC FICTION",
@@ -1406,6 +1718,8 @@
   {
     "FirstName": "Perasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0079@vendor0079.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000079",
     "Description": "SYNTHETIC FICTION",
@@ -1415,6 +1729,8 @@
   {
     "FirstName": "Perasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0079.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000079",
     "Description": "SYNTHETIC FICTION",
@@ -1424,6 +1740,8 @@
   {
     "FirstName": "Peramere",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0080@vendor0080.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000080",
     "Description": "SYNTHETIC FICTION",
@@ -1433,6 +1751,8 @@
   {
     "FirstName": "Peramere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0080.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000080",
     "Description": "SYNTHETIC FICTION",
@@ -1442,6 +1762,8 @@
   {
     "FirstName": "Queraven",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0081@vendor0081.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000081",
     "Description": "SYNTHETIC FICTION",
@@ -1451,6 +1773,8 @@
   {
     "FirstName": "Queraven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0081.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000081",
     "Description": "SYNTHETIC FICTION",
@@ -1460,6 +1784,8 @@
   {
     "FirstName": "Queralune",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0082@vendor0082.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000082",
     "Description": "SYNTHETIC FICTION",
@@ -1469,6 +1795,8 @@
   {
     "FirstName": "Queralune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0082.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000082",
     "Description": "SYNTHETIC FICTION",
@@ -1478,6 +1806,8 @@
   {
     "FirstName": "Querarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0083@vendor0083.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000083",
     "Description": "SYNTHETIC FICTION",
@@ -1487,6 +1817,8 @@
   {
     "FirstName": "Querarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0083.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000083",
     "Description": "SYNTHETIC FICTION",
@@ -1496,6 +1828,8 @@
   {
     "FirstName": "Querasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0084@vendor0084.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000084",
     "Description": "SYNTHETIC FICTION",
@@ -1505,6 +1839,8 @@
   {
     "FirstName": "Querasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0084.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000084",
     "Description": "SYNTHETIC FICTION",
@@ -1514,6 +1850,8 @@
   {
     "FirstName": "Queramere",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0085@vendor0085.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000085",
     "Description": "SYNTHETIC FICTION",
@@ -1523,6 +1861,8 @@
   {
     "FirstName": "Queramere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0085.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000085",
     "Description": "SYNTHETIC FICTION",
@@ -1532,6 +1872,8 @@
   {
     "FirstName": "Rinaven",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0086@vendor0086.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000086",
     "Description": "SYNTHETIC FICTION",
@@ -1541,6 +1883,8 @@
   {
     "FirstName": "Rinaven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0086.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000086",
     "Description": "SYNTHETIC FICTION",
@@ -1550,6 +1894,8 @@
   {
     "FirstName": "Rinalune",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0087@vendor0087.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000087",
     "Description": "SYNTHETIC FICTION",
@@ -1559,6 +1905,8 @@
   {
     "FirstName": "Rinalune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0087.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000087",
     "Description": "SYNTHETIC FICTION",
@@ -1568,6 +1916,8 @@
   {
     "FirstName": "Rinarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0088@vendor0088.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000088",
     "Description": "SYNTHETIC FICTION",
@@ -1577,6 +1927,8 @@
   {
     "FirstName": "Rinarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0088.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000088",
     "Description": "SYNTHETIC FICTION",
@@ -1586,6 +1938,8 @@
   {
     "FirstName": "Rinasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0089@vendor0089.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000089",
     "Description": "SYNTHETIC FICTION",
@@ -1595,6 +1949,8 @@
   {
     "FirstName": "Rinasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0089.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000089",
     "Description": "SYNTHETIC FICTION",
@@ -1604,6 +1960,8 @@
   {
     "FirstName": "Rinamere",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0090@vendor0090.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000090",
     "Description": "SYNTHETIC FICTION",
@@ -1613,6 +1971,8 @@
   {
     "FirstName": "Rinamere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0090.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000090",
     "Description": "SYNTHETIC FICTION",
@@ -1622,6 +1982,8 @@
   {
     "FirstName": "Soraven",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0091@vendor0091.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000091",
     "Description": "SYNTHETIC FICTION",
@@ -1631,6 +1993,8 @@
   {
     "FirstName": "Soraven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0091.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000091",
     "Description": "SYNTHETIC FICTION",
@@ -1640,6 +2004,8 @@
   {
     "FirstName": "Soralune",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0092@vendor0092.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000092",
     "Description": "SYNTHETIC FICTION",
@@ -1649,6 +2015,8 @@
   {
     "FirstName": "Soralune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0092.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000092",
     "Description": "SYNTHETIC FICTION",
@@ -1658,6 +2026,8 @@
   {
     "FirstName": "Sorarin",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0093@vendor0093.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000093",
     "Description": "SYNTHETIC FICTION",
@@ -1667,6 +2037,8 @@
   {
     "FirstName": "Sorarin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0093.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000093",
     "Description": "SYNTHETIC FICTION",
@@ -1676,6 +2048,8 @@
   {
     "FirstName": "Sorasol",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0094@vendor0094.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000094",
     "Description": "SYNTHETIC FICTION",
@@ -1685,6 +2059,8 @@
   {
     "FirstName": "Sorasol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0094.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000094",
     "Description": "SYNTHETIC FICTION",
@@ -1694,6 +2070,8 @@
   {
     "FirstName": "Soramere",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0095@vendor0095.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000095",
     "Description": "SYNTHETIC FICTION",
@@ -1703,6 +2081,8 @@
   {
     "FirstName": "Soramere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0095.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000095",
     "Description": "SYNTHETIC FICTION",
@@ -1712,6 +2092,8 @@
   {
     "FirstName": "Taliven",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0096@vendor0096.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000096",
     "Description": "SYNTHETIC FICTION",
@@ -1721,6 +2103,8 @@
   {
     "FirstName": "Taliven",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0096.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000096",
     "Description": "SYNTHETIC FICTION",
@@ -1730,6 +2114,8 @@
   {
     "FirstName": "Talilune",
     "LastName": "Ambercrest Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0097@vendor0097.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000097",
     "Description": "SYNTHETIC FICTION",
@@ -1739,6 +2125,8 @@
   {
     "FirstName": "Talilune",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0097.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000097",
     "Description": "SYNTHETIC FICTION",
@@ -1748,6 +2136,8 @@
   {
     "FirstName": "Talirin",
     "LastName": "Ambercrest Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0098@vendor0098.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000098",
     "Description": "SYNTHETIC FICTION",
@@ -1757,6 +2147,8 @@
   {
     "FirstName": "Talirin",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0098.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000098",
     "Description": "SYNTHETIC FICTION",
@@ -1766,6 +2158,8 @@
   {
     "FirstName": "Talisol",
     "LastName": "Ambercrest Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0099@vendor0099.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000099",
     "Description": "SYNTHETIC FICTION",
@@ -1775,6 +2169,8 @@
   {
     "FirstName": "Talisol",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0099.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000099",
     "Description": "SYNTHETIC FICTION",
@@ -1784,6 +2180,8 @@
   {
     "FirstName": "Talimere",
     "LastName": "Ambercrest Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0100@vendor0100.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000100",
     "Description": "SYNTHETIC FICTION",
@@ -1793,6 +2191,8 @@
   {
     "FirstName": "Talimere",
     "LastName": "Ambercrest Finance",
+    "Title": "Fictional finance contact",
+    "Department": "",
     "Email": "finance@vendor0100.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000100",
     "Description": "SYNTHETIC FICTION",
@@ -1802,6 +2202,8 @@
   {
     "FirstName": "Avaven",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0101@vendor0101.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000101",
     "Description": "SYNTHETIC FICTION",
@@ -1811,6 +2213,8 @@
   {
     "FirstName": "Avalune",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0102@vendor0102.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000102",
     "Description": "SYNTHETIC FICTION",
@@ -1820,6 +2224,8 @@
   {
     "FirstName": "Avarin",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0103@vendor0103.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000103",
     "Description": "SYNTHETIC FICTION",
@@ -1829,6 +2235,8 @@
   {
     "FirstName": "Avasol",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0104@vendor0104.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000104",
     "Description": "SYNTHETIC FICTION",
@@ -1838,6 +2246,8 @@
   {
     "FirstName": "Avamere",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0105@vendor0105.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000105",
     "Description": "SYNTHETIC FICTION",
@@ -1847,6 +2257,8 @@
   {
     "FirstName": "Belaven",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0106@vendor0106.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000106",
     "Description": "SYNTHETIC FICTION",
@@ -1856,6 +2268,8 @@
   {
     "FirstName": "Belalune",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0107@vendor0107.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000107",
     "Description": "SYNTHETIC FICTION",
@@ -1865,6 +2279,8 @@
   {
     "FirstName": "Belarin",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0108@vendor0108.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000108",
     "Description": "SYNTHETIC FICTION",
@@ -1874,6 +2290,8 @@
   {
     "FirstName": "Belasol",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0109@vendor0109.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000109",
     "Description": "SYNTHETIC FICTION",
@@ -1883,6 +2301,8 @@
   {
     "FirstName": "Belamere",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0110@vendor0110.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000110",
     "Description": "SYNTHETIC FICTION",
@@ -1892,6 +2312,8 @@
   {
     "FirstName": "Ceriven",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0111@vendor0111.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000111",
     "Description": "SYNTHETIC FICTION",
@@ -1901,6 +2323,8 @@
   {
     "FirstName": "Cerilune",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0112@vendor0112.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000112",
     "Description": "SYNTHETIC FICTION",
@@ -1910,6 +2334,8 @@
   {
     "FirstName": "Ceririn",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0113@vendor0113.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000113",
     "Description": "SYNTHETIC FICTION",
@@ -1919,6 +2345,8 @@
   {
     "FirstName": "Cerisol",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0114@vendor0114.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000114",
     "Description": "SYNTHETIC FICTION",
@@ -1928,6 +2356,8 @@
   {
     "FirstName": "Cerimere",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0115@vendor0115.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000115",
     "Description": "SYNTHETIC FICTION",
@@ -1937,6 +2367,8 @@
   {
     "FirstName": "Daraven",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0116@vendor0116.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000116",
     "Description": "SYNTHETIC FICTION",
@@ -1946,6 +2378,8 @@
   {
     "FirstName": "Daralune",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0117@vendor0117.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000117",
     "Description": "SYNTHETIC FICTION",
@@ -1955,6 +2389,8 @@
   {
     "FirstName": "Dararin",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0118@vendor0118.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000118",
     "Description": "SYNTHETIC FICTION",
@@ -1964,6 +2400,8 @@
   {
     "FirstName": "Darasol",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0119@vendor0119.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000119",
     "Description": "SYNTHETIC FICTION",
@@ -1973,6 +2411,8 @@
   {
     "FirstName": "Daramere",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0120@vendor0120.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000120",
     "Description": "SYNTHETIC FICTION",
@@ -1982,6 +2422,8 @@
   {
     "FirstName": "Eliven",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0121@vendor0121.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000121",
     "Description": "SYNTHETIC FICTION",
@@ -1991,6 +2433,8 @@
   {
     "FirstName": "Elilune",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0122@vendor0122.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000122",
     "Description": "SYNTHETIC FICTION",
@@ -2000,6 +2444,8 @@
   {
     "FirstName": "Elirin",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0123@vendor0123.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000123",
     "Description": "SYNTHETIC FICTION",
@@ -2009,6 +2455,8 @@
   {
     "FirstName": "Elisol",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0124@vendor0124.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000124",
     "Description": "SYNTHETIC FICTION",
@@ -2018,6 +2466,8 @@
   {
     "FirstName": "Elimere",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0125@vendor0125.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000125",
     "Description": "SYNTHETIC FICTION",
@@ -2027,6 +2477,8 @@
   {
     "FirstName": "Faraven",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0126@vendor0126.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000126",
     "Description": "SYNTHETIC FICTION",
@@ -2036,6 +2488,8 @@
   {
     "FirstName": "Faralune",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0127@vendor0127.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000127",
     "Description": "SYNTHETIC FICTION",
@@ -2045,6 +2499,8 @@
   {
     "FirstName": "Fararin",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0128@vendor0128.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000128",
     "Description": "SYNTHETIC FICTION",
@@ -2054,6 +2510,8 @@
   {
     "FirstName": "Farasol",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0129@vendor0129.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000129",
     "Description": "SYNTHETIC FICTION",
@@ -2063,6 +2521,8 @@
   {
     "FirstName": "Faramere",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0130@vendor0130.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000130",
     "Description": "SYNTHETIC FICTION",
@@ -2072,6 +2532,8 @@
   {
     "FirstName": "Galaven",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0131@vendor0131.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000131",
     "Description": "SYNTHETIC FICTION",
@@ -2081,6 +2543,8 @@
   {
     "FirstName": "Galalune",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0132@vendor0132.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000132",
     "Description": "SYNTHETIC FICTION",
@@ -2090,6 +2554,8 @@
   {
     "FirstName": "Galarin",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0133@vendor0133.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000133",
     "Description": "SYNTHETIC FICTION",
@@ -2099,6 +2565,8 @@
   {
     "FirstName": "Galasol",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0134@vendor0134.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000134",
     "Description": "SYNTHETIC FICTION",
@@ -2108,6 +2576,8 @@
   {
     "FirstName": "Galamere",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0135@vendor0135.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000135",
     "Description": "SYNTHETIC FICTION",
@@ -2117,6 +2587,8 @@
   {
     "FirstName": "Heriven",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0136@vendor0136.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000136",
     "Description": "SYNTHETIC FICTION",
@@ -2126,6 +2598,8 @@
   {
     "FirstName": "Herilune",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0137@vendor0137.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000137",
     "Description": "SYNTHETIC FICTION",
@@ -2135,6 +2609,8 @@
   {
     "FirstName": "Heririn",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0138@vendor0138.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000138",
     "Description": "SYNTHETIC FICTION",
@@ -2144,6 +2620,8 @@
   {
     "FirstName": "Herisol",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0139@vendor0139.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000139",
     "Description": "SYNTHETIC FICTION",
@@ -2153,6 +2631,8 @@
   {
     "FirstName": "Herimere",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0140@vendor0140.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000140",
     "Description": "SYNTHETIC FICTION",
@@ -2162,6 +2642,8 @@
   {
     "FirstName": "Ilaven",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0141@vendor0141.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000141",
     "Description": "SYNTHETIC FICTION",
@@ -2171,6 +2653,8 @@
   {
     "FirstName": "Ilalune",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0142@vendor0142.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000142",
     "Description": "SYNTHETIC FICTION",
@@ -2180,6 +2664,8 @@
   {
     "FirstName": "Ilarin",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0143@vendor0143.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000143",
     "Description": "SYNTHETIC FICTION",
@@ -2189,6 +2675,8 @@
   {
     "FirstName": "Ilasol",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0144@vendor0144.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000144",
     "Description": "SYNTHETIC FICTION",
@@ -2198,6 +2686,8 @@
   {
     "FirstName": "Ilamere",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0145@vendor0145.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000145",
     "Description": "SYNTHETIC FICTION",
@@ -2207,6 +2697,8 @@
   {
     "FirstName": "Joraven",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0146@vendor0146.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000146",
     "Description": "SYNTHETIC FICTION",
@@ -2216,6 +2708,8 @@
   {
     "FirstName": "Joralune",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0147@vendor0147.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000147",
     "Description": "SYNTHETIC FICTION",
@@ -2225,6 +2719,8 @@
   {
     "FirstName": "Jorarin",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0148@vendor0148.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000148",
     "Description": "SYNTHETIC FICTION",
@@ -2234,6 +2730,8 @@
   {
     "FirstName": "Jorasol",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0149@vendor0149.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000149",
     "Description": "SYNTHETIC FICTION",
@@ -2243,6 +2741,8 @@
   {
     "FirstName": "Joramere",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0150@vendor0150.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000150",
     "Description": "SYNTHETIC FICTION",
@@ -2252,6 +2752,8 @@
   {
     "FirstName": "Kalaven",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0151@vendor0151.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000151",
     "Description": "SYNTHETIC FICTION",
@@ -2261,6 +2763,8 @@
   {
     "FirstName": "Kalalune",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0152@vendor0152.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000152",
     "Description": "SYNTHETIC FICTION",
@@ -2270,6 +2774,8 @@
   {
     "FirstName": "Kalarin",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0153@vendor0153.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000153",
     "Description": "SYNTHETIC FICTION",
@@ -2279,6 +2785,8 @@
   {
     "FirstName": "Kalasol",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0154@vendor0154.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000154",
     "Description": "SYNTHETIC FICTION",
@@ -2288,6 +2796,8 @@
   {
     "FirstName": "Kalamere",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0155@vendor0155.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000155",
     "Description": "SYNTHETIC FICTION",
@@ -2297,6 +2807,8 @@
   {
     "FirstName": "Liriven",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0156@vendor0156.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000156",
     "Description": "SYNTHETIC FICTION",
@@ -2306,6 +2818,8 @@
   {
     "FirstName": "Lirilune",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0157@vendor0157.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000157",
     "Description": "SYNTHETIC FICTION",
@@ -2315,6 +2829,8 @@
   {
     "FirstName": "Liririn",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0158@vendor0158.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000158",
     "Description": "SYNTHETIC FICTION",
@@ -2324,6 +2840,8 @@
   {
     "FirstName": "Lirisol",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0159@vendor0159.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000159",
     "Description": "SYNTHETIC FICTION",
@@ -2333,6 +2851,8 @@
   {
     "FirstName": "Lirimere",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0160@vendor0160.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000160",
     "Description": "SYNTHETIC FICTION",
@@ -2342,6 +2862,8 @@
   {
     "FirstName": "Maraven",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0161@vendor0161.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000161",
     "Description": "SYNTHETIC FICTION",
@@ -2351,6 +2873,8 @@
   {
     "FirstName": "Maralune",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0162@vendor0162.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000162",
     "Description": "SYNTHETIC FICTION",
@@ -2360,6 +2884,8 @@
   {
     "FirstName": "Mararin",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0163@vendor0163.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000163",
     "Description": "SYNTHETIC FICTION",
@@ -2369,6 +2895,8 @@
   {
     "FirstName": "Marasol",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0164@vendor0164.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000164",
     "Description": "SYNTHETIC FICTION",
@@ -2378,6 +2906,8 @@
   {
     "FirstName": "Maramere",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0165@vendor0165.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000165",
     "Description": "SYNTHETIC FICTION",
@@ -2387,6 +2917,8 @@
   {
     "FirstName": "Neriven",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0166@vendor0166.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000166",
     "Description": "SYNTHETIC FICTION",
@@ -2396,6 +2928,8 @@
   {
     "FirstName": "Nerilune",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0167@vendor0167.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000167",
     "Description": "SYNTHETIC FICTION",
@@ -2405,6 +2939,8 @@
   {
     "FirstName": "Neririn",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0168@vendor0168.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000168",
     "Description": "SYNTHETIC FICTION",
@@ -2414,6 +2950,8 @@
   {
     "FirstName": "Nerisol",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0169@vendor0169.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000169",
     "Description": "SYNTHETIC FICTION",
@@ -2423,6 +2961,8 @@
   {
     "FirstName": "Nerimere",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0170@vendor0170.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000170",
     "Description": "SYNTHETIC FICTION",
@@ -2432,6 +2972,8 @@
   {
     "FirstName": "Oriven",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0171@vendor0171.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000171",
     "Description": "SYNTHETIC FICTION",
@@ -2441,6 +2983,8 @@
   {
     "FirstName": "Orilune",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0172@vendor0172.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000172",
     "Description": "SYNTHETIC FICTION",
@@ -2450,6 +2994,8 @@
   {
     "FirstName": "Oririn",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0173@vendor0173.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000173",
     "Description": "SYNTHETIC FICTION",
@@ -2459,6 +3005,8 @@
   {
     "FirstName": "Orisol",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0174@vendor0174.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000174",
     "Description": "SYNTHETIC FICTION",
@@ -2468,6 +3016,8 @@
   {
     "FirstName": "Orimere",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0175@vendor0175.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000175",
     "Description": "SYNTHETIC FICTION",
@@ -2477,6 +3027,8 @@
   {
     "FirstName": "Peraven",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0176@vendor0176.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000176",
     "Description": "SYNTHETIC FICTION",
@@ -2486,6 +3038,8 @@
   {
     "FirstName": "Peralune",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0177@vendor0177.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000177",
     "Description": "SYNTHETIC FICTION",
@@ -2495,6 +3049,8 @@
   {
     "FirstName": "Perarin",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0178@vendor0178.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000178",
     "Description": "SYNTHETIC FICTION",
@@ -2504,6 +3060,8 @@
   {
     "FirstName": "Perasol",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0179@vendor0179.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000179",
     "Description": "SYNTHETIC FICTION",
@@ -2513,6 +3071,8 @@
   {
     "FirstName": "Peramere",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0180@vendor0180.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000180",
     "Description": "SYNTHETIC FICTION",
@@ -2522,6 +3082,8 @@
   {
     "FirstName": "Queraven",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0181@vendor0181.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000181",
     "Description": "SYNTHETIC FICTION",
@@ -2531,6 +3093,8 @@
   {
     "FirstName": "Queralune",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0182@vendor0182.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000182",
     "Description": "SYNTHETIC FICTION",
@@ -2540,6 +3104,8 @@
   {
     "FirstName": "Querarin",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0183@vendor0183.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000183",
     "Description": "SYNTHETIC FICTION",
@@ -2549,6 +3115,8 @@
   {
     "FirstName": "Querasol",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0184@vendor0184.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000184",
     "Description": "SYNTHETIC FICTION",
@@ -2558,6 +3126,8 @@
   {
     "FirstName": "Queramere",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0185@vendor0185.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000185",
     "Description": "SYNTHETIC FICTION",
@@ -2567,6 +3137,8 @@
   {
     "FirstName": "Rinaven",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0186@vendor0186.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000186",
     "Description": "SYNTHETIC FICTION",
@@ -2576,6 +3148,8 @@
   {
     "FirstName": "Rinalune",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0187@vendor0187.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000187",
     "Description": "SYNTHETIC FICTION",
@@ -2585,6 +3159,8 @@
   {
     "FirstName": "Rinarin",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0188@vendor0188.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000188",
     "Description": "SYNTHETIC FICTION",
@@ -2594,6 +3170,8 @@
   {
     "FirstName": "Rinasol",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0189@vendor0189.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000189",
     "Description": "SYNTHETIC FICTION",
@@ -2603,6 +3181,8 @@
   {
     "FirstName": "Rinamere",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0190@vendor0190.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000190",
     "Description": "SYNTHETIC FICTION",
@@ -2612,6 +3192,8 @@
   {
     "FirstName": "Soraven",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0191@vendor0191.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000191",
     "Description": "SYNTHETIC FICTION",
@@ -2621,6 +3203,8 @@
   {
     "FirstName": "Soralune",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0192@vendor0192.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000192",
     "Description": "SYNTHETIC FICTION",
@@ -2630,6 +3214,8 @@
   {
     "FirstName": "Sorarin",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0193@vendor0193.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000193",
     "Description": "SYNTHETIC FICTION",
@@ -2639,6 +3225,8 @@
   {
     "FirstName": "Sorasol",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0194@vendor0194.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000194",
     "Description": "SYNTHETIC FICTION",
@@ -2648,6 +3236,8 @@
   {
     "FirstName": "Soramere",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0195@vendor0195.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000195",
     "Description": "SYNTHETIC FICTION",
@@ -2657,6 +3247,8 @@
   {
     "FirstName": "Taliven",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0196@vendor0196.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000196",
     "Description": "SYNTHETIC FICTION",
@@ -2666,6 +3258,8 @@
   {
     "FirstName": "Talilune",
     "LastName": "Amberfield Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0197@vendor0197.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000197",
     "Description": "SYNTHETIC FICTION",
@@ -2675,6 +3269,8 @@
   {
     "FirstName": "Talirin",
     "LastName": "Amberfield Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0198@vendor0198.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000198",
     "Description": "SYNTHETIC FICTION",
@@ -2684,6 +3280,8 @@
   {
     "FirstName": "Talisol",
     "LastName": "Amberfield Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0199@vendor0199.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000199",
     "Description": "SYNTHETIC FICTION",
@@ -2693,6 +3291,8 @@
   {
     "FirstName": "Talimere",
     "LastName": "Amberfield Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0200@vendor0200.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000200",
     "Description": "SYNTHETIC FICTION",
@@ -2702,6 +3302,8 @@
   {
     "FirstName": "Avaven",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0201@vendor0201.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000201",
     "Description": "SYNTHETIC FICTION",
@@ -2711,6 +3313,8 @@
   {
     "FirstName": "Avalune",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0202@vendor0202.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000202",
     "Description": "SYNTHETIC FICTION",
@@ -2720,6 +3324,8 @@
   {
     "FirstName": "Avarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0203@vendor0203.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000203",
     "Description": "SYNTHETIC FICTION",
@@ -2729,6 +3335,8 @@
   {
     "FirstName": "Avasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0204@vendor0204.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000204",
     "Description": "SYNTHETIC FICTION",
@@ -2738,6 +3346,8 @@
   {
     "FirstName": "Avamere",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0205@vendor0205.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000205",
     "Description": "SYNTHETIC FICTION",
@@ -2747,6 +3357,8 @@
   {
     "FirstName": "Belaven",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0206@vendor0206.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000206",
     "Description": "SYNTHETIC FICTION",
@@ -2756,6 +3368,8 @@
   {
     "FirstName": "Belalune",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0207@vendor0207.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000207",
     "Description": "SYNTHETIC FICTION",
@@ -2765,6 +3379,8 @@
   {
     "FirstName": "Belarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0208@vendor0208.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000208",
     "Description": "SYNTHETIC FICTION",
@@ -2774,6 +3390,8 @@
   {
     "FirstName": "Belasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0209@vendor0209.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000209",
     "Description": "SYNTHETIC FICTION",
@@ -2783,6 +3401,8 @@
   {
     "FirstName": "Belamere",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0210@vendor0210.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000210",
     "Description": "SYNTHETIC FICTION",
@@ -2792,6 +3412,8 @@
   {
     "FirstName": "Ceriven",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0211@vendor0211.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000211",
     "Description": "SYNTHETIC FICTION",
@@ -2801,6 +3423,8 @@
   {
     "FirstName": "Cerilune",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0212@vendor0212.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000212",
     "Description": "SYNTHETIC FICTION",
@@ -2810,6 +3434,8 @@
   {
     "FirstName": "Ceririn",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0213@vendor0213.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000213",
     "Description": "SYNTHETIC FICTION",
@@ -2819,6 +3445,8 @@
   {
     "FirstName": "Cerisol",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0214@vendor0214.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000214",
     "Description": "SYNTHETIC FICTION",
@@ -2828,6 +3456,8 @@
   {
     "FirstName": "Cerimere",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0215@vendor0215.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000215",
     "Description": "SYNTHETIC FICTION",
@@ -2837,6 +3467,8 @@
   {
     "FirstName": "Daraven",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0216@vendor0216.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000216",
     "Description": "SYNTHETIC FICTION",
@@ -2846,6 +3478,8 @@
   {
     "FirstName": "Daralune",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0217@vendor0217.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000217",
     "Description": "SYNTHETIC FICTION",
@@ -2855,6 +3489,8 @@
   {
     "FirstName": "Dararin",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0218@vendor0218.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000218",
     "Description": "SYNTHETIC FICTION",
@@ -2864,6 +3500,8 @@
   {
     "FirstName": "Darasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0219@vendor0219.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000219",
     "Description": "SYNTHETIC FICTION",
@@ -2873,6 +3511,8 @@
   {
     "FirstName": "Daramere",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0220@vendor0220.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000220",
     "Description": "SYNTHETIC FICTION",
@@ -2882,6 +3522,8 @@
   {
     "FirstName": "Eliven",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0221@vendor0221.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000221",
     "Description": "SYNTHETIC FICTION",
@@ -2891,6 +3533,8 @@
   {
     "FirstName": "Elilune",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0222@vendor0222.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000222",
     "Description": "SYNTHETIC FICTION",
@@ -2900,6 +3544,8 @@
   {
     "FirstName": "Elirin",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0223@vendor0223.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000223",
     "Description": "SYNTHETIC FICTION",
@@ -2909,6 +3555,8 @@
   {
     "FirstName": "Elisol",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0224@vendor0224.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000224",
     "Description": "SYNTHETIC FICTION",
@@ -2918,6 +3566,8 @@
   {
     "FirstName": "Elimere",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0225@vendor0225.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000225",
     "Description": "SYNTHETIC FICTION",
@@ -2927,6 +3577,8 @@
   {
     "FirstName": "Faraven",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0226@vendor0226.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000226",
     "Description": "SYNTHETIC FICTION",
@@ -2936,6 +3588,8 @@
   {
     "FirstName": "Faralune",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0227@vendor0227.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000227",
     "Description": "SYNTHETIC FICTION",
@@ -2945,6 +3599,8 @@
   {
     "FirstName": "Fararin",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0228@vendor0228.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000228",
     "Description": "SYNTHETIC FICTION",
@@ -2954,6 +3610,8 @@
   {
     "FirstName": "Farasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0229@vendor0229.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000229",
     "Description": "SYNTHETIC FICTION",
@@ -2963,6 +3621,8 @@
   {
     "FirstName": "Faramere",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0230@vendor0230.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000230",
     "Description": "SYNTHETIC FICTION",
@@ -2972,6 +3632,8 @@
   {
     "FirstName": "Galaven",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0231@vendor0231.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000231",
     "Description": "SYNTHETIC FICTION",
@@ -2981,6 +3643,8 @@
   {
     "FirstName": "Galalune",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0232@vendor0232.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000232",
     "Description": "SYNTHETIC FICTION",
@@ -2990,6 +3654,8 @@
   {
     "FirstName": "Galarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0233@vendor0233.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000233",
     "Description": "SYNTHETIC FICTION",
@@ -2999,6 +3665,8 @@
   {
     "FirstName": "Galasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0234@vendor0234.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000234",
     "Description": "SYNTHETIC FICTION",
@@ -3008,6 +3676,8 @@
   {
     "FirstName": "Galamere",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0235@vendor0235.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000235",
     "Description": "SYNTHETIC FICTION",
@@ -3017,6 +3687,8 @@
   {
     "FirstName": "Heriven",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0236@vendor0236.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000236",
     "Description": "SYNTHETIC FICTION",
@@ -3026,6 +3698,8 @@
   {
     "FirstName": "Herilune",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0237@vendor0237.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000237",
     "Description": "SYNTHETIC FICTION",
@@ -3035,6 +3709,8 @@
   {
     "FirstName": "Heririn",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0238@vendor0238.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000238",
     "Description": "SYNTHETIC FICTION",
@@ -3044,6 +3720,8 @@
   {
     "FirstName": "Herisol",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0239@vendor0239.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000239",
     "Description": "SYNTHETIC FICTION",
@@ -3053,6 +3731,8 @@
   {
     "FirstName": "Herimere",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0240@vendor0240.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000240",
     "Description": "SYNTHETIC FICTION",
@@ -3062,6 +3742,8 @@
   {
     "FirstName": "Ilaven",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0241@vendor0241.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000241",
     "Description": "SYNTHETIC FICTION",
@@ -3071,6 +3753,8 @@
   {
     "FirstName": "Ilalune",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0242@vendor0242.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000242",
     "Description": "SYNTHETIC FICTION",
@@ -3080,6 +3764,8 @@
   {
     "FirstName": "Ilarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0243@vendor0243.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000243",
     "Description": "SYNTHETIC FICTION",
@@ -3089,6 +3775,8 @@
   {
     "FirstName": "Ilasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0244@vendor0244.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000244",
     "Description": "SYNTHETIC FICTION",
@@ -3098,6 +3786,8 @@
   {
     "FirstName": "Ilamere",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0245@vendor0245.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000245",
     "Description": "SYNTHETIC FICTION",
@@ -3107,6 +3797,8 @@
   {
     "FirstName": "Joraven",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0246@vendor0246.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000246",
     "Description": "SYNTHETIC FICTION",
@@ -3116,6 +3808,8 @@
   {
     "FirstName": "Joralune",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0247@vendor0247.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000247",
     "Description": "SYNTHETIC FICTION",
@@ -3125,6 +3819,8 @@
   {
     "FirstName": "Jorarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0248@vendor0248.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000248",
     "Description": "SYNTHETIC FICTION",
@@ -3134,6 +3830,8 @@
   {
     "FirstName": "Jorasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0249@vendor0249.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000249",
     "Description": "SYNTHETIC FICTION",
@@ -3143,6 +3841,8 @@
   {
     "FirstName": "Joramere",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0250@vendor0250.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000250",
     "Description": "SYNTHETIC FICTION",
@@ -3152,6 +3852,8 @@
   {
     "FirstName": "Kalaven",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0251@vendor0251.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000251",
     "Description": "SYNTHETIC FICTION",
@@ -3161,6 +3863,8 @@
   {
     "FirstName": "Kalalune",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0252@vendor0252.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000252",
     "Description": "SYNTHETIC FICTION",
@@ -3170,6 +3874,8 @@
   {
     "FirstName": "Kalarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0253@vendor0253.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000253",
     "Description": "SYNTHETIC FICTION",
@@ -3179,6 +3885,8 @@
   {
     "FirstName": "Kalasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0254@vendor0254.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000254",
     "Description": "SYNTHETIC FICTION",
@@ -3188,6 +3896,8 @@
   {
     "FirstName": "Kalamere",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0255@vendor0255.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000255",
     "Description": "SYNTHETIC FICTION",
@@ -3197,6 +3907,8 @@
   {
     "FirstName": "Liriven",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0256@vendor0256.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000256",
     "Description": "SYNTHETIC FICTION",
@@ -3206,6 +3918,8 @@
   {
     "FirstName": "Lirilune",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0257@vendor0257.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000257",
     "Description": "SYNTHETIC FICTION",
@@ -3215,6 +3929,8 @@
   {
     "FirstName": "Liririn",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0258@vendor0258.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000258",
     "Description": "SYNTHETIC FICTION",
@@ -3224,6 +3940,8 @@
   {
     "FirstName": "Lirisol",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0259@vendor0259.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000259",
     "Description": "SYNTHETIC FICTION",
@@ -3233,6 +3951,8 @@
   {
     "FirstName": "Lirimere",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0260@vendor0260.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000260",
     "Description": "SYNTHETIC FICTION",
@@ -3242,6 +3962,8 @@
   {
     "FirstName": "Maraven",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0261@vendor0261.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000261",
     "Description": "SYNTHETIC FICTION",
@@ -3251,6 +3973,8 @@
   {
     "FirstName": "Maralune",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0262@vendor0262.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000262",
     "Description": "SYNTHETIC FICTION",
@@ -3260,6 +3984,8 @@
   {
     "FirstName": "Mararin",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0263@vendor0263.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000263",
     "Description": "SYNTHETIC FICTION",
@@ -3269,6 +3995,8 @@
   {
     "FirstName": "Marasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0264@vendor0264.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000264",
     "Description": "SYNTHETIC FICTION",
@@ -3278,6 +4006,8 @@
   {
     "FirstName": "Maramere",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0265@vendor0265.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000265",
     "Description": "SYNTHETIC FICTION",
@@ -3287,6 +4017,8 @@
   {
     "FirstName": "Neriven",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0266@vendor0266.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000266",
     "Description": "SYNTHETIC FICTION",
@@ -3296,6 +4028,8 @@
   {
     "FirstName": "Nerilune",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0267@vendor0267.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000267",
     "Description": "SYNTHETIC FICTION",
@@ -3305,6 +4039,8 @@
   {
     "FirstName": "Neririn",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0268@vendor0268.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000268",
     "Description": "SYNTHETIC FICTION",
@@ -3314,6 +4050,8 @@
   {
     "FirstName": "Nerisol",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0269@vendor0269.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000269",
     "Description": "SYNTHETIC FICTION",
@@ -3323,6 +4061,8 @@
   {
     "FirstName": "Nerimere",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0270@vendor0270.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000270",
     "Description": "SYNTHETIC FICTION",
@@ -3332,6 +4072,8 @@
   {
     "FirstName": "Oriven",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0271@vendor0271.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000271",
     "Description": "SYNTHETIC FICTION",
@@ -3341,6 +4083,8 @@
   {
     "FirstName": "Orilune",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0272@vendor0272.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000272",
     "Description": "SYNTHETIC FICTION",
@@ -3350,6 +4094,8 @@
   {
     "FirstName": "Oririn",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0273@vendor0273.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000273",
     "Description": "SYNTHETIC FICTION",
@@ -3359,6 +4105,8 @@
   {
     "FirstName": "Orisol",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0274@vendor0274.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000274",
     "Description": "SYNTHETIC FICTION",
@@ -3368,6 +4116,8 @@
   {
     "FirstName": "Orimere",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0275@vendor0275.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000275",
     "Description": "SYNTHETIC FICTION",
@@ -3377,6 +4127,8 @@
   {
     "FirstName": "Peraven",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0276@vendor0276.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000276",
     "Description": "SYNTHETIC FICTION",
@@ -3386,6 +4138,8 @@
   {
     "FirstName": "Peralune",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0277@vendor0277.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000277",
     "Description": "SYNTHETIC FICTION",
@@ -3395,6 +4149,8 @@
   {
     "FirstName": "Perarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0278@vendor0278.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000278",
     "Description": "SYNTHETIC FICTION",
@@ -3404,6 +4160,8 @@
   {
     "FirstName": "Perasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0279@vendor0279.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000279",
     "Description": "SYNTHETIC FICTION",
@@ -3413,6 +4171,8 @@
   {
     "FirstName": "Peramere",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0280@vendor0280.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000280",
     "Description": "SYNTHETIC FICTION",
@@ -3422,6 +4182,8 @@
   {
     "FirstName": "Queraven",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0281@vendor0281.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000281",
     "Description": "SYNTHETIC FICTION",
@@ -3431,6 +4193,8 @@
   {
     "FirstName": "Queralune",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0282@vendor0282.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000282",
     "Description": "SYNTHETIC FICTION",
@@ -3440,6 +4204,8 @@
   {
     "FirstName": "Querarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0283@vendor0283.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000283",
     "Description": "SYNTHETIC FICTION",
@@ -3449,6 +4215,8 @@
   {
     "FirstName": "Querasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0284@vendor0284.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000284",
     "Description": "SYNTHETIC FICTION",
@@ -3458,6 +4226,8 @@
   {
     "FirstName": "Queramere",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0285@vendor0285.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000285",
     "Description": "SYNTHETIC FICTION",
@@ -3467,6 +4237,8 @@
   {
     "FirstName": "Rinaven",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0286@vendor0286.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000286",
     "Description": "SYNTHETIC FICTION",
@@ -3476,6 +4248,8 @@
   {
     "FirstName": "Rinalune",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0287@vendor0287.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000287",
     "Description": "SYNTHETIC FICTION",
@@ -3485,6 +4259,8 @@
   {
     "FirstName": "Rinarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0288@vendor0288.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000288",
     "Description": "SYNTHETIC FICTION",
@@ -3494,6 +4270,8 @@
   {
     "FirstName": "Rinasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0289@vendor0289.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000289",
     "Description": "SYNTHETIC FICTION",
@@ -3503,6 +4281,8 @@
   {
     "FirstName": "Rinamere",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0290@vendor0290.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000290",
     "Description": "SYNTHETIC FICTION",
@@ -3512,6 +4292,8 @@
   {
     "FirstName": "Soraven",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0291@vendor0291.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000291",
     "Description": "SYNTHETIC FICTION",
@@ -3521,6 +4303,8 @@
   {
     "FirstName": "Soralune",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0292@vendor0292.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000292",
     "Description": "SYNTHETIC FICTION",
@@ -3530,6 +4314,8 @@
   {
     "FirstName": "Sorarin",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0293@vendor0293.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000293",
     "Description": "SYNTHETIC FICTION",
@@ -3539,6 +4325,8 @@
   {
     "FirstName": "Sorasol",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0294@vendor0294.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000294",
     "Description": "SYNTHETIC FICTION",
@@ -3548,6 +4336,8 @@
   {
     "FirstName": "Soramere",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0295@vendor0295.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000295",
     "Description": "SYNTHETIC FICTION",
@@ -3557,6 +4347,8 @@
   {
     "FirstName": "Taliven",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0296@vendor0296.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000296",
     "Description": "SYNTHETIC FICTION",
@@ -3566,6 +4358,8 @@
   {
     "FirstName": "Talilune",
     "LastName": "Amberhaven Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0297@vendor0297.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000297",
     "Description": "SYNTHETIC FICTION",
@@ -3575,6 +4369,8 @@
   {
     "FirstName": "Talirin",
     "LastName": "Amberhaven Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0298@vendor0298.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000298",
     "Description": "SYNTHETIC FICTION",
@@ -3584,6 +4380,8 @@
   {
     "FirstName": "Talisol",
     "LastName": "Amberhaven Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0299@vendor0299.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000299",
     "Description": "SYNTHETIC FICTION",
@@ -3593,6 +4391,8 @@
   {
     "FirstName": "Talimere",
     "LastName": "Amberhaven Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0300@vendor0300.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000300",
     "Description": "SYNTHETIC FICTION",
@@ -3602,6 +4402,8 @@
   {
     "FirstName": "Avaven",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0301@vendor0301.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000301",
     "Description": "SYNTHETIC FICTION",
@@ -3611,6 +4413,8 @@
   {
     "FirstName": "Avalune",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0302@vendor0302.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000302",
     "Description": "SYNTHETIC FICTION",
@@ -3620,6 +4424,8 @@
   {
     "FirstName": "Avarin",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0303@vendor0303.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000303",
     "Description": "SYNTHETIC FICTION",
@@ -3629,6 +4435,8 @@
   {
     "FirstName": "Avasol",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0304@vendor0304.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000304",
     "Description": "SYNTHETIC FICTION",
@@ -3638,6 +4446,8 @@
   {
     "FirstName": "Avamere",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0305@vendor0305.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000305",
     "Description": "SYNTHETIC FICTION",
@@ -3647,6 +4457,8 @@
   {
     "FirstName": "Belaven",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0306@vendor0306.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000306",
     "Description": "SYNTHETIC FICTION",
@@ -3656,6 +4468,8 @@
   {
     "FirstName": "Belalune",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0307@vendor0307.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000307",
     "Description": "SYNTHETIC FICTION",
@@ -3665,6 +4479,8 @@
   {
     "FirstName": "Belarin",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0308@vendor0308.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000308",
     "Description": "SYNTHETIC FICTION",
@@ -3674,6 +4490,8 @@
   {
     "FirstName": "Belasol",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0309@vendor0309.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000309",
     "Description": "SYNTHETIC FICTION",
@@ -3683,6 +4501,8 @@
   {
     "FirstName": "Belamere",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0310@vendor0310.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000310",
     "Description": "SYNTHETIC FICTION",
@@ -3692,6 +4512,8 @@
   {
     "FirstName": "Ceriven",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0311@vendor0311.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000311",
     "Description": "SYNTHETIC FICTION",
@@ -3701,6 +4523,8 @@
   {
     "FirstName": "Cerilune",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0312@vendor0312.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000312",
     "Description": "SYNTHETIC FICTION",
@@ -3710,6 +4534,8 @@
   {
     "FirstName": "Ceririn",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0313@vendor0313.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000313",
     "Description": "SYNTHETIC FICTION",
@@ -3719,6 +4545,8 @@
   {
     "FirstName": "Cerisol",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0314@vendor0314.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000314",
     "Description": "SYNTHETIC FICTION",
@@ -3728,6 +4556,8 @@
   {
     "FirstName": "Cerimere",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0315@vendor0315.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000315",
     "Description": "SYNTHETIC FICTION",
@@ -3737,6 +4567,8 @@
   {
     "FirstName": "Daraven",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0316@vendor0316.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000316",
     "Description": "SYNTHETIC FICTION",
@@ -3746,6 +4578,8 @@
   {
     "FirstName": "Daralune",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0317@vendor0317.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000317",
     "Description": "SYNTHETIC FICTION",
@@ -3755,6 +4589,8 @@
   {
     "FirstName": "Dararin",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0318@vendor0318.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000318",
     "Description": "SYNTHETIC FICTION",
@@ -3764,6 +4600,8 @@
   {
     "FirstName": "Darasol",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0319@vendor0319.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000319",
     "Description": "SYNTHETIC FICTION",
@@ -3773,6 +4611,8 @@
   {
     "FirstName": "Daramere",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0320@vendor0320.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000320",
     "Description": "SYNTHETIC FICTION",
@@ -3782,6 +4622,8 @@
   {
     "FirstName": "Eliven",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0321@vendor0321.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000321",
     "Description": "SYNTHETIC FICTION",
@@ -3791,6 +4633,8 @@
   {
     "FirstName": "Elilune",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0322@vendor0322.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000322",
     "Description": "SYNTHETIC FICTION",
@@ -3800,6 +4644,8 @@
   {
     "FirstName": "Elirin",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0323@vendor0323.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000323",
     "Description": "SYNTHETIC FICTION",
@@ -3809,6 +4655,8 @@
   {
     "FirstName": "Elisol",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0324@vendor0324.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000324",
     "Description": "SYNTHETIC FICTION",
@@ -3818,6 +4666,8 @@
   {
     "FirstName": "Elimere",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0325@vendor0325.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000325",
     "Description": "SYNTHETIC FICTION",
@@ -3827,6 +4677,8 @@
   {
     "FirstName": "Faraven",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0326@vendor0326.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000326",
     "Description": "SYNTHETIC FICTION",
@@ -3836,6 +4688,8 @@
   {
     "FirstName": "Faralune",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0327@vendor0327.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000327",
     "Description": "SYNTHETIC FICTION",
@@ -3845,6 +4699,8 @@
   {
     "FirstName": "Fararin",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0328@vendor0328.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000328",
     "Description": "SYNTHETIC FICTION",
@@ -3854,6 +4710,8 @@
   {
     "FirstName": "Farasol",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0329@vendor0329.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000329",
     "Description": "SYNTHETIC FICTION",
@@ -3863,6 +4721,8 @@
   {
     "FirstName": "Faramere",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0330@vendor0330.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000330",
     "Description": "SYNTHETIC FICTION",
@@ -3872,6 +4732,8 @@
   {
     "FirstName": "Galaven",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0331@vendor0331.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000331",
     "Description": "SYNTHETIC FICTION",
@@ -3881,6 +4743,8 @@
   {
     "FirstName": "Galalune",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0332@vendor0332.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000332",
     "Description": "SYNTHETIC FICTION",
@@ -3890,6 +4754,8 @@
   {
     "FirstName": "Galarin",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0333@vendor0333.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000333",
     "Description": "SYNTHETIC FICTION",
@@ -3899,6 +4765,8 @@
   {
     "FirstName": "Galasol",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0334@vendor0334.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000334",
     "Description": "SYNTHETIC FICTION",
@@ -3908,6 +4776,8 @@
   {
     "FirstName": "Galamere",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0335@vendor0335.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000335",
     "Description": "SYNTHETIC FICTION",
@@ -3917,6 +4787,8 @@
   {
     "FirstName": "Heriven",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0336@vendor0336.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000336",
     "Description": "SYNTHETIC FICTION",
@@ -3926,6 +4798,8 @@
   {
     "FirstName": "Herilune",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0337@vendor0337.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000337",
     "Description": "SYNTHETIC FICTION",
@@ -3935,6 +4809,8 @@
   {
     "FirstName": "Heririn",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0338@vendor0338.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000338",
     "Description": "SYNTHETIC FICTION",
@@ -3944,6 +4820,8 @@
   {
     "FirstName": "Herisol",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0339@vendor0339.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000339",
     "Description": "SYNTHETIC FICTION",
@@ -3953,6 +4831,8 @@
   {
     "FirstName": "Herimere",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0340@vendor0340.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000340",
     "Description": "SYNTHETIC FICTION",
@@ -3962,6 +4842,8 @@
   {
     "FirstName": "Ilaven",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0341@vendor0341.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000341",
     "Description": "SYNTHETIC FICTION",
@@ -3971,6 +4853,8 @@
   {
     "FirstName": "Ilalune",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0342@vendor0342.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000342",
     "Description": "SYNTHETIC FICTION",
@@ -3980,6 +4864,8 @@
   {
     "FirstName": "Ilarin",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0343@vendor0343.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000343",
     "Description": "SYNTHETIC FICTION",
@@ -3989,6 +4875,8 @@
   {
     "FirstName": "Ilasol",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0344@vendor0344.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000344",
     "Description": "SYNTHETIC FICTION",
@@ -3998,6 +4886,8 @@
   {
     "FirstName": "Ilamere",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0345@vendor0345.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000345",
     "Description": "SYNTHETIC FICTION",
@@ -4007,6 +4897,8 @@
   {
     "FirstName": "Joraven",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0346@vendor0346.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000346",
     "Description": "SYNTHETIC FICTION",
@@ -4016,6 +4908,8 @@
   {
     "FirstName": "Joralune",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0347@vendor0347.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000347",
     "Description": "SYNTHETIC FICTION",
@@ -4025,6 +4919,8 @@
   {
     "FirstName": "Jorarin",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0348@vendor0348.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000348",
     "Description": "SYNTHETIC FICTION",
@@ -4034,6 +4930,8 @@
   {
     "FirstName": "Jorasol",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0349@vendor0349.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000349",
     "Description": "SYNTHETIC FICTION",
@@ -4043,6 +4941,8 @@
   {
     "FirstName": "Joramere",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0350@vendor0350.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000350",
     "Description": "SYNTHETIC FICTION",
@@ -4052,6 +4952,8 @@
   {
     "FirstName": "Kalaven",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0351@vendor0351.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000351",
     "Description": "SYNTHETIC FICTION",
@@ -4061,6 +4963,8 @@
   {
     "FirstName": "Kalalune",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0352@vendor0352.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000352",
     "Description": "SYNTHETIC FICTION",
@@ -4070,6 +4974,8 @@
   {
     "FirstName": "Kalarin",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0353@vendor0353.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000353",
     "Description": "SYNTHETIC FICTION",
@@ -4079,6 +4985,8 @@
   {
     "FirstName": "Kalasol",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0354@vendor0354.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000354",
     "Description": "SYNTHETIC FICTION",
@@ -4088,6 +4996,8 @@
   {
     "FirstName": "Kalamere",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0355@vendor0355.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000355",
     "Description": "SYNTHETIC FICTION",
@@ -4097,6 +5007,8 @@
   {
     "FirstName": "Liriven",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0356@vendor0356.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000356",
     "Description": "SYNTHETIC FICTION",
@@ -4106,6 +5018,8 @@
   {
     "FirstName": "Lirilune",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0357@vendor0357.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000357",
     "Description": "SYNTHETIC FICTION",
@@ -4115,6 +5029,8 @@
   {
     "FirstName": "Liririn",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0358@vendor0358.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000358",
     "Description": "SYNTHETIC FICTION",
@@ -4124,6 +5040,8 @@
   {
     "FirstName": "Lirisol",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0359@vendor0359.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000359",
     "Description": "SYNTHETIC FICTION",
@@ -4133,6 +5051,8 @@
   {
     "FirstName": "Lirimere",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0360@vendor0360.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000360",
     "Description": "SYNTHETIC FICTION",
@@ -4142,6 +5062,8 @@
   {
     "FirstName": "Maraven",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0361@vendor0361.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000361",
     "Description": "SYNTHETIC FICTION",
@@ -4151,6 +5073,8 @@
   {
     "FirstName": "Maralune",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0362@vendor0362.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000362",
     "Description": "SYNTHETIC FICTION",
@@ -4160,6 +5084,8 @@
   {
     "FirstName": "Mararin",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0363@vendor0363.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000363",
     "Description": "SYNTHETIC FICTION",
@@ -4169,6 +5095,8 @@
   {
     "FirstName": "Marasol",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0364@vendor0364.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000364",
     "Description": "SYNTHETIC FICTION",
@@ -4178,6 +5106,8 @@
   {
     "FirstName": "Maramere",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0365@vendor0365.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000365",
     "Description": "SYNTHETIC FICTION",
@@ -4187,6 +5117,8 @@
   {
     "FirstName": "Neriven",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0366@vendor0366.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000366",
     "Description": "SYNTHETIC FICTION",
@@ -4196,6 +5128,8 @@
   {
     "FirstName": "Nerilune",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0367@vendor0367.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000367",
     "Description": "SYNTHETIC FICTION",
@@ -4205,6 +5139,8 @@
   {
     "FirstName": "Neririn",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0368@vendor0368.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000368",
     "Description": "SYNTHETIC FICTION",
@@ -4214,6 +5150,8 @@
   {
     "FirstName": "Nerisol",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0369@vendor0369.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000369",
     "Description": "SYNTHETIC FICTION",
@@ -4223,6 +5161,8 @@
   {
     "FirstName": "Nerimere",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0370@vendor0370.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000370",
     "Description": "SYNTHETIC FICTION",
@@ -4232,6 +5172,8 @@
   {
     "FirstName": "Oriven",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0371@vendor0371.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000371",
     "Description": "SYNTHETIC FICTION",
@@ -4241,6 +5183,8 @@
   {
     "FirstName": "Orilune",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0372@vendor0372.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000372",
     "Description": "SYNTHETIC FICTION",
@@ -4250,6 +5194,8 @@
   {
     "FirstName": "Oririn",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0373@vendor0373.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000373",
     "Description": "SYNTHETIC FICTION",
@@ -4259,6 +5205,8 @@
   {
     "FirstName": "Orisol",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0374@vendor0374.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000374",
     "Description": "SYNTHETIC FICTION",
@@ -4268,6 +5216,8 @@
   {
     "FirstName": "Orimere",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0375@vendor0375.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000375",
     "Description": "SYNTHETIC FICTION",
@@ -4277,6 +5227,8 @@
   {
     "FirstName": "Peraven",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0376@vendor0376.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000376",
     "Description": "SYNTHETIC FICTION",
@@ -4286,6 +5238,8 @@
   {
     "FirstName": "Peralune",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0377@vendor0377.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000377",
     "Description": "SYNTHETIC FICTION",
@@ -4295,6 +5249,8 @@
   {
     "FirstName": "Perarin",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0378@vendor0378.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000378",
     "Description": "SYNTHETIC FICTION",
@@ -4304,6 +5260,8 @@
   {
     "FirstName": "Perasol",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0379@vendor0379.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000379",
     "Description": "SYNTHETIC FICTION",
@@ -4313,6 +5271,8 @@
   {
     "FirstName": "Peramere",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0380@vendor0380.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000380",
     "Description": "SYNTHETIC FICTION",
@@ -4322,6 +5282,8 @@
   {
     "FirstName": "Queraven",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0381@vendor0381.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000381",
     "Description": "SYNTHETIC FICTION",
@@ -4331,6 +5293,8 @@
   {
     "FirstName": "Queralune",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0382@vendor0382.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000382",
     "Description": "SYNTHETIC FICTION",
@@ -4340,6 +5304,8 @@
   {
     "FirstName": "Querarin",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0383@vendor0383.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000383",
     "Description": "SYNTHETIC FICTION",
@@ -4349,6 +5315,8 @@
   {
     "FirstName": "Querasol",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0384@vendor0384.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000384",
     "Description": "SYNTHETIC FICTION",
@@ -4358,6 +5326,8 @@
   {
     "FirstName": "Queramere",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0385@vendor0385.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000385",
     "Description": "SYNTHETIC FICTION",
@@ -4367,6 +5337,8 @@
   {
     "FirstName": "Rinaven",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0386@vendor0386.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000386",
     "Description": "SYNTHETIC FICTION",
@@ -4376,6 +5348,8 @@
   {
     "FirstName": "Rinalune",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0387@vendor0387.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000387",
     "Description": "SYNTHETIC FICTION",
@@ -4385,6 +5359,8 @@
   {
     "FirstName": "Rinarin",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0388@vendor0388.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000388",
     "Description": "SYNTHETIC FICTION",
@@ -4394,6 +5370,8 @@
   {
     "FirstName": "Rinasol",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0389@vendor0389.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000389",
     "Description": "SYNTHETIC FICTION",
@@ -4403,6 +5381,8 @@
   {
     "FirstName": "Rinamere",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0390@vendor0390.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000390",
     "Description": "SYNTHETIC FICTION",
@@ -4412,6 +5392,8 @@
   {
     "FirstName": "Soraven",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0391@vendor0391.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000391",
     "Description": "SYNTHETIC FICTION",
@@ -4421,6 +5403,8 @@
   {
     "FirstName": "Soralune",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0392@vendor0392.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000392",
     "Description": "SYNTHETIC FICTION",
@@ -4430,6 +5414,8 @@
   {
     "FirstName": "Sorarin",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0393@vendor0393.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000393",
     "Description": "SYNTHETIC FICTION",
@@ -4439,6 +5425,8 @@
   {
     "FirstName": "Sorasol",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0394@vendor0394.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000394",
     "Description": "SYNTHETIC FICTION",
@@ -4448,6 +5436,8 @@
   {
     "FirstName": "Soramere",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0395@vendor0395.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000395",
     "Description": "SYNTHETIC FICTION",
@@ -4457,6 +5447,8 @@
   {
     "FirstName": "Taliven",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0396@vendor0396.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000396",
     "Description": "SYNTHETIC FICTION",
@@ -4466,6 +5458,8 @@
   {
     "FirstName": "Talilune",
     "LastName": "Amberridge Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0397@vendor0397.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000397",
     "Description": "SYNTHETIC FICTION",
@@ -4475,6 +5469,8 @@
   {
     "FirstName": "Talirin",
     "LastName": "Amberridge Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0398@vendor0398.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000398",
     "Description": "SYNTHETIC FICTION",
@@ -4484,6 +5480,8 @@
   {
     "FirstName": "Talisol",
     "LastName": "Amberridge Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0399@vendor0399.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000399",
     "Description": "SYNTHETIC FICTION",
@@ -4493,6 +5491,8 @@
   {
     "FirstName": "Talimere",
     "LastName": "Amberridge Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0400@vendor0400.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000400",
     "Description": "SYNTHETIC FICTION",
@@ -4502,6 +5502,8 @@
   {
     "FirstName": "Avaven",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0401@vendor0401.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000401",
     "Description": "SYNTHETIC FICTION",
@@ -4511,6 +5513,8 @@
   {
     "FirstName": "Avalune",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0402@vendor0402.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000402",
     "Description": "SYNTHETIC FICTION",
@@ -4520,6 +5524,8 @@
   {
     "FirstName": "Avarin",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0403@vendor0403.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000403",
     "Description": "SYNTHETIC FICTION",
@@ -4529,6 +5535,8 @@
   {
     "FirstName": "Avasol",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0404@vendor0404.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000404",
     "Description": "SYNTHETIC FICTION",
@@ -4538,6 +5546,8 @@
   {
     "FirstName": "Avamere",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0405@vendor0405.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000405",
     "Description": "SYNTHETIC FICTION",
@@ -4547,6 +5557,8 @@
   {
     "FirstName": "Belaven",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0406@vendor0406.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000406",
     "Description": "SYNTHETIC FICTION",
@@ -4556,6 +5568,8 @@
   {
     "FirstName": "Belalune",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0407@vendor0407.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000407",
     "Description": "SYNTHETIC FICTION",
@@ -4565,6 +5579,8 @@
   {
     "FirstName": "Belarin",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0408@vendor0408.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000408",
     "Description": "SYNTHETIC FICTION",
@@ -4574,6 +5590,8 @@
   {
     "FirstName": "Belasol",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0409@vendor0409.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000409",
     "Description": "SYNTHETIC FICTION",
@@ -4583,6 +5601,8 @@
   {
     "FirstName": "Belamere",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0410@vendor0410.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000410",
     "Description": "SYNTHETIC FICTION",
@@ -4592,6 +5612,8 @@
   {
     "FirstName": "Ceriven",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0411@vendor0411.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000411",
     "Description": "SYNTHETIC FICTION",
@@ -4601,6 +5623,8 @@
   {
     "FirstName": "Cerilune",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0412@vendor0412.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000412",
     "Description": "SYNTHETIC FICTION",
@@ -4610,6 +5634,8 @@
   {
     "FirstName": "Ceririn",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0413@vendor0413.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000413",
     "Description": "SYNTHETIC FICTION",
@@ -4619,6 +5645,8 @@
   {
     "FirstName": "Cerisol",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0414@vendor0414.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000414",
     "Description": "SYNTHETIC FICTION",
@@ -4628,6 +5656,8 @@
   {
     "FirstName": "Cerimere",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0415@vendor0415.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000415",
     "Description": "SYNTHETIC FICTION",
@@ -4637,6 +5667,8 @@
   {
     "FirstName": "Daraven",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0416@vendor0416.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000416",
     "Description": "SYNTHETIC FICTION",
@@ -4646,6 +5678,8 @@
   {
     "FirstName": "Daralune",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0417@vendor0417.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000417",
     "Description": "SYNTHETIC FICTION",
@@ -4655,6 +5689,8 @@
   {
     "FirstName": "Dararin",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0418@vendor0418.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000418",
     "Description": "SYNTHETIC FICTION",
@@ -4664,6 +5700,8 @@
   {
     "FirstName": "Darasol",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0419@vendor0419.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000419",
     "Description": "SYNTHETIC FICTION",
@@ -4673,6 +5711,8 @@
   {
     "FirstName": "Daramere",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0420@vendor0420.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000420",
     "Description": "SYNTHETIC FICTION",
@@ -4682,6 +5722,8 @@
   {
     "FirstName": "Eliven",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0421@vendor0421.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000421",
     "Description": "SYNTHETIC FICTION",
@@ -4691,6 +5733,8 @@
   {
     "FirstName": "Elilune",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0422@vendor0422.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000422",
     "Description": "SYNTHETIC FICTION",
@@ -4700,6 +5744,8 @@
   {
     "FirstName": "Elirin",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0423@vendor0423.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000423",
     "Description": "SYNTHETIC FICTION",
@@ -4709,6 +5755,8 @@
   {
     "FirstName": "Elisol",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0424@vendor0424.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000424",
     "Description": "SYNTHETIC FICTION",
@@ -4718,6 +5766,8 @@
   {
     "FirstName": "Elimere",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0425@vendor0425.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000425",
     "Description": "SYNTHETIC FICTION",
@@ -4727,6 +5777,8 @@
   {
     "FirstName": "Faraven",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0426@vendor0426.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000426",
     "Description": "SYNTHETIC FICTION",
@@ -4736,6 +5788,8 @@
   {
     "FirstName": "Faralune",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0427@vendor0427.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000427",
     "Description": "SYNTHETIC FICTION",
@@ -4745,6 +5799,8 @@
   {
     "FirstName": "Fararin",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0428@vendor0428.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000428",
     "Description": "SYNTHETIC FICTION",
@@ -4754,6 +5810,8 @@
   {
     "FirstName": "Farasol",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0429@vendor0429.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000429",
     "Description": "SYNTHETIC FICTION",
@@ -4763,6 +5821,8 @@
   {
     "FirstName": "Faramere",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0430@vendor0430.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000430",
     "Description": "SYNTHETIC FICTION",
@@ -4772,6 +5832,8 @@
   {
     "FirstName": "Galaven",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0431@vendor0431.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000431",
     "Description": "SYNTHETIC FICTION",
@@ -4781,6 +5843,8 @@
   {
     "FirstName": "Galalune",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0432@vendor0432.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000432",
     "Description": "SYNTHETIC FICTION",
@@ -4790,6 +5854,8 @@
   {
     "FirstName": "Galarin",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0433@vendor0433.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000433",
     "Description": "SYNTHETIC FICTION",
@@ -4799,6 +5865,8 @@
   {
     "FirstName": "Galasol",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0434@vendor0434.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000434",
     "Description": "SYNTHETIC FICTION",
@@ -4808,6 +5876,8 @@
   {
     "FirstName": "Galamere",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0435@vendor0435.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000435",
     "Description": "SYNTHETIC FICTION",
@@ -4817,6 +5887,8 @@
   {
     "FirstName": "Heriven",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0436@vendor0436.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000436",
     "Description": "SYNTHETIC FICTION",
@@ -4826,6 +5898,8 @@
   {
     "FirstName": "Herilune",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0437@vendor0437.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000437",
     "Description": "SYNTHETIC FICTION",
@@ -4835,6 +5909,8 @@
   {
     "FirstName": "Heririn",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0438@vendor0438.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000438",
     "Description": "SYNTHETIC FICTION",
@@ -4844,6 +5920,8 @@
   {
     "FirstName": "Herisol",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0439@vendor0439.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000439",
     "Description": "SYNTHETIC FICTION",
@@ -4853,6 +5931,8 @@
   {
     "FirstName": "Herimere",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0440@vendor0440.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000440",
     "Description": "SYNTHETIC FICTION",
@@ -4862,6 +5942,8 @@
   {
     "FirstName": "Ilaven",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0441@vendor0441.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000441",
     "Description": "SYNTHETIC FICTION",
@@ -4871,6 +5953,8 @@
   {
     "FirstName": "Ilalune",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0442@vendor0442.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000442",
     "Description": "SYNTHETIC FICTION",
@@ -4880,6 +5964,8 @@
   {
     "FirstName": "Ilarin",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0443@vendor0443.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000443",
     "Description": "SYNTHETIC FICTION",
@@ -4889,6 +5975,8 @@
   {
     "FirstName": "Ilasol",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0444@vendor0444.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000444",
     "Description": "SYNTHETIC FICTION",
@@ -4898,6 +5986,8 @@
   {
     "FirstName": "Ilamere",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0445@vendor0445.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000445",
     "Description": "SYNTHETIC FICTION",
@@ -4907,6 +5997,8 @@
   {
     "FirstName": "Joraven",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0446@vendor0446.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000446",
     "Description": "SYNTHETIC FICTION",
@@ -4916,6 +6008,8 @@
   {
     "FirstName": "Joralune",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0447@vendor0447.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000447",
     "Description": "SYNTHETIC FICTION",
@@ -4925,6 +6019,8 @@
   {
     "FirstName": "Jorarin",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0448@vendor0448.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000448",
     "Description": "SYNTHETIC FICTION",
@@ -4934,6 +6030,8 @@
   {
     "FirstName": "Jorasol",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0449@vendor0449.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000449",
     "Description": "SYNTHETIC FICTION",
@@ -4943,6 +6041,8 @@
   {
     "FirstName": "Joramere",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0450@vendor0450.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000450",
     "Description": "SYNTHETIC FICTION",
@@ -4952,6 +6052,8 @@
   {
     "FirstName": "Kalaven",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0451@vendor0451.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000451",
     "Description": "SYNTHETIC FICTION",
@@ -4961,6 +6063,8 @@
   {
     "FirstName": "Kalalune",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0452@vendor0452.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000452",
     "Description": "SYNTHETIC FICTION",
@@ -4970,6 +6074,8 @@
   {
     "FirstName": "Kalarin",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0453@vendor0453.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000453",
     "Description": "SYNTHETIC FICTION",
@@ -4979,6 +6085,8 @@
   {
     "FirstName": "Kalasol",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0454@vendor0454.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000454",
     "Description": "SYNTHETIC FICTION",
@@ -4988,6 +6096,8 @@
   {
     "FirstName": "Kalamere",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0455@vendor0455.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000455",
     "Description": "SYNTHETIC FICTION",
@@ -4997,6 +6107,8 @@
   {
     "FirstName": "Liriven",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0456@vendor0456.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000456",
     "Description": "SYNTHETIC FICTION",
@@ -5006,6 +6118,8 @@
   {
     "FirstName": "Lirilune",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0457@vendor0457.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000457",
     "Description": "SYNTHETIC FICTION",
@@ -5015,6 +6129,8 @@
   {
     "FirstName": "Liririn",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0458@vendor0458.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000458",
     "Description": "SYNTHETIC FICTION",
@@ -5024,6 +6140,8 @@
   {
     "FirstName": "Lirisol",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0459@vendor0459.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000459",
     "Description": "SYNTHETIC FICTION",
@@ -5033,6 +6151,8 @@
   {
     "FirstName": "Lirimere",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0460@vendor0460.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000460",
     "Description": "SYNTHETIC FICTION",
@@ -5042,6 +6162,8 @@
   {
     "FirstName": "Maraven",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0461@vendor0461.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000461",
     "Description": "SYNTHETIC FICTION",
@@ -5051,6 +6173,8 @@
   {
     "FirstName": "Maralune",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0462@vendor0462.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000462",
     "Description": "SYNTHETIC FICTION",
@@ -5060,6 +6184,8 @@
   {
     "FirstName": "Mararin",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0463@vendor0463.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000463",
     "Description": "SYNTHETIC FICTION",
@@ -5069,6 +6195,8 @@
   {
     "FirstName": "Marasol",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0464@vendor0464.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000464",
     "Description": "SYNTHETIC FICTION",
@@ -5078,6 +6206,8 @@
   {
     "FirstName": "Maramere",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0465@vendor0465.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000465",
     "Description": "SYNTHETIC FICTION",
@@ -5087,6 +6217,8 @@
   {
     "FirstName": "Neriven",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0466@vendor0466.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000466",
     "Description": "SYNTHETIC FICTION",
@@ -5096,6 +6228,8 @@
   {
     "FirstName": "Nerilune",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0467@vendor0467.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000467",
     "Description": "SYNTHETIC FICTION",
@@ -5105,6 +6239,8 @@
   {
     "FirstName": "Neririn",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0468@vendor0468.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000468",
     "Description": "SYNTHETIC FICTION",
@@ -5114,6 +6250,8 @@
   {
     "FirstName": "Nerisol",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0469@vendor0469.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000469",
     "Description": "SYNTHETIC FICTION",
@@ -5123,6 +6261,8 @@
   {
     "FirstName": "Nerimere",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0470@vendor0470.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000470",
     "Description": "SYNTHETIC FICTION",
@@ -5132,6 +6272,8 @@
   {
     "FirstName": "Oriven",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0471@vendor0471.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000471",
     "Description": "SYNTHETIC FICTION",
@@ -5141,6 +6283,8 @@
   {
     "FirstName": "Orilune",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0472@vendor0472.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000472",
     "Description": "SYNTHETIC FICTION",
@@ -5150,6 +6294,8 @@
   {
     "FirstName": "Oririn",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0473@vendor0473.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000473",
     "Description": "SYNTHETIC FICTION",
@@ -5159,6 +6305,8 @@
   {
     "FirstName": "Orisol",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0474@vendor0474.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000474",
     "Description": "SYNTHETIC FICTION",
@@ -5168,6 +6316,8 @@
   {
     "FirstName": "Orimere",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0475@vendor0475.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000475",
     "Description": "SYNTHETIC FICTION",
@@ -5177,6 +6327,8 @@
   {
     "FirstName": "Peraven",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0476@vendor0476.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000476",
     "Description": "SYNTHETIC FICTION",
@@ -5186,6 +6338,8 @@
   {
     "FirstName": "Peralune",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0477@vendor0477.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000477",
     "Description": "SYNTHETIC FICTION",
@@ -5195,6 +6349,8 @@
   {
     "FirstName": "Perarin",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0478@vendor0478.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000478",
     "Description": "SYNTHETIC FICTION",
@@ -5204,6 +6360,8 @@
   {
     "FirstName": "Perasol",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0479@vendor0479.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000479",
     "Description": "SYNTHETIC FICTION",
@@ -5213,6 +6371,8 @@
   {
     "FirstName": "Peramere",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0480@vendor0480.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000480",
     "Description": "SYNTHETIC FICTION",
@@ -5222,6 +6382,8 @@
   {
     "FirstName": "Queraven",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0481@vendor0481.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000481",
     "Description": "SYNTHETIC FICTION",
@@ -5231,6 +6393,8 @@
   {
     "FirstName": "Queralune",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0482@vendor0482.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000482",
     "Description": "SYNTHETIC FICTION",
@@ -5240,6 +6404,8 @@
   {
     "FirstName": "Querarin",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0483@vendor0483.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000483",
     "Description": "SYNTHETIC FICTION",
@@ -5249,6 +6415,8 @@
   {
     "FirstName": "Querasol",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0484@vendor0484.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000484",
     "Description": "SYNTHETIC FICTION",
@@ -5258,6 +6426,8 @@
   {
     "FirstName": "Queramere",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0485@vendor0485.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000485",
     "Description": "SYNTHETIC FICTION",
@@ -5267,6 +6437,8 @@
   {
     "FirstName": "Rinaven",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0486@vendor0486.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000486",
     "Description": "SYNTHETIC FICTION",
@@ -5276,6 +6448,8 @@
   {
     "FirstName": "Rinalune",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0487@vendor0487.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000487",
     "Description": "SYNTHETIC FICTION",
@@ -5285,6 +6459,8 @@
   {
     "FirstName": "Rinarin",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0488@vendor0488.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000488",
     "Description": "SYNTHETIC FICTION",
@@ -5294,6 +6470,8 @@
   {
     "FirstName": "Rinasol",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0489@vendor0489.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000489",
     "Description": "SYNTHETIC FICTION",
@@ -5303,6 +6481,8 @@
   {
     "FirstName": "Rinamere",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0490@vendor0490.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000490",
     "Description": "SYNTHETIC FICTION",
@@ -5312,6 +6492,8 @@
   {
     "FirstName": "Soraven",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0491@vendor0491.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000491",
     "Description": "SYNTHETIC FICTION",
@@ -5321,6 +6503,8 @@
   {
     "FirstName": "Soralune",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0492@vendor0492.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000492",
     "Description": "SYNTHETIC FICTION",
@@ -5330,6 +6514,8 @@
   {
     "FirstName": "Sorarin",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0493@vendor0493.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000493",
     "Description": "SYNTHETIC FICTION",
@@ -5339,6 +6525,8 @@
   {
     "FirstName": "Sorasol",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0494@vendor0494.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000494",
     "Description": "SYNTHETIC FICTION",
@@ -5348,6 +6536,8 @@
   {
     "FirstName": "Soramere",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0495@vendor0495.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000495",
     "Description": "SYNTHETIC FICTION",
@@ -5357,6 +6547,8 @@
   {
     "FirstName": "Taliven",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0496@vendor0496.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000496",
     "Description": "SYNTHETIC FICTION",
@@ -5366,6 +6558,8 @@
   {
     "FirstName": "Talilune",
     "LastName": "Ambervale Contact",
+    "Title": "Founder",
+    "Department": "Operations",
     "Email": "contact0497@vendor0497.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000497",
     "Description": "SYNTHETIC FICTION",
@@ -5375,6 +6569,8 @@
   {
     "FirstName": "Talirin",
     "LastName": "Ambervale Contact",
+    "Title": "Operations lead",
+    "Department": "Product",
     "Email": "contact0498@vendor0498.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000498",
     "Description": "SYNTHETIC FICTION",
@@ -5384,6 +6580,8 @@
   {
     "FirstName": "Talisol",
     "LastName": "Ambervale Contact",
+    "Title": "Product lead",
+    "Department": "Finance",
     "Email": "contact0499@vendor0499.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000499",
     "Description": "SYNTHETIC FICTION",
@@ -5393,6 +6591,8 @@
   {
     "FirstName": "Talimere",
     "LastName": "Ambervale Contact",
+    "Title": "Commercial lead",
+    "Department": "Commercial",
     "Email": "contact0500@vendor0500.example.invalid",
     "Account.StoryFoundry_ID__c": "d2eec5850643-accounts-000500",
     "Description": "SYNTHETIC FICTION",

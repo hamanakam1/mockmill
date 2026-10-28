@@ -2,6 +2,8 @@
 
 ## Unreleased — local release candidate
 
+- Expanded the canonical CRM profile with portable account, contact, lead and opportunity fields for five target systems.
+- Updated all five offline adapters and regenerated their fixtures and import plans.
 - Added canonical schema and data dictionary.
 - Added five offline CRM adapter implementations and generated fixtures.
 - Added five-contract safety notes and explicit unmapped-domain boundaries.

@@ -72,8 +72,8 @@
     },
     {
       "path": "csv/accounts.csv",
-      "bytes": 141433,
-      "sha256": "879b06b926129158b372290f5b76724afbb99367475ead501c0950c3c3be0844"
+      "bytes": 209830,
+      "sha256": "f5b6ba6212a8afbcbd54b2500fedc94225b48796ef49aeb83721dfce539a9bc7"
     },
     {
       "path": "csv/activities.csv",
@@ -102,8 +102,8 @@
     },
     {
       "path": "csv/contacts.csv",
-      "bytes": 149432,
-      "sha256": "a87a41e378d44209789a54564e279e1f9439cd1445a8ffbcb985b3286f4cf412"
+      "bytes": 185241,
+      "sha256": "e214055aaa1a9153b5040ac1bb64a2ec75f5dc68ef7482ea1a1d23c234e8f937"
     },
     {
       "path": "csv/contract_lines.csv",
@@ -157,8 +157,8 @@
     },
     {
       "path": "csv/leads.csv",
-      "bytes": 117463,
-      "sha256": "0fea749698df31642c94c4b1ff4eaade10da90af3b1753b3ca0c552f8f5a0193"
+      "bytes": 191910,
+      "sha256": "ea521d9452fd668dc1447063a60a02bbe029d1c6656fc5e83f93c4b53ea317f6"
     },
     {
       "path": "csv/meeting_attendees.csv",
@@ -187,8 +187,8 @@
     },
     {
       "path": "csv/opportunities.csv",
-      "bytes": 123985,
-      "sha256": "463cb348191cd58c3184dae4ecc164946e8931fcccbb882e2b6d6394cb2a2b84"
+      "bytes": 209081,
+      "sha256": "f921086bd24dd9bfe6ed18e9aec010b2c1aec1d6ada05c10b74c05d38830f23b"
     },
     {
       "path": "csv/payment_attempts.csv",
@@ -262,8 +262,8 @@
     },
     {
       "path": "json/accounts.jsonl",
-      "bytes": 206342,
-      "sha256": "d0df6695e25d5bd78d370c7a789d0127ddd2e58896455ae01abac303ab58fdbd"
+      "bytes": 337142,
+      "sha256": "cfc5d6640f95a2b1b09fe38e0418a3d001434a2427c3e69b5f2b20508997246b"
     },
     {
       "path": "json/activities.jsonl",
@@ -292,8 +292,8 @@
     },
     {
       "path": "json/contacts.jsonl",
-      "bytes": 242325,
-      "sha256": "95245b993da426b65d1f5c3948321e156ea9d6370569c060492f63fb531bd695"
+      "bytes": 332450,
+      "sha256": "b865b584a83be896afab7212cc3f5e0311659afb88ee8bedbfdfe0271e931ab0"
     },
     {
       "path": "json/contract_lines.jsonl",
@@ -347,8 +347,8 @@
     },
     {
       "path": "json/leads.jsonl",
-      "bytes": 203082,
-      "sha256": "2498a7032195465c7d5f273511bfb47a2d0c991d2587b570916788d8f4238638"
+      "bytes": 323457,
+      "sha256": "ffc8a8176c7dab54f65c03654961e8689e9679ed8b3bf560ffc6e77c2753ecb8"
     },
     {
       "path": "json/meeting_attendees.jsonl",
@@ -377,8 +377,8 @@
     },
     {
       "path": "json/opportunities.jsonl",
-      "bytes": 210880,
-      "sha256": "817749a583e28a631ef5b06ae177346182717cc01c5f6aa68bcf65df555746df"
+      "bytes": 359874,
+      "sha256": "3660c04b91ae25ac5d8bdb1d0abaef5d5d6e9cacd60452887bf52119640656a3"
     },
     {
       "path": "json/payment_attempts.jsonl",

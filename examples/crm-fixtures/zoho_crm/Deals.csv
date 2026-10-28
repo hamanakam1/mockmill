@@ -1,501 +1,501 @@
-Deal Name,Amount,Closing Date,Stage,Account Name,Description,StoryFoundry source key,StoryFoundry Synthetic
-[SYNTHETIC] Vendor 001 readiness engagement,12000.00,2024-11-27,Closed Won,[SYNTHETIC] Amber Systems 001,SYNTHETIC FICTION,d2eec5850643-opportunities-000001,true
-[SYNTHETIC] Vendor 002 readiness engagement,20000.00,2024-12-08,Closed Won,[SYNTHETIC] Birch Systems 002,SYNTHETIC FICTION,d2eec5850643-opportunities-000002,true
-[SYNTHETIC] Vendor 003 readiness engagement,30000.00,2024-12-19,Closed Won,[SYNTHETIC] Cloud Systems 003,SYNTHETIC FICTION,d2eec5850643-opportunities-000003,true
-[SYNTHETIC] Vendor 004 readiness engagement,36000.00,2024-12-29,Closed Won,[SYNTHETIC] Dawn Systems 004,SYNTHETIC FICTION,d2eec5850643-opportunities-000004,true
-[SYNTHETIC] Vendor 005 readiness engagement,24000.00,2025-01-07,Closed Won,[SYNTHETIC] Elm Systems 005,SYNTHETIC FICTION,d2eec5850643-opportunities-000005,true
-[SYNTHETIC] Vendor 006 readiness engagement,15000.00,2025-01-16,Closed Won,[SYNTHETIC] Fern Systems 006,SYNTHETIC FICTION,d2eec5850643-opportunities-000006,true
-[SYNTHETIC] Vendor 007 readiness engagement,12000.00,2025-01-25,Closed Won,[SYNTHETIC] Glen Systems 007,SYNTHETIC FICTION,d2eec5850643-opportunities-000007,true
-[SYNTHETIC] Vendor 008 readiness engagement,20000.00,2025-02-02,Closed Won,[SYNTHETIC] Harbor Systems 008,SYNTHETIC FICTION,d2eec5850643-opportunities-000008,true
-[SYNTHETIC] Vendor 009 readiness engagement,30000.00,2025-02-11,Closed Won,[SYNTHETIC] Ivory Systems 009,SYNTHETIC FICTION,d2eec5850643-opportunities-000009,true
-[SYNTHETIC] Vendor 010 readiness engagement,36000.00,2025-02-19,Closed Won,[SYNTHETIC] Juniper Systems 010,SYNTHETIC FICTION,d2eec5850643-opportunities-000010,true
-[SYNTHETIC] Vendor 011 readiness engagement,24000.00,2025-02-27,Closed Won,[SYNTHETIC] Kestrel Systems 011,SYNTHETIC FICTION,d2eec5850643-opportunities-000011,true
-[SYNTHETIC] Vendor 012 readiness engagement,15000.00,2025-03-07,Closed Won,[SYNTHETIC] Lumen Systems 012,SYNTHETIC FICTION,d2eec5850643-opportunities-000012,true
-[SYNTHETIC] Vendor 013 readiness engagement,12000.00,2025-03-15,Closed Won,[SYNTHETIC] Maple Systems 013,SYNTHETIC FICTION,d2eec5850643-opportunities-000013,true
-[SYNTHETIC] Vendor 014 readiness engagement,20000.00,2025-03-22,Closed Won,[SYNTHETIC] North Systems 014,SYNTHETIC FICTION,d2eec5850643-opportunities-000014,true
-[SYNTHETIC] Vendor 015 readiness engagement,30000.00,2025-03-30,Closed Won,[SYNTHETIC] Opal Systems 015,SYNTHETIC FICTION,d2eec5850643-opportunities-000015,true
-[SYNTHETIC] Vendor 016 readiness engagement,36000.00,2025-04-07,Closed Won,[SYNTHETIC] Pine Systems 016,SYNTHETIC FICTION,d2eec5850643-opportunities-000016,true
-[SYNTHETIC] Vendor 017 readiness engagement,24000.00,2025-04-14,Closed Won,[SYNTHETIC] Quartz Systems 017,SYNTHETIC FICTION,d2eec5850643-opportunities-000017,true
-[SYNTHETIC] Vendor 018 readiness engagement,15000.00,2025-04-21,Closed Won,[SYNTHETIC] River Systems 018,SYNTHETIC FICTION,d2eec5850643-opportunities-000018,true
-[SYNTHETIC] Vendor 019 readiness engagement,12000.00,2025-04-29,Closed Won,[SYNTHETIC] Silver Systems 019,SYNTHETIC FICTION,d2eec5850643-opportunities-000019,true
-[SYNTHETIC] Vendor 020 readiness engagement,20000.00,2025-05-06,Closed Won,[SYNTHETIC] Thistle Systems 020,SYNTHETIC FICTION,d2eec5850643-opportunities-000020,true
-[SYNTHETIC] Vendor 021 readiness engagement,30000.00,2025-05-13,Closed Won,[SYNTHETIC] Amber Analytics 021,SYNTHETIC FICTION,d2eec5850643-opportunities-000021,true
-[SYNTHETIC] Vendor 022 readiness engagement,36000.00,2025-05-20,Closed Won,[SYNTHETIC] Birch Analytics 022,SYNTHETIC FICTION,d2eec5850643-opportunities-000022,true
-[SYNTHETIC] Vendor 023 readiness engagement,24000.00,2025-05-27,Closed Won,[SYNTHETIC] Cloud Analytics 023,SYNTHETIC FICTION,d2eec5850643-opportunities-000023,true
-[SYNTHETIC] Vendor 024 readiness engagement,15000.00,2025-06-03,Closed Won,[SYNTHETIC] Dawn Analytics 024,SYNTHETIC FICTION,d2eec5850643-opportunities-000024,true
-[SYNTHETIC] Vendor 025 readiness engagement,12000.00,2025-06-10,Closed Won,[SYNTHETIC] Elm Analytics 025,SYNTHETIC FICTION,d2eec5850643-opportunities-000025,true
-[SYNTHETIC] Vendor 026 readiness engagement,20000.00,2025-06-17,Closed Won,[SYNTHETIC] Fern Analytics 026,SYNTHETIC FICTION,d2eec5850643-opportunities-000026,true
-[SYNTHETIC] Vendor 027 readiness engagement,30000.00,2025-06-24,Closed Won,[SYNTHETIC] Glen Analytics 027,SYNTHETIC FICTION,d2eec5850643-opportunities-000027,true
-[SYNTHETIC] Vendor 028 readiness engagement,36000.00,2025-06-30,Closed Won,[SYNTHETIC] Harbor Analytics 028,SYNTHETIC FICTION,d2eec5850643-opportunities-000028,true
-[SYNTHETIC] Vendor 029 readiness engagement,24000.00,2025-07-07,Closed Won,[SYNTHETIC] Ivory Analytics 029,SYNTHETIC FICTION,d2eec5850643-opportunities-000029,true
-[SYNTHETIC] Vendor 030 readiness engagement,15000.00,2025-07-14,Closed Won,[SYNTHETIC] Juniper Analytics 030,SYNTHETIC FICTION,d2eec5850643-opportunities-000030,true
-[SYNTHETIC] Vendor 031 readiness engagement,12000.00,2025-07-20,Closed Won,[SYNTHETIC] Kestrel Analytics 031,SYNTHETIC FICTION,d2eec5850643-opportunities-000031,true
-[SYNTHETIC] Vendor 032 readiness engagement,20000.00,2025-07-27,Closed Won,[SYNTHETIC] Lumen Analytics 032,SYNTHETIC FICTION,d2eec5850643-opportunities-000032,true
-[SYNTHETIC] Vendor 033 readiness engagement,30000.00,2025-08-02,Closed Won,[SYNTHETIC] Maple Analytics 033,SYNTHETIC FICTION,d2eec5850643-opportunities-000033,true
-[SYNTHETIC] Vendor 034 readiness engagement,36000.00,2025-08-09,Closed Won,[SYNTHETIC] North Analytics 034,SYNTHETIC FICTION,d2eec5850643-opportunities-000034,true
-[SYNTHETIC] Vendor 035 readiness engagement,24000.00,2025-08-16,Closed Won,[SYNTHETIC] Opal Analytics 035,SYNTHETIC FICTION,d2eec5850643-opportunities-000035,true
-[SYNTHETIC] Vendor 036 readiness engagement,15000.00,2025-08-22,Closed Won,[SYNTHETIC] Pine Analytics 036,SYNTHETIC FICTION,d2eec5850643-opportunities-000036,true
-[SYNTHETIC] Vendor 037 readiness engagement,12000.00,2025-08-28,Closed Won,[SYNTHETIC] Quartz Analytics 037,SYNTHETIC FICTION,d2eec5850643-opportunities-000037,true
-[SYNTHETIC] Vendor 038 readiness engagement,20000.00,2025-09-04,Closed Won,[SYNTHETIC] River Analytics 038,SYNTHETIC FICTION,d2eec5850643-opportunities-000038,true
-[SYNTHETIC] Vendor 039 readiness engagement,30000.00,2025-09-10,Closed Won,[SYNTHETIC] Silver Analytics 039,SYNTHETIC FICTION,d2eec5850643-opportunities-000039,true
-[SYNTHETIC] Vendor 040 readiness engagement,36000.00,2025-09-17,Closed Won,[SYNTHETIC] Thistle Analytics 040,SYNTHETIC FICTION,d2eec5850643-opportunities-000040,true
-[SYNTHETIC] Vendor 041 readiness engagement,24000.00,2025-09-23,Closed Won,[SYNTHETIC] Amber Workflow 041,SYNTHETIC FICTION,d2eec5850643-opportunities-000041,true
-[SYNTHETIC] Vendor 042 readiness engagement,15000.00,2025-09-29,Closed Won,[SYNTHETIC] Birch Workflow 042,SYNTHETIC FICTION,d2eec5850643-opportunities-000042,true
-[SYNTHETIC] Vendor 043 readiness engagement,12000.00,2025-10-05,Closed Won,[SYNTHETIC] Cloud Workflow 043,SYNTHETIC FICTION,d2eec5850643-opportunities-000043,true
-[SYNTHETIC] Vendor 044 readiness engagement,20000.00,2025-10-12,Closed Won,[SYNTHETIC] Dawn Workflow 044,SYNTHETIC FICTION,d2eec5850643-opportunities-000044,true
-[SYNTHETIC] Vendor 045 readiness engagement,30000.00,2025-10-18,Closed Won,[SYNTHETIC] Elm Workflow 045,SYNTHETIC FICTION,d2eec5850643-opportunities-000045,true
-[SYNTHETIC] Vendor 046 readiness engagement,36000.00,2025-10-24,Closed Won,[SYNTHETIC] Fern Workflow 046,SYNTHETIC FICTION,d2eec5850643-opportunities-000046,true
-[SYNTHETIC] Vendor 047 readiness engagement,24000.00,2025-10-30,Closed Won,[SYNTHETIC] Glen Workflow 047,SYNTHETIC FICTION,d2eec5850643-opportunities-000047,true
-[SYNTHETIC] Vendor 048 readiness engagement,15000.00,2025-11-05,Closed Won,[SYNTHETIC] Harbor Workflow 048,SYNTHETIC FICTION,d2eec5850643-opportunities-000048,true
-[SYNTHETIC] Vendor 049 readiness engagement,12000.00,2025-11-11,Closed Won,[SYNTHETIC] Ivory Workflow 049,SYNTHETIC FICTION,d2eec5850643-opportunities-000049,true
-[SYNTHETIC] Vendor 050 readiness engagement,20000.00,2025-11-17,Closed Won,[SYNTHETIC] Juniper Workflow 050,SYNTHETIC FICTION,d2eec5850643-opportunities-000050,true
-[SYNTHETIC] Vendor 051 readiness engagement,30000.00,2025-11-24,Closed Won,[SYNTHETIC] Kestrel Workflow 051,SYNTHETIC FICTION,d2eec5850643-opportunities-000051,true
-[SYNTHETIC] Vendor 052 readiness engagement,36000.00,2025-11-30,Closed Won,[SYNTHETIC] Lumen Workflow 052,SYNTHETIC FICTION,d2eec5850643-opportunities-000052,true
-[SYNTHETIC] Vendor 053 readiness engagement,24000.00,2025-12-06,Closed Won,[SYNTHETIC] Maple Workflow 053,SYNTHETIC FICTION,d2eec5850643-opportunities-000053,true
-[SYNTHETIC] Vendor 054 readiness engagement,15000.00,2025-12-12,Closed Won,[SYNTHETIC] North Workflow 054,SYNTHETIC FICTION,d2eec5850643-opportunities-000054,true
-[SYNTHETIC] Vendor 055 readiness engagement,12000.00,2025-12-18,Closed Won,[SYNTHETIC] Opal Workflow 055,SYNTHETIC FICTION,d2eec5850643-opportunities-000055,true
-[SYNTHETIC] Vendor 056 readiness engagement,20000.00,2025-12-24,Closed Won,[SYNTHETIC] Pine Workflow 056,SYNTHETIC FICTION,d2eec5850643-opportunities-000056,true
-[SYNTHETIC] Vendor 057 readiness engagement,30000.00,2025-12-29,Closed Won,[SYNTHETIC] Quartz Workflow 057,SYNTHETIC FICTION,d2eec5850643-opportunities-000057,true
-[SYNTHETIC] Vendor 058 readiness engagement,36000.00,2026-01-04,Closed Won,[SYNTHETIC] River Workflow 058,SYNTHETIC FICTION,d2eec5850643-opportunities-000058,true
-[SYNTHETIC] Vendor 059 readiness engagement,24000.00,2026-01-10,Closed Won,[SYNTHETIC] Silver Workflow 059,SYNTHETIC FICTION,d2eec5850643-opportunities-000059,true
-[SYNTHETIC] Vendor 060 readiness engagement,15000.00,2026-01-16,Closed Won,[SYNTHETIC] Thistle Workflow 060,SYNTHETIC FICTION,d2eec5850643-opportunities-000060,true
-[SYNTHETIC] Vendor 061 readiness engagement,12000.00,2026-01-22,Closed Won,[SYNTHETIC] Amber Signals 061,SYNTHETIC FICTION,d2eec5850643-opportunities-000061,true
-[SYNTHETIC] Vendor 062 readiness engagement,20000.00,2026-01-28,Closed Won,[SYNTHETIC] Birch Signals 062,SYNTHETIC FICTION,d2eec5850643-opportunities-000062,true
-[SYNTHETIC] Vendor 063 readiness engagement,30000.00,2026-02-03,Closed Won,[SYNTHETIC] Cloud Signals 063,SYNTHETIC FICTION,d2eec5850643-opportunities-000063,true
-[SYNTHETIC] Vendor 064 readiness engagement,36000.00,2026-02-09,Closed Won,[SYNTHETIC] Dawn Signals 064,SYNTHETIC FICTION,d2eec5850643-opportunities-000064,true
-[SYNTHETIC] Vendor 065 readiness engagement,24000.00,2026-02-14,Closed Won,[SYNTHETIC] Elm Signals 065,SYNTHETIC FICTION,d2eec5850643-opportunities-000065,true
-[SYNTHETIC] Vendor 066 readiness engagement,15000.00,2026-02-20,Closed Won,[SYNTHETIC] Fern Signals 066,SYNTHETIC FICTION,d2eec5850643-opportunities-000066,true
-[SYNTHETIC] Vendor 067 readiness engagement,12000.00,2026-02-26,Closed Won,[SYNTHETIC] Glen Signals 067,SYNTHETIC FICTION,d2eec5850643-opportunities-000067,true
-[SYNTHETIC] Vendor 068 readiness engagement,20000.00,2026-03-04,Closed Won,[SYNTHETIC] Harbor Signals 068,SYNTHETIC FICTION,d2eec5850643-opportunities-000068,true
-[SYNTHETIC] Vendor 069 readiness engagement,30000.00,2026-03-09,Closed Won,[SYNTHETIC] Ivory Signals 069,SYNTHETIC FICTION,d2eec5850643-opportunities-000069,true
-[SYNTHETIC] Vendor 070 readiness engagement,36000.00,2026-03-15,Closed Won,[SYNTHETIC] Juniper Signals 070,SYNTHETIC FICTION,d2eec5850643-opportunities-000070,true
-[SYNTHETIC] Vendor 071 readiness engagement,24000.00,2026-03-21,Closed Won,[SYNTHETIC] Kestrel Signals 071,SYNTHETIC FICTION,d2eec5850643-opportunities-000071,true
-[SYNTHETIC] Vendor 072 readiness engagement,15000.00,2026-03-27,Closed Won,[SYNTHETIC] Lumen Signals 072,SYNTHETIC FICTION,d2eec5850643-opportunities-000072,true
-[SYNTHETIC] Vendor 073 readiness engagement,12000.00,2026-04-01,Closed Won,[SYNTHETIC] Maple Signals 073,SYNTHETIC FICTION,d2eec5850643-opportunities-000073,true
-[SYNTHETIC] Vendor 074 readiness engagement,20000.00,2026-04-07,Closed Won,[SYNTHETIC] North Signals 074,SYNTHETIC FICTION,d2eec5850643-opportunities-000074,true
-[SYNTHETIC] Vendor 075 readiness engagement,30000.00,2026-04-13,Closed Won,[SYNTHETIC] Opal Signals 075,SYNTHETIC FICTION,d2eec5850643-opportunities-000075,true
-[SYNTHETIC] Vendor 076 readiness engagement,36000.00,2026-04-18,Closed Won,[SYNTHETIC] Pine Signals 076,SYNTHETIC FICTION,d2eec5850643-opportunities-000076,true
-[SYNTHETIC] Vendor 077 readiness engagement,24000.00,2026-04-24,Closed Won,[SYNTHETIC] Quartz Signals 077,SYNTHETIC FICTION,d2eec5850643-opportunities-000077,true
-[SYNTHETIC] Vendor 078 readiness engagement,15000.00,2026-04-29,Closed Won,[SYNTHETIC] River Signals 078,SYNTHETIC FICTION,d2eec5850643-opportunities-000078,true
-[SYNTHETIC] Vendor 079 readiness engagement,12000.00,2026-05-05,Closed Won,[SYNTHETIC] Silver Signals 079,SYNTHETIC FICTION,d2eec5850643-opportunities-000079,true
-[SYNTHETIC] Vendor 080 readiness engagement,20000.00,2026-05-11,Closed Won,[SYNTHETIC] Thistle Signals 080,SYNTHETIC FICTION,d2eec5850643-opportunities-000080,true
-[SYNTHETIC] Vendor 081 readiness engagement,30000.00,2026-05-16,Closed Won,[SYNTHETIC] Amber Platform 081,SYNTHETIC FICTION,d2eec5850643-opportunities-000081,true
-[SYNTHETIC] Vendor 082 readiness engagement,36000.00,2026-05-22,Closed Won,[SYNTHETIC] Birch Platform 082,SYNTHETIC FICTION,d2eec5850643-opportunities-000082,true
-[SYNTHETIC] Vendor 083 readiness engagement,24000.00,2026-05-27,Closed Won,[SYNTHETIC] Cloud Platform 083,SYNTHETIC FICTION,d2eec5850643-opportunities-000083,true
-[SYNTHETIC] Vendor 084 readiness engagement,15000.00,2026-06-02,Closed Won,[SYNTHETIC] Dawn Platform 084,SYNTHETIC FICTION,d2eec5850643-opportunities-000084,true
-[SYNTHETIC] Vendor 085 readiness engagement,12000.00,2026-06-07,Closed Won,[SYNTHETIC] Elm Platform 085,SYNTHETIC FICTION,d2eec5850643-opportunities-000085,true
-[SYNTHETIC] Vendor 086 readiness engagement,20000.00,2026-06-13,Closed Won,[SYNTHETIC] Fern Platform 086,SYNTHETIC FICTION,d2eec5850643-opportunities-000086,true
-[SYNTHETIC] Vendor 087 readiness engagement,30000.00,2026-06-18,Closed Won,[SYNTHETIC] Glen Platform 087,SYNTHETIC FICTION,d2eec5850643-opportunities-000087,true
-[SYNTHETIC] Vendor 088 readiness engagement,36000.00,2026-06-24,Closed Won,[SYNTHETIC] Harbor Platform 088,SYNTHETIC FICTION,d2eec5850643-opportunities-000088,true
-[SYNTHETIC] Vendor 089 readiness engagement,24000.00,2026-06-29,Closed Won,[SYNTHETIC] Ivory Platform 089,SYNTHETIC FICTION,d2eec5850643-opportunities-000089,true
-[SYNTHETIC] Vendor 090 readiness engagement,15000.00,2026-07-05,Closed Won,[SYNTHETIC] Juniper Platform 090,SYNTHETIC FICTION,d2eec5850643-opportunities-000090,true
-[SYNTHETIC] Vendor 091 readiness engagement,12000.00,2026-07-10,Closed Won,[SYNTHETIC] Kestrel Platform 091,SYNTHETIC FICTION,d2eec5850643-opportunities-000091,true
-[SYNTHETIC] Vendor 092 readiness engagement,20000.00,2026-07-16,Closed Won,[SYNTHETIC] Lumen Platform 092,SYNTHETIC FICTION,d2eec5850643-opportunities-000092,true
-[SYNTHETIC] Vendor 093 readiness engagement,30000.00,2026-07-21,Closed Won,[SYNTHETIC] Maple Platform 093,SYNTHETIC FICTION,d2eec5850643-opportunities-000093,true
-[SYNTHETIC] Vendor 094 readiness engagement,36000.00,2026-07-27,Closed Won,[SYNTHETIC] North Platform 094,SYNTHETIC FICTION,d2eec5850643-opportunities-000094,true
-[SYNTHETIC] Vendor 095 readiness engagement,24000.00,2026-08-01,Closed Won,[SYNTHETIC] Opal Platform 095,SYNTHETIC FICTION,d2eec5850643-opportunities-000095,true
-[SYNTHETIC] Vendor 096 readiness engagement,15000.00,2026-08-06,Closed Won,[SYNTHETIC] Pine Platform 096,SYNTHETIC FICTION,d2eec5850643-opportunities-000096,true
-[SYNTHETIC] Vendor 097 readiness engagement,12000.00,2026-08-12,Closed Won,[SYNTHETIC] Quartz Platform 097,SYNTHETIC FICTION,d2eec5850643-opportunities-000097,true
-[SYNTHETIC] Vendor 098 readiness engagement,20000.00,2026-08-17,Closed Won,[SYNTHETIC] River Platform 098,SYNTHETIC FICTION,d2eec5850643-opportunities-000098,true
-[SYNTHETIC] Vendor 099 readiness engagement,30000.00,2026-08-23,Closed Won,[SYNTHETIC] Silver Platform 099,SYNTHETIC FICTION,d2eec5850643-opportunities-000099,true
-[SYNTHETIC] Vendor 100 readiness engagement,36000.00,2026-08-28,Closed Won,[SYNTHETIC] Thistle Platform 100,SYNTHETIC FICTION,d2eec5850643-opportunities-000100,true
-[SYNTHETIC] Vendor 101 readiness engagement,24000.00,2025-05-21,Closed Lost,[SYNTHETIC] Amber Systems 101,SYNTHETIC FICTION,d2eec5850643-opportunities-000101,true
-[SYNTHETIC] Vendor 102 readiness engagement,15000.00,2025-02-16,Closed Lost,[SYNTHETIC] Birch Systems 102,SYNTHETIC FICTION,d2eec5850643-opportunities-000102,true
-[SYNTHETIC] Vendor 103 readiness engagement,12000.00,2025-09-17,Closed Lost,[SYNTHETIC] Cloud Systems 103,SYNTHETIC FICTION,d2eec5850643-opportunities-000103,true
-[SYNTHETIC] Vendor 104 readiness engagement,20000.00,2026-04-16,Closed Lost,[SYNTHETIC] Dawn Systems 104,SYNTHETIC FICTION,d2eec5850643-opportunities-000104,true
-[SYNTHETIC] Vendor 105 readiness engagement,30000.00,2026-06-15,Closed Lost,[SYNTHETIC] Elm Systems 105,SYNTHETIC FICTION,d2eec5850643-opportunities-000105,true
-[SYNTHETIC] Vendor 106 readiness engagement,36000.00,2024-12-16,Closed Lost,[SYNTHETIC] Fern Systems 106,SYNTHETIC FICTION,d2eec5850643-opportunities-000106,true
-[SYNTHETIC] Vendor 107 readiness engagement,24000.00,2026-04-18,Closed Lost,[SYNTHETIC] Glen Systems 107,SYNTHETIC FICTION,d2eec5850643-opportunities-000107,true
-[SYNTHETIC] Vendor 108 readiness engagement,15000.00,2025-10-06,Closed Lost,[SYNTHETIC] Harbor Systems 108,SYNTHETIC FICTION,d2eec5850643-opportunities-000108,true
-[SYNTHETIC] Vendor 109 readiness engagement,12000.00,2025-04-02,Closed Lost,[SYNTHETIC] Ivory Systems 109,SYNTHETIC FICTION,d2eec5850643-opportunities-000109,true
-[SYNTHETIC] Vendor 110 readiness engagement,20000.00,2025-10-24,Closed Lost,[SYNTHETIC] Juniper Systems 110,SYNTHETIC FICTION,d2eec5850643-opportunities-000110,true
-[SYNTHETIC] Vendor 111 readiness engagement,30000.00,2025-10-21,Closed Lost,[SYNTHETIC] Kestrel Systems 111,SYNTHETIC FICTION,d2eec5850643-opportunities-000111,true
-[SYNTHETIC] Vendor 112 readiness engagement,36000.00,2026-06-03,Closed Lost,[SYNTHETIC] Lumen Systems 112,SYNTHETIC FICTION,d2eec5850643-opportunities-000112,true
-[SYNTHETIC] Vendor 113 readiness engagement,24000.00,2026-06-12,Closed Lost,[SYNTHETIC] Maple Systems 113,SYNTHETIC FICTION,d2eec5850643-opportunities-000113,true
-[SYNTHETIC] Vendor 114 readiness engagement,15000.00,2026-08-12,Closed Lost,[SYNTHETIC] North Systems 114,SYNTHETIC FICTION,d2eec5850643-opportunities-000114,true
-[SYNTHETIC] Vendor 115 readiness engagement,12000.00,2025-08-02,Closed Lost,[SYNTHETIC] Opal Systems 115,SYNTHETIC FICTION,d2eec5850643-opportunities-000115,true
-[SYNTHETIC] Vendor 116 readiness engagement,20000.00,2026-06-30,Closed Lost,[SYNTHETIC] Pine Systems 116,SYNTHETIC FICTION,d2eec5850643-opportunities-000116,true
-[SYNTHETIC] Vendor 117 readiness engagement,30000.00,2026-09-29,Closed Lost,[SYNTHETIC] Quartz Systems 117,SYNTHETIC FICTION,d2eec5850643-opportunities-000117,true
-[SYNTHETIC] Vendor 118 readiness engagement,36000.00,2025-09-13,Closed Lost,[SYNTHETIC] River Systems 118,SYNTHETIC FICTION,d2eec5850643-opportunities-000118,true
-[SYNTHETIC] Vendor 119 readiness engagement,24000.00,2025-07-24,Closed Lost,[SYNTHETIC] Silver Systems 119,SYNTHETIC FICTION,d2eec5850643-opportunities-000119,true
-[SYNTHETIC] Vendor 120 readiness engagement,15000.00,2025-05-09,Closed Lost,[SYNTHETIC] Thistle Systems 120,SYNTHETIC FICTION,d2eec5850643-opportunities-000120,true
-[SYNTHETIC] Vendor 121 readiness engagement,12000.00,2024-12-08,Closed Lost,[SYNTHETIC] Amber Analytics 121,SYNTHETIC FICTION,d2eec5850643-opportunities-000121,true
-[SYNTHETIC] Vendor 122 readiness engagement,20000.00,2026-03-30,Closed Lost,[SYNTHETIC] Birch Analytics 122,SYNTHETIC FICTION,d2eec5850643-opportunities-000122,true
-[SYNTHETIC] Vendor 123 readiness engagement,30000.00,2024-12-17,Closed Lost,[SYNTHETIC] Cloud Analytics 123,SYNTHETIC FICTION,d2eec5850643-opportunities-000123,true
-[SYNTHETIC] Vendor 124 readiness engagement,36000.00,2025-12-06,Closed Lost,[SYNTHETIC] Dawn Analytics 124,SYNTHETIC FICTION,d2eec5850643-opportunities-000124,true
-[SYNTHETIC] Vendor 125 readiness engagement,24000.00,2025-03-12,Closed Lost,[SYNTHETIC] Elm Analytics 125,SYNTHETIC FICTION,d2eec5850643-opportunities-000125,true
-[SYNTHETIC] Vendor 126 readiness engagement,15000.00,2025-02-16,Closed Lost,[SYNTHETIC] Fern Analytics 126,SYNTHETIC FICTION,d2eec5850643-opportunities-000126,true
-[SYNTHETIC] Vendor 127 readiness engagement,12000.00,2025-04-04,Closed Lost,[SYNTHETIC] Glen Analytics 127,SYNTHETIC FICTION,d2eec5850643-opportunities-000127,true
-[SYNTHETIC] Vendor 128 readiness engagement,20000.00,2026-01-20,Closed Lost,[SYNTHETIC] Harbor Analytics 128,SYNTHETIC FICTION,d2eec5850643-opportunities-000128,true
-[SYNTHETIC] Vendor 129 readiness engagement,30000.00,2024-12-17,Closed Lost,[SYNTHETIC] Ivory Analytics 129,SYNTHETIC FICTION,d2eec5850643-opportunities-000129,true
-[SYNTHETIC] Vendor 130 readiness engagement,36000.00,2025-11-10,Closed Lost,[SYNTHETIC] Juniper Analytics 130,SYNTHETIC FICTION,d2eec5850643-opportunities-000130,true
-[SYNTHETIC] Vendor 131 readiness engagement,24000.00,2025-12-08,Closed Lost,[SYNTHETIC] Kestrel Analytics 131,SYNTHETIC FICTION,d2eec5850643-opportunities-000131,true
-[SYNTHETIC] Vendor 132 readiness engagement,15000.00,2025-07-05,Closed Lost,[SYNTHETIC] Lumen Analytics 132,SYNTHETIC FICTION,d2eec5850643-opportunities-000132,true
-[SYNTHETIC] Vendor 133 readiness engagement,12000.00,2026-09-13,Closed Lost,[SYNTHETIC] Maple Analytics 133,SYNTHETIC FICTION,d2eec5850643-opportunities-000133,true
-[SYNTHETIC] Vendor 134 readiness engagement,20000.00,2024-12-31,Closed Lost,[SYNTHETIC] North Analytics 134,SYNTHETIC FICTION,d2eec5850643-opportunities-000134,true
-[SYNTHETIC] Vendor 135 readiness engagement,30000.00,2025-06-06,Closed Lost,[SYNTHETIC] Opal Analytics 135,SYNTHETIC FICTION,d2eec5850643-opportunities-000135,true
-[SYNTHETIC] Vendor 136 readiness engagement,36000.00,2024-11-24,Closed Lost,[SYNTHETIC] Pine Analytics 136,SYNTHETIC FICTION,d2eec5850643-opportunities-000136,true
-[SYNTHETIC] Vendor 137 readiness engagement,24000.00,2025-11-22,Closed Lost,[SYNTHETIC] Quartz Analytics 137,SYNTHETIC FICTION,d2eec5850643-opportunities-000137,true
-[SYNTHETIC] Vendor 138 readiness engagement,15000.00,2025-08-18,Closed Lost,[SYNTHETIC] River Analytics 138,SYNTHETIC FICTION,d2eec5850643-opportunities-000138,true
-[SYNTHETIC] Vendor 139 readiness engagement,12000.00,2025-12-15,Closed Lost,[SYNTHETIC] Silver Analytics 139,SYNTHETIC FICTION,d2eec5850643-opportunities-000139,true
-[SYNTHETIC] Vendor 140 readiness engagement,20000.00,2025-06-02,Closed Lost,[SYNTHETIC] Thistle Analytics 140,SYNTHETIC FICTION,d2eec5850643-opportunities-000140,true
-[SYNTHETIC] Vendor 141 readiness engagement,30000.00,2025-11-02,Closed Lost,[SYNTHETIC] Amber Workflow 141,SYNTHETIC FICTION,d2eec5850643-opportunities-000141,true
-[SYNTHETIC] Vendor 142 readiness engagement,36000.00,2026-05-30,Closed Lost,[SYNTHETIC] Birch Workflow 142,SYNTHETIC FICTION,d2eec5850643-opportunities-000142,true
-[SYNTHETIC] Vendor 143 readiness engagement,24000.00,2026-05-07,Closed Lost,[SYNTHETIC] Cloud Workflow 143,SYNTHETIC FICTION,d2eec5850643-opportunities-000143,true
-[SYNTHETIC] Vendor 144 readiness engagement,15000.00,2025-12-04,Closed Lost,[SYNTHETIC] Dawn Workflow 144,SYNTHETIC FICTION,d2eec5850643-opportunities-000144,true
-[SYNTHETIC] Vendor 145 readiness engagement,12000.00,2026-07-12,Closed Lost,[SYNTHETIC] Elm Workflow 145,SYNTHETIC FICTION,d2eec5850643-opportunities-000145,true
-[SYNTHETIC] Vendor 146 readiness engagement,20000.00,2025-04-15,Closed Lost,[SYNTHETIC] Fern Workflow 146,SYNTHETIC FICTION,d2eec5850643-opportunities-000146,true
-[SYNTHETIC] Vendor 147 readiness engagement,30000.00,2025-04-27,Closed Lost,[SYNTHETIC] Glen Workflow 147,SYNTHETIC FICTION,d2eec5850643-opportunities-000147,true
-[SYNTHETIC] Vendor 148 readiness engagement,36000.00,2025-07-13,Closed Lost,[SYNTHETIC] Harbor Workflow 148,SYNTHETIC FICTION,d2eec5850643-opportunities-000148,true
-[SYNTHETIC] Vendor 149 readiness engagement,24000.00,2024-12-11,Closed Lost,[SYNTHETIC] Ivory Workflow 149,SYNTHETIC FICTION,d2eec5850643-opportunities-000149,true
-[SYNTHETIC] Vendor 150 readiness engagement,15000.00,2025-07-19,Closed Lost,[SYNTHETIC] Juniper Workflow 150,SYNTHETIC FICTION,d2eec5850643-opportunities-000150,true
-[SYNTHETIC] Vendor 151 readiness engagement,12000.00,2025-04-03,Closed Lost,[SYNTHETIC] Kestrel Workflow 151,SYNTHETIC FICTION,d2eec5850643-opportunities-000151,true
-[SYNTHETIC] Vendor 152 readiness engagement,20000.00,2026-08-04,Closed Lost,[SYNTHETIC] Lumen Workflow 152,SYNTHETIC FICTION,d2eec5850643-opportunities-000152,true
-[SYNTHETIC] Vendor 153 readiness engagement,30000.00,2024-12-17,Closed Lost,[SYNTHETIC] Maple Workflow 153,SYNTHETIC FICTION,d2eec5850643-opportunities-000153,true
-[SYNTHETIC] Vendor 154 readiness engagement,36000.00,2025-02-24,Closed Lost,[SYNTHETIC] North Workflow 154,SYNTHETIC FICTION,d2eec5850643-opportunities-000154,true
-[SYNTHETIC] Vendor 155 readiness engagement,24000.00,2026-03-13,Closed Lost,[SYNTHETIC] Opal Workflow 155,SYNTHETIC FICTION,d2eec5850643-opportunities-000155,true
-[SYNTHETIC] Vendor 156 readiness engagement,15000.00,2026-05-06,Closed Lost,[SYNTHETIC] Pine Workflow 156,SYNTHETIC FICTION,d2eec5850643-opportunities-000156,true
-[SYNTHETIC] Vendor 157 readiness engagement,12000.00,2025-04-17,Closed Lost,[SYNTHETIC] Quartz Workflow 157,SYNTHETIC FICTION,d2eec5850643-opportunities-000157,true
-[SYNTHETIC] Vendor 158 readiness engagement,20000.00,2025-11-05,Closed Lost,[SYNTHETIC] River Workflow 158,SYNTHETIC FICTION,d2eec5850643-opportunities-000158,true
-[SYNTHETIC] Vendor 159 readiness engagement,30000.00,2025-11-21,Closed Lost,[SYNTHETIC] Silver Workflow 159,SYNTHETIC FICTION,d2eec5850643-opportunities-000159,true
-[SYNTHETIC] Vendor 160 readiness engagement,36000.00,2025-01-18,Closed Lost,[SYNTHETIC] Thistle Workflow 160,SYNTHETIC FICTION,d2eec5850643-opportunities-000160,true
-[SYNTHETIC] Vendor 161 readiness engagement,24000.00,2025-04-26,Closed Lost,[SYNTHETIC] Amber Signals 161,SYNTHETIC FICTION,d2eec5850643-opportunities-000161,true
-[SYNTHETIC] Vendor 162 readiness engagement,15000.00,2025-12-14,Closed Lost,[SYNTHETIC] Birch Signals 162,SYNTHETIC FICTION,d2eec5850643-opportunities-000162,true
-[SYNTHETIC] Vendor 163 readiness engagement,12000.00,2025-07-21,Closed Lost,[SYNTHETIC] Cloud Signals 163,SYNTHETIC FICTION,d2eec5850643-opportunities-000163,true
-[SYNTHETIC] Vendor 164 readiness engagement,20000.00,2024-11-11,Closed Lost,[SYNTHETIC] Dawn Signals 164,SYNTHETIC FICTION,d2eec5850643-opportunities-000164,true
-[SYNTHETIC] Vendor 165 readiness engagement,30000.00,2026-05-16,Closed Lost,[SYNTHETIC] Elm Signals 165,SYNTHETIC FICTION,d2eec5850643-opportunities-000165,true
-[SYNTHETIC] Vendor 166 readiness engagement,36000.00,2025-01-19,Closed Lost,[SYNTHETIC] Fern Signals 166,SYNTHETIC FICTION,d2eec5850643-opportunities-000166,true
-[SYNTHETIC] Vendor 167 readiness engagement,24000.00,2026-09-14,Closed Lost,[SYNTHETIC] Glen Signals 167,SYNTHETIC FICTION,d2eec5850643-opportunities-000167,true
-[SYNTHETIC] Vendor 168 readiness engagement,15000.00,2025-03-16,Closed Lost,[SYNTHETIC] Harbor Signals 168,SYNTHETIC FICTION,d2eec5850643-opportunities-000168,true
-[SYNTHETIC] Vendor 169 readiness engagement,12000.00,2025-07-29,Closed Lost,[SYNTHETIC] Ivory Signals 169,SYNTHETIC FICTION,d2eec5850643-opportunities-000169,true
-[SYNTHETIC] Vendor 170 readiness engagement,20000.00,2025-02-08,Closed Lost,[SYNTHETIC] Juniper Signals 170,SYNTHETIC FICTION,d2eec5850643-opportunities-000170,true
-[SYNTHETIC] Vendor 171 readiness engagement,30000.00,2025-05-27,Closed Lost,[SYNTHETIC] Kestrel Signals 171,SYNTHETIC FICTION,d2eec5850643-opportunities-000171,true
-[SYNTHETIC] Vendor 172 readiness engagement,36000.00,2026-05-20,Closed Lost,[SYNTHETIC] Lumen Signals 172,SYNTHETIC FICTION,d2eec5850643-opportunities-000172,true
-[SYNTHETIC] Vendor 173 readiness engagement,24000.00,2025-05-01,Closed Lost,[SYNTHETIC] Maple Signals 173,SYNTHETIC FICTION,d2eec5850643-opportunities-000173,true
-[SYNTHETIC] Vendor 174 readiness engagement,15000.00,2024-12-11,Closed Lost,[SYNTHETIC] North Signals 174,SYNTHETIC FICTION,d2eec5850643-opportunities-000174,true
-[SYNTHETIC] Vendor 175 readiness engagement,12000.00,2025-07-29,Closed Lost,[SYNTHETIC] Opal Signals 175,SYNTHETIC FICTION,d2eec5850643-opportunities-000175,true
-[SYNTHETIC] Vendor 176 readiness engagement,20000.00,2025-09-13,Closed Lost,[SYNTHETIC] Pine Signals 176,SYNTHETIC FICTION,d2eec5850643-opportunities-000176,true
-[SYNTHETIC] Vendor 177 readiness engagement,30000.00,2026-03-04,Closed Lost,[SYNTHETIC] Quartz Signals 177,SYNTHETIC FICTION,d2eec5850643-opportunities-000177,true
-[SYNTHETIC] Vendor 178 readiness engagement,36000.00,2026-02-08,Closed Lost,[SYNTHETIC] River Signals 178,SYNTHETIC FICTION,d2eec5850643-opportunities-000178,true
-[SYNTHETIC] Vendor 179 readiness engagement,24000.00,2026-01-16,Closed Lost,[SYNTHETIC] Silver Signals 179,SYNTHETIC FICTION,d2eec5850643-opportunities-000179,true
-[SYNTHETIC] Vendor 180 readiness engagement,15000.00,2026-01-11,Closed Lost,[SYNTHETIC] Thistle Signals 180,SYNTHETIC FICTION,d2eec5850643-opportunities-000180,true
-[SYNTHETIC] Vendor 181 readiness engagement,12000.00,2026-01-08,Closed Lost,[SYNTHETIC] Amber Platform 181,SYNTHETIC FICTION,d2eec5850643-opportunities-000181,true
-[SYNTHETIC] Vendor 182 readiness engagement,20000.00,2026-04-25,Closed Lost,[SYNTHETIC] Birch Platform 182,SYNTHETIC FICTION,d2eec5850643-opportunities-000182,true
-[SYNTHETIC] Vendor 183 readiness engagement,30000.00,2024-11-26,Closed Lost,[SYNTHETIC] Cloud Platform 183,SYNTHETIC FICTION,d2eec5850643-opportunities-000183,true
-[SYNTHETIC] Vendor 184 readiness engagement,36000.00,2025-02-10,Closed Lost,[SYNTHETIC] Dawn Platform 184,SYNTHETIC FICTION,d2eec5850643-opportunities-000184,true
-[SYNTHETIC] Vendor 185 readiness engagement,24000.00,2026-07-30,Closed Lost,[SYNTHETIC] Elm Platform 185,SYNTHETIC FICTION,d2eec5850643-opportunities-000185,true
-[SYNTHETIC] Vendor 186 readiness engagement,15000.00,2026-06-06,Closed Lost,[SYNTHETIC] Fern Platform 186,SYNTHETIC FICTION,d2eec5850643-opportunities-000186,true
-[SYNTHETIC] Vendor 187 readiness engagement,12000.00,2025-06-18,Closed Lost,[SYNTHETIC] Glen Platform 187,SYNTHETIC FICTION,d2eec5850643-opportunities-000187,true
-[SYNTHETIC] Vendor 188 readiness engagement,20000.00,2026-01-23,Closed Lost,[SYNTHETIC] Harbor Platform 188,SYNTHETIC FICTION,d2eec5850643-opportunities-000188,true
-[SYNTHETIC] Vendor 189 readiness engagement,30000.00,2025-03-23,Closed Lost,[SYNTHETIC] Ivory Platform 189,SYNTHETIC FICTION,d2eec5850643-opportunities-000189,true
-[SYNTHETIC] Vendor 190 readiness engagement,36000.00,2025-05-21,Closed Lost,[SYNTHETIC] Juniper Platform 190,SYNTHETIC FICTION,d2eec5850643-opportunities-000190,true
-[SYNTHETIC] Vendor 191 readiness engagement,24000.00,2025-04-29,Closed Lost,[SYNTHETIC] Kestrel Platform 191,SYNTHETIC FICTION,d2eec5850643-opportunities-000191,true
-[SYNTHETIC] Vendor 192 readiness engagement,15000.00,2026-01-14,Closed Lost,[SYNTHETIC] Lumen Platform 192,SYNTHETIC FICTION,d2eec5850643-opportunities-000192,true
-[SYNTHETIC] Vendor 193 readiness engagement,12000.00,2025-10-22,Closed Lost,[SYNTHETIC] Maple Platform 193,SYNTHETIC FICTION,d2eec5850643-opportunities-000193,true
-[SYNTHETIC] Vendor 194 readiness engagement,20000.00,2024-12-14,Closed Lost,[SYNTHETIC] North Platform 194,SYNTHETIC FICTION,d2eec5850643-opportunities-000194,true
-[SYNTHETIC] Vendor 195 readiness engagement,30000.00,2025-07-22,Closed Lost,[SYNTHETIC] Opal Platform 195,SYNTHETIC FICTION,d2eec5850643-opportunities-000195,true
-[SYNTHETIC] Vendor 196 readiness engagement,36000.00,2026-10-25,Closed Lost,[SYNTHETIC] Pine Platform 196,SYNTHETIC FICTION,d2eec5850643-opportunities-000196,true
-[SYNTHETIC] Vendor 197 readiness engagement,24000.00,2026-02-05,Closed Lost,[SYNTHETIC] Quartz Platform 197,SYNTHETIC FICTION,d2eec5850643-opportunities-000197,true
-[SYNTHETIC] Vendor 198 readiness engagement,15000.00,2025-07-16,Closed Lost,[SYNTHETIC] River Platform 198,SYNTHETIC FICTION,d2eec5850643-opportunities-000198,true
-[SYNTHETIC] Vendor 199 readiness engagement,12000.00,2026-01-22,Closed Lost,[SYNTHETIC] Silver Platform 199,SYNTHETIC FICTION,d2eec5850643-opportunities-000199,true
-[SYNTHETIC] Vendor 200 readiness engagement,20000.00,2025-09-25,Closed Lost,[SYNTHETIC] Thistle Platform 200,SYNTHETIC FICTION,d2eec5850643-opportunities-000200,true
-[SYNTHETIC] Vendor 201 readiness engagement,30000.00,2026-08-16,Closed Lost,[SYNTHETIC] Amber Systems 201,SYNTHETIC FICTION,d2eec5850643-opportunities-000201,true
-[SYNTHETIC] Vendor 202 readiness engagement,36000.00,2025-02-27,Closed Lost,[SYNTHETIC] Birch Systems 202,SYNTHETIC FICTION,d2eec5850643-opportunities-000202,true
-[SYNTHETIC] Vendor 203 readiness engagement,24000.00,2025-09-02,Closed Lost,[SYNTHETIC] Cloud Systems 203,SYNTHETIC FICTION,d2eec5850643-opportunities-000203,true
-[SYNTHETIC] Vendor 204 readiness engagement,15000.00,2025-10-23,Closed Lost,[SYNTHETIC] Dawn Systems 204,SYNTHETIC FICTION,d2eec5850643-opportunities-000204,true
-[SYNTHETIC] Vendor 205 readiness engagement,12000.00,2024-12-25,Closed Lost,[SYNTHETIC] Elm Systems 205,SYNTHETIC FICTION,d2eec5850643-opportunities-000205,true
-[SYNTHETIC] Vendor 206 readiness engagement,20000.00,2024-11-17,Closed Lost,[SYNTHETIC] Fern Systems 206,SYNTHETIC FICTION,d2eec5850643-opportunities-000206,true
-[SYNTHETIC] Vendor 207 readiness engagement,30000.00,2025-03-05,Closed Lost,[SYNTHETIC] Glen Systems 207,SYNTHETIC FICTION,d2eec5850643-opportunities-000207,true
-[SYNTHETIC] Vendor 208 readiness engagement,36000.00,2025-03-15,Closed Lost,[SYNTHETIC] Harbor Systems 208,SYNTHETIC FICTION,d2eec5850643-opportunities-000208,true
-[SYNTHETIC] Vendor 209 readiness engagement,24000.00,2025-09-25,Closed Lost,[SYNTHETIC] Ivory Systems 209,SYNTHETIC FICTION,d2eec5850643-opportunities-000209,true
-[SYNTHETIC] Vendor 210 readiness engagement,15000.00,2026-07-23,Closed Lost,[SYNTHETIC] Juniper Systems 210,SYNTHETIC FICTION,d2eec5850643-opportunities-000210,true
-[SYNTHETIC] Vendor 211 readiness engagement,12000.00,2025-05-20,Closed Lost,[SYNTHETIC] Kestrel Systems 211,SYNTHETIC FICTION,d2eec5850643-opportunities-000211,true
-[SYNTHETIC] Vendor 212 readiness engagement,20000.00,2026-06-04,Closed Lost,[SYNTHETIC] Lumen Systems 212,SYNTHETIC FICTION,d2eec5850643-opportunities-000212,true
-[SYNTHETIC] Vendor 213 readiness engagement,30000.00,2025-10-27,Closed Lost,[SYNTHETIC] Maple Systems 213,SYNTHETIC FICTION,d2eec5850643-opportunities-000213,true
-[SYNTHETIC] Vendor 214 readiness engagement,36000.00,2025-06-16,Closed Lost,[SYNTHETIC] North Systems 214,SYNTHETIC FICTION,d2eec5850643-opportunities-000214,true
-[SYNTHETIC] Vendor 215 readiness engagement,24000.00,2025-10-02,Closed Lost,[SYNTHETIC] Opal Systems 215,SYNTHETIC FICTION,d2eec5850643-opportunities-000215,true
-[SYNTHETIC] Vendor 216 readiness engagement,15000.00,2026-07-07,Closed Lost,[SYNTHETIC] Pine Systems 216,SYNTHETIC FICTION,d2eec5850643-opportunities-000216,true
-[SYNTHETIC] Vendor 217 readiness engagement,12000.00,2025-12-09,Closed Lost,[SYNTHETIC] Quartz Systems 217,SYNTHETIC FICTION,d2eec5850643-opportunities-000217,true
-[SYNTHETIC] Vendor 218 readiness engagement,20000.00,2024-12-03,Closed Lost,[SYNTHETIC] River Systems 218,SYNTHETIC FICTION,d2eec5850643-opportunities-000218,true
-[SYNTHETIC] Vendor 219 readiness engagement,30000.00,2026-04-28,Closed Lost,[SYNTHETIC] Silver Systems 219,SYNTHETIC FICTION,d2eec5850643-opportunities-000219,true
-[SYNTHETIC] Vendor 220 readiness engagement,36000.00,2026-07-25,Closed Lost,[SYNTHETIC] Thistle Systems 220,SYNTHETIC FICTION,d2eec5850643-opportunities-000220,true
-[SYNTHETIC] Vendor 221 readiness engagement,24000.00,2025-11-30,Closed Lost,[SYNTHETIC] Amber Analytics 221,SYNTHETIC FICTION,d2eec5850643-opportunities-000221,true
-[SYNTHETIC] Vendor 222 readiness engagement,15000.00,2025-09-04,Closed Lost,[SYNTHETIC] Birch Analytics 222,SYNTHETIC FICTION,d2eec5850643-opportunities-000222,true
-[SYNTHETIC] Vendor 223 readiness engagement,12000.00,2025-06-11,Closed Lost,[SYNTHETIC] Cloud Analytics 223,SYNTHETIC FICTION,d2eec5850643-opportunities-000223,true
-[SYNTHETIC] Vendor 224 readiness engagement,20000.00,2025-01-04,Closed Lost,[SYNTHETIC] Dawn Analytics 224,SYNTHETIC FICTION,d2eec5850643-opportunities-000224,true
-[SYNTHETIC] Vendor 225 readiness engagement,30000.00,2025-06-05,Closed Lost,[SYNTHETIC] Elm Analytics 225,SYNTHETIC FICTION,d2eec5850643-opportunities-000225,true
-[SYNTHETIC] Vendor 226 readiness engagement,36000.00,2026-10-07,Closed Lost,[SYNTHETIC] Fern Analytics 226,SYNTHETIC FICTION,d2eec5850643-opportunities-000226,true
-[SYNTHETIC] Vendor 227 readiness engagement,24000.00,2025-09-03,Closed Lost,[SYNTHETIC] Glen Analytics 227,SYNTHETIC FICTION,d2eec5850643-opportunities-000227,true
-[SYNTHETIC] Vendor 228 readiness engagement,15000.00,2026-07-04,Closed Lost,[SYNTHETIC] Harbor Analytics 228,SYNTHETIC FICTION,d2eec5850643-opportunities-000228,true
-[SYNTHETIC] Vendor 229 readiness engagement,12000.00,2026-02-13,Closed Lost,[SYNTHETIC] Ivory Analytics 229,SYNTHETIC FICTION,d2eec5850643-opportunities-000229,true
-[SYNTHETIC] Vendor 230 readiness engagement,20000.00,2025-09-26,Closed Lost,[SYNTHETIC] Juniper Analytics 230,SYNTHETIC FICTION,d2eec5850643-opportunities-000230,true
-[SYNTHETIC] Vendor 231 readiness engagement,30000.00,2025-05-13,Closed Lost,[SYNTHETIC] Kestrel Analytics 231,SYNTHETIC FICTION,d2eec5850643-opportunities-000231,true
-[SYNTHETIC] Vendor 232 readiness engagement,36000.00,2024-12-17,Closed Lost,[SYNTHETIC] Lumen Analytics 232,SYNTHETIC FICTION,d2eec5850643-opportunities-000232,true
-[SYNTHETIC] Vendor 233 readiness engagement,24000.00,2025-07-09,Closed Lost,[SYNTHETIC] Maple Analytics 233,SYNTHETIC FICTION,d2eec5850643-opportunities-000233,true
-[SYNTHETIC] Vendor 234 readiness engagement,15000.00,2026-10-20,Closed Lost,[SYNTHETIC] North Analytics 234,SYNTHETIC FICTION,d2eec5850643-opportunities-000234,true
-[SYNTHETIC] Vendor 235 readiness engagement,12000.00,2025-11-14,Closed Lost,[SYNTHETIC] Opal Analytics 235,SYNTHETIC FICTION,d2eec5850643-opportunities-000235,true
-[SYNTHETIC] Vendor 236 readiness engagement,20000.00,2024-12-15,Closed Lost,[SYNTHETIC] Pine Analytics 236,SYNTHETIC FICTION,d2eec5850643-opportunities-000236,true
-[SYNTHETIC] Vendor 237 readiness engagement,30000.00,2025-05-05,Closed Lost,[SYNTHETIC] Quartz Analytics 237,SYNTHETIC FICTION,d2eec5850643-opportunities-000237,true
-[SYNTHETIC] Vendor 238 readiness engagement,36000.00,2026-01-11,Closed Lost,[SYNTHETIC] River Analytics 238,SYNTHETIC FICTION,d2eec5850643-opportunities-000238,true
-[SYNTHETIC] Vendor 239 readiness engagement,24000.00,2025-03-02,Closed Lost,[SYNTHETIC] Silver Analytics 239,SYNTHETIC FICTION,d2eec5850643-opportunities-000239,true
-[SYNTHETIC] Vendor 240 readiness engagement,15000.00,2024-12-29,Closed Lost,[SYNTHETIC] Thistle Analytics 240,SYNTHETIC FICTION,d2eec5850643-opportunities-000240,true
-[SYNTHETIC] Vendor 241 readiness engagement,12000.00,2026-11-11,Nurturing,[SYNTHETIC] Amber Workflow 241,SYNTHETIC FICTION,d2eec5850643-opportunities-000241,true
-[SYNTHETIC] Vendor 242 readiness engagement,20000.00,2026-11-12,Nurturing,[SYNTHETIC] Birch Workflow 242,SYNTHETIC FICTION,d2eec5850643-opportunities-000242,true
-[SYNTHETIC] Vendor 243 readiness engagement,30000.00,2026-11-13,Nurturing,[SYNTHETIC] Cloud Workflow 243,SYNTHETIC FICTION,d2eec5850643-opportunities-000243,true
-[SYNTHETIC] Vendor 244 readiness engagement,36000.00,2026-11-14,Nurturing,[SYNTHETIC] Dawn Workflow 244,SYNTHETIC FICTION,d2eec5850643-opportunities-000244,true
-[SYNTHETIC] Vendor 245 readiness engagement,24000.00,2026-11-15,Nurturing,[SYNTHETIC] Elm Workflow 245,SYNTHETIC FICTION,d2eec5850643-opportunities-000245,true
-[SYNTHETIC] Vendor 246 readiness engagement,15000.00,2026-11-16,Nurturing,[SYNTHETIC] Fern Workflow 246,SYNTHETIC FICTION,d2eec5850643-opportunities-000246,true
-[SYNTHETIC] Vendor 247 readiness engagement,12000.00,2026-11-17,Nurturing,[SYNTHETIC] Glen Workflow 247,SYNTHETIC FICTION,d2eec5850643-opportunities-000247,true
-[SYNTHETIC] Vendor 248 readiness engagement,20000.00,2026-11-18,Nurturing,[SYNTHETIC] Harbor Workflow 248,SYNTHETIC FICTION,d2eec5850643-opportunities-000248,true
-[SYNTHETIC] Vendor 249 readiness engagement,30000.00,2026-11-19,Nurturing,[SYNTHETIC] Ivory Workflow 249,SYNTHETIC FICTION,d2eec5850643-opportunities-000249,true
-[SYNTHETIC] Vendor 250 readiness engagement,36000.00,2026-11-20,Nurturing,[SYNTHETIC] Juniper Workflow 250,SYNTHETIC FICTION,d2eec5850643-opportunities-000250,true
-[SYNTHETIC] Vendor 251 readiness engagement,24000.00,2026-11-21,Nurturing,[SYNTHETIC] Kestrel Workflow 251,SYNTHETIC FICTION,d2eec5850643-opportunities-000251,true
-[SYNTHETIC] Vendor 252 readiness engagement,15000.00,2026-11-22,Nurturing,[SYNTHETIC] Lumen Workflow 252,SYNTHETIC FICTION,d2eec5850643-opportunities-000252,true
-[SYNTHETIC] Vendor 253 readiness engagement,12000.00,2026-11-23,Nurturing,[SYNTHETIC] Maple Workflow 253,SYNTHETIC FICTION,d2eec5850643-opportunities-000253,true
-[SYNTHETIC] Vendor 254 readiness engagement,20000.00,2026-11-24,Nurturing,[SYNTHETIC] North Workflow 254,SYNTHETIC FICTION,d2eec5850643-opportunities-000254,true
-[SYNTHETIC] Vendor 255 readiness engagement,30000.00,2026-11-25,Nurturing,[SYNTHETIC] Opal Workflow 255,SYNTHETIC FICTION,d2eec5850643-opportunities-000255,true
-[SYNTHETIC] Vendor 256 readiness engagement,36000.00,2026-11-26,Nurturing,[SYNTHETIC] Pine Workflow 256,SYNTHETIC FICTION,d2eec5850643-opportunities-000256,true
-[SYNTHETIC] Vendor 257 readiness engagement,24000.00,2026-11-27,Nurturing,[SYNTHETIC] Quartz Workflow 257,SYNTHETIC FICTION,d2eec5850643-opportunities-000257,true
-[SYNTHETIC] Vendor 258 readiness engagement,15000.00,2026-11-28,Nurturing,[SYNTHETIC] River Workflow 258,SYNTHETIC FICTION,d2eec5850643-opportunities-000258,true
-[SYNTHETIC] Vendor 259 readiness engagement,12000.00,2026-11-29,Nurturing,[SYNTHETIC] Silver Workflow 259,SYNTHETIC FICTION,d2eec5850643-opportunities-000259,true
-[SYNTHETIC] Vendor 260 readiness engagement,20000.00,2026-11-30,Nurturing,[SYNTHETIC] Thistle Workflow 260,SYNTHETIC FICTION,d2eec5850643-opportunities-000260,true
-[SYNTHETIC] Vendor 261 readiness engagement,30000.00,2026-12-01,Nurturing,[SYNTHETIC] Amber Signals 261,SYNTHETIC FICTION,d2eec5850643-opportunities-000261,true
-[SYNTHETIC] Vendor 262 readiness engagement,36000.00,2026-12-02,Nurturing,[SYNTHETIC] Birch Signals 262,SYNTHETIC FICTION,d2eec5850643-opportunities-000262,true
-[SYNTHETIC] Vendor 263 readiness engagement,24000.00,2026-12-03,Nurturing,[SYNTHETIC] Cloud Signals 263,SYNTHETIC FICTION,d2eec5850643-opportunities-000263,true
-[SYNTHETIC] Vendor 264 readiness engagement,15000.00,2026-12-04,Nurturing,[SYNTHETIC] Dawn Signals 264,SYNTHETIC FICTION,d2eec5850643-opportunities-000264,true
-[SYNTHETIC] Vendor 265 readiness engagement,12000.00,2026-12-05,Nurturing,[SYNTHETIC] Elm Signals 265,SYNTHETIC FICTION,d2eec5850643-opportunities-000265,true
-[SYNTHETIC] Vendor 266 readiness engagement,20000.00,2026-12-06,Nurturing,[SYNTHETIC] Fern Signals 266,SYNTHETIC FICTION,d2eec5850643-opportunities-000266,true
-[SYNTHETIC] Vendor 267 readiness engagement,30000.00,2026-12-07,Nurturing,[SYNTHETIC] Glen Signals 267,SYNTHETIC FICTION,d2eec5850643-opportunities-000267,true
-[SYNTHETIC] Vendor 268 readiness engagement,36000.00,2026-12-08,Nurturing,[SYNTHETIC] Harbor Signals 268,SYNTHETIC FICTION,d2eec5850643-opportunities-000268,true
-[SYNTHETIC] Vendor 269 readiness engagement,24000.00,2026-12-09,Nurturing,[SYNTHETIC] Ivory Signals 269,SYNTHETIC FICTION,d2eec5850643-opportunities-000269,true
-[SYNTHETIC] Vendor 270 readiness engagement,15000.00,2026-12-10,Nurturing,[SYNTHETIC] Juniper Signals 270,SYNTHETIC FICTION,d2eec5850643-opportunities-000270,true
-[SYNTHETIC] Vendor 271 readiness engagement,12000.00,2026-12-11,Nurturing,[SYNTHETIC] Kestrel Signals 271,SYNTHETIC FICTION,d2eec5850643-opportunities-000271,true
-[SYNTHETIC] Vendor 272 readiness engagement,20000.00,2026-12-12,Nurturing,[SYNTHETIC] Lumen Signals 272,SYNTHETIC FICTION,d2eec5850643-opportunities-000272,true
-[SYNTHETIC] Vendor 273 readiness engagement,30000.00,2026-12-13,Nurturing,[SYNTHETIC] Maple Signals 273,SYNTHETIC FICTION,d2eec5850643-opportunities-000273,true
-[SYNTHETIC] Vendor 274 readiness engagement,36000.00,2026-12-14,Nurturing,[SYNTHETIC] North Signals 274,SYNTHETIC FICTION,d2eec5850643-opportunities-000274,true
-[SYNTHETIC] Vendor 275 readiness engagement,24000.00,2026-12-15,Nurturing,[SYNTHETIC] Opal Signals 275,SYNTHETIC FICTION,d2eec5850643-opportunities-000275,true
-[SYNTHETIC] Vendor 276 readiness engagement,15000.00,2026-12-16,Nurturing,[SYNTHETIC] Pine Signals 276,SYNTHETIC FICTION,d2eec5850643-opportunities-000276,true
-[SYNTHETIC] Vendor 277 readiness engagement,12000.00,2026-12-17,Nurturing,[SYNTHETIC] Quartz Signals 277,SYNTHETIC FICTION,d2eec5850643-opportunities-000277,true
-[SYNTHETIC] Vendor 278 readiness engagement,20000.00,2026-12-18,Nurturing,[SYNTHETIC] River Signals 278,SYNTHETIC FICTION,d2eec5850643-opportunities-000278,true
-[SYNTHETIC] Vendor 279 readiness engagement,30000.00,2026-12-19,Nurturing,[SYNTHETIC] Silver Signals 279,SYNTHETIC FICTION,d2eec5850643-opportunities-000279,true
-[SYNTHETIC] Vendor 280 readiness engagement,36000.00,2026-12-20,Nurturing,[SYNTHETIC] Thistle Signals 280,SYNTHETIC FICTION,d2eec5850643-opportunities-000280,true
-[SYNTHETIC] Vendor 281 readiness engagement,24000.00,2026-12-21,Nurturing,[SYNTHETIC] Amber Platform 281,SYNTHETIC FICTION,d2eec5850643-opportunities-000281,true
-[SYNTHETIC] Vendor 282 readiness engagement,15000.00,2026-12-22,Nurturing,[SYNTHETIC] Birch Platform 282,SYNTHETIC FICTION,d2eec5850643-opportunities-000282,true
-[SYNTHETIC] Vendor 283 readiness engagement,12000.00,2026-12-23,Nurturing,[SYNTHETIC] Cloud Platform 283,SYNTHETIC FICTION,d2eec5850643-opportunities-000283,true
-[SYNTHETIC] Vendor 284 readiness engagement,20000.00,2026-12-24,Nurturing,[SYNTHETIC] Dawn Platform 284,SYNTHETIC FICTION,d2eec5850643-opportunities-000284,true
-[SYNTHETIC] Vendor 285 readiness engagement,30000.00,2026-12-25,Nurturing,[SYNTHETIC] Elm Platform 285,SYNTHETIC FICTION,d2eec5850643-opportunities-000285,true
-[SYNTHETIC] Vendor 286 readiness engagement,36000.00,2026-12-26,Nurturing,[SYNTHETIC] Fern Platform 286,SYNTHETIC FICTION,d2eec5850643-opportunities-000286,true
-[SYNTHETIC] Vendor 287 readiness engagement,24000.00,2026-12-27,Nurturing,[SYNTHETIC] Glen Platform 287,SYNTHETIC FICTION,d2eec5850643-opportunities-000287,true
-[SYNTHETIC] Vendor 288 readiness engagement,15000.00,2026-12-28,Nurturing,[SYNTHETIC] Harbor Platform 288,SYNTHETIC FICTION,d2eec5850643-opportunities-000288,true
-[SYNTHETIC] Vendor 289 readiness engagement,12000.00,2026-12-29,Nurturing,[SYNTHETIC] Ivory Platform 289,SYNTHETIC FICTION,d2eec5850643-opportunities-000289,true
-[SYNTHETIC] Vendor 290 readiness engagement,20000.00,2026-12-30,Nurturing,[SYNTHETIC] Juniper Platform 290,SYNTHETIC FICTION,d2eec5850643-opportunities-000290,true
-[SYNTHETIC] Vendor 291 readiness engagement,30000.00,2026-12-31,Nurturing,[SYNTHETIC] Kestrel Platform 291,SYNTHETIC FICTION,d2eec5850643-opportunities-000291,true
-[SYNTHETIC] Vendor 292 readiness engagement,36000.00,2027-01-01,Nurturing,[SYNTHETIC] Lumen Platform 292,SYNTHETIC FICTION,d2eec5850643-opportunities-000292,true
-[SYNTHETIC] Vendor 293 readiness engagement,24000.00,2027-01-02,Nurturing,[SYNTHETIC] Maple Platform 293,SYNTHETIC FICTION,d2eec5850643-opportunities-000293,true
-[SYNTHETIC] Vendor 294 readiness engagement,15000.00,2027-01-03,Nurturing,[SYNTHETIC] North Platform 294,SYNTHETIC FICTION,d2eec5850643-opportunities-000294,true
-[SYNTHETIC] Vendor 295 readiness engagement,12000.00,2027-01-04,Nurturing,[SYNTHETIC] Opal Platform 295,SYNTHETIC FICTION,d2eec5850643-opportunities-000295,true
-[SYNTHETIC] Vendor 296 readiness engagement,20000.00,2027-01-05,Nurturing,[SYNTHETIC] Pine Platform 296,SYNTHETIC FICTION,d2eec5850643-opportunities-000296,true
-[SYNTHETIC] Vendor 297 readiness engagement,30000.00,2027-01-06,Nurturing,[SYNTHETIC] Quartz Platform 297,SYNTHETIC FICTION,d2eec5850643-opportunities-000297,true
-[SYNTHETIC] Vendor 298 readiness engagement,36000.00,2027-01-07,Nurturing,[SYNTHETIC] River Platform 298,SYNTHETIC FICTION,d2eec5850643-opportunities-000298,true
-[SYNTHETIC] Vendor 299 readiness engagement,24000.00,2027-01-08,Nurturing,[SYNTHETIC] Silver Platform 299,SYNTHETIC FICTION,d2eec5850643-opportunities-000299,true
-[SYNTHETIC] Vendor 300 readiness engagement,15000.00,2027-01-09,Nurturing,[SYNTHETIC] Thistle Platform 300,SYNTHETIC FICTION,d2eec5850643-opportunities-000300,true
-[SYNTHETIC] Vendor 301 readiness engagement,12000.00,2026-11-11,Nurturing,[SYNTHETIC] Amber Systems 301,SYNTHETIC FICTION,d2eec5850643-opportunities-000301,true
-[SYNTHETIC] Vendor 302 readiness engagement,20000.00,2026-11-12,Nurturing,[SYNTHETIC] Birch Systems 302,SYNTHETIC FICTION,d2eec5850643-opportunities-000302,true
-[SYNTHETIC] Vendor 303 readiness engagement,30000.00,2026-11-13,Nurturing,[SYNTHETIC] Cloud Systems 303,SYNTHETIC FICTION,d2eec5850643-opportunities-000303,true
-[SYNTHETIC] Vendor 304 readiness engagement,36000.00,2026-11-14,Nurturing,[SYNTHETIC] Dawn Systems 304,SYNTHETIC FICTION,d2eec5850643-opportunities-000304,true
-[SYNTHETIC] Vendor 305 readiness engagement,24000.00,2026-11-15,Nurturing,[SYNTHETIC] Elm Systems 305,SYNTHETIC FICTION,d2eec5850643-opportunities-000305,true
-[SYNTHETIC] Vendor 306 readiness engagement,15000.00,2026-11-16,Nurturing,[SYNTHETIC] Fern Systems 306,SYNTHETIC FICTION,d2eec5850643-opportunities-000306,true
-[SYNTHETIC] Vendor 307 readiness engagement,12000.00,2026-11-17,Nurturing,[SYNTHETIC] Glen Systems 307,SYNTHETIC FICTION,d2eec5850643-opportunities-000307,true
-[SYNTHETIC] Vendor 308 readiness engagement,20000.00,2026-11-18,Nurturing,[SYNTHETIC] Harbor Systems 308,SYNTHETIC FICTION,d2eec5850643-opportunities-000308,true
-[SYNTHETIC] Vendor 309 readiness engagement,30000.00,2026-11-19,Nurturing,[SYNTHETIC] Ivory Systems 309,SYNTHETIC FICTION,d2eec5850643-opportunities-000309,true
-[SYNTHETIC] Vendor 310 readiness engagement,36000.00,2026-11-20,Nurturing,[SYNTHETIC] Juniper Systems 310,SYNTHETIC FICTION,d2eec5850643-opportunities-000310,true
-[SYNTHETIC] Vendor 311 readiness engagement,24000.00,2026-11-21,Nurturing,[SYNTHETIC] Kestrel Systems 311,SYNTHETIC FICTION,d2eec5850643-opportunities-000311,true
-[SYNTHETIC] Vendor 312 readiness engagement,15000.00,2026-11-22,Nurturing,[SYNTHETIC] Lumen Systems 312,SYNTHETIC FICTION,d2eec5850643-opportunities-000312,true
-[SYNTHETIC] Vendor 313 readiness engagement,12000.00,2026-11-23,Nurturing,[SYNTHETIC] Maple Systems 313,SYNTHETIC FICTION,d2eec5850643-opportunities-000313,true
-[SYNTHETIC] Vendor 314 readiness engagement,20000.00,2026-11-24,Nurturing,[SYNTHETIC] North Systems 314,SYNTHETIC FICTION,d2eec5850643-opportunities-000314,true
-[SYNTHETIC] Vendor 315 readiness engagement,30000.00,2026-11-25,Nurturing,[SYNTHETIC] Opal Systems 315,SYNTHETIC FICTION,d2eec5850643-opportunities-000315,true
-[SYNTHETIC] Vendor 316 readiness engagement,36000.00,2026-11-26,Nurturing,[SYNTHETIC] Pine Systems 316,SYNTHETIC FICTION,d2eec5850643-opportunities-000316,true
-[SYNTHETIC] Vendor 317 readiness engagement,24000.00,2026-11-27,Nurturing,[SYNTHETIC] Quartz Systems 317,SYNTHETIC FICTION,d2eec5850643-opportunities-000317,true
-[SYNTHETIC] Vendor 318 readiness engagement,15000.00,2026-11-28,Nurturing,[SYNTHETIC] River Systems 318,SYNTHETIC FICTION,d2eec5850643-opportunities-000318,true
-[SYNTHETIC] Vendor 319 readiness engagement,12000.00,2026-11-29,Nurturing,[SYNTHETIC] Silver Systems 319,SYNTHETIC FICTION,d2eec5850643-opportunities-000319,true
-[SYNTHETIC] Vendor 320 readiness engagement,20000.00,2026-11-30,Nurturing,[SYNTHETIC] Thistle Systems 320,SYNTHETIC FICTION,d2eec5850643-opportunities-000320,true
-[SYNTHETIC] Vendor 321 readiness engagement,30000.00,2026-12-01,Qualification,[SYNTHETIC] Amber Analytics 321,SYNTHETIC FICTION,d2eec5850643-opportunities-000321,true
-[SYNTHETIC] Vendor 322 readiness engagement,36000.00,2026-12-02,Qualification,[SYNTHETIC] Birch Analytics 322,SYNTHETIC FICTION,d2eec5850643-opportunities-000322,true
-[SYNTHETIC] Vendor 323 readiness engagement,24000.00,2026-12-03,Qualification,[SYNTHETIC] Cloud Analytics 323,SYNTHETIC FICTION,d2eec5850643-opportunities-000323,true
-[SYNTHETIC] Vendor 324 readiness engagement,15000.00,2026-12-04,Qualification,[SYNTHETIC] Dawn Analytics 324,SYNTHETIC FICTION,d2eec5850643-opportunities-000324,true
-[SYNTHETIC] Vendor 325 readiness engagement,12000.00,2026-12-05,Qualification,[SYNTHETIC] Elm Analytics 325,SYNTHETIC FICTION,d2eec5850643-opportunities-000325,true
-[SYNTHETIC] Vendor 326 readiness engagement,20000.00,2026-12-06,Qualification,[SYNTHETIC] Fern Analytics 326,SYNTHETIC FICTION,d2eec5850643-opportunities-000326,true
-[SYNTHETIC] Vendor 327 readiness engagement,30000.00,2026-12-07,Qualification,[SYNTHETIC] Glen Analytics 327,SYNTHETIC FICTION,d2eec5850643-opportunities-000327,true
-[SYNTHETIC] Vendor 328 readiness engagement,36000.00,2026-12-08,Qualification,[SYNTHETIC] Harbor Analytics 328,SYNTHETIC FICTION,d2eec5850643-opportunities-000328,true
-[SYNTHETIC] Vendor 329 readiness engagement,24000.00,2026-12-09,Qualification,[SYNTHETIC] Ivory Analytics 329,SYNTHETIC FICTION,d2eec5850643-opportunities-000329,true
-[SYNTHETIC] Vendor 330 readiness engagement,15000.00,2026-12-10,Qualification,[SYNTHETIC] Juniper Analytics 330,SYNTHETIC FICTION,d2eec5850643-opportunities-000330,true
-[SYNTHETIC] Vendor 331 readiness engagement,12000.00,2026-12-11,Qualification,[SYNTHETIC] Kestrel Analytics 331,SYNTHETIC FICTION,d2eec5850643-opportunities-000331,true
-[SYNTHETIC] Vendor 332 readiness engagement,20000.00,2026-12-12,Qualification,[SYNTHETIC] Lumen Analytics 332,SYNTHETIC FICTION,d2eec5850643-opportunities-000332,true
-[SYNTHETIC] Vendor 333 readiness engagement,30000.00,2026-12-13,Qualification,[SYNTHETIC] Maple Analytics 333,SYNTHETIC FICTION,d2eec5850643-opportunities-000333,true
-[SYNTHETIC] Vendor 334 readiness engagement,36000.00,2026-12-14,Qualification,[SYNTHETIC] North Analytics 334,SYNTHETIC FICTION,d2eec5850643-opportunities-000334,true
-[SYNTHETIC] Vendor 335 readiness engagement,24000.00,2026-12-15,Qualification,[SYNTHETIC] Opal Analytics 335,SYNTHETIC FICTION,d2eec5850643-opportunities-000335,true
-[SYNTHETIC] Vendor 336 readiness engagement,15000.00,2026-12-16,Qualification,[SYNTHETIC] Pine Analytics 336,SYNTHETIC FICTION,d2eec5850643-opportunities-000336,true
-[SYNTHETIC] Vendor 337 readiness engagement,12000.00,2026-12-17,Qualification,[SYNTHETIC] Quartz Analytics 337,SYNTHETIC FICTION,d2eec5850643-opportunities-000337,true
-[SYNTHETIC] Vendor 338 readiness engagement,20000.00,2026-12-18,Qualification,[SYNTHETIC] River Analytics 338,SYNTHETIC FICTION,d2eec5850643-opportunities-000338,true
-[SYNTHETIC] Vendor 339 readiness engagement,30000.00,2026-12-19,Qualification,[SYNTHETIC] Silver Analytics 339,SYNTHETIC FICTION,d2eec5850643-opportunities-000339,true
-[SYNTHETIC] Vendor 340 readiness engagement,36000.00,2026-12-20,Qualification,[SYNTHETIC] Thistle Analytics 340,SYNTHETIC FICTION,d2eec5850643-opportunities-000340,true
-[SYNTHETIC] Vendor 341 readiness engagement,24000.00,2026-12-21,Qualification,[SYNTHETIC] Amber Workflow 341,SYNTHETIC FICTION,d2eec5850643-opportunities-000341,true
-[SYNTHETIC] Vendor 342 readiness engagement,15000.00,2026-12-22,Qualification,[SYNTHETIC] Birch Workflow 342,SYNTHETIC FICTION,d2eec5850643-opportunities-000342,true
-[SYNTHETIC] Vendor 343 readiness engagement,12000.00,2026-12-23,Qualification,[SYNTHETIC] Cloud Workflow 343,SYNTHETIC FICTION,d2eec5850643-opportunities-000343,true
-[SYNTHETIC] Vendor 344 readiness engagement,20000.00,2026-12-24,Qualification,[SYNTHETIC] Dawn Workflow 344,SYNTHETIC FICTION,d2eec5850643-opportunities-000344,true
-[SYNTHETIC] Vendor 345 readiness engagement,30000.00,2026-12-25,Qualification,[SYNTHETIC] Elm Workflow 345,SYNTHETIC FICTION,d2eec5850643-opportunities-000345,true
-[SYNTHETIC] Vendor 346 readiness engagement,36000.00,2026-12-26,Qualification,[SYNTHETIC] Fern Workflow 346,SYNTHETIC FICTION,d2eec5850643-opportunities-000346,true
-[SYNTHETIC] Vendor 347 readiness engagement,24000.00,2026-12-27,Qualification,[SYNTHETIC] Glen Workflow 347,SYNTHETIC FICTION,d2eec5850643-opportunities-000347,true
-[SYNTHETIC] Vendor 348 readiness engagement,15000.00,2026-12-28,Qualification,[SYNTHETIC] Harbor Workflow 348,SYNTHETIC FICTION,d2eec5850643-opportunities-000348,true
-[SYNTHETIC] Vendor 349 readiness engagement,12000.00,2026-12-29,Qualification,[SYNTHETIC] Ivory Workflow 349,SYNTHETIC FICTION,d2eec5850643-opportunities-000349,true
-[SYNTHETIC] Vendor 350 readiness engagement,20000.00,2026-12-30,Qualification,[SYNTHETIC] Juniper Workflow 350,SYNTHETIC FICTION,d2eec5850643-opportunities-000350,true
-[SYNTHETIC] Vendor 351 readiness engagement,30000.00,2026-12-31,Qualification,[SYNTHETIC] Kestrel Workflow 351,SYNTHETIC FICTION,d2eec5850643-opportunities-000351,true
-[SYNTHETIC] Vendor 352 readiness engagement,36000.00,2027-01-01,Qualification,[SYNTHETIC] Lumen Workflow 352,SYNTHETIC FICTION,d2eec5850643-opportunities-000352,true
-[SYNTHETIC] Vendor 353 readiness engagement,24000.00,2027-01-02,Qualification,[SYNTHETIC] Maple Workflow 353,SYNTHETIC FICTION,d2eec5850643-opportunities-000353,true
-[SYNTHETIC] Vendor 354 readiness engagement,15000.00,2027-01-03,Qualification,[SYNTHETIC] North Workflow 354,SYNTHETIC FICTION,d2eec5850643-opportunities-000354,true
-[SYNTHETIC] Vendor 355 readiness engagement,12000.00,2027-01-04,Qualification,[SYNTHETIC] Opal Workflow 355,SYNTHETIC FICTION,d2eec5850643-opportunities-000355,true
-[SYNTHETIC] Vendor 356 readiness engagement,20000.00,2027-01-05,Qualification,[SYNTHETIC] Pine Workflow 356,SYNTHETIC FICTION,d2eec5850643-opportunities-000356,true
-[SYNTHETIC] Vendor 357 readiness engagement,30000.00,2027-01-06,Qualification,[SYNTHETIC] Quartz Workflow 357,SYNTHETIC FICTION,d2eec5850643-opportunities-000357,true
-[SYNTHETIC] Vendor 358 readiness engagement,36000.00,2027-01-07,Qualification,[SYNTHETIC] River Workflow 358,SYNTHETIC FICTION,d2eec5850643-opportunities-000358,true
-[SYNTHETIC] Vendor 359 readiness engagement,24000.00,2027-01-08,Qualification,[SYNTHETIC] Silver Workflow 359,SYNTHETIC FICTION,d2eec5850643-opportunities-000359,true
-[SYNTHETIC] Vendor 360 readiness engagement,15000.00,2027-01-09,Qualification,[SYNTHETIC] Thistle Workflow 360,SYNTHETIC FICTION,d2eec5850643-opportunities-000360,true
-[SYNTHETIC] Vendor 361 readiness engagement,12000.00,2026-11-11,Qualification,[SYNTHETIC] Amber Signals 361,SYNTHETIC FICTION,d2eec5850643-opportunities-000361,true
-[SYNTHETIC] Vendor 362 readiness engagement,20000.00,2026-11-12,Qualification,[SYNTHETIC] Birch Signals 362,SYNTHETIC FICTION,d2eec5850643-opportunities-000362,true
-[SYNTHETIC] Vendor 363 readiness engagement,30000.00,2026-11-13,Qualification,[SYNTHETIC] Cloud Signals 363,SYNTHETIC FICTION,d2eec5850643-opportunities-000363,true
-[SYNTHETIC] Vendor 364 readiness engagement,36000.00,2026-11-14,Qualification,[SYNTHETIC] Dawn Signals 364,SYNTHETIC FICTION,d2eec5850643-opportunities-000364,true
-[SYNTHETIC] Vendor 365 readiness engagement,24000.00,2026-11-15,Qualification,[SYNTHETIC] Elm Signals 365,SYNTHETIC FICTION,d2eec5850643-opportunities-000365,true
-[SYNTHETIC] Vendor 366 readiness engagement,15000.00,2026-11-16,Qualification,[SYNTHETIC] Fern Signals 366,SYNTHETIC FICTION,d2eec5850643-opportunities-000366,true
-[SYNTHETIC] Vendor 367 readiness engagement,12000.00,2026-11-17,Qualification,[SYNTHETIC] Glen Signals 367,SYNTHETIC FICTION,d2eec5850643-opportunities-000367,true
-[SYNTHETIC] Vendor 368 readiness engagement,20000.00,2026-11-18,Qualification,[SYNTHETIC] Harbor Signals 368,SYNTHETIC FICTION,d2eec5850643-opportunities-000368,true
-[SYNTHETIC] Vendor 369 readiness engagement,30000.00,2026-11-19,Qualification,[SYNTHETIC] Ivory Signals 369,SYNTHETIC FICTION,d2eec5850643-opportunities-000369,true
-[SYNTHETIC] Vendor 370 readiness engagement,36000.00,2026-11-20,Qualification,[SYNTHETIC] Juniper Signals 370,SYNTHETIC FICTION,d2eec5850643-opportunities-000370,true
-[SYNTHETIC] Vendor 371 readiness engagement,24000.00,2026-11-21,Qualification,[SYNTHETIC] Kestrel Signals 371,SYNTHETIC FICTION,d2eec5850643-opportunities-000371,true
-[SYNTHETIC] Vendor 372 readiness engagement,15000.00,2026-11-22,Qualification,[SYNTHETIC] Lumen Signals 372,SYNTHETIC FICTION,d2eec5850643-opportunities-000372,true
-[SYNTHETIC] Vendor 373 readiness engagement,12000.00,2026-11-23,Qualification,[SYNTHETIC] Maple Signals 373,SYNTHETIC FICTION,d2eec5850643-opportunities-000373,true
-[SYNTHETIC] Vendor 374 readiness engagement,20000.00,2026-11-24,Qualification,[SYNTHETIC] North Signals 374,SYNTHETIC FICTION,d2eec5850643-opportunities-000374,true
-[SYNTHETIC] Vendor 375 readiness engagement,30000.00,2026-11-25,Qualification,[SYNTHETIC] Opal Signals 375,SYNTHETIC FICTION,d2eec5850643-opportunities-000375,true
-[SYNTHETIC] Vendor 376 readiness engagement,36000.00,2026-11-26,Qualification,[SYNTHETIC] Pine Signals 376,SYNTHETIC FICTION,d2eec5850643-opportunities-000376,true
-[SYNTHETIC] Vendor 377 readiness engagement,24000.00,2026-11-27,Qualification,[SYNTHETIC] Quartz Signals 377,SYNTHETIC FICTION,d2eec5850643-opportunities-000377,true
-[SYNTHETIC] Vendor 378 readiness engagement,15000.00,2026-11-28,Qualification,[SYNTHETIC] River Signals 378,SYNTHETIC FICTION,d2eec5850643-opportunities-000378,true
-[SYNTHETIC] Vendor 379 readiness engagement,12000.00,2026-11-29,Qualification,[SYNTHETIC] Silver Signals 379,SYNTHETIC FICTION,d2eec5850643-opportunities-000379,true
-[SYNTHETIC] Vendor 380 readiness engagement,20000.00,2026-11-30,Qualification,[SYNTHETIC] Thistle Signals 380,SYNTHETIC FICTION,d2eec5850643-opportunities-000380,true
-[SYNTHETIC] Vendor 381 readiness engagement,30000.00,2026-12-01,Contacted,[SYNTHETIC] Amber Platform 381,SYNTHETIC FICTION,d2eec5850643-opportunities-000381,true
-[SYNTHETIC] Vendor 382 readiness engagement,36000.00,2026-12-02,Contacted,[SYNTHETIC] Birch Platform 382,SYNTHETIC FICTION,d2eec5850643-opportunities-000382,true
-[SYNTHETIC] Vendor 383 readiness engagement,24000.00,2026-12-03,Contacted,[SYNTHETIC] Cloud Platform 383,SYNTHETIC FICTION,d2eec5850643-opportunities-000383,true
-[SYNTHETIC] Vendor 384 readiness engagement,15000.00,2026-12-04,Contacted,[SYNTHETIC] Dawn Platform 384,SYNTHETIC FICTION,d2eec5850643-opportunities-000384,true
-[SYNTHETIC] Vendor 385 readiness engagement,12000.00,2026-12-05,Contacted,[SYNTHETIC] Elm Platform 385,SYNTHETIC FICTION,d2eec5850643-opportunities-000385,true
-[SYNTHETIC] Vendor 386 readiness engagement,20000.00,2026-12-06,Contacted,[SYNTHETIC] Fern Platform 386,SYNTHETIC FICTION,d2eec5850643-opportunities-000386,true
-[SYNTHETIC] Vendor 387 readiness engagement,30000.00,2026-12-07,Contacted,[SYNTHETIC] Glen Platform 387,SYNTHETIC FICTION,d2eec5850643-opportunities-000387,true
-[SYNTHETIC] Vendor 388 readiness engagement,36000.00,2026-12-08,Contacted,[SYNTHETIC] Harbor Platform 388,SYNTHETIC FICTION,d2eec5850643-opportunities-000388,true
-[SYNTHETIC] Vendor 389 readiness engagement,24000.00,2026-12-09,Contacted,[SYNTHETIC] Ivory Platform 389,SYNTHETIC FICTION,d2eec5850643-opportunities-000389,true
-[SYNTHETIC] Vendor 390 readiness engagement,15000.00,2026-12-10,Contacted,[SYNTHETIC] Juniper Platform 390,SYNTHETIC FICTION,d2eec5850643-opportunities-000390,true
-[SYNTHETIC] Vendor 391 readiness engagement,12000.00,2026-12-11,Contacted,[SYNTHETIC] Kestrel Platform 391,SYNTHETIC FICTION,d2eec5850643-opportunities-000391,true
-[SYNTHETIC] Vendor 392 readiness engagement,20000.00,2026-12-12,Contacted,[SYNTHETIC] Lumen Platform 392,SYNTHETIC FICTION,d2eec5850643-opportunities-000392,true
-[SYNTHETIC] Vendor 393 readiness engagement,30000.00,2026-12-13,Contacted,[SYNTHETIC] Maple Platform 393,SYNTHETIC FICTION,d2eec5850643-opportunities-000393,true
-[SYNTHETIC] Vendor 394 readiness engagement,36000.00,2026-12-14,Contacted,[SYNTHETIC] North Platform 394,SYNTHETIC FICTION,d2eec5850643-opportunities-000394,true
-[SYNTHETIC] Vendor 395 readiness engagement,24000.00,2026-12-15,Contacted,[SYNTHETIC] Opal Platform 395,SYNTHETIC FICTION,d2eec5850643-opportunities-000395,true
-[SYNTHETIC] Vendor 396 readiness engagement,15000.00,2026-12-16,Contacted,[SYNTHETIC] Pine Platform 396,SYNTHETIC FICTION,d2eec5850643-opportunities-000396,true
-[SYNTHETIC] Vendor 397 readiness engagement,12000.00,2026-12-17,Contacted,[SYNTHETIC] Quartz Platform 397,SYNTHETIC FICTION,d2eec5850643-opportunities-000397,true
-[SYNTHETIC] Vendor 398 readiness engagement,20000.00,2026-12-18,Contacted,[SYNTHETIC] River Platform 398,SYNTHETIC FICTION,d2eec5850643-opportunities-000398,true
-[SYNTHETIC] Vendor 399 readiness engagement,30000.00,2026-12-19,Contacted,[SYNTHETIC] Silver Platform 399,SYNTHETIC FICTION,d2eec5850643-opportunities-000399,true
-[SYNTHETIC] Vendor 400 readiness engagement,36000.00,2026-12-20,Contacted,[SYNTHETIC] Thistle Platform 400,SYNTHETIC FICTION,d2eec5850643-opportunities-000400,true
-[SYNTHETIC] Vendor 401 readiness engagement,24000.00,2026-12-21,Contacted,[SYNTHETIC] Amber Systems 401,SYNTHETIC FICTION,d2eec5850643-opportunities-000401,true
-[SYNTHETIC] Vendor 402 readiness engagement,15000.00,2026-12-22,Contacted,[SYNTHETIC] Birch Systems 402,SYNTHETIC FICTION,d2eec5850643-opportunities-000402,true
-[SYNTHETIC] Vendor 403 readiness engagement,12000.00,2026-12-23,Contacted,[SYNTHETIC] Cloud Systems 403,SYNTHETIC FICTION,d2eec5850643-opportunities-000403,true
-[SYNTHETIC] Vendor 404 readiness engagement,20000.00,2026-12-24,Contacted,[SYNTHETIC] Dawn Systems 404,SYNTHETIC FICTION,d2eec5850643-opportunities-000404,true
-[SYNTHETIC] Vendor 405 readiness engagement,30000.00,2026-12-25,Contacted,[SYNTHETIC] Elm Systems 405,SYNTHETIC FICTION,d2eec5850643-opportunities-000405,true
-[SYNTHETIC] Vendor 406 readiness engagement,36000.00,2026-12-26,Contacted,[SYNTHETIC] Fern Systems 406,SYNTHETIC FICTION,d2eec5850643-opportunities-000406,true
-[SYNTHETIC] Vendor 407 readiness engagement,24000.00,2026-12-27,Contacted,[SYNTHETIC] Glen Systems 407,SYNTHETIC FICTION,d2eec5850643-opportunities-000407,true
-[SYNTHETIC] Vendor 408 readiness engagement,15000.00,2026-12-28,Contacted,[SYNTHETIC] Harbor Systems 408,SYNTHETIC FICTION,d2eec5850643-opportunities-000408,true
-[SYNTHETIC] Vendor 409 readiness engagement,12000.00,2026-12-29,Contacted,[SYNTHETIC] Ivory Systems 409,SYNTHETIC FICTION,d2eec5850643-opportunities-000409,true
-[SYNTHETIC] Vendor 410 readiness engagement,20000.00,2026-12-30,Contacted,[SYNTHETIC] Juniper Systems 410,SYNTHETIC FICTION,d2eec5850643-opportunities-000410,true
-[SYNTHETIC] Vendor 411 readiness engagement,30000.00,2026-12-31,Contacted,[SYNTHETIC] Kestrel Systems 411,SYNTHETIC FICTION,d2eec5850643-opportunities-000411,true
-[SYNTHETIC] Vendor 412 readiness engagement,36000.00,2027-01-01,Contacted,[SYNTHETIC] Lumen Systems 412,SYNTHETIC FICTION,d2eec5850643-opportunities-000412,true
-[SYNTHETIC] Vendor 413 readiness engagement,24000.00,2027-01-02,Contacted,[SYNTHETIC] Maple Systems 413,SYNTHETIC FICTION,d2eec5850643-opportunities-000413,true
-[SYNTHETIC] Vendor 414 readiness engagement,15000.00,2027-01-03,Contacted,[SYNTHETIC] North Systems 414,SYNTHETIC FICTION,d2eec5850643-opportunities-000414,true
-[SYNTHETIC] Vendor 415 readiness engagement,12000.00,2027-01-04,Contacted,[SYNTHETIC] Opal Systems 415,SYNTHETIC FICTION,d2eec5850643-opportunities-000415,true
-[SYNTHETIC] Vendor 416 readiness engagement,20000.00,2027-01-05,Contacted,[SYNTHETIC] Pine Systems 416,SYNTHETIC FICTION,d2eec5850643-opportunities-000416,true
-[SYNTHETIC] Vendor 417 readiness engagement,30000.00,2027-01-06,Contacted,[SYNTHETIC] Quartz Systems 417,SYNTHETIC FICTION,d2eec5850643-opportunities-000417,true
-[SYNTHETIC] Vendor 418 readiness engagement,36000.00,2027-01-07,Contacted,[SYNTHETIC] River Systems 418,SYNTHETIC FICTION,d2eec5850643-opportunities-000418,true
-[SYNTHETIC] Vendor 419 readiness engagement,24000.00,2027-01-08,Contacted,[SYNTHETIC] Silver Systems 419,SYNTHETIC FICTION,d2eec5850643-opportunities-000419,true
-[SYNTHETIC] Vendor 420 readiness engagement,15000.00,2027-01-09,Contacted,[SYNTHETIC] Thistle Systems 420,SYNTHETIC FICTION,d2eec5850643-opportunities-000420,true
-[SYNTHETIC] Vendor 421 readiness engagement,12000.00,2026-11-11,Contacted,[SYNTHETIC] Amber Analytics 421,SYNTHETIC FICTION,d2eec5850643-opportunities-000421,true
-[SYNTHETIC] Vendor 422 readiness engagement,20000.00,2026-11-12,Contacted,[SYNTHETIC] Birch Analytics 422,SYNTHETIC FICTION,d2eec5850643-opportunities-000422,true
-[SYNTHETIC] Vendor 423 readiness engagement,30000.00,2026-11-13,Contacted,[SYNTHETIC] Cloud Analytics 423,SYNTHETIC FICTION,d2eec5850643-opportunities-000423,true
-[SYNTHETIC] Vendor 424 readiness engagement,36000.00,2026-11-14,Contacted,[SYNTHETIC] Dawn Analytics 424,SYNTHETIC FICTION,d2eec5850643-opportunities-000424,true
-[SYNTHETIC] Vendor 425 readiness engagement,24000.00,2026-11-15,Contacted,[SYNTHETIC] Elm Analytics 425,SYNTHETIC FICTION,d2eec5850643-opportunities-000425,true
-[SYNTHETIC] Vendor 426 readiness engagement,15000.00,2026-11-16,Contacted,[SYNTHETIC] Fern Analytics 426,SYNTHETIC FICTION,d2eec5850643-opportunities-000426,true
-[SYNTHETIC] Vendor 427 readiness engagement,12000.00,2026-11-17,Contacted,[SYNTHETIC] Glen Analytics 427,SYNTHETIC FICTION,d2eec5850643-opportunities-000427,true
-[SYNTHETIC] Vendor 428 readiness engagement,20000.00,2026-11-18,Contacted,[SYNTHETIC] Harbor Analytics 428,SYNTHETIC FICTION,d2eec5850643-opportunities-000428,true
-[SYNTHETIC] Vendor 429 readiness engagement,30000.00,2026-11-19,Contacted,[SYNTHETIC] Ivory Analytics 429,SYNTHETIC FICTION,d2eec5850643-opportunities-000429,true
-[SYNTHETIC] Vendor 430 readiness engagement,36000.00,2026-11-20,Contacted,[SYNTHETIC] Juniper Analytics 430,SYNTHETIC FICTION,d2eec5850643-opportunities-000430,true
-[SYNTHETIC] Vendor 431 readiness engagement,24000.00,2026-11-21,Prospecting,[SYNTHETIC] Kestrel Analytics 431,SYNTHETIC FICTION,d2eec5850643-opportunities-000431,true
-[SYNTHETIC] Vendor 432 readiness engagement,15000.00,2026-11-22,Prospecting,[SYNTHETIC] Lumen Analytics 432,SYNTHETIC FICTION,d2eec5850643-opportunities-000432,true
-[SYNTHETIC] Vendor 433 readiness engagement,12000.00,2026-11-23,Prospecting,[SYNTHETIC] Maple Analytics 433,SYNTHETIC FICTION,d2eec5850643-opportunities-000433,true
-[SYNTHETIC] Vendor 434 readiness engagement,20000.00,2026-11-24,Prospecting,[SYNTHETIC] North Analytics 434,SYNTHETIC FICTION,d2eec5850643-opportunities-000434,true
-[SYNTHETIC] Vendor 435 readiness engagement,30000.00,2026-11-25,Prospecting,[SYNTHETIC] Opal Analytics 435,SYNTHETIC FICTION,d2eec5850643-opportunities-000435,true
-[SYNTHETIC] Vendor 436 readiness engagement,36000.00,2026-11-26,Prospecting,[SYNTHETIC] Pine Analytics 436,SYNTHETIC FICTION,d2eec5850643-opportunities-000436,true
-[SYNTHETIC] Vendor 437 readiness engagement,24000.00,2026-11-27,Prospecting,[SYNTHETIC] Quartz Analytics 437,SYNTHETIC FICTION,d2eec5850643-opportunities-000437,true
-[SYNTHETIC] Vendor 438 readiness engagement,15000.00,2026-11-28,Prospecting,[SYNTHETIC] River Analytics 438,SYNTHETIC FICTION,d2eec5850643-opportunities-000438,true
-[SYNTHETIC] Vendor 439 readiness engagement,12000.00,2026-11-29,Prospecting,[SYNTHETIC] Silver Analytics 439,SYNTHETIC FICTION,d2eec5850643-opportunities-000439,true
-[SYNTHETIC] Vendor 440 readiness engagement,20000.00,2026-11-30,Prospecting,[SYNTHETIC] Thistle Analytics 440,SYNTHETIC FICTION,d2eec5850643-opportunities-000440,true
-[SYNTHETIC] Vendor 441 readiness engagement,30000.00,2026-12-01,Prospecting,[SYNTHETIC] Amber Workflow 441,SYNTHETIC FICTION,d2eec5850643-opportunities-000441,true
-[SYNTHETIC] Vendor 442 readiness engagement,36000.00,2026-12-02,Prospecting,[SYNTHETIC] Birch Workflow 442,SYNTHETIC FICTION,d2eec5850643-opportunities-000442,true
-[SYNTHETIC] Vendor 443 readiness engagement,24000.00,2026-12-03,Prospecting,[SYNTHETIC] Cloud Workflow 443,SYNTHETIC FICTION,d2eec5850643-opportunities-000443,true
-[SYNTHETIC] Vendor 444 readiness engagement,15000.00,2026-12-04,Prospecting,[SYNTHETIC] Dawn Workflow 444,SYNTHETIC FICTION,d2eec5850643-opportunities-000444,true
-[SYNTHETIC] Vendor 445 readiness engagement,12000.00,2026-12-05,Prospecting,[SYNTHETIC] Elm Workflow 445,SYNTHETIC FICTION,d2eec5850643-opportunities-000445,true
-[SYNTHETIC] Vendor 446 readiness engagement,20000.00,2026-12-06,Prospecting,[SYNTHETIC] Fern Workflow 446,SYNTHETIC FICTION,d2eec5850643-opportunities-000446,true
-[SYNTHETIC] Vendor 447 readiness engagement,30000.00,2026-12-07,Prospecting,[SYNTHETIC] Glen Workflow 447,SYNTHETIC FICTION,d2eec5850643-opportunities-000447,true
-[SYNTHETIC] Vendor 448 readiness engagement,36000.00,2026-12-08,Prospecting,[SYNTHETIC] Harbor Workflow 448,SYNTHETIC FICTION,d2eec5850643-opportunities-000448,true
-[SYNTHETIC] Vendor 449 readiness engagement,24000.00,2026-12-09,Prospecting,[SYNTHETIC] Ivory Workflow 449,SYNTHETIC FICTION,d2eec5850643-opportunities-000449,true
-[SYNTHETIC] Vendor 450 readiness engagement,15000.00,2026-12-10,Prospecting,[SYNTHETIC] Juniper Workflow 450,SYNTHETIC FICTION,d2eec5850643-opportunities-000450,true
-[SYNTHETIC] Vendor 451 readiness engagement,12000.00,2026-12-11,Prospecting,[SYNTHETIC] Kestrel Workflow 451,SYNTHETIC FICTION,d2eec5850643-opportunities-000451,true
-[SYNTHETIC] Vendor 452 readiness engagement,20000.00,2026-12-12,Prospecting,[SYNTHETIC] Lumen Workflow 452,SYNTHETIC FICTION,d2eec5850643-opportunities-000452,true
-[SYNTHETIC] Vendor 453 readiness engagement,30000.00,2026-12-13,Prospecting,[SYNTHETIC] Maple Workflow 453,SYNTHETIC FICTION,d2eec5850643-opportunities-000453,true
-[SYNTHETIC] Vendor 454 readiness engagement,36000.00,2026-12-14,Prospecting,[SYNTHETIC] North Workflow 454,SYNTHETIC FICTION,d2eec5850643-opportunities-000454,true
-[SYNTHETIC] Vendor 455 readiness engagement,24000.00,2026-12-15,Prospecting,[SYNTHETIC] Opal Workflow 455,SYNTHETIC FICTION,d2eec5850643-opportunities-000455,true
-[SYNTHETIC] Vendor 456 readiness engagement,15000.00,2026-12-16,Prospecting,[SYNTHETIC] Pine Workflow 456,SYNTHETIC FICTION,d2eec5850643-opportunities-000456,true
-[SYNTHETIC] Vendor 457 readiness engagement,12000.00,2026-12-17,Prospecting,[SYNTHETIC] Quartz Workflow 457,SYNTHETIC FICTION,d2eec5850643-opportunities-000457,true
-[SYNTHETIC] Vendor 458 readiness engagement,20000.00,2026-12-18,Prospecting,[SYNTHETIC] River Workflow 458,SYNTHETIC FICTION,d2eec5850643-opportunities-000458,true
-[SYNTHETIC] Vendor 459 readiness engagement,30000.00,2026-12-19,Prospecting,[SYNTHETIC] Silver Workflow 459,SYNTHETIC FICTION,d2eec5850643-opportunities-000459,true
-[SYNTHETIC] Vendor 460 readiness engagement,36000.00,2026-12-20,Prospecting,[SYNTHETIC] Thistle Workflow 460,SYNTHETIC FICTION,d2eec5850643-opportunities-000460,true
-[SYNTHETIC] Vendor 461 readiness engagement,24000.00,2026-12-21,Prospecting,[SYNTHETIC] Amber Signals 461,SYNTHETIC FICTION,d2eec5850643-opportunities-000461,true
-[SYNTHETIC] Vendor 462 readiness engagement,15000.00,2026-12-22,Prospecting,[SYNTHETIC] Birch Signals 462,SYNTHETIC FICTION,d2eec5850643-opportunities-000462,true
-[SYNTHETIC] Vendor 463 readiness engagement,12000.00,2026-12-23,Prospecting,[SYNTHETIC] Cloud Signals 463,SYNTHETIC FICTION,d2eec5850643-opportunities-000463,true
-[SYNTHETIC] Vendor 464 readiness engagement,20000.00,2026-12-24,Prospecting,[SYNTHETIC] Dawn Signals 464,SYNTHETIC FICTION,d2eec5850643-opportunities-000464,true
-[SYNTHETIC] Vendor 465 readiness engagement,30000.00,2026-12-25,Prospecting,[SYNTHETIC] Elm Signals 465,SYNTHETIC FICTION,d2eec5850643-opportunities-000465,true
-[SYNTHETIC] Vendor 466 readiness engagement,36000.00,2026-12-26,Prospecting,[SYNTHETIC] Fern Signals 466,SYNTHETIC FICTION,d2eec5850643-opportunities-000466,true
-[SYNTHETIC] Vendor 467 readiness engagement,24000.00,2026-12-27,Prospecting,[SYNTHETIC] Glen Signals 467,SYNTHETIC FICTION,d2eec5850643-opportunities-000467,true
-[SYNTHETIC] Vendor 468 readiness engagement,15000.00,2026-12-28,Prospecting,[SYNTHETIC] Harbor Signals 468,SYNTHETIC FICTION,d2eec5850643-opportunities-000468,true
-[SYNTHETIC] Vendor 469 readiness engagement,12000.00,2026-12-29,Prospecting,[SYNTHETIC] Ivory Signals 469,SYNTHETIC FICTION,d2eec5850643-opportunities-000469,true
-[SYNTHETIC] Vendor 470 readiness engagement,20000.00,2026-12-30,Prospecting,[SYNTHETIC] Juniper Signals 470,SYNTHETIC FICTION,d2eec5850643-opportunities-000470,true
-[SYNTHETIC] Vendor 471 readiness engagement,30000.00,2026-12-31,Prospecting,[SYNTHETIC] Kestrel Signals 471,SYNTHETIC FICTION,d2eec5850643-opportunities-000471,true
-[SYNTHETIC] Vendor 472 readiness engagement,36000.00,2027-01-01,Prospecting,[SYNTHETIC] Lumen Signals 472,SYNTHETIC FICTION,d2eec5850643-opportunities-000472,true
-[SYNTHETIC] Vendor 473 readiness engagement,24000.00,2027-01-02,Prospecting,[SYNTHETIC] Maple Signals 473,SYNTHETIC FICTION,d2eec5850643-opportunities-000473,true
-[SYNTHETIC] Vendor 474 readiness engagement,15000.00,2027-01-03,Prospecting,[SYNTHETIC] North Signals 474,SYNTHETIC FICTION,d2eec5850643-opportunities-000474,true
-[SYNTHETIC] Vendor 475 readiness engagement,12000.00,2027-01-04,Prospecting,[SYNTHETIC] Opal Signals 475,SYNTHETIC FICTION,d2eec5850643-opportunities-000475,true
-[SYNTHETIC] Vendor 476 readiness engagement,20000.00,2027-01-05,Prospecting,[SYNTHETIC] Pine Signals 476,SYNTHETIC FICTION,d2eec5850643-opportunities-000476,true
-[SYNTHETIC] Vendor 477 readiness engagement,30000.00,2027-01-06,Prospecting,[SYNTHETIC] Quartz Signals 477,SYNTHETIC FICTION,d2eec5850643-opportunities-000477,true
-[SYNTHETIC] Vendor 478 readiness engagement,36000.00,2027-01-07,Prospecting,[SYNTHETIC] River Signals 478,SYNTHETIC FICTION,d2eec5850643-opportunities-000478,true
-[SYNTHETIC] Vendor 479 readiness engagement,24000.00,2027-01-08,Prospecting,[SYNTHETIC] Silver Signals 479,SYNTHETIC FICTION,d2eec5850643-opportunities-000479,true
-[SYNTHETIC] Vendor 480 readiness engagement,15000.00,2027-01-09,Prospecting,[SYNTHETIC] Thistle Signals 480,SYNTHETIC FICTION,d2eec5850643-opportunities-000480,true
-[SYNTHETIC] Vendor 481 readiness engagement,12000.00,2026-11-11,Prospecting,[SYNTHETIC] Amber Platform 481,SYNTHETIC FICTION,d2eec5850643-opportunities-000481,true
-[SYNTHETIC] Vendor 482 readiness engagement,20000.00,2026-11-12,Prospecting,[SYNTHETIC] Birch Platform 482,SYNTHETIC FICTION,d2eec5850643-opportunities-000482,true
-[SYNTHETIC] Vendor 483 readiness engagement,30000.00,2026-11-13,Prospecting,[SYNTHETIC] Cloud Platform 483,SYNTHETIC FICTION,d2eec5850643-opportunities-000483,true
-[SYNTHETIC] Vendor 484 readiness engagement,36000.00,2026-11-14,Prospecting,[SYNTHETIC] Dawn Platform 484,SYNTHETIC FICTION,d2eec5850643-opportunities-000484,true
-[SYNTHETIC] Vendor 485 readiness engagement,24000.00,2026-11-15,Prospecting,[SYNTHETIC] Elm Platform 485,SYNTHETIC FICTION,d2eec5850643-opportunities-000485,true
-[SYNTHETIC] Vendor 486 readiness engagement,15000.00,2026-11-16,Prospecting,[SYNTHETIC] Fern Platform 486,SYNTHETIC FICTION,d2eec5850643-opportunities-000486,true
-[SYNTHETIC] Vendor 487 readiness engagement,12000.00,2026-11-17,Prospecting,[SYNTHETIC] Glen Platform 487,SYNTHETIC FICTION,d2eec5850643-opportunities-000487,true
-[SYNTHETIC] Vendor 488 readiness engagement,20000.00,2026-11-18,Prospecting,[SYNTHETIC] Harbor Platform 488,SYNTHETIC FICTION,d2eec5850643-opportunities-000488,true
-[SYNTHETIC] Vendor 489 readiness engagement,30000.00,2026-11-19,Prospecting,[SYNTHETIC] Ivory Platform 489,SYNTHETIC FICTION,d2eec5850643-opportunities-000489,true
-[SYNTHETIC] Vendor 490 readiness engagement,36000.00,2026-11-20,Prospecting,[SYNTHETIC] Juniper Platform 490,SYNTHETIC FICTION,d2eec5850643-opportunities-000490,true
-[SYNTHETIC] Vendor 491 readiness engagement,24000.00,2026-11-21,Prospecting,[SYNTHETIC] Kestrel Platform 491,SYNTHETIC FICTION,d2eec5850643-opportunities-000491,true
-[SYNTHETIC] Vendor 492 readiness engagement,15000.00,2026-11-22,Prospecting,[SYNTHETIC] Lumen Platform 492,SYNTHETIC FICTION,d2eec5850643-opportunities-000492,true
-[SYNTHETIC] Vendor 493 readiness engagement,12000.00,2026-11-23,Prospecting,[SYNTHETIC] Maple Platform 493,SYNTHETIC FICTION,d2eec5850643-opportunities-000493,true
-[SYNTHETIC] Vendor 494 readiness engagement,20000.00,2026-11-24,Prospecting,[SYNTHETIC] North Platform 494,SYNTHETIC FICTION,d2eec5850643-opportunities-000494,true
-[SYNTHETIC] Vendor 495 readiness engagement,30000.00,2026-11-25,Prospecting,[SYNTHETIC] Opal Platform 495,SYNTHETIC FICTION,d2eec5850643-opportunities-000495,true
-[SYNTHETIC] Vendor 496 readiness engagement,36000.00,2026-11-26,Prospecting,[SYNTHETIC] Pine Platform 496,SYNTHETIC FICTION,d2eec5850643-opportunities-000496,true
-[SYNTHETIC] Vendor 497 readiness engagement,24000.00,2026-11-27,Prospecting,[SYNTHETIC] Quartz Platform 497,SYNTHETIC FICTION,d2eec5850643-opportunities-000497,true
-[SYNTHETIC] Vendor 498 readiness engagement,15000.00,2026-11-28,Prospecting,[SYNTHETIC] River Platform 498,SYNTHETIC FICTION,d2eec5850643-opportunities-000498,true
-[SYNTHETIC] Vendor 499 readiness engagement,12000.00,2026-11-29,Prospecting,[SYNTHETIC] Silver Platform 499,SYNTHETIC FICTION,d2eec5850643-opportunities-000499,true
-[SYNTHETIC] Vendor 500 readiness engagement,20000.00,2026-11-30,Prospecting,[SYNTHETIC] Thistle Platform 500,SYNTHETIC FICTION,d2eec5850643-opportunities-000500,true
+Deal Name,Amount,Closing Date,Stage,Probability,Type,Account Name,Description,StoryFoundry source key,StoryFoundry Synthetic
+[SYNTHETIC] Vendor 001 readiness engagement,12000.00,2024-11-27,Closed Won,100,expansion,[SYNTHETIC] Amber Systems 001,SYNTHETIC FICTION,d2eec5850643-opportunities-000001,true
+[SYNTHETIC] Vendor 002 readiness engagement,20000.00,2024-12-08,Closed Won,100,new_business,[SYNTHETIC] Birch Systems 002,SYNTHETIC FICTION,d2eec5850643-opportunities-000002,true
+[SYNTHETIC] Vendor 003 readiness engagement,30000.00,2024-12-19,Closed Won,100,new_business,[SYNTHETIC] Cloud Systems 003,SYNTHETIC FICTION,d2eec5850643-opportunities-000003,true
+[SYNTHETIC] Vendor 004 readiness engagement,36000.00,2024-12-29,Closed Won,100,expansion,[SYNTHETIC] Dawn Systems 004,SYNTHETIC FICTION,d2eec5850643-opportunities-000004,true
+[SYNTHETIC] Vendor 005 readiness engagement,24000.00,2025-01-07,Closed Won,100,new_business,[SYNTHETIC] Elm Systems 005,SYNTHETIC FICTION,d2eec5850643-opportunities-000005,true
+[SYNTHETIC] Vendor 006 readiness engagement,15000.00,2025-01-16,Closed Won,100,new_business,[SYNTHETIC] Fern Systems 006,SYNTHETIC FICTION,d2eec5850643-opportunities-000006,true
+[SYNTHETIC] Vendor 007 readiness engagement,12000.00,2025-01-25,Closed Won,100,expansion,[SYNTHETIC] Glen Systems 007,SYNTHETIC FICTION,d2eec5850643-opportunities-000007,true
+[SYNTHETIC] Vendor 008 readiness engagement,20000.00,2025-02-02,Closed Won,100,new_business,[SYNTHETIC] Harbor Systems 008,SYNTHETIC FICTION,d2eec5850643-opportunities-000008,true
+[SYNTHETIC] Vendor 009 readiness engagement,30000.00,2025-02-11,Closed Won,100,new_business,[SYNTHETIC] Ivory Systems 009,SYNTHETIC FICTION,d2eec5850643-opportunities-000009,true
+[SYNTHETIC] Vendor 010 readiness engagement,36000.00,2025-02-19,Closed Won,100,expansion,[SYNTHETIC] Juniper Systems 010,SYNTHETIC FICTION,d2eec5850643-opportunities-000010,true
+[SYNTHETIC] Vendor 011 readiness engagement,24000.00,2025-02-27,Closed Won,100,new_business,[SYNTHETIC] Kestrel Systems 011,SYNTHETIC FICTION,d2eec5850643-opportunities-000011,true
+[SYNTHETIC] Vendor 012 readiness engagement,15000.00,2025-03-07,Closed Won,100,new_business,[SYNTHETIC] Lumen Systems 012,SYNTHETIC FICTION,d2eec5850643-opportunities-000012,true
+[SYNTHETIC] Vendor 013 readiness engagement,12000.00,2025-03-15,Closed Won,100,expansion,[SYNTHETIC] Maple Systems 013,SYNTHETIC FICTION,d2eec5850643-opportunities-000013,true
+[SYNTHETIC] Vendor 014 readiness engagement,20000.00,2025-03-22,Closed Won,100,new_business,[SYNTHETIC] North Systems 014,SYNTHETIC FICTION,d2eec5850643-opportunities-000014,true
+[SYNTHETIC] Vendor 015 readiness engagement,30000.00,2025-03-30,Closed Won,100,new_business,[SYNTHETIC] Opal Systems 015,SYNTHETIC FICTION,d2eec5850643-opportunities-000015,true
+[SYNTHETIC] Vendor 016 readiness engagement,36000.00,2025-04-07,Closed Won,100,expansion,[SYNTHETIC] Pine Systems 016,SYNTHETIC FICTION,d2eec5850643-opportunities-000016,true
+[SYNTHETIC] Vendor 017 readiness engagement,24000.00,2025-04-14,Closed Won,100,new_business,[SYNTHETIC] Quartz Systems 017,SYNTHETIC FICTION,d2eec5850643-opportunities-000017,true
+[SYNTHETIC] Vendor 018 readiness engagement,15000.00,2025-04-21,Closed Won,100,new_business,[SYNTHETIC] River Systems 018,SYNTHETIC FICTION,d2eec5850643-opportunities-000018,true
+[SYNTHETIC] Vendor 019 readiness engagement,12000.00,2025-04-29,Closed Won,100,expansion,[SYNTHETIC] Silver Systems 019,SYNTHETIC FICTION,d2eec5850643-opportunities-000019,true
+[SYNTHETIC] Vendor 020 readiness engagement,20000.00,2025-05-06,Closed Won,100,new_business,[SYNTHETIC] Thistle Systems 020,SYNTHETIC FICTION,d2eec5850643-opportunities-000020,true
+[SYNTHETIC] Vendor 021 readiness engagement,30000.00,2025-05-13,Closed Won,100,new_business,[SYNTHETIC] Amber Analytics 021,SYNTHETIC FICTION,d2eec5850643-opportunities-000021,true
+[SYNTHETIC] Vendor 022 readiness engagement,36000.00,2025-05-20,Closed Won,100,expansion,[SYNTHETIC] Birch Analytics 022,SYNTHETIC FICTION,d2eec5850643-opportunities-000022,true
+[SYNTHETIC] Vendor 023 readiness engagement,24000.00,2025-05-27,Closed Won,100,new_business,[SYNTHETIC] Cloud Analytics 023,SYNTHETIC FICTION,d2eec5850643-opportunities-000023,true
+[SYNTHETIC] Vendor 024 readiness engagement,15000.00,2025-06-03,Closed Won,100,new_business,[SYNTHETIC] Dawn Analytics 024,SYNTHETIC FICTION,d2eec5850643-opportunities-000024,true
+[SYNTHETIC] Vendor 025 readiness engagement,12000.00,2025-06-10,Closed Won,100,expansion,[SYNTHETIC] Elm Analytics 025,SYNTHETIC FICTION,d2eec5850643-opportunities-000025,true
+[SYNTHETIC] Vendor 026 readiness engagement,20000.00,2025-06-17,Closed Won,100,new_business,[SYNTHETIC] Fern Analytics 026,SYNTHETIC FICTION,d2eec5850643-opportunities-000026,true
+[SYNTHETIC] Vendor 027 readiness engagement,30000.00,2025-06-24,Closed Won,100,new_business,[SYNTHETIC] Glen Analytics 027,SYNTHETIC FICTION,d2eec5850643-opportunities-000027,true
+[SYNTHETIC] Vendor 028 readiness engagement,36000.00,2025-06-30,Closed Won,100,expansion,[SYNTHETIC] Harbor Analytics 028,SYNTHETIC FICTION,d2eec5850643-opportunities-000028,true
+[SYNTHETIC] Vendor 029 readiness engagement,24000.00,2025-07-07,Closed Won,100,new_business,[SYNTHETIC] Ivory Analytics 029,SYNTHETIC FICTION,d2eec5850643-opportunities-000029,true
+[SYNTHETIC] Vendor 030 readiness engagement,15000.00,2025-07-14,Closed Won,100,new_business,[SYNTHETIC] Juniper Analytics 030,SYNTHETIC FICTION,d2eec5850643-opportunities-000030,true
+[SYNTHETIC] Vendor 031 readiness engagement,12000.00,2025-07-20,Closed Won,100,expansion,[SYNTHETIC] Kestrel Analytics 031,SYNTHETIC FICTION,d2eec5850643-opportunities-000031,true
+[SYNTHETIC] Vendor 032 readiness engagement,20000.00,2025-07-27,Closed Won,100,new_business,[SYNTHETIC] Lumen Analytics 032,SYNTHETIC FICTION,d2eec5850643-opportunities-000032,true
+[SYNTHETIC] Vendor 033 readiness engagement,30000.00,2025-08-02,Closed Won,100,new_business,[SYNTHETIC] Maple Analytics 033,SYNTHETIC FICTION,d2eec5850643-opportunities-000033,true
+[SYNTHETIC] Vendor 034 readiness engagement,36000.00,2025-08-09,Closed Won,100,expansion,[SYNTHETIC] North Analytics 034,SYNTHETIC FICTION,d2eec5850643-opportunities-000034,true
+[SYNTHETIC] Vendor 035 readiness engagement,24000.00,2025-08-16,Closed Won,100,new_business,[SYNTHETIC] Opal Analytics 035,SYNTHETIC FICTION,d2eec5850643-opportunities-000035,true
+[SYNTHETIC] Vendor 036 readiness engagement,15000.00,2025-08-22,Closed Won,100,new_business,[SYNTHETIC] Pine Analytics 036,SYNTHETIC FICTION,d2eec5850643-opportunities-000036,true
+[SYNTHETIC] Vendor 037 readiness engagement,12000.00,2025-08-28,Closed Won,100,expansion,[SYNTHETIC] Quartz Analytics 037,SYNTHETIC FICTION,d2eec5850643-opportunities-000037,true
+[SYNTHETIC] Vendor 038 readiness engagement,20000.00,2025-09-04,Closed Won,100,new_business,[SYNTHETIC] River Analytics 038,SYNTHETIC FICTION,d2eec5850643-opportunities-000038,true
+[SYNTHETIC] Vendor 039 readiness engagement,30000.00,2025-09-10,Closed Won,100,new_business,[SYNTHETIC] Silver Analytics 039,SYNTHETIC FICTION,d2eec5850643-opportunities-000039,true
+[SYNTHETIC] Vendor 040 readiness engagement,36000.00,2025-09-17,Closed Won,100,expansion,[SYNTHETIC] Thistle Analytics 040,SYNTHETIC FICTION,d2eec5850643-opportunities-000040,true
+[SYNTHETIC] Vendor 041 readiness engagement,24000.00,2025-09-23,Closed Won,100,new_business,[SYNTHETIC] Amber Workflow 041,SYNTHETIC FICTION,d2eec5850643-opportunities-000041,true
+[SYNTHETIC] Vendor 042 readiness engagement,15000.00,2025-09-29,Closed Won,100,new_business,[SYNTHETIC] Birch Workflow 042,SYNTHETIC FICTION,d2eec5850643-opportunities-000042,true
+[SYNTHETIC] Vendor 043 readiness engagement,12000.00,2025-10-05,Closed Won,100,expansion,[SYNTHETIC] Cloud Workflow 043,SYNTHETIC FICTION,d2eec5850643-opportunities-000043,true
+[SYNTHETIC] Vendor 044 readiness engagement,20000.00,2025-10-12,Closed Won,100,new_business,[SYNTHETIC] Dawn Workflow 044,SYNTHETIC FICTION,d2eec5850643-opportunities-000044,true
+[SYNTHETIC] Vendor 045 readiness engagement,30000.00,2025-10-18,Closed Won,100,new_business,[SYNTHETIC] Elm Workflow 045,SYNTHETIC FICTION,d2eec5850643-opportunities-000045,true
+[SYNTHETIC] Vendor 046 readiness engagement,36000.00,2025-10-24,Closed Won,100,expansion,[SYNTHETIC] Fern Workflow 046,SYNTHETIC FICTION,d2eec5850643-opportunities-000046,true
+[SYNTHETIC] Vendor 047 readiness engagement,24000.00,2025-10-30,Closed Won,100,new_business,[SYNTHETIC] Glen Workflow 047,SYNTHETIC FICTION,d2eec5850643-opportunities-000047,true
+[SYNTHETIC] Vendor 048 readiness engagement,15000.00,2025-11-05,Closed Won,100,new_business,[SYNTHETIC] Harbor Workflow 048,SYNTHETIC FICTION,d2eec5850643-opportunities-000048,true
+[SYNTHETIC] Vendor 049 readiness engagement,12000.00,2025-11-11,Closed Won,100,expansion,[SYNTHETIC] Ivory Workflow 049,SYNTHETIC FICTION,d2eec5850643-opportunities-000049,true
+[SYNTHETIC] Vendor 050 readiness engagement,20000.00,2025-11-17,Closed Won,100,new_business,[SYNTHETIC] Juniper Workflow 050,SYNTHETIC FICTION,d2eec5850643-opportunities-000050,true
+[SYNTHETIC] Vendor 051 readiness engagement,30000.00,2025-11-24,Closed Won,100,new_business,[SYNTHETIC] Kestrel Workflow 051,SYNTHETIC FICTION,d2eec5850643-opportunities-000051,true
+[SYNTHETIC] Vendor 052 readiness engagement,36000.00,2025-11-30,Closed Won,100,expansion,[SYNTHETIC] Lumen Workflow 052,SYNTHETIC FICTION,d2eec5850643-opportunities-000052,true
+[SYNTHETIC] Vendor 053 readiness engagement,24000.00,2025-12-06,Closed Won,100,new_business,[SYNTHETIC] Maple Workflow 053,SYNTHETIC FICTION,d2eec5850643-opportunities-000053,true
+[SYNTHETIC] Vendor 054 readiness engagement,15000.00,2025-12-12,Closed Won,100,new_business,[SYNTHETIC] North Workflow 054,SYNTHETIC FICTION,d2eec5850643-opportunities-000054,true
+[SYNTHETIC] Vendor 055 readiness engagement,12000.00,2025-12-18,Closed Won,100,expansion,[SYNTHETIC] Opal Workflow 055,SYNTHETIC FICTION,d2eec5850643-opportunities-000055,true
+[SYNTHETIC] Vendor 056 readiness engagement,20000.00,2025-12-24,Closed Won,100,new_business,[SYNTHETIC] Pine Workflow 056,SYNTHETIC FICTION,d2eec5850643-opportunities-000056,true
+[SYNTHETIC] Vendor 057 readiness engagement,30000.00,2025-12-29,Closed Won,100,new_business,[SYNTHETIC] Quartz Workflow 057,SYNTHETIC FICTION,d2eec5850643-opportunities-000057,true
+[SYNTHETIC] Vendor 058 readiness engagement,36000.00,2026-01-04,Closed Won,100,expansion,[SYNTHETIC] River Workflow 058,SYNTHETIC FICTION,d2eec5850643-opportunities-000058,true
+[SYNTHETIC] Vendor 059 readiness engagement,24000.00,2026-01-10,Closed Won,100,new_business,[SYNTHETIC] Silver Workflow 059,SYNTHETIC FICTION,d2eec5850643-opportunities-000059,true
+[SYNTHETIC] Vendor 060 readiness engagement,15000.00,2026-01-16,Closed Won,100,new_business,[SYNTHETIC] Thistle Workflow 060,SYNTHETIC FICTION,d2eec5850643-opportunities-000060,true
+[SYNTHETIC] Vendor 061 readiness engagement,12000.00,2026-01-22,Closed Won,100,expansion,[SYNTHETIC] Amber Signals 061,SYNTHETIC FICTION,d2eec5850643-opportunities-000061,true
+[SYNTHETIC] Vendor 062 readiness engagement,20000.00,2026-01-28,Closed Won,100,new_business,[SYNTHETIC] Birch Signals 062,SYNTHETIC FICTION,d2eec5850643-opportunities-000062,true
+[SYNTHETIC] Vendor 063 readiness engagement,30000.00,2026-02-03,Closed Won,100,new_business,[SYNTHETIC] Cloud Signals 063,SYNTHETIC FICTION,d2eec5850643-opportunities-000063,true
+[SYNTHETIC] Vendor 064 readiness engagement,36000.00,2026-02-09,Closed Won,100,expansion,[SYNTHETIC] Dawn Signals 064,SYNTHETIC FICTION,d2eec5850643-opportunities-000064,true
+[SYNTHETIC] Vendor 065 readiness engagement,24000.00,2026-02-14,Closed Won,100,new_business,[SYNTHETIC] Elm Signals 065,SYNTHETIC FICTION,d2eec5850643-opportunities-000065,true
+[SYNTHETIC] Vendor 066 readiness engagement,15000.00,2026-02-20,Closed Won,100,new_business,[SYNTHETIC] Fern Signals 066,SYNTHETIC FICTION,d2eec5850643-opportunities-000066,true
+[SYNTHETIC] Vendor 067 readiness engagement,12000.00,2026-02-26,Closed Won,100,expansion,[SYNTHETIC] Glen Signals 067,SYNTHETIC FICTION,d2eec5850643-opportunities-000067,true
+[SYNTHETIC] Vendor 068 readiness engagement,20000.00,2026-03-04,Closed Won,100,new_business,[SYNTHETIC] Harbor Signals 068,SYNTHETIC FICTION,d2eec5850643-opportunities-000068,true
+[SYNTHETIC] Vendor 069 readiness engagement,30000.00,2026-03-09,Closed Won,100,new_business,[SYNTHETIC] Ivory Signals 069,SYNTHETIC FICTION,d2eec5850643-opportunities-000069,true
+[SYNTHETIC] Vendor 070 readiness engagement,36000.00,2026-03-15,Closed Won,100,expansion,[SYNTHETIC] Juniper Signals 070,SYNTHETIC FICTION,d2eec5850643-opportunities-000070,true
+[SYNTHETIC] Vendor 071 readiness engagement,24000.00,2026-03-21,Closed Won,100,new_business,[SYNTHETIC] Kestrel Signals 071,SYNTHETIC FICTION,d2eec5850643-opportunities-000071,true
+[SYNTHETIC] Vendor 072 readiness engagement,15000.00,2026-03-27,Closed Won,100,new_business,[SYNTHETIC] Lumen Signals 072,SYNTHETIC FICTION,d2eec5850643-opportunities-000072,true
+[SYNTHETIC] Vendor 073 readiness engagement,12000.00,2026-04-01,Closed Won,100,expansion,[SYNTHETIC] Maple Signals 073,SYNTHETIC FICTION,d2eec5850643-opportunities-000073,true
+[SYNTHETIC] Vendor 074 readiness engagement,20000.00,2026-04-07,Closed Won,100,new_business,[SYNTHETIC] North Signals 074,SYNTHETIC FICTION,d2eec5850643-opportunities-000074,true
+[SYNTHETIC] Vendor 075 readiness engagement,30000.00,2026-04-13,Closed Won,100,new_business,[SYNTHETIC] Opal Signals 075,SYNTHETIC FICTION,d2eec5850643-opportunities-000075,true
+[SYNTHETIC] Vendor 076 readiness engagement,36000.00,2026-04-18,Closed Won,100,expansion,[SYNTHETIC] Pine Signals 076,SYNTHETIC FICTION,d2eec5850643-opportunities-000076,true
+[SYNTHETIC] Vendor 077 readiness engagement,24000.00,2026-04-24,Closed Won,100,new_business,[SYNTHETIC] Quartz Signals 077,SYNTHETIC FICTION,d2eec5850643-opportunities-000077,true
+[SYNTHETIC] Vendor 078 readiness engagement,15000.00,2026-04-29,Closed Won,100,new_business,[SYNTHETIC] River Signals 078,SYNTHETIC FICTION,d2eec5850643-opportunities-000078,true
+[SYNTHETIC] Vendor 079 readiness engagement,12000.00,2026-05-05,Closed Won,100,expansion,[SYNTHETIC] Silver Signals 079,SYNTHETIC FICTION,d2eec5850643-opportunities-000079,true
+[SYNTHETIC] Vendor 080 readiness engagement,20000.00,2026-05-11,Closed Won,100,new_business,[SYNTHETIC] Thistle Signals 080,SYNTHETIC FICTION,d2eec5850643-opportunities-000080,true
+[SYNTHETIC] Vendor 081 readiness engagement,30000.00,2026-05-16,Closed Won,100,new_business,[SYNTHETIC] Amber Platform 081,SYNTHETIC FICTION,d2eec5850643-opportunities-000081,true
+[SYNTHETIC] Vendor 082 readiness engagement,36000.00,2026-05-22,Closed Won,100,expansion,[SYNTHETIC] Birch Platform 082,SYNTHETIC FICTION,d2eec5850643-opportunities-000082,true
+[SYNTHETIC] Vendor 083 readiness engagement,24000.00,2026-05-27,Closed Won,100,new_business,[SYNTHETIC] Cloud Platform 083,SYNTHETIC FICTION,d2eec5850643-opportunities-000083,true
+[SYNTHETIC] Vendor 084 readiness engagement,15000.00,2026-06-02,Closed Won,100,new_business,[SYNTHETIC] Dawn Platform 084,SYNTHETIC FICTION,d2eec5850643-opportunities-000084,true
+[SYNTHETIC] Vendor 085 readiness engagement,12000.00,2026-06-07,Closed Won,100,expansion,[SYNTHETIC] Elm Platform 085,SYNTHETIC FICTION,d2eec5850643-opportunities-000085,true
+[SYNTHETIC] Vendor 086 readiness engagement,20000.00,2026-06-13,Closed Won,100,new_business,[SYNTHETIC] Fern Platform 086,SYNTHETIC FICTION,d2eec5850643-opportunities-000086,true
+[SYNTHETIC] Vendor 087 readiness engagement,30000.00,2026-06-18,Closed Won,100,new_business,[SYNTHETIC] Glen Platform 087,SYNTHETIC FICTION,d2eec5850643-opportunities-000087,true
+[SYNTHETIC] Vendor 088 readiness engagement,36000.00,2026-06-24,Closed Won,100,expansion,[SYNTHETIC] Harbor Platform 088,SYNTHETIC FICTION,d2eec5850643-opportunities-000088,true
+[SYNTHETIC] Vendor 089 readiness engagement,24000.00,2026-06-29,Closed Won,100,new_business,[SYNTHETIC] Ivory Platform 089,SYNTHETIC FICTION,d2eec5850643-opportunities-000089,true
+[SYNTHETIC] Vendor 090 readiness engagement,15000.00,2026-07-05,Closed Won,100,new_business,[SYNTHETIC] Juniper Platform 090,SYNTHETIC FICTION,d2eec5850643-opportunities-000090,true
+[SYNTHETIC] Vendor 091 readiness engagement,12000.00,2026-07-10,Closed Won,100,expansion,[SYNTHETIC] Kestrel Platform 091,SYNTHETIC FICTION,d2eec5850643-opportunities-000091,true
+[SYNTHETIC] Vendor 092 readiness engagement,20000.00,2026-07-16,Closed Won,100,new_business,[SYNTHETIC] Lumen Platform 092,SYNTHETIC FICTION,d2eec5850643-opportunities-000092,true
+[SYNTHETIC] Vendor 093 readiness engagement,30000.00,2026-07-21,Closed Won,100,new_business,[SYNTHETIC] Maple Platform 093,SYNTHETIC FICTION,d2eec5850643-opportunities-000093,true
+[SYNTHETIC] Vendor 094 readiness engagement,36000.00,2026-07-27,Closed Won,100,expansion,[SYNTHETIC] North Platform 094,SYNTHETIC FICTION,d2eec5850643-opportunities-000094,true
+[SYNTHETIC] Vendor 095 readiness engagement,24000.00,2026-08-01,Closed Won,100,new_business,[SYNTHETIC] Opal Platform 095,SYNTHETIC FICTION,d2eec5850643-opportunities-000095,true
+[SYNTHETIC] Vendor 096 readiness engagement,15000.00,2026-08-06,Closed Won,100,new_business,[SYNTHETIC] Pine Platform 096,SYNTHETIC FICTION,d2eec5850643-opportunities-000096,true
+[SYNTHETIC] Vendor 097 readiness engagement,12000.00,2026-08-12,Closed Won,100,expansion,[SYNTHETIC] Quartz Platform 097,SYNTHETIC FICTION,d2eec5850643-opportunities-000097,true
+[SYNTHETIC] Vendor 098 readiness engagement,20000.00,2026-08-17,Closed Won,100,new_business,[SYNTHETIC] River Platform 098,SYNTHETIC FICTION,d2eec5850643-opportunities-000098,true
+[SYNTHETIC] Vendor 099 readiness engagement,30000.00,2026-08-23,Closed Won,100,new_business,[SYNTHETIC] Silver Platform 099,SYNTHETIC FICTION,d2eec5850643-opportunities-000099,true
+[SYNTHETIC] Vendor 100 readiness engagement,36000.00,2026-08-28,Closed Won,100,expansion,[SYNTHETIC] Thistle Platform 100,SYNTHETIC FICTION,d2eec5850643-opportunities-000100,true
+[SYNTHETIC] Vendor 101 readiness engagement,24000.00,2025-05-21,Closed Lost,0,new_business,[SYNTHETIC] Amber Systems 101,SYNTHETIC FICTION,d2eec5850643-opportunities-000101,true
+[SYNTHETIC] Vendor 102 readiness engagement,15000.00,2025-02-16,Closed Lost,0,new_business,[SYNTHETIC] Birch Systems 102,SYNTHETIC FICTION,d2eec5850643-opportunities-000102,true
+[SYNTHETIC] Vendor 103 readiness engagement,12000.00,2025-09-17,Closed Lost,0,expansion,[SYNTHETIC] Cloud Systems 103,SYNTHETIC FICTION,d2eec5850643-opportunities-000103,true
+[SYNTHETIC] Vendor 104 readiness engagement,20000.00,2026-04-16,Closed Lost,0,new_business,[SYNTHETIC] Dawn Systems 104,SYNTHETIC FICTION,d2eec5850643-opportunities-000104,true
+[SYNTHETIC] Vendor 105 readiness engagement,30000.00,2026-06-15,Closed Lost,0,new_business,[SYNTHETIC] Elm Systems 105,SYNTHETIC FICTION,d2eec5850643-opportunities-000105,true
+[SYNTHETIC] Vendor 106 readiness engagement,36000.00,2024-12-16,Closed Lost,0,expansion,[SYNTHETIC] Fern Systems 106,SYNTHETIC FICTION,d2eec5850643-opportunities-000106,true
+[SYNTHETIC] Vendor 107 readiness engagement,24000.00,2026-04-18,Closed Lost,0,new_business,[SYNTHETIC] Glen Systems 107,SYNTHETIC FICTION,d2eec5850643-opportunities-000107,true
+[SYNTHETIC] Vendor 108 readiness engagement,15000.00,2025-10-06,Closed Lost,0,new_business,[SYNTHETIC] Harbor Systems 108,SYNTHETIC FICTION,d2eec5850643-opportunities-000108,true
+[SYNTHETIC] Vendor 109 readiness engagement,12000.00,2025-04-02,Closed Lost,0,expansion,[SYNTHETIC] Ivory Systems 109,SYNTHETIC FICTION,d2eec5850643-opportunities-000109,true
+[SYNTHETIC] Vendor 110 readiness engagement,20000.00,2025-10-24,Closed Lost,0,new_business,[SYNTHETIC] Juniper Systems 110,SYNTHETIC FICTION,d2eec5850643-opportunities-000110,true
+[SYNTHETIC] Vendor 111 readiness engagement,30000.00,2025-10-21,Closed Lost,0,new_business,[SYNTHETIC] Kestrel Systems 111,SYNTHETIC FICTION,d2eec5850643-opportunities-000111,true
+[SYNTHETIC] Vendor 112 readiness engagement,36000.00,2026-06-03,Closed Lost,0,expansion,[SYNTHETIC] Lumen Systems 112,SYNTHETIC FICTION,d2eec5850643-opportunities-000112,true
+[SYNTHETIC] Vendor 113 readiness engagement,24000.00,2026-06-12,Closed Lost,0,new_business,[SYNTHETIC] Maple Systems 113,SYNTHETIC FICTION,d2eec5850643-opportunities-000113,true
+[SYNTHETIC] Vendor 114 readiness engagement,15000.00,2026-08-12,Closed Lost,0,new_business,[SYNTHETIC] North Systems 114,SYNTHETIC FICTION,d2eec5850643-opportunities-000114,true
+[SYNTHETIC] Vendor 115 readiness engagement,12000.00,2025-08-02,Closed Lost,0,expansion,[SYNTHETIC] Opal Systems 115,SYNTHETIC FICTION,d2eec5850643-opportunities-000115,true
+[SYNTHETIC] Vendor 116 readiness engagement,20000.00,2026-06-30,Closed Lost,0,new_business,[SYNTHETIC] Pine Systems 116,SYNTHETIC FICTION,d2eec5850643-opportunities-000116,true
+[SYNTHETIC] Vendor 117 readiness engagement,30000.00,2026-09-29,Closed Lost,0,new_business,[SYNTHETIC] Quartz Systems 117,SYNTHETIC FICTION,d2eec5850643-opportunities-000117,true
+[SYNTHETIC] Vendor 118 readiness engagement,36000.00,2025-09-13,Closed Lost,0,expansion,[SYNTHETIC] River Systems 118,SYNTHETIC FICTION,d2eec5850643-opportunities-000118,true
+[SYNTHETIC] Vendor 119 readiness engagement,24000.00,2025-07-24,Closed Lost,0,new_business,[SYNTHETIC] Silver Systems 119,SYNTHETIC FICTION,d2eec5850643-opportunities-000119,true
+[SYNTHETIC] Vendor 120 readiness engagement,15000.00,2025-05-09,Closed Lost,0,new_business,[SYNTHETIC] Thistle Systems 120,SYNTHETIC FICTION,d2eec5850643-opportunities-000120,true
+[SYNTHETIC] Vendor 121 readiness engagement,12000.00,2024-12-08,Closed Lost,0,expansion,[SYNTHETIC] Amber Analytics 121,SYNTHETIC FICTION,d2eec5850643-opportunities-000121,true
+[SYNTHETIC] Vendor 122 readiness engagement,20000.00,2026-03-30,Closed Lost,0,new_business,[SYNTHETIC] Birch Analytics 122,SYNTHETIC FICTION,d2eec5850643-opportunities-000122,true
+[SYNTHETIC] Vendor 123 readiness engagement,30000.00,2024-12-17,Closed Lost,0,new_business,[SYNTHETIC] Cloud Analytics 123,SYNTHETIC FICTION,d2eec5850643-opportunities-000123,true
+[SYNTHETIC] Vendor 124 readiness engagement,36000.00,2025-12-06,Closed Lost,0,expansion,[SYNTHETIC] Dawn Analytics 124,SYNTHETIC FICTION,d2eec5850643-opportunities-000124,true
+[SYNTHETIC] Vendor 125 readiness engagement,24000.00,2025-03-12,Closed Lost,0,new_business,[SYNTHETIC] Elm Analytics 125,SYNTHETIC FICTION,d2eec5850643-opportunities-000125,true
+[SYNTHETIC] Vendor 126 readiness engagement,15000.00,2025-02-16,Closed Lost,0,new_business,[SYNTHETIC] Fern Analytics 126,SYNTHETIC FICTION,d2eec5850643-opportunities-000126,true
+[SYNTHETIC] Vendor 127 readiness engagement,12000.00,2025-04-04,Closed Lost,0,expansion,[SYNTHETIC] Glen Analytics 127,SYNTHETIC FICTION,d2eec5850643-opportunities-000127,true
+[SYNTHETIC] Vendor 128 readiness engagement,20000.00,2026-01-20,Closed Lost,0,new_business,[SYNTHETIC] Harbor Analytics 128,SYNTHETIC FICTION,d2eec5850643-opportunities-000128,true
+[SYNTHETIC] Vendor 129 readiness engagement,30000.00,2024-12-17,Closed Lost,0,new_business,[SYNTHETIC] Ivory Analytics 129,SYNTHETIC FICTION,d2eec5850643-opportunities-000129,true
+[SYNTHETIC] Vendor 130 readiness engagement,36000.00,2025-11-10,Closed Lost,0,expansion,[SYNTHETIC] Juniper Analytics 130,SYNTHETIC FICTION,d2eec5850643-opportunities-000130,true
+[SYNTHETIC] Vendor 131 readiness engagement,24000.00,2025-12-08,Closed Lost,0,new_business,[SYNTHETIC] Kestrel Analytics 131,SYNTHETIC FICTION,d2eec5850643-opportunities-000131,true
+[SYNTHETIC] Vendor 132 readiness engagement,15000.00,2025-07-05,Closed Lost,0,new_business,[SYNTHETIC] Lumen Analytics 132,SYNTHETIC FICTION,d2eec5850643-opportunities-000132,true
+[SYNTHETIC] Vendor 133 readiness engagement,12000.00,2026-09-13,Closed Lost,0,expansion,[SYNTHETIC] Maple Analytics 133,SYNTHETIC FICTION,d2eec5850643-opportunities-000133,true
+[SYNTHETIC] Vendor 134 readiness engagement,20000.00,2024-12-31,Closed Lost,0,new_business,[SYNTHETIC] North Analytics 134,SYNTHETIC FICTION,d2eec5850643-opportunities-000134,true
+[SYNTHETIC] Vendor 135 readiness engagement,30000.00,2025-06-06,Closed Lost,0,new_business,[SYNTHETIC] Opal Analytics 135,SYNTHETIC FICTION,d2eec5850643-opportunities-000135,true
+[SYNTHETIC] Vendor 136 readiness engagement,36000.00,2024-11-24,Closed Lost,0,expansion,[SYNTHETIC] Pine Analytics 136,SYNTHETIC FICTION,d2eec5850643-opportunities-000136,true
+[SYNTHETIC] Vendor 137 readiness engagement,24000.00,2025-11-22,Closed Lost,0,new_business,[SYNTHETIC] Quartz Analytics 137,SYNTHETIC FICTION,d2eec5850643-opportunities-000137,true
+[SYNTHETIC] Vendor 138 readiness engagement,15000.00,2025-08-18,Closed Lost,0,new_business,[SYNTHETIC] River Analytics 138,SYNTHETIC FICTION,d2eec5850643-opportunities-000138,true
+[SYNTHETIC] Vendor 139 readiness engagement,12000.00,2025-12-15,Closed Lost,0,expansion,[SYNTHETIC] Silver Analytics 139,SYNTHETIC FICTION,d2eec5850643-opportunities-000139,true
+[SYNTHETIC] Vendor 140 readiness engagement,20000.00,2025-06-02,Closed Lost,0,new_business,[SYNTHETIC] Thistle Analytics 140,SYNTHETIC FICTION,d2eec5850643-opportunities-000140,true
+[SYNTHETIC] Vendor 141 readiness engagement,30000.00,2025-11-02,Closed Lost,0,new_business,[SYNTHETIC] Amber Workflow 141,SYNTHETIC FICTION,d2eec5850643-opportunities-000141,true
+[SYNTHETIC] Vendor 142 readiness engagement,36000.00,2026-05-30,Closed Lost,0,expansion,[SYNTHETIC] Birch Workflow 142,SYNTHETIC FICTION,d2eec5850643-opportunities-000142,true
+[SYNTHETIC] Vendor 143 readiness engagement,24000.00,2026-05-07,Closed Lost,0,new_business,[SYNTHETIC] Cloud Workflow 143,SYNTHETIC FICTION,d2eec5850643-opportunities-000143,true
+[SYNTHETIC] Vendor 144 readiness engagement,15000.00,2025-12-04,Closed Lost,0,new_business,[SYNTHETIC] Dawn Workflow 144,SYNTHETIC FICTION,d2eec5850643-opportunities-000144,true
+[SYNTHETIC] Vendor 145 readiness engagement,12000.00,2026-07-12,Closed Lost,0,expansion,[SYNTHETIC] Elm Workflow 145,SYNTHETIC FICTION,d2eec5850643-opportunities-000145,true
+[SYNTHETIC] Vendor 146 readiness engagement,20000.00,2025-04-15,Closed Lost,0,new_business,[SYNTHETIC] Fern Workflow 146,SYNTHETIC FICTION,d2eec5850643-opportunities-000146,true
+[SYNTHETIC] Vendor 147 readiness engagement,30000.00,2025-04-27,Closed Lost,0,new_business,[SYNTHETIC] Glen Workflow 147,SYNTHETIC FICTION,d2eec5850643-opportunities-000147,true
+[SYNTHETIC] Vendor 148 readiness engagement,36000.00,2025-07-13,Closed Lost,0,expansion,[SYNTHETIC] Harbor Workflow 148,SYNTHETIC FICTION,d2eec5850643-opportunities-000148,true
+[SYNTHETIC] Vendor 149 readiness engagement,24000.00,2024-12-11,Closed Lost,0,new_business,[SYNTHETIC] Ivory Workflow 149,SYNTHETIC FICTION,d2eec5850643-opportunities-000149,true
+[SYNTHETIC] Vendor 150 readiness engagement,15000.00,2025-07-19,Closed Lost,0,new_business,[SYNTHETIC] Juniper Workflow 150,SYNTHETIC FICTION,d2eec5850643-opportunities-000150,true
+[SYNTHETIC] Vendor 151 readiness engagement,12000.00,2025-04-03,Closed Lost,0,expansion,[SYNTHETIC] Kestrel Workflow 151,SYNTHETIC FICTION,d2eec5850643-opportunities-000151,true
+[SYNTHETIC] Vendor 152 readiness engagement,20000.00,2026-08-04,Closed Lost,0,new_business,[SYNTHETIC] Lumen Workflow 152,SYNTHETIC FICTION,d2eec5850643-opportunities-000152,true
+[SYNTHETIC] Vendor 153 readiness engagement,30000.00,2024-12-17,Closed Lost,0,new_business,[SYNTHETIC] Maple Workflow 153,SYNTHETIC FICTION,d2eec5850643-opportunities-000153,true
+[SYNTHETIC] Vendor 154 readiness engagement,36000.00,2025-02-24,Closed Lost,0,expansion,[SYNTHETIC] North Workflow 154,SYNTHETIC FICTION,d2eec5850643-opportunities-000154,true
+[SYNTHETIC] Vendor 155 readiness engagement,24000.00,2026-03-13,Closed Lost,0,new_business,[SYNTHETIC] Opal Workflow 155,SYNTHETIC FICTION,d2eec5850643-opportunities-000155,true
+[SYNTHETIC] Vendor 156 readiness engagement,15000.00,2026-05-06,Closed Lost,0,new_business,[SYNTHETIC] Pine Workflow 156,SYNTHETIC FICTION,d2eec5850643-opportunities-000156,true
+[SYNTHETIC] Vendor 157 readiness engagement,12000.00,2025-04-17,Closed Lost,0,expansion,[SYNTHETIC] Quartz Workflow 157,SYNTHETIC FICTION,d2eec5850643-opportunities-000157,true
+[SYNTHETIC] Vendor 158 readiness engagement,20000.00,2025-11-05,Closed Lost,0,new_business,[SYNTHETIC] River Workflow 158,SYNTHETIC FICTION,d2eec5850643-opportunities-000158,true
+[SYNTHETIC] Vendor 159 readiness engagement,30000.00,2025-11-21,Closed Lost,0,new_business,[SYNTHETIC] Silver Workflow 159,SYNTHETIC FICTION,d2eec5850643-opportunities-000159,true
+[SYNTHETIC] Vendor 160 readiness engagement,36000.00,2025-01-18,Closed Lost,0,expansion,[SYNTHETIC] Thistle Workflow 160,SYNTHETIC FICTION,d2eec5850643-opportunities-000160,true
+[SYNTHETIC] Vendor 161 readiness engagement,24000.00,2025-04-26,Closed Lost,0,new_business,[SYNTHETIC] Amber Signals 161,SYNTHETIC FICTION,d2eec5850643-opportunities-000161,true
+[SYNTHETIC] Vendor 162 readiness engagement,15000.00,2025-12-14,Closed Lost,0,new_business,[SYNTHETIC] Birch Signals 162,SYNTHETIC FICTION,d2eec5850643-opportunities-000162,true
+[SYNTHETIC] Vendor 163 readiness engagement,12000.00,2025-07-21,Closed Lost,0,expansion,[SYNTHETIC] Cloud Signals 163,SYNTHETIC FICTION,d2eec5850643-opportunities-000163,true
+[SYNTHETIC] Vendor 164 readiness engagement,20000.00,2024-11-11,Closed Lost,0,new_business,[SYNTHETIC] Dawn Signals 164,SYNTHETIC FICTION,d2eec5850643-opportunities-000164,true
+[SYNTHETIC] Vendor 165 readiness engagement,30000.00,2026-05-16,Closed Lost,0,new_business,[SYNTHETIC] Elm Signals 165,SYNTHETIC FICTION,d2eec5850643-opportunities-000165,true
+[SYNTHETIC] Vendor 166 readiness engagement,36000.00,2025-01-19,Closed Lost,0,expansion,[SYNTHETIC] Fern Signals 166,SYNTHETIC FICTION,d2eec5850643-opportunities-000166,true
+[SYNTHETIC] Vendor 167 readiness engagement,24000.00,2026-09-14,Closed Lost,0,new_business,[SYNTHETIC] Glen Signals 167,SYNTHETIC FICTION,d2eec5850643-opportunities-000167,true
+[SYNTHETIC] Vendor 168 readiness engagement,15000.00,2025-03-16,Closed Lost,0,new_business,[SYNTHETIC] Harbor Signals 168,SYNTHETIC FICTION,d2eec5850643-opportunities-000168,true
+[SYNTHETIC] Vendor 169 readiness engagement,12000.00,2025-07-29,Closed Lost,0,expansion,[SYNTHETIC] Ivory Signals 169,SYNTHETIC FICTION,d2eec5850643-opportunities-000169,true
+[SYNTHETIC] Vendor 170 readiness engagement,20000.00,2025-02-08,Closed Lost,0,new_business,[SYNTHETIC] Juniper Signals 170,SYNTHETIC FICTION,d2eec5850643-opportunities-000170,true
+[SYNTHETIC] Vendor 171 readiness engagement,30000.00,2025-05-27,Closed Lost,0,new_business,[SYNTHETIC] Kestrel Signals 171,SYNTHETIC FICTION,d2eec5850643-opportunities-000171,true
+[SYNTHETIC] Vendor 172 readiness engagement,36000.00,2026-05-20,Closed Lost,0,expansion,[SYNTHETIC] Lumen Signals 172,SYNTHETIC FICTION,d2eec5850643-opportunities-000172,true
+[SYNTHETIC] Vendor 173 readiness engagement,24000.00,2025-05-01,Closed Lost,0,new_business,[SYNTHETIC] Maple Signals 173,SYNTHETIC FICTION,d2eec5850643-opportunities-000173,true
+[SYNTHETIC] Vendor 174 readiness engagement,15000.00,2024-12-11,Closed Lost,0,new_business,[SYNTHETIC] North Signals 174,SYNTHETIC FICTION,d2eec5850643-opportunities-000174,true
+[SYNTHETIC] Vendor 175 readiness engagement,12000.00,2025-07-29,Closed Lost,0,expansion,[SYNTHETIC] Opal Signals 175,SYNTHETIC FICTION,d2eec5850643-opportunities-000175,true
+[SYNTHETIC] Vendor 176 readiness engagement,20000.00,2025-09-13,Closed Lost,0,new_business,[SYNTHETIC] Pine Signals 176,SYNTHETIC FICTION,d2eec5850643-opportunities-000176,true
+[SYNTHETIC] Vendor 177 readiness engagement,30000.00,2026-03-04,Closed Lost,0,new_business,[SYNTHETIC] Quartz Signals 177,SYNTHETIC FICTION,d2eec5850643-opportunities-000177,true
+[SYNTHETIC] Vendor 178 readiness engagement,36000.00,2026-02-08,Closed Lost,0,expansion,[SYNTHETIC] River Signals 178,SYNTHETIC FICTION,d2eec5850643-opportunities-000178,true
+[SYNTHETIC] Vendor 179 readiness engagement,24000.00,2026-01-16,Closed Lost,0,new_business,[SYNTHETIC] Silver Signals 179,SYNTHETIC FICTION,d2eec5850643-opportunities-000179,true
+[SYNTHETIC] Vendor 180 readiness engagement,15000.00,2026-01-11,Closed Lost,0,new_business,[SYNTHETIC] Thistle Signals 180,SYNTHETIC FICTION,d2eec5850643-opportunities-000180,true
+[SYNTHETIC] Vendor 181 readiness engagement,12000.00,2026-01-08,Closed Lost,0,expansion,[SYNTHETIC] Amber Platform 181,SYNTHETIC FICTION,d2eec5850643-opportunities-000181,true
+[SYNTHETIC] Vendor 182 readiness engagement,20000.00,2026-04-25,Closed Lost,0,new_business,[SYNTHETIC] Birch Platform 182,SYNTHETIC FICTION,d2eec5850643-opportunities-000182,true
+[SYNTHETIC] Vendor 183 readiness engagement,30000.00,2024-11-26,Closed Lost,0,new_business,[SYNTHETIC] Cloud Platform 183,SYNTHETIC FICTION,d2eec5850643-opportunities-000183,true
+[SYNTHETIC] Vendor 184 readiness engagement,36000.00,2025-02-10,Closed Lost,0,expansion,[SYNTHETIC] Dawn Platform 184,SYNTHETIC FICTION,d2eec5850643-opportunities-000184,true
+[SYNTHETIC] Vendor 185 readiness engagement,24000.00,2026-07-30,Closed Lost,0,new_business,[SYNTHETIC] Elm Platform 185,SYNTHETIC FICTION,d2eec5850643-opportunities-000185,true
+[SYNTHETIC] Vendor 186 readiness engagement,15000.00,2026-06-06,Closed Lost,0,new_business,[SYNTHETIC] Fern Platform 186,SYNTHETIC FICTION,d2eec5850643-opportunities-000186,true
+[SYNTHETIC] Vendor 187 readiness engagement,12000.00,2025-06-18,Closed Lost,0,expansion,[SYNTHETIC] Glen Platform 187,SYNTHETIC FICTION,d2eec5850643-opportunities-000187,true
+[SYNTHETIC] Vendor 188 readiness engagement,20000.00,2026-01-23,Closed Lost,0,new_business,[SYNTHETIC] Harbor Platform 188,SYNTHETIC FICTION,d2eec5850643-opportunities-000188,true
+[SYNTHETIC] Vendor 189 readiness engagement,30000.00,2025-03-23,Closed Lost,0,new_business,[SYNTHETIC] Ivory Platform 189,SYNTHETIC FICTION,d2eec5850643-opportunities-000189,true
+[SYNTHETIC] Vendor 190 readiness engagement,36000.00,2025-05-21,Closed Lost,0,expansion,[SYNTHETIC] Juniper Platform 190,SYNTHETIC FICTION,d2eec5850643-opportunities-000190,true
+[SYNTHETIC] Vendor 191 readiness engagement,24000.00,2025-04-29,Closed Lost,0,new_business,[SYNTHETIC] Kestrel Platform 191,SYNTHETIC FICTION,d2eec5850643-opportunities-000191,true
+[SYNTHETIC] Vendor 192 readiness engagement,15000.00,2026-01-14,Closed Lost,0,new_business,[SYNTHETIC] Lumen Platform 192,SYNTHETIC FICTION,d2eec5850643-opportunities-000192,true
+[SYNTHETIC] Vendor 193 readiness engagement,12000.00,2025-10-22,Closed Lost,0,expansion,[SYNTHETIC] Maple Platform 193,SYNTHETIC FICTION,d2eec5850643-opportunities-000193,true
+[SYNTHETIC] Vendor 194 readiness engagement,20000.00,2024-12-14,Closed Lost,0,new_business,[SYNTHETIC] North Platform 194,SYNTHETIC FICTION,d2eec5850643-opportunities-000194,true
+[SYNTHETIC] Vendor 195 readiness engagement,30000.00,2025-07-22,Closed Lost,0,new_business,[SYNTHETIC] Opal Platform 195,SYNTHETIC FICTION,d2eec5850643-opportunities-000195,true
+[SYNTHETIC] Vendor 196 readiness engagement,36000.00,2026-10-25,Closed Lost,0,expansion,[SYNTHETIC] Pine Platform 196,SYNTHETIC FICTION,d2eec5850643-opportunities-000196,true
+[SYNTHETIC] Vendor 197 readiness engagement,24000.00,2026-02-05,Closed Lost,0,new_business,[SYNTHETIC] Quartz Platform 197,SYNTHETIC FICTION,d2eec5850643-opportunities-000197,true
+[SYNTHETIC] Vendor 198 readiness engagement,15000.00,2025-07-16,Closed Lost,0,new_business,[SYNTHETIC] River Platform 198,SYNTHETIC FICTION,d2eec5850643-opportunities-000198,true
+[SYNTHETIC] Vendor 199 readiness engagement,12000.00,2026-01-22,Closed Lost,0,expansion,[SYNTHETIC] Silver Platform 199,SYNTHETIC FICTION,d2eec5850643-opportunities-000199,true
+[SYNTHETIC] Vendor 200 readiness engagement,20000.00,2025-09-25,Closed Lost,0,new_business,[SYNTHETIC] Thistle Platform 200,SYNTHETIC FICTION,d2eec5850643-opportunities-000200,true
+[SYNTHETIC] Vendor 201 readiness engagement,30000.00,2026-08-16,Closed Lost,0,new_business,[SYNTHETIC] Amber Systems 201,SYNTHETIC FICTION,d2eec5850643-opportunities-000201,true
+[SYNTHETIC] Vendor 202 readiness engagement,36000.00,2025-02-27,Closed Lost,0,expansion,[SYNTHETIC] Birch Systems 202,SYNTHETIC FICTION,d2eec5850643-opportunities-000202,true
+[SYNTHETIC] Vendor 203 readiness engagement,24000.00,2025-09-02,Closed Lost,0,new_business,[SYNTHETIC] Cloud Systems 203,SYNTHETIC FICTION,d2eec5850643-opportunities-000203,true
+[SYNTHETIC] Vendor 204 readiness engagement,15000.00,2025-10-23,Closed Lost,0,new_business,[SYNTHETIC] Dawn Systems 204,SYNTHETIC FICTION,d2eec5850643-opportunities-000204,true
+[SYNTHETIC] Vendor 205 readiness engagement,12000.00,2024-12-25,Closed Lost,0,expansion,[SYNTHETIC] Elm Systems 205,SYNTHETIC FICTION,d2eec5850643-opportunities-000205,true
+[SYNTHETIC] Vendor 206 readiness engagement,20000.00,2024-11-17,Closed Lost,0,new_business,[SYNTHETIC] Fern Systems 206,SYNTHETIC FICTION,d2eec5850643-opportunities-000206,true
+[SYNTHETIC] Vendor 207 readiness engagement,30000.00,2025-03-05,Closed Lost,0,new_business,[SYNTHETIC] Glen Systems 207,SYNTHETIC FICTION,d2eec5850643-opportunities-000207,true
+[SYNTHETIC] Vendor 208 readiness engagement,36000.00,2025-03-15,Closed Lost,0,expansion,[SYNTHETIC] Harbor Systems 208,SYNTHETIC FICTION,d2eec5850643-opportunities-000208,true
+[SYNTHETIC] Vendor 209 readiness engagement,24000.00,2025-09-25,Closed Lost,0,new_business,[SYNTHETIC] Ivory Systems 209,SYNTHETIC FICTION,d2eec5850643-opportunities-000209,true
+[SYNTHETIC] Vendor 210 readiness engagement,15000.00,2026-07-23,Closed Lost,0,new_business,[SYNTHETIC] Juniper Systems 210,SYNTHETIC FICTION,d2eec5850643-opportunities-000210,true
+[SYNTHETIC] Vendor 211 readiness engagement,12000.00,2025-05-20,Closed Lost,0,expansion,[SYNTHETIC] Kestrel Systems 211,SYNTHETIC FICTION,d2eec5850643-opportunities-000211,true
+[SYNTHETIC] Vendor 212 readiness engagement,20000.00,2026-06-04,Closed Lost,0,new_business,[SYNTHETIC] Lumen Systems 212,SYNTHETIC FICTION,d2eec5850643-opportunities-000212,true
+[SYNTHETIC] Vendor 213 readiness engagement,30000.00,2025-10-27,Closed Lost,0,new_business,[SYNTHETIC] Maple Systems 213,SYNTHETIC FICTION,d2eec5850643-opportunities-000213,true
+[SYNTHETIC] Vendor 214 readiness engagement,36000.00,2025-06-16,Closed Lost,0,expansion,[SYNTHETIC] North Systems 214,SYNTHETIC FICTION,d2eec5850643-opportunities-000214,true
+[SYNTHETIC] Vendor 215 readiness engagement,24000.00,2025-10-02,Closed Lost,0,new_business,[SYNTHETIC] Opal Systems 215,SYNTHETIC FICTION,d2eec5850643-opportunities-000215,true
+[SYNTHETIC] Vendor 216 readiness engagement,15000.00,2026-07-07,Closed Lost,0,new_business,[SYNTHETIC] Pine Systems 216,SYNTHETIC FICTION,d2eec5850643-opportunities-000216,true
+[SYNTHETIC] Vendor 217 readiness engagement,12000.00,2025-12-09,Closed Lost,0,expansion,[SYNTHETIC] Quartz Systems 217,SYNTHETIC FICTION,d2eec5850643-opportunities-000217,true
+[SYNTHETIC] Vendor 218 readiness engagement,20000.00,2024-12-03,Closed Lost,0,new_business,[SYNTHETIC] River Systems 218,SYNTHETIC FICTION,d2eec5850643-opportunities-000218,true
+[SYNTHETIC] Vendor 219 readiness engagement,30000.00,2026-04-28,Closed Lost,0,new_business,[SYNTHETIC] Silver Systems 219,SYNTHETIC FICTION,d2eec5850643-opportunities-000219,true
+[SYNTHETIC] Vendor 220 readiness engagement,36000.00,2026-07-25,Closed Lost,0,expansion,[SYNTHETIC] Thistle Systems 220,SYNTHETIC FICTION,d2eec5850643-opportunities-000220,true
+[SYNTHETIC] Vendor 221 readiness engagement,24000.00,2025-11-30,Closed Lost,0,new_business,[SYNTHETIC] Amber Analytics 221,SYNTHETIC FICTION,d2eec5850643-opportunities-000221,true
+[SYNTHETIC] Vendor 222 readiness engagement,15000.00,2025-09-04,Closed Lost,0,new_business,[SYNTHETIC] Birch Analytics 222,SYNTHETIC FICTION,d2eec5850643-opportunities-000222,true
+[SYNTHETIC] Vendor 223 readiness engagement,12000.00,2025-06-11,Closed Lost,0,expansion,[SYNTHETIC] Cloud Analytics 223,SYNTHETIC FICTION,d2eec5850643-opportunities-000223,true
+[SYNTHETIC] Vendor 224 readiness engagement,20000.00,2025-01-04,Closed Lost,0,new_business,[SYNTHETIC] Dawn Analytics 224,SYNTHETIC FICTION,d2eec5850643-opportunities-000224,true
+[SYNTHETIC] Vendor 225 readiness engagement,30000.00,2025-06-05,Closed Lost,0,new_business,[SYNTHETIC] Elm Analytics 225,SYNTHETIC FICTION,d2eec5850643-opportunities-000225,true
+[SYNTHETIC] Vendor 226 readiness engagement,36000.00,2026-10-07,Closed Lost,0,expansion,[SYNTHETIC] Fern Analytics 226,SYNTHETIC FICTION,d2eec5850643-opportunities-000226,true
+[SYNTHETIC] Vendor 227 readiness engagement,24000.00,2025-09-03,Closed Lost,0,new_business,[SYNTHETIC] Glen Analytics 227,SYNTHETIC FICTION,d2eec5850643-opportunities-000227,true
+[SYNTHETIC] Vendor 228 readiness engagement,15000.00,2026-07-04,Closed Lost,0,new_business,[SYNTHETIC] Harbor Analytics 228,SYNTHETIC FICTION,d2eec5850643-opportunities-000228,true
+[SYNTHETIC] Vendor 229 readiness engagement,12000.00,2026-02-13,Closed Lost,0,expansion,[SYNTHETIC] Ivory Analytics 229,SYNTHETIC FICTION,d2eec5850643-opportunities-000229,true
+[SYNTHETIC] Vendor 230 readiness engagement,20000.00,2025-09-26,Closed Lost,0,new_business,[SYNTHETIC] Juniper Analytics 230,SYNTHETIC FICTION,d2eec5850643-opportunities-000230,true
+[SYNTHETIC] Vendor 231 readiness engagement,30000.00,2025-05-13,Closed Lost,0,new_business,[SYNTHETIC] Kestrel Analytics 231,SYNTHETIC FICTION,d2eec5850643-opportunities-000231,true
+[SYNTHETIC] Vendor 232 readiness engagement,36000.00,2024-12-17,Closed Lost,0,expansion,[SYNTHETIC] Lumen Analytics 232,SYNTHETIC FICTION,d2eec5850643-opportunities-000232,true
+[SYNTHETIC] Vendor 233 readiness engagement,24000.00,2025-07-09,Closed Lost,0,new_business,[SYNTHETIC] Maple Analytics 233,SYNTHETIC FICTION,d2eec5850643-opportunities-000233,true
+[SYNTHETIC] Vendor 234 readiness engagement,15000.00,2026-10-20,Closed Lost,0,new_business,[SYNTHETIC] North Analytics 234,SYNTHETIC FICTION,d2eec5850643-opportunities-000234,true
+[SYNTHETIC] Vendor 235 readiness engagement,12000.00,2025-11-14,Closed Lost,0,expansion,[SYNTHETIC] Opal Analytics 235,SYNTHETIC FICTION,d2eec5850643-opportunities-000235,true
+[SYNTHETIC] Vendor 236 readiness engagement,20000.00,2024-12-15,Closed Lost,0,new_business,[SYNTHETIC] Pine Analytics 236,SYNTHETIC FICTION,d2eec5850643-opportunities-000236,true
+[SYNTHETIC] Vendor 237 readiness engagement,30000.00,2025-05-05,Closed Lost,0,new_business,[SYNTHETIC] Quartz Analytics 237,SYNTHETIC FICTION,d2eec5850643-opportunities-000237,true
+[SYNTHETIC] Vendor 238 readiness engagement,36000.00,2026-01-11,Closed Lost,0,expansion,[SYNTHETIC] River Analytics 238,SYNTHETIC FICTION,d2eec5850643-opportunities-000238,true
+[SYNTHETIC] Vendor 239 readiness engagement,24000.00,2025-03-02,Closed Lost,0,new_business,[SYNTHETIC] Silver Analytics 239,SYNTHETIC FICTION,d2eec5850643-opportunities-000239,true
+[SYNTHETIC] Vendor 240 readiness engagement,15000.00,2024-12-29,Closed Lost,0,new_business,[SYNTHETIC] Thistle Analytics 240,SYNTHETIC FICTION,d2eec5850643-opportunities-000240,true
+[SYNTHETIC] Vendor 241 readiness engagement,12000.00,2026-11-11,Nurturing,25,expansion,[SYNTHETIC] Amber Workflow 241,SYNTHETIC FICTION,d2eec5850643-opportunities-000241,true
+[SYNTHETIC] Vendor 242 readiness engagement,20000.00,2026-11-12,Nurturing,40,new_business,[SYNTHETIC] Birch Workflow 242,SYNTHETIC FICTION,d2eec5850643-opportunities-000242,true
+[SYNTHETIC] Vendor 243 readiness engagement,30000.00,2026-11-13,Nurturing,55,new_business,[SYNTHETIC] Cloud Workflow 243,SYNTHETIC FICTION,d2eec5850643-opportunities-000243,true
+[SYNTHETIC] Vendor 244 readiness engagement,36000.00,2026-11-14,Nurturing,70,expansion,[SYNTHETIC] Dawn Workflow 244,SYNTHETIC FICTION,d2eec5850643-opportunities-000244,true
+[SYNTHETIC] Vendor 245 readiness engagement,24000.00,2026-11-15,Nurturing,25,new_business,[SYNTHETIC] Elm Workflow 245,SYNTHETIC FICTION,d2eec5850643-opportunities-000245,true
+[SYNTHETIC] Vendor 246 readiness engagement,15000.00,2026-11-16,Nurturing,40,new_business,[SYNTHETIC] Fern Workflow 246,SYNTHETIC FICTION,d2eec5850643-opportunities-000246,true
+[SYNTHETIC] Vendor 247 readiness engagement,12000.00,2026-11-17,Nurturing,55,expansion,[SYNTHETIC] Glen Workflow 247,SYNTHETIC FICTION,d2eec5850643-opportunities-000247,true
+[SYNTHETIC] Vendor 248 readiness engagement,20000.00,2026-11-18,Nurturing,70,new_business,[SYNTHETIC] Harbor Workflow 248,SYNTHETIC FICTION,d2eec5850643-opportunities-000248,true
+[SYNTHETIC] Vendor 249 readiness engagement,30000.00,2026-11-19,Nurturing,25,new_business,[SYNTHETIC] Ivory Workflow 249,SYNTHETIC FICTION,d2eec5850643-opportunities-000249,true
+[SYNTHETIC] Vendor 250 readiness engagement,36000.00,2026-11-20,Nurturing,40,expansion,[SYNTHETIC] Juniper Workflow 250,SYNTHETIC FICTION,d2eec5850643-opportunities-000250,true
+[SYNTHETIC] Vendor 251 readiness engagement,24000.00,2026-11-21,Nurturing,55,new_business,[SYNTHETIC] Kestrel Workflow 251,SYNTHETIC FICTION,d2eec5850643-opportunities-000251,true
+[SYNTHETIC] Vendor 252 readiness engagement,15000.00,2026-11-22,Nurturing,70,new_business,[SYNTHETIC] Lumen Workflow 252,SYNTHETIC FICTION,d2eec5850643-opportunities-000252,true
+[SYNTHETIC] Vendor 253 readiness engagement,12000.00,2026-11-23,Nurturing,25,expansion,[SYNTHETIC] Maple Workflow 253,SYNTHETIC FICTION,d2eec5850643-opportunities-000253,true
+[SYNTHETIC] Vendor 254 readiness engagement,20000.00,2026-11-24,Nurturing,40,new_business,[SYNTHETIC] North Workflow 254,SYNTHETIC FICTION,d2eec5850643-opportunities-000254,true
+[SYNTHETIC] Vendor 255 readiness engagement,30000.00,2026-11-25,Nurturing,55,new_business,[SYNTHETIC] Opal Workflow 255,SYNTHETIC FICTION,d2eec5850643-opportunities-000255,true
+[SYNTHETIC] Vendor 256 readiness engagement,36000.00,2026-11-26,Nurturing,70,expansion,[SYNTHETIC] Pine Workflow 256,SYNTHETIC FICTION,d2eec5850643-opportunities-000256,true
+[SYNTHETIC] Vendor 257 readiness engagement,24000.00,2026-11-27,Nurturing,25,new_business,[SYNTHETIC] Quartz Workflow 257,SYNTHETIC FICTION,d2eec5850643-opportunities-000257,true
+[SYNTHETIC] Vendor 258 readiness engagement,15000.00,2026-11-28,Nurturing,40,new_business,[SYNTHETIC] River Workflow 258,SYNTHETIC FICTION,d2eec5850643-opportunities-000258,true
+[SYNTHETIC] Vendor 259 readiness engagement,12000.00,2026-11-29,Nurturing,55,expansion,[SYNTHETIC] Silver Workflow 259,SYNTHETIC FICTION,d2eec5850643-opportunities-000259,true
+[SYNTHETIC] Vendor 260 readiness engagement,20000.00,2026-11-30,Nurturing,70,new_business,[SYNTHETIC] Thistle Workflow 260,SYNTHETIC FICTION,d2eec5850643-opportunities-000260,true
+[SYNTHETIC] Vendor 261 readiness engagement,30000.00,2026-12-01,Nurturing,25,new_business,[SYNTHETIC] Amber Signals 261,SYNTHETIC FICTION,d2eec5850643-opportunities-000261,true
+[SYNTHETIC] Vendor 262 readiness engagement,36000.00,2026-12-02,Nurturing,40,expansion,[SYNTHETIC] Birch Signals 262,SYNTHETIC FICTION,d2eec5850643-opportunities-000262,true
+[SYNTHETIC] Vendor 263 readiness engagement,24000.00,2026-12-03,Nurturing,55,new_business,[SYNTHETIC] Cloud Signals 263,SYNTHETIC FICTION,d2eec5850643-opportunities-000263,true
+[SYNTHETIC] Vendor 264 readiness engagement,15000.00,2026-12-04,Nurturing,70,new_business,[SYNTHETIC] Dawn Signals 264,SYNTHETIC FICTION,d2eec5850643-opportunities-000264,true
+[SYNTHETIC] Vendor 265 readiness engagement,12000.00,2026-12-05,Nurturing,25,expansion,[SYNTHETIC] Elm Signals 265,SYNTHETIC FICTION,d2eec5850643-opportunities-000265,true
+[SYNTHETIC] Vendor 266 readiness engagement,20000.00,2026-12-06,Nurturing,40,new_business,[SYNTHETIC] Fern Signals 266,SYNTHETIC FICTION,d2eec5850643-opportunities-000266,true
+[SYNTHETIC] Vendor 267 readiness engagement,30000.00,2026-12-07,Nurturing,55,new_business,[SYNTHETIC] Glen Signals 267,SYNTHETIC FICTION,d2eec5850643-opportunities-000267,true
+[SYNTHETIC] Vendor 268 readiness engagement,36000.00,2026-12-08,Nurturing,70,expansion,[SYNTHETIC] Harbor Signals 268,SYNTHETIC FICTION,d2eec5850643-opportunities-000268,true
+[SYNTHETIC] Vendor 269 readiness engagement,24000.00,2026-12-09,Nurturing,25,new_business,[SYNTHETIC] Ivory Signals 269,SYNTHETIC FICTION,d2eec5850643-opportunities-000269,true
+[SYNTHETIC] Vendor 270 readiness engagement,15000.00,2026-12-10,Nurturing,40,new_business,[SYNTHETIC] Juniper Signals 270,SYNTHETIC FICTION,d2eec5850643-opportunities-000270,true
+[SYNTHETIC] Vendor 271 readiness engagement,12000.00,2026-12-11,Nurturing,55,expansion,[SYNTHETIC] Kestrel Signals 271,SYNTHETIC FICTION,d2eec5850643-opportunities-000271,true
+[SYNTHETIC] Vendor 272 readiness engagement,20000.00,2026-12-12,Nurturing,70,new_business,[SYNTHETIC] Lumen Signals 272,SYNTHETIC FICTION,d2eec5850643-opportunities-000272,true
+[SYNTHETIC] Vendor 273 readiness engagement,30000.00,2026-12-13,Nurturing,25,new_business,[SYNTHETIC] Maple Signals 273,SYNTHETIC FICTION,d2eec5850643-opportunities-000273,true
+[SYNTHETIC] Vendor 274 readiness engagement,36000.00,2026-12-14,Nurturing,40,expansion,[SYNTHETIC] North Signals 274,SYNTHETIC FICTION,d2eec5850643-opportunities-000274,true
+[SYNTHETIC] Vendor 275 readiness engagement,24000.00,2026-12-15,Nurturing,55,new_business,[SYNTHETIC] Opal Signals 275,SYNTHETIC FICTION,d2eec5850643-opportunities-000275,true
+[SYNTHETIC] Vendor 276 readiness engagement,15000.00,2026-12-16,Nurturing,70,new_business,[SYNTHETIC] Pine Signals 276,SYNTHETIC FICTION,d2eec5850643-opportunities-000276,true
+[SYNTHETIC] Vendor 277 readiness engagement,12000.00,2026-12-17,Nurturing,25,expansion,[SYNTHETIC] Quartz Signals 277,SYNTHETIC FICTION,d2eec5850643-opportunities-000277,true
+[SYNTHETIC] Vendor 278 readiness engagement,20000.00,2026-12-18,Nurturing,40,new_business,[SYNTHETIC] River Signals 278,SYNTHETIC FICTION,d2eec5850643-opportunities-000278,true
+[SYNTHETIC] Vendor 279 readiness engagement,30000.00,2026-12-19,Nurturing,55,new_business,[SYNTHETIC] Silver Signals 279,SYNTHETIC FICTION,d2eec5850643-opportunities-000279,true
+[SYNTHETIC] Vendor 280 readiness engagement,36000.00,2026-12-20,Nurturing,70,expansion,[SYNTHETIC] Thistle Signals 280,SYNTHETIC FICTION,d2eec5850643-opportunities-000280,true
+[SYNTHETIC] Vendor 281 readiness engagement,24000.00,2026-12-21,Nurturing,25,new_business,[SYNTHETIC] Amber Platform 281,SYNTHETIC FICTION,d2eec5850643-opportunities-000281,true
+[SYNTHETIC] Vendor 282 readiness engagement,15000.00,2026-12-22,Nurturing,40,new_business,[SYNTHETIC] Birch Platform 282,SYNTHETIC FICTION,d2eec5850643-opportunities-000282,true
+[SYNTHETIC] Vendor 283 readiness engagement,12000.00,2026-12-23,Nurturing,55,expansion,[SYNTHETIC] Cloud Platform 283,SYNTHETIC FICTION,d2eec5850643-opportunities-000283,true
+[SYNTHETIC] Vendor 284 readiness engagement,20000.00,2026-12-24,Nurturing,70,new_business,[SYNTHETIC] Dawn Platform 284,SYNTHETIC FICTION,d2eec5850643-opportunities-000284,true
+[SYNTHETIC] Vendor 285 readiness engagement,30000.00,2026-12-25,Nurturing,25,new_business,[SYNTHETIC] Elm Platform 285,SYNTHETIC FICTION,d2eec5850643-opportunities-000285,true
+[SYNTHETIC] Vendor 286 readiness engagement,36000.00,2026-12-26,Nurturing,40,expansion,[SYNTHETIC] Fern Platform 286,SYNTHETIC FICTION,d2eec5850643-opportunities-000286,true
+[SYNTHETIC] Vendor 287 readiness engagement,24000.00,2026-12-27,Nurturing,55,new_business,[SYNTHETIC] Glen Platform 287,SYNTHETIC FICTION,d2eec5850643-opportunities-000287,true
+[SYNTHETIC] Vendor 288 readiness engagement,15000.00,2026-12-28,Nurturing,70,new_business,[SYNTHETIC] Harbor Platform 288,SYNTHETIC FICTION,d2eec5850643-opportunities-000288,true
+[SYNTHETIC] Vendor 289 readiness engagement,12000.00,2026-12-29,Nurturing,25,expansion,[SYNTHETIC] Ivory Platform 289,SYNTHETIC FICTION,d2eec5850643-opportunities-000289,true
+[SYNTHETIC] Vendor 290 readiness engagement,20000.00,2026-12-30,Nurturing,40,new_business,[SYNTHETIC] Juniper Platform 290,SYNTHETIC FICTION,d2eec5850643-opportunities-000290,true
+[SYNTHETIC] Vendor 291 readiness engagement,30000.00,2026-12-31,Nurturing,55,new_business,[SYNTHETIC] Kestrel Platform 291,SYNTHETIC FICTION,d2eec5850643-opportunities-000291,true
+[SYNTHETIC] Vendor 292 readiness engagement,36000.00,2027-01-01,Nurturing,70,expansion,[SYNTHETIC] Lumen Platform 292,SYNTHETIC FICTION,d2eec5850643-opportunities-000292,true
+[SYNTHETIC] Vendor 293 readiness engagement,24000.00,2027-01-02,Nurturing,25,new_business,[SYNTHETIC] Maple Platform 293,SYNTHETIC FICTION,d2eec5850643-opportunities-000293,true
+[SYNTHETIC] Vendor 294 readiness engagement,15000.00,2027-01-03,Nurturing,40,new_business,[SYNTHETIC] North Platform 294,SYNTHETIC FICTION,d2eec5850643-opportunities-000294,true
+[SYNTHETIC] Vendor 295 readiness engagement,12000.00,2027-01-04,Nurturing,55,expansion,[SYNTHETIC] Opal Platform 295,SYNTHETIC FICTION,d2eec5850643-opportunities-000295,true
+[SYNTHETIC] Vendor 296 readiness engagement,20000.00,2027-01-05,Nurturing,70,new_business,[SYNTHETIC] Pine Platform 296,SYNTHETIC FICTION,d2eec5850643-opportunities-000296,true
+[SYNTHETIC] Vendor 297 readiness engagement,30000.00,2027-01-06,Nurturing,25,new_business,[SYNTHETIC] Quartz Platform 297,SYNTHETIC FICTION,d2eec5850643-opportunities-000297,true
+[SYNTHETIC] Vendor 298 readiness engagement,36000.00,2027-01-07,Nurturing,40,expansion,[SYNTHETIC] River Platform 298,SYNTHETIC FICTION,d2eec5850643-opportunities-000298,true
+[SYNTHETIC] Vendor 299 readiness engagement,24000.00,2027-01-08,Nurturing,55,new_business,[SYNTHETIC] Silver Platform 299,SYNTHETIC FICTION,d2eec5850643-opportunities-000299,true
+[SYNTHETIC] Vendor 300 readiness engagement,15000.00,2027-01-09,Nurturing,70,new_business,[SYNTHETIC] Thistle Platform 300,SYNTHETIC FICTION,d2eec5850643-opportunities-000300,true
+[SYNTHETIC] Vendor 301 readiness engagement,12000.00,2026-11-11,Nurturing,25,expansion,[SYNTHETIC] Amber Systems 301,SYNTHETIC FICTION,d2eec5850643-opportunities-000301,true
+[SYNTHETIC] Vendor 302 readiness engagement,20000.00,2026-11-12,Nurturing,40,new_business,[SYNTHETIC] Birch Systems 302,SYNTHETIC FICTION,d2eec5850643-opportunities-000302,true
+[SYNTHETIC] Vendor 303 readiness engagement,30000.00,2026-11-13,Nurturing,55,new_business,[SYNTHETIC] Cloud Systems 303,SYNTHETIC FICTION,d2eec5850643-opportunities-000303,true
+[SYNTHETIC] Vendor 304 readiness engagement,36000.00,2026-11-14,Nurturing,70,expansion,[SYNTHETIC] Dawn Systems 304,SYNTHETIC FICTION,d2eec5850643-opportunities-000304,true
+[SYNTHETIC] Vendor 305 readiness engagement,24000.00,2026-11-15,Nurturing,25,new_business,[SYNTHETIC] Elm Systems 305,SYNTHETIC FICTION,d2eec5850643-opportunities-000305,true
+[SYNTHETIC] Vendor 306 readiness engagement,15000.00,2026-11-16,Nurturing,40,new_business,[SYNTHETIC] Fern Systems 306,SYNTHETIC FICTION,d2eec5850643-opportunities-000306,true
+[SYNTHETIC] Vendor 307 readiness engagement,12000.00,2026-11-17,Nurturing,55,expansion,[SYNTHETIC] Glen Systems 307,SYNTHETIC FICTION,d2eec5850643-opportunities-000307,true
+[SYNTHETIC] Vendor 308 readiness engagement,20000.00,2026-11-18,Nurturing,70,new_business,[SYNTHETIC] Harbor Systems 308,SYNTHETIC FICTION,d2eec5850643-opportunities-000308,true
+[SYNTHETIC] Vendor 309 readiness engagement,30000.00,2026-11-19,Nurturing,25,new_business,[SYNTHETIC] Ivory Systems 309,SYNTHETIC FICTION,d2eec5850643-opportunities-000309,true
+[SYNTHETIC] Vendor 310 readiness engagement,36000.00,2026-11-20,Nurturing,40,expansion,[SYNTHETIC] Juniper Systems 310,SYNTHETIC FICTION,d2eec5850643-opportunities-000310,true
+[SYNTHETIC] Vendor 311 readiness engagement,24000.00,2026-11-21,Nurturing,55,new_business,[SYNTHETIC] Kestrel Systems 311,SYNTHETIC FICTION,d2eec5850643-opportunities-000311,true
+[SYNTHETIC] Vendor 312 readiness engagement,15000.00,2026-11-22,Nurturing,70,new_business,[SYNTHETIC] Lumen Systems 312,SYNTHETIC FICTION,d2eec5850643-opportunities-000312,true
+[SYNTHETIC] Vendor 313 readiness engagement,12000.00,2026-11-23,Nurturing,25,expansion,[SYNTHETIC] Maple Systems 313,SYNTHETIC FICTION,d2eec5850643-opportunities-000313,true
+[SYNTHETIC] Vendor 314 readiness engagement,20000.00,2026-11-24,Nurturing,40,new_business,[SYNTHETIC] North Systems 314,SYNTHETIC FICTION,d2eec5850643-opportunities-000314,true
+[SYNTHETIC] Vendor 315 readiness engagement,30000.00,2026-11-25,Nurturing,55,new_business,[SYNTHETIC] Opal Systems 315,SYNTHETIC FICTION,d2eec5850643-opportunities-000315,true
+[SYNTHETIC] Vendor 316 readiness engagement,36000.00,2026-11-26,Nurturing,70,expansion,[SYNTHETIC] Pine Systems 316,SYNTHETIC FICTION,d2eec5850643-opportunities-000316,true
+[SYNTHETIC] Vendor 317 readiness engagement,24000.00,2026-11-27,Nurturing,25,new_business,[SYNTHETIC] Quartz Systems 317,SYNTHETIC FICTION,d2eec5850643-opportunities-000317,true
+[SYNTHETIC] Vendor 318 readiness engagement,15000.00,2026-11-28,Nurturing,40,new_business,[SYNTHETIC] River Systems 318,SYNTHETIC FICTION,d2eec5850643-opportunities-000318,true
+[SYNTHETIC] Vendor 319 readiness engagement,12000.00,2026-11-29,Nurturing,55,expansion,[SYNTHETIC] Silver Systems 319,SYNTHETIC FICTION,d2eec5850643-opportunities-000319,true
+[SYNTHETIC] Vendor 320 readiness engagement,20000.00,2026-11-30,Nurturing,70,new_business,[SYNTHETIC] Thistle Systems 320,SYNTHETIC FICTION,d2eec5850643-opportunities-000320,true
+[SYNTHETIC] Vendor 321 readiness engagement,30000.00,2026-12-01,Qualification,25,new_business,[SYNTHETIC] Amber Analytics 321,SYNTHETIC FICTION,d2eec5850643-opportunities-000321,true
+[SYNTHETIC] Vendor 322 readiness engagement,36000.00,2026-12-02,Qualification,40,expansion,[SYNTHETIC] Birch Analytics 322,SYNTHETIC FICTION,d2eec5850643-opportunities-000322,true
+[SYNTHETIC] Vendor 323 readiness engagement,24000.00,2026-12-03,Qualification,55,new_business,[SYNTHETIC] Cloud Analytics 323,SYNTHETIC FICTION,d2eec5850643-opportunities-000323,true
+[SYNTHETIC] Vendor 324 readiness engagement,15000.00,2026-12-04,Qualification,70,new_business,[SYNTHETIC] Dawn Analytics 324,SYNTHETIC FICTION,d2eec5850643-opportunities-000324,true
+[SYNTHETIC] Vendor 325 readiness engagement,12000.00,2026-12-05,Qualification,25,expansion,[SYNTHETIC] Elm Analytics 325,SYNTHETIC FICTION,d2eec5850643-opportunities-000325,true
+[SYNTHETIC] Vendor 326 readiness engagement,20000.00,2026-12-06,Qualification,40,new_business,[SYNTHETIC] Fern Analytics 326,SYNTHETIC FICTION,d2eec5850643-opportunities-000326,true
+[SYNTHETIC] Vendor 327 readiness engagement,30000.00,2026-12-07,Qualification,55,new_business,[SYNTHETIC] Glen Analytics 327,SYNTHETIC FICTION,d2eec5850643-opportunities-000327,true
+[SYNTHETIC] Vendor 328 readiness engagement,36000.00,2026-12-08,Qualification,70,expansion,[SYNTHETIC] Harbor Analytics 328,SYNTHETIC FICTION,d2eec5850643-opportunities-000328,true
+[SYNTHETIC] Vendor 329 readiness engagement,24000.00,2026-12-09,Qualification,25,new_business,[SYNTHETIC] Ivory Analytics 329,SYNTHETIC FICTION,d2eec5850643-opportunities-000329,true
+[SYNTHETIC] Vendor 330 readiness engagement,15000.00,2026-12-10,Qualification,40,new_business,[SYNTHETIC] Juniper Analytics 330,SYNTHETIC FICTION,d2eec5850643-opportunities-000330,true
+[SYNTHETIC] Vendor 331 readiness engagement,12000.00,2026-12-11,Qualification,55,expansion,[SYNTHETIC] Kestrel Analytics 331,SYNTHETIC FICTION,d2eec5850643-opportunities-000331,true
+[SYNTHETIC] Vendor 332 readiness engagement,20000.00,2026-12-12,Qualification,70,new_business,[SYNTHETIC] Lumen Analytics 332,SYNTHETIC FICTION,d2eec5850643-opportunities-000332,true
+[SYNTHETIC] Vendor 333 readiness engagement,30000.00,2026-12-13,Qualification,25,new_business,[SYNTHETIC] Maple Analytics 333,SYNTHETIC FICTION,d2eec5850643-opportunities-000333,true
+[SYNTHETIC] Vendor 334 readiness engagement,36000.00,2026-12-14,Qualification,40,expansion,[SYNTHETIC] North Analytics 334,SYNTHETIC FICTION,d2eec5850643-opportunities-000334,true
+[SYNTHETIC] Vendor 335 readiness engagement,24000.00,2026-12-15,Qualification,55,new_business,[SYNTHETIC] Opal Analytics 335,SYNTHETIC FICTION,d2eec5850643-opportunities-000335,true
+[SYNTHETIC] Vendor 336 readiness engagement,15000.00,2026-12-16,Qualification,70,new_business,[SYNTHETIC] Pine Analytics 336,SYNTHETIC FICTION,d2eec5850643-opportunities-000336,true
+[SYNTHETIC] Vendor 337 readiness engagement,12000.00,2026-12-17,Qualification,25,expansion,[SYNTHETIC] Quartz Analytics 337,SYNTHETIC FICTION,d2eec5850643-opportunities-000337,true
+[SYNTHETIC] Vendor 338 readiness engagement,20000.00,2026-12-18,Qualification,40,new_business,[SYNTHETIC] River Analytics 338,SYNTHETIC FICTION,d2eec5850643-opportunities-000338,true
+[SYNTHETIC] Vendor 339 readiness engagement,30000.00,2026-12-19,Qualification,55,new_business,[SYNTHETIC] Silver Analytics 339,SYNTHETIC FICTION,d2eec5850643-opportunities-000339,true
+[SYNTHETIC] Vendor 340 readiness engagement,36000.00,2026-12-20,Qualification,70,expansion,[SYNTHETIC] Thistle Analytics 340,SYNTHETIC FICTION,d2eec5850643-opportunities-000340,true
+[SYNTHETIC] Vendor 341 readiness engagement,24000.00,2026-12-21,Qualification,25,new_business,[SYNTHETIC] Amber Workflow 341,SYNTHETIC FICTION,d2eec5850643-opportunities-000341,true
+[SYNTHETIC] Vendor 342 readiness engagement,15000.00,2026-12-22,Qualification,40,new_business,[SYNTHETIC] Birch Workflow 342,SYNTHETIC FICTION,d2eec5850643-opportunities-000342,true
+[SYNTHETIC] Vendor 343 readiness engagement,12000.00,2026-12-23,Qualification,55,expansion,[SYNTHETIC] Cloud Workflow 343,SYNTHETIC FICTION,d2eec5850643-opportunities-000343,true
+[SYNTHETIC] Vendor 344 readiness engagement,20000.00,2026-12-24,Qualification,70,new_business,[SYNTHETIC] Dawn Workflow 344,SYNTHETIC FICTION,d2eec5850643-opportunities-000344,true
+[SYNTHETIC] Vendor 345 readiness engagement,30000.00,2026-12-25,Qualification,25,new_business,[SYNTHETIC] Elm Workflow 345,SYNTHETIC FICTION,d2eec5850643-opportunities-000345,true
+[SYNTHETIC] Vendor 346 readiness engagement,36000.00,2026-12-26,Qualification,40,expansion,[SYNTHETIC] Fern Workflow 346,SYNTHETIC FICTION,d2eec5850643-opportunities-000346,true
+[SYNTHETIC] Vendor 347 readiness engagement,24000.00,2026-12-27,Qualification,55,new_business,[SYNTHETIC] Glen Workflow 347,SYNTHETIC FICTION,d2eec5850643-opportunities-000347,true
+[SYNTHETIC] Vendor 348 readiness engagement,15000.00,2026-12-28,Qualification,70,new_business,[SYNTHETIC] Harbor Workflow 348,SYNTHETIC FICTION,d2eec5850643-opportunities-000348,true
+[SYNTHETIC] Vendor 349 readiness engagement,12000.00,2026-12-29,Qualification,25,expansion,[SYNTHETIC] Ivory Workflow 349,SYNTHETIC FICTION,d2eec5850643-opportunities-000349,true
+[SYNTHETIC] Vendor 350 readiness engagement,20000.00,2026-12-30,Qualification,40,new_business,[SYNTHETIC] Juniper Workflow 350,SYNTHETIC FICTION,d2eec5850643-opportunities-000350,true
+[SYNTHETIC] Vendor 351 readiness engagement,30000.00,2026-12-31,Qualification,55,new_business,[SYNTHETIC] Kestrel Workflow 351,SYNTHETIC FICTION,d2eec5850643-opportunities-000351,true
+[SYNTHETIC] Vendor 352 readiness engagement,36000.00,2027-01-01,Qualification,70,expansion,[SYNTHETIC] Lumen Workflow 352,SYNTHETIC FICTION,d2eec5850643-opportunities-000352,true
+[SYNTHETIC] Vendor 353 readiness engagement,24000.00,2027-01-02,Qualification,25,new_business,[SYNTHETIC] Maple Workflow 353,SYNTHETIC FICTION,d2eec5850643-opportunities-000353,true
+[SYNTHETIC] Vendor 354 readiness engagement,15000.00,2027-01-03,Qualification,40,new_business,[SYNTHETIC] North Workflow 354,SYNTHETIC FICTION,d2eec5850643-opportunities-000354,true
+[SYNTHETIC] Vendor 355 readiness engagement,12000.00,2027-01-04,Qualification,55,expansion,[SYNTHETIC] Opal Workflow 355,SYNTHETIC FICTION,d2eec5850643-opportunities-000355,true
+[SYNTHETIC] Vendor 356 readiness engagement,20000.00,2027-01-05,Qualification,70,new_business,[SYNTHETIC] Pine Workflow 356,SYNTHETIC FICTION,d2eec5850643-opportunities-000356,true
+[SYNTHETIC] Vendor 357 readiness engagement,30000.00,2027-01-06,Qualification,25,new_business,[SYNTHETIC] Quartz Workflow 357,SYNTHETIC FICTION,d2eec5850643-opportunities-000357,true
+[SYNTHETIC] Vendor 358 readiness engagement,36000.00,2027-01-07,Qualification,40,expansion,[SYNTHETIC] River Workflow 358,SYNTHETIC FICTION,d2eec5850643-opportunities-000358,true
+[SYNTHETIC] Vendor 359 readiness engagement,24000.00,2027-01-08,Qualification,55,new_business,[SYNTHETIC] Silver Workflow 359,SYNTHETIC FICTION,d2eec5850643-opportunities-000359,true
+[SYNTHETIC] Vendor 360 readiness engagement,15000.00,2027-01-09,Qualification,70,new_business,[SYNTHETIC] Thistle Workflow 360,SYNTHETIC FICTION,d2eec5850643-opportunities-000360,true
+[SYNTHETIC] Vendor 361 readiness engagement,12000.00,2026-11-11,Qualification,25,expansion,[SYNTHETIC] Amber Signals 361,SYNTHETIC FICTION,d2eec5850643-opportunities-000361,true
+[SYNTHETIC] Vendor 362 readiness engagement,20000.00,2026-11-12,Qualification,40,new_business,[SYNTHETIC] Birch Signals 362,SYNTHETIC FICTION,d2eec5850643-opportunities-000362,true
+[SYNTHETIC] Vendor 363 readiness engagement,30000.00,2026-11-13,Qualification,55,new_business,[SYNTHETIC] Cloud Signals 363,SYNTHETIC FICTION,d2eec5850643-opportunities-000363,true
+[SYNTHETIC] Vendor 364 readiness engagement,36000.00,2026-11-14,Qualification,70,expansion,[SYNTHETIC] Dawn Signals 364,SYNTHETIC FICTION,d2eec5850643-opportunities-000364,true
+[SYNTHETIC] Vendor 365 readiness engagement,24000.00,2026-11-15,Qualification,25,new_business,[SYNTHETIC] Elm Signals 365,SYNTHETIC FICTION,d2eec5850643-opportunities-000365,true
+[SYNTHETIC] Vendor 366 readiness engagement,15000.00,2026-11-16,Qualification,40,new_business,[SYNTHETIC] Fern Signals 366,SYNTHETIC FICTION,d2eec5850643-opportunities-000366,true
+[SYNTHETIC] Vendor 367 readiness engagement,12000.00,2026-11-17,Qualification,55,expansion,[SYNTHETIC] Glen Signals 367,SYNTHETIC FICTION,d2eec5850643-opportunities-000367,true
+[SYNTHETIC] Vendor 368 readiness engagement,20000.00,2026-11-18,Qualification,70,new_business,[SYNTHETIC] Harbor Signals 368,SYNTHETIC FICTION,d2eec5850643-opportunities-000368,true
+[SYNTHETIC] Vendor 369 readiness engagement,30000.00,2026-11-19,Qualification,25,new_business,[SYNTHETIC] Ivory Signals 369,SYNTHETIC FICTION,d2eec5850643-opportunities-000369,true
+[SYNTHETIC] Vendor 370 readiness engagement,36000.00,2026-11-20,Qualification,40,expansion,[SYNTHETIC] Juniper Signals 370,SYNTHETIC FICTION,d2eec5850643-opportunities-000370,true
+[SYNTHETIC] Vendor 371 readiness engagement,24000.00,2026-11-21,Qualification,55,new_business,[SYNTHETIC] Kestrel Signals 371,SYNTHETIC FICTION,d2eec5850643-opportunities-000371,true
+[SYNTHETIC] Vendor 372 readiness engagement,15000.00,2026-11-22,Qualification,70,new_business,[SYNTHETIC] Lumen Signals 372,SYNTHETIC FICTION,d2eec5850643-opportunities-000372,true
+[SYNTHETIC] Vendor 373 readiness engagement,12000.00,2026-11-23,Qualification,25,expansion,[SYNTHETIC] Maple Signals 373,SYNTHETIC FICTION,d2eec5850643-opportunities-000373,true
+[SYNTHETIC] Vendor 374 readiness engagement,20000.00,2026-11-24,Qualification,40,new_business,[SYNTHETIC] North Signals 374,SYNTHETIC FICTION,d2eec5850643-opportunities-000374,true
+[SYNTHETIC] Vendor 375 readiness engagement,30000.00,2026-11-25,Qualification,55,new_business,[SYNTHETIC] Opal Signals 375,SYNTHETIC FICTION,d2eec5850643-opportunities-000375,true
+[SYNTHETIC] Vendor 376 readiness engagement,36000.00,2026-11-26,Qualification,70,expansion,[SYNTHETIC] Pine Signals 376,SYNTHETIC FICTION,d2eec5850643-opportunities-000376,true
+[SYNTHETIC] Vendor 377 readiness engagement,24000.00,2026-11-27,Qualification,25,new_business,[SYNTHETIC] Quartz Signals 377,SYNTHETIC FICTION,d2eec5850643-opportunities-000377,true
+[SYNTHETIC] Vendor 378 readiness engagement,15000.00,2026-11-28,Qualification,40,new_business,[SYNTHETIC] River Signals 378,SYNTHETIC FICTION,d2eec5850643-opportunities-000378,true
+[SYNTHETIC] Vendor 379 readiness engagement,12000.00,2026-11-29,Qualification,55,expansion,[SYNTHETIC] Silver Signals 379,SYNTHETIC FICTION,d2eec5850643-opportunities-000379,true
+[SYNTHETIC] Vendor 380 readiness engagement,20000.00,2026-11-30,Qualification,70,new_business,[SYNTHETIC] Thistle Signals 380,SYNTHETIC FICTION,d2eec5850643-opportunities-000380,true
+[SYNTHETIC] Vendor 381 readiness engagement,30000.00,2026-12-01,Contacted,25,new_business,[SYNTHETIC] Amber Platform 381,SYNTHETIC FICTION,d2eec5850643-opportunities-000381,true
+[SYNTHETIC] Vendor 382 readiness engagement,36000.00,2026-12-02,Contacted,40,expansion,[SYNTHETIC] Birch Platform 382,SYNTHETIC FICTION,d2eec5850643-opportunities-000382,true
+[SYNTHETIC] Vendor 383 readiness engagement,24000.00,2026-12-03,Contacted,55,new_business,[SYNTHETIC] Cloud Platform 383,SYNTHETIC FICTION,d2eec5850643-opportunities-000383,true
+[SYNTHETIC] Vendor 384 readiness engagement,15000.00,2026-12-04,Contacted,70,new_business,[SYNTHETIC] Dawn Platform 384,SYNTHETIC FICTION,d2eec5850643-opportunities-000384,true
+[SYNTHETIC] Vendor 385 readiness engagement,12000.00,2026-12-05,Contacted,25,expansion,[SYNTHETIC] Elm Platform 385,SYNTHETIC FICTION,d2eec5850643-opportunities-000385,true
+[SYNTHETIC] Vendor 386 readiness engagement,20000.00,2026-12-06,Contacted,40,new_business,[SYNTHETIC] Fern Platform 386,SYNTHETIC FICTION,d2eec5850643-opportunities-000386,true
+[SYNTHETIC] Vendor 387 readiness engagement,30000.00,2026-12-07,Contacted,55,new_business,[SYNTHETIC] Glen Platform 387,SYNTHETIC FICTION,d2eec5850643-opportunities-000387,true
+[SYNTHETIC] Vendor 388 readiness engagement,36000.00,2026-12-08,Contacted,70,expansion,[SYNTHETIC] Harbor Platform 388,SYNTHETIC FICTION,d2eec5850643-opportunities-000388,true
+[SYNTHETIC] Vendor 389 readiness engagement,24000.00,2026-12-09,Contacted,25,new_business,[SYNTHETIC] Ivory Platform 389,SYNTHETIC FICTION,d2eec5850643-opportunities-000389,true
+[SYNTHETIC] Vendor 390 readiness engagement,15000.00,2026-12-10,Contacted,40,new_business,[SYNTHETIC] Juniper Platform 390,SYNTHETIC FICTION,d2eec5850643-opportunities-000390,true
+[SYNTHETIC] Vendor 391 readiness engagement,12000.00,2026-12-11,Contacted,55,expansion,[SYNTHETIC] Kestrel Platform 391,SYNTHETIC FICTION,d2eec5850643-opportunities-000391,true
+[SYNTHETIC] Vendor 392 readiness engagement,20000.00,2026-12-12,Contacted,70,new_business,[SYNTHETIC] Lumen Platform 392,SYNTHETIC FICTION,d2eec5850643-opportunities-000392,true
+[SYNTHETIC] Vendor 393 readiness engagement,30000.00,2026-12-13,Contacted,25,new_business,[SYNTHETIC] Maple Platform 393,SYNTHETIC FICTION,d2eec5850643-opportunities-000393,true
+[SYNTHETIC] Vendor 394 readiness engagement,36000.00,2026-12-14,Contacted,40,expansion,[SYNTHETIC] North Platform 394,SYNTHETIC FICTION,d2eec5850643-opportunities-000394,true
+[SYNTHETIC] Vendor 395 readiness engagement,24000.00,2026-12-15,Contacted,55,new_business,[SYNTHETIC] Opal Platform 395,SYNTHETIC FICTION,d2eec5850643-opportunities-000395,true
+[SYNTHETIC] Vendor 396 readiness engagement,15000.00,2026-12-16,Contacted,70,new_business,[SYNTHETIC] Pine Platform 396,SYNTHETIC FICTION,d2eec5850643-opportunities-000396,true
+[SYNTHETIC] Vendor 397 readiness engagement,12000.00,2026-12-17,Contacted,25,expansion,[SYNTHETIC] Quartz Platform 397,SYNTHETIC FICTION,d2eec5850643-opportunities-000397,true
+[SYNTHETIC] Vendor 398 readiness engagement,20000.00,2026-12-18,Contacted,40,new_business,[SYNTHETIC] River Platform 398,SYNTHETIC FICTION,d2eec5850643-opportunities-000398,true
+[SYNTHETIC] Vendor 399 readiness engagement,30000.00,2026-12-19,Contacted,55,new_business,[SYNTHETIC] Silver Platform 399,SYNTHETIC FICTION,d2eec5850643-opportunities-000399,true
+[SYNTHETIC] Vendor 400 readiness engagement,36000.00,2026-12-20,Contacted,70,expansion,[SYNTHETIC] Thistle Platform 400,SYNTHETIC FICTION,d2eec5850643-opportunities-000400,true
+[SYNTHETIC] Vendor 401 readiness engagement,24000.00,2026-12-21,Contacted,25,new_business,[SYNTHETIC] Amber Systems 401,SYNTHETIC FICTION,d2eec5850643-opportunities-000401,true
+[SYNTHETIC] Vendor 402 readiness engagement,15000.00,2026-12-22,Contacted,40,new_business,[SYNTHETIC] Birch Systems 402,SYNTHETIC FICTION,d2eec5850643-opportunities-000402,true
+[SYNTHETIC] Vendor 403 readiness engagement,12000.00,2026-12-23,Contacted,55,expansion,[SYNTHETIC] Cloud Systems 403,SYNTHETIC FICTION,d2eec5850643-opportunities-000403,true
+[SYNTHETIC] Vendor 404 readiness engagement,20000.00,2026-12-24,Contacted,70,new_business,[SYNTHETIC] Dawn Systems 404,SYNTHETIC FICTION,d2eec5850643-opportunities-000404,true
+[SYNTHETIC] Vendor 405 readiness engagement,30000.00,2026-12-25,Contacted,25,new_business,[SYNTHETIC] Elm Systems 405,SYNTHETIC FICTION,d2eec5850643-opportunities-000405,true
+[SYNTHETIC] Vendor 406 readiness engagement,36000.00,2026-12-26,Contacted,40,expansion,[SYNTHETIC] Fern Systems 406,SYNTHETIC FICTION,d2eec5850643-opportunities-000406,true
+[SYNTHETIC] Vendor 407 readiness engagement,24000.00,2026-12-27,Contacted,55,new_business,[SYNTHETIC] Glen Systems 407,SYNTHETIC FICTION,d2eec5850643-opportunities-000407,true
+[SYNTHETIC] Vendor 408 readiness engagement,15000.00,2026-12-28,Contacted,70,new_business,[SYNTHETIC] Harbor Systems 408,SYNTHETIC FICTION,d2eec5850643-opportunities-000408,true
+[SYNTHETIC] Vendor 409 readiness engagement,12000.00,2026-12-29,Contacted,25,expansion,[SYNTHETIC] Ivory Systems 409,SYNTHETIC FICTION,d2eec5850643-opportunities-000409,true
+[SYNTHETIC] Vendor 410 readiness engagement,20000.00,2026-12-30,Contacted,40,new_business,[SYNTHETIC] Juniper Systems 410,SYNTHETIC FICTION,d2eec5850643-opportunities-000410,true
+[SYNTHETIC] Vendor 411 readiness engagement,30000.00,2026-12-31,Contacted,55,new_business,[SYNTHETIC] Kestrel Systems 411,SYNTHETIC FICTION,d2eec5850643-opportunities-000411,true
+[SYNTHETIC] Vendor 412 readiness engagement,36000.00,2027-01-01,Contacted,70,expansion,[SYNTHETIC] Lumen Systems 412,SYNTHETIC FICTION,d2eec5850643-opportunities-000412,true
+[SYNTHETIC] Vendor 413 readiness engagement,24000.00,2027-01-02,Contacted,25,new_business,[SYNTHETIC] Maple Systems 413,SYNTHETIC FICTION,d2eec5850643-opportunities-000413,true
+[SYNTHETIC] Vendor 414 readiness engagement,15000.00,2027-01-03,Contacted,40,new_business,[SYNTHETIC] North Systems 414,SYNTHETIC FICTION,d2eec5850643-opportunities-000414,true
+[SYNTHETIC] Vendor 415 readiness engagement,12000.00,2027-01-04,Contacted,55,expansion,[SYNTHETIC] Opal Systems 415,SYNTHETIC FICTION,d2eec5850643-opportunities-000415,true
+[SYNTHETIC] Vendor 416 readiness engagement,20000.00,2027-01-05,Contacted,70,new_business,[SYNTHETIC] Pine Systems 416,SYNTHETIC FICTION,d2eec5850643-opportunities-000416,true
+[SYNTHETIC] Vendor 417 readiness engagement,30000.00,2027-01-06,Contacted,25,new_business,[SYNTHETIC] Quartz Systems 417,SYNTHETIC FICTION,d2eec5850643-opportunities-000417,true
+[SYNTHETIC] Vendor 418 readiness engagement,36000.00,2027-01-07,Contacted,40,expansion,[SYNTHETIC] River Systems 418,SYNTHETIC FICTION,d2eec5850643-opportunities-000418,true
+[SYNTHETIC] Vendor 419 readiness engagement,24000.00,2027-01-08,Contacted,55,new_business,[SYNTHETIC] Silver Systems 419,SYNTHETIC FICTION,d2eec5850643-opportunities-000419,true
+[SYNTHETIC] Vendor 420 readiness engagement,15000.00,2027-01-09,Contacted,70,new_business,[SYNTHETIC] Thistle Systems 420,SYNTHETIC FICTION,d2eec5850643-opportunities-000420,true
+[SYNTHETIC] Vendor 421 readiness engagement,12000.00,2026-11-11,Contacted,25,expansion,[SYNTHETIC] Amber Analytics 421,SYNTHETIC FICTION,d2eec5850643-opportunities-000421,true
+[SYNTHETIC] Vendor 422 readiness engagement,20000.00,2026-11-12,Contacted,40,new_business,[SYNTHETIC] Birch Analytics 422,SYNTHETIC FICTION,d2eec5850643-opportunities-000422,true
+[SYNTHETIC] Vendor 423 readiness engagement,30000.00,2026-11-13,Contacted,55,new_business,[SYNTHETIC] Cloud Analytics 423,SYNTHETIC FICTION,d2eec5850643-opportunities-000423,true
+[SYNTHETIC] Vendor 424 readiness engagement,36000.00,2026-11-14,Contacted,70,expansion,[SYNTHETIC] Dawn Analytics 424,SYNTHETIC FICTION,d2eec5850643-opportunities-000424,true
+[SYNTHETIC] Vendor 425 readiness engagement,24000.00,2026-11-15,Contacted,25,new_business,[SYNTHETIC] Elm Analytics 425,SYNTHETIC FICTION,d2eec5850643-opportunities-000425,true
+[SYNTHETIC] Vendor 426 readiness engagement,15000.00,2026-11-16,Contacted,40,new_business,[SYNTHETIC] Fern Analytics 426,SYNTHETIC FICTION,d2eec5850643-opportunities-000426,true
+[SYNTHETIC] Vendor 427 readiness engagement,12000.00,2026-11-17,Contacted,55,expansion,[SYNTHETIC] Glen Analytics 427,SYNTHETIC FICTION,d2eec5850643-opportunities-000427,true
+[SYNTHETIC] Vendor 428 readiness engagement,20000.00,2026-11-18,Contacted,70,new_business,[SYNTHETIC] Harbor Analytics 428,SYNTHETIC FICTION,d2eec5850643-opportunities-000428,true
+[SYNTHETIC] Vendor 429 readiness engagement,30000.00,2026-11-19,Contacted,25,new_business,[SYNTHETIC] Ivory Analytics 429,SYNTHETIC FICTION,d2eec5850643-opportunities-000429,true
+[SYNTHETIC] Vendor 430 readiness engagement,36000.00,2026-11-20,Contacted,40,expansion,[SYNTHETIC] Juniper Analytics 430,SYNTHETIC FICTION,d2eec5850643-opportunities-000430,true
+[SYNTHETIC] Vendor 431 readiness engagement,24000.00,2026-11-21,Prospecting,55,new_business,[SYNTHETIC] Kestrel Analytics 431,SYNTHETIC FICTION,d2eec5850643-opportunities-000431,true
+[SYNTHETIC] Vendor 432 readiness engagement,15000.00,2026-11-22,Prospecting,70,new_business,[SYNTHETIC] Lumen Analytics 432,SYNTHETIC FICTION,d2eec5850643-opportunities-000432,true
+[SYNTHETIC] Vendor 433 readiness engagement,12000.00,2026-11-23,Prospecting,25,expansion,[SYNTHETIC] Maple Analytics 433,SYNTHETIC FICTION,d2eec5850643-opportunities-000433,true
+[SYNTHETIC] Vendor 434 readiness engagement,20000.00,2026-11-24,Prospecting,40,new_business,[SYNTHETIC] North Analytics 434,SYNTHETIC FICTION,d2eec5850643-opportunities-000434,true
+[SYNTHETIC] Vendor 435 readiness engagement,30000.00,2026-11-25,Prospecting,55,new_business,[SYNTHETIC] Opal Analytics 435,SYNTHETIC FICTION,d2eec5850643-opportunities-000435,true
+[SYNTHETIC] Vendor 436 readiness engagement,36000.00,2026-11-26,Prospecting,70,expansion,[SYNTHETIC] Pine Analytics 436,SYNTHETIC FICTION,d2eec5850643-opportunities-000436,true
+[SYNTHETIC] Vendor 437 readiness engagement,24000.00,2026-11-27,Prospecting,25,new_business,[SYNTHETIC] Quartz Analytics 437,SYNTHETIC FICTION,d2eec5850643-opportunities-000437,true
+[SYNTHETIC] Vendor 438 readiness engagement,15000.00,2026-11-28,Prospecting,40,new_business,[SYNTHETIC] River Analytics 438,SYNTHETIC FICTION,d2eec5850643-opportunities-000438,true
+[SYNTHETIC] Vendor 439 readiness engagement,12000.00,2026-11-29,Prospecting,55,expansion,[SYNTHETIC] Silver Analytics 439,SYNTHETIC FICTION,d2eec5850643-opportunities-000439,true
+[SYNTHETIC] Vendor 440 readiness engagement,20000.00,2026-11-30,Prospecting,70,new_business,[SYNTHETIC] Thistle Analytics 440,SYNTHETIC FICTION,d2eec5850643-opportunities-000440,true
+[SYNTHETIC] Vendor 441 readiness engagement,30000.00,2026-12-01,Prospecting,25,new_business,[SYNTHETIC] Amber Workflow 441,SYNTHETIC FICTION,d2eec5850643-opportunities-000441,true
+[SYNTHETIC] Vendor 442 readiness engagement,36000.00,2026-12-02,Prospecting,40,expansion,[SYNTHETIC] Birch Workflow 442,SYNTHETIC FICTION,d2eec5850643-opportunities-000442,true
+[SYNTHETIC] Vendor 443 readiness engagement,24000.00,2026-12-03,Prospecting,55,new_business,[SYNTHETIC] Cloud Workflow 443,SYNTHETIC FICTION,d2eec5850643-opportunities-000443,true
+[SYNTHETIC] Vendor 444 readiness engagement,15000.00,2026-12-04,Prospecting,70,new_business,[SYNTHETIC] Dawn Workflow 444,SYNTHETIC FICTION,d2eec5850643-opportunities-000444,true
+[SYNTHETIC] Vendor 445 readiness engagement,12000.00,2026-12-05,Prospecting,25,expansion,[SYNTHETIC] Elm Workflow 445,SYNTHETIC FICTION,d2eec5850643-opportunities-000445,true
+[SYNTHETIC] Vendor 446 readiness engagement,20000.00,2026-12-06,Prospecting,40,new_business,[SYNTHETIC] Fern Workflow 446,SYNTHETIC FICTION,d2eec5850643-opportunities-000446,true
+[SYNTHETIC] Vendor 447 readiness engagement,30000.00,2026-12-07,Prospecting,55,new_business,[SYNTHETIC] Glen Workflow 447,SYNTHETIC FICTION,d2eec5850643-opportunities-000447,true
+[SYNTHETIC] Vendor 448 readiness engagement,36000.00,2026-12-08,Prospecting,70,expansion,[SYNTHETIC] Harbor Workflow 448,SYNTHETIC FICTION,d2eec5850643-opportunities-000448,true
+[SYNTHETIC] Vendor 449 readiness engagement,24000.00,2026-12-09,Prospecting,25,new_business,[SYNTHETIC] Ivory Workflow 449,SYNTHETIC FICTION,d2eec5850643-opportunities-000449,true
+[SYNTHETIC] Vendor 450 readiness engagement,15000.00,2026-12-10,Prospecting,40,new_business,[SYNTHETIC] Juniper Workflow 450,SYNTHETIC FICTION,d2eec5850643-opportunities-000450,true
+[SYNTHETIC] Vendor 451 readiness engagement,12000.00,2026-12-11,Prospecting,55,expansion,[SYNTHETIC] Kestrel Workflow 451,SYNTHETIC FICTION,d2eec5850643-opportunities-000451,true
+[SYNTHETIC] Vendor 452 readiness engagement,20000.00,2026-12-12,Prospecting,70,new_business,[SYNTHETIC] Lumen Workflow 452,SYNTHETIC FICTION,d2eec5850643-opportunities-000452,true
+[SYNTHETIC] Vendor 453 readiness engagement,30000.00,2026-12-13,Prospecting,25,new_business,[SYNTHETIC] Maple Workflow 453,SYNTHETIC FICTION,d2eec5850643-opportunities-000453,true
+[SYNTHETIC] Vendor 454 readiness engagement,36000.00,2026-12-14,Prospecting,40,expansion,[SYNTHETIC] North Workflow 454,SYNTHETIC FICTION,d2eec5850643-opportunities-000454,true
+[SYNTHETIC] Vendor 455 readiness engagement,24000.00,2026-12-15,Prospecting,55,new_business,[SYNTHETIC] Opal Workflow 455,SYNTHETIC FICTION,d2eec5850643-opportunities-000455,true
+[SYNTHETIC] Vendor 456 readiness engagement,15000.00,2026-12-16,Prospecting,70,new_business,[SYNTHETIC] Pine Workflow 456,SYNTHETIC FICTION,d2eec5850643-opportunities-000456,true
+[SYNTHETIC] Vendor 457 readiness engagement,12000.00,2026-12-17,Prospecting,25,expansion,[SYNTHETIC] Quartz Workflow 457,SYNTHETIC FICTION,d2eec5850643-opportunities-000457,true
+[SYNTHETIC] Vendor 458 readiness engagement,20000.00,2026-12-18,Prospecting,40,new_business,[SYNTHETIC] River Workflow 458,SYNTHETIC FICTION,d2eec5850643-opportunities-000458,true
+[SYNTHETIC] Vendor 459 readiness engagement,30000.00,2026-12-19,Prospecting,55,new_business,[SYNTHETIC] Silver Workflow 459,SYNTHETIC FICTION,d2eec5850643-opportunities-000459,true
+[SYNTHETIC] Vendor 460 readiness engagement,36000.00,2026-12-20,Prospecting,70,expansion,[SYNTHETIC] Thistle Workflow 460,SYNTHETIC FICTION,d2eec5850643-opportunities-000460,true
+[SYNTHETIC] Vendor 461 readiness engagement,24000.00,2026-12-21,Prospecting,25,new_business,[SYNTHETIC] Amber Signals 461,SYNTHETIC FICTION,d2eec5850643-opportunities-000461,true
+[SYNTHETIC] Vendor 462 readiness engagement,15000.00,2026-12-22,Prospecting,40,new_business,[SYNTHETIC] Birch Signals 462,SYNTHETIC FICTION,d2eec5850643-opportunities-000462,true
+[SYNTHETIC] Vendor 463 readiness engagement,12000.00,2026-12-23,Prospecting,55,expansion,[SYNTHETIC] Cloud Signals 463,SYNTHETIC FICTION,d2eec5850643-opportunities-000463,true
+[SYNTHETIC] Vendor 464 readiness engagement,20000.00,2026-12-24,Prospecting,70,new_business,[SYNTHETIC] Dawn Signals 464,SYNTHETIC FICTION,d2eec5850643-opportunities-000464,true
+[SYNTHETIC] Vendor 465 readiness engagement,30000.00,2026-12-25,Prospecting,25,new_business,[SYNTHETIC] Elm Signals 465,SYNTHETIC FICTION,d2eec5850643-opportunities-000465,true
+[SYNTHETIC] Vendor 466 readiness engagement,36000.00,2026-12-26,Prospecting,40,expansion,[SYNTHETIC] Fern Signals 466,SYNTHETIC FICTION,d2eec5850643-opportunities-000466,true
+[SYNTHETIC] Vendor 467 readiness engagement,24000.00,2026-12-27,Prospecting,55,new_business,[SYNTHETIC] Glen Signals 467,SYNTHETIC FICTION,d2eec5850643-opportunities-000467,true
+[SYNTHETIC] Vendor 468 readiness engagement,15000.00,2026-12-28,Prospecting,70,new_business,[SYNTHETIC] Harbor Signals 468,SYNTHETIC FICTION,d2eec5850643-opportunities-000468,true
+[SYNTHETIC] Vendor 469 readiness engagement,12000.00,2026-12-29,Prospecting,25,expansion,[SYNTHETIC] Ivory Signals 469,SYNTHETIC FICTION,d2eec5850643-opportunities-000469,true
+[SYNTHETIC] Vendor 470 readiness engagement,20000.00,2026-12-30,Prospecting,40,new_business,[SYNTHETIC] Juniper Signals 470,SYNTHETIC FICTION,d2eec5850643-opportunities-000470,true
+[SYNTHETIC] Vendor 471 readiness engagement,30000.00,2026-12-31,Prospecting,55,new_business,[SYNTHETIC] Kestrel Signals 471,SYNTHETIC FICTION,d2eec5850643-opportunities-000471,true
+[SYNTHETIC] Vendor 472 readiness engagement,36000.00,2027-01-01,Prospecting,70,expansion,[SYNTHETIC] Lumen Signals 472,SYNTHETIC FICTION,d2eec5850643-opportunities-000472,true
+[SYNTHETIC] Vendor 473 readiness engagement,24000.00,2027-01-02,Prospecting,25,new_business,[SYNTHETIC] Maple Signals 473,SYNTHETIC FICTION,d2eec5850643-opportunities-000473,true
+[SYNTHETIC] Vendor 474 readiness engagement,15000.00,2027-01-03,Prospecting,40,new_business,[SYNTHETIC] North Signals 474,SYNTHETIC FICTION,d2eec5850643-opportunities-000474,true
+[SYNTHETIC] Vendor 475 readiness engagement,12000.00,2027-01-04,Prospecting,55,expansion,[SYNTHETIC] Opal Signals 475,SYNTHETIC FICTION,d2eec5850643-opportunities-000475,true
+[SYNTHETIC] Vendor 476 readiness engagement,20000.00,2027-01-05,Prospecting,70,new_business,[SYNTHETIC] Pine Signals 476,SYNTHETIC FICTION,d2eec5850643-opportunities-000476,true
+[SYNTHETIC] Vendor 477 readiness engagement,30000.00,2027-01-06,Prospecting,25,new_business,[SYNTHETIC] Quartz Signals 477,SYNTHETIC FICTION,d2eec5850643-opportunities-000477,true
+[SYNTHETIC] Vendor 478 readiness engagement,36000.00,2027-01-07,Prospecting,40,expansion,[SYNTHETIC] River Signals 478,SYNTHETIC FICTION,d2eec5850643-opportunities-000478,true
+[SYNTHETIC] Vendor 479 readiness engagement,24000.00,2027-01-08,Prospecting,55,new_business,[SYNTHETIC] Silver Signals 479,SYNTHETIC FICTION,d2eec5850643-opportunities-000479,true
+[SYNTHETIC] Vendor 480 readiness engagement,15000.00,2027-01-09,Prospecting,70,new_business,[SYNTHETIC] Thistle Signals 480,SYNTHETIC FICTION,d2eec5850643-opportunities-000480,true
+[SYNTHETIC] Vendor 481 readiness engagement,12000.00,2026-11-11,Prospecting,25,expansion,[SYNTHETIC] Amber Platform 481,SYNTHETIC FICTION,d2eec5850643-opportunities-000481,true
+[SYNTHETIC] Vendor 482 readiness engagement,20000.00,2026-11-12,Prospecting,40,new_business,[SYNTHETIC] Birch Platform 482,SYNTHETIC FICTION,d2eec5850643-opportunities-000482,true
+[SYNTHETIC] Vendor 483 readiness engagement,30000.00,2026-11-13,Prospecting,55,new_business,[SYNTHETIC] Cloud Platform 483,SYNTHETIC FICTION,d2eec5850643-opportunities-000483,true
+[SYNTHETIC] Vendor 484 readiness engagement,36000.00,2026-11-14,Prospecting,70,expansion,[SYNTHETIC] Dawn Platform 484,SYNTHETIC FICTION,d2eec5850643-opportunities-000484,true
+[SYNTHETIC] Vendor 485 readiness engagement,24000.00,2026-11-15,Prospecting,25,new_business,[SYNTHETIC] Elm Platform 485,SYNTHETIC FICTION,d2eec5850643-opportunities-000485,true
+[SYNTHETIC] Vendor 486 readiness engagement,15000.00,2026-11-16,Prospecting,40,new_business,[SYNTHETIC] Fern Platform 486,SYNTHETIC FICTION,d2eec5850643-opportunities-000486,true
+[SYNTHETIC] Vendor 487 readiness engagement,12000.00,2026-11-17,Prospecting,55,expansion,[SYNTHETIC] Glen Platform 487,SYNTHETIC FICTION,d2eec5850643-opportunities-000487,true
+[SYNTHETIC] Vendor 488 readiness engagement,20000.00,2026-11-18,Prospecting,70,new_business,[SYNTHETIC] Harbor Platform 488,SYNTHETIC FICTION,d2eec5850643-opportunities-000488,true
+[SYNTHETIC] Vendor 489 readiness engagement,30000.00,2026-11-19,Prospecting,25,new_business,[SYNTHETIC] Ivory Platform 489,SYNTHETIC FICTION,d2eec5850643-opportunities-000489,true
+[SYNTHETIC] Vendor 490 readiness engagement,36000.00,2026-11-20,Prospecting,40,expansion,[SYNTHETIC] Juniper Platform 490,SYNTHETIC FICTION,d2eec5850643-opportunities-000490,true
+[SYNTHETIC] Vendor 491 readiness engagement,24000.00,2026-11-21,Prospecting,55,new_business,[SYNTHETIC] Kestrel Platform 491,SYNTHETIC FICTION,d2eec5850643-opportunities-000491,true
+[SYNTHETIC] Vendor 492 readiness engagement,15000.00,2026-11-22,Prospecting,70,new_business,[SYNTHETIC] Lumen Platform 492,SYNTHETIC FICTION,d2eec5850643-opportunities-000492,true
+[SYNTHETIC] Vendor 493 readiness engagement,12000.00,2026-11-23,Prospecting,25,expansion,[SYNTHETIC] Maple Platform 493,SYNTHETIC FICTION,d2eec5850643-opportunities-000493,true
+[SYNTHETIC] Vendor 494 readiness engagement,20000.00,2026-11-24,Prospecting,40,new_business,[SYNTHETIC] North Platform 494,SYNTHETIC FICTION,d2eec5850643-opportunities-000494,true
+[SYNTHETIC] Vendor 495 readiness engagement,30000.00,2026-11-25,Prospecting,55,new_business,[SYNTHETIC] Opal Platform 495,SYNTHETIC FICTION,d2eec5850643-opportunities-000495,true
+[SYNTHETIC] Vendor 496 readiness engagement,36000.00,2026-11-26,Prospecting,70,expansion,[SYNTHETIC] Pine Platform 496,SYNTHETIC FICTION,d2eec5850643-opportunities-000496,true
+[SYNTHETIC] Vendor 497 readiness engagement,24000.00,2026-11-27,Prospecting,25,new_business,[SYNTHETIC] Quartz Platform 497,SYNTHETIC FICTION,d2eec5850643-opportunities-000497,true
+[SYNTHETIC] Vendor 498 readiness engagement,15000.00,2026-11-28,Prospecting,40,new_business,[SYNTHETIC] River Platform 498,SYNTHETIC FICTION,d2eec5850643-opportunities-000498,true
+[SYNTHETIC] Vendor 499 readiness engagement,12000.00,2026-11-29,Prospecting,55,expansion,[SYNTHETIC] Silver Platform 499,SYNTHETIC FICTION,d2eec5850643-opportunities-000499,true
+[SYNTHETIC] Vendor 500 readiness engagement,20000.00,2026-11-30,Prospecting,70,new_business,[SYNTHETIC] Thistle Platform 500,SYNTHETIC FICTION,d2eec5850643-opportunities-000500,true
