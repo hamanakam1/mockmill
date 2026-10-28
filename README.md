@@ -1,12 +1,10 @@
 # MockMill
 
 ```text
-  ____  _                    _   ______                      _             
- / ___|| |_ ___  _ __ _   _| | |  ____|__  _   _ _ __   __| |_ __ _   _ 
- \___ \| __/ _ \| '__| | | | | | |__ / _ \| | | | '_ \ / _` | '__| | | |
-  ___) | || (_) | |  | |_| | | |  __| (_) | |_| | | | | (_| | |  | |_| |
- |____/ \__\___/|_|   \__,_|_| |_|   \___/ \__,_|_| |_|\__,_|_|   \__, |
-                                                                    |___/
+  +--------------------------------------------------+
+  |                    MOCK MILL                    |
+  |              fake data. real flow.              |
+  +--------------------------------------------------+
 ```
 
 [![CI](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml/badge.svg)](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml)
@@ -17,6 +15,8 @@
 > **Synthetic data with a memory.** Generate a coherent business history, validate its relationships and arithmetic, then inspect portable CRM mappings without touching a target system.
 
 **Status:** public release candidate · MIT · deterministic · offline-only adapters
+
+*A fictional wordplay nod to a stage-name convention; MockMill is independent, unaffiliated and not an impersonation of any artist.*
 
 **Repository:** [github.com/hamanakam1/mockmill](https://github.com/hamanakam1/mockmill)
 
