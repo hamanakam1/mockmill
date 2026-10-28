@@ -1,10 +1,11 @@
 # MockMill
 
 ```text
-  +--------------------------------------------------+
-  |                    MOCK MILL                    |
-  |              fake data. real flow.              |
-  +--------------------------------------------------+
+      .--------------------------------.
+     /          M O C K   M I L L       \
+    |       F A K E   D A T A           |
+    |          R E A L   F L O W         |
+     \__________________________________/
 ```
 
 [![CI](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml/badge.svg)](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml)
@@ -79,7 +80,6 @@ See [foundation contracts](docs/crm-foundations.md), [adapter API](docs/adapter-
 
 The [visual guide](docs/VISUALS.md) shows the product flow, validation evidence and the exact boundary between the canonical model and the five offline adapters.
 
-![MockMill](docs/visuals/mockmill-meek-mill-color-ascii-poster.png)
 
 ## Model, story and evidence
 
