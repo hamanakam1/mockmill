@@ -1,10 +1,49 @@
 # StoryFoundry
 
-**Coherent fictional businesses, portable records and reviewable offline CRM import plans.** This is a local public-release candidate licensed under MIT; no remote release or live CRM import is claimed. Final publication review remains pending.
+```text
+   _____ _                    _____                 _ry
+  / ____| |                  |  ___|               | |
+ | (___ | |_ ___  _ __ _   _ | |__ ___  _   _ _ __ | |_ __ _
+  \___ \| __/ _ \| '__| | | ||  __/ _ \| | | | '_ \| __/ _` |
+  ____) | || (_) | |  | |_| || | | (_) | |_| | | | | || (_| |
+ |_____/ \__\___/|_|   \__, ||_|  \___/ \__,_|_| |_|\__\__,_|
+                        __/ |
+                       |___/
+```
+
+[![CI](https://github.com/hamanakam1/storyfoundry/actions/workflows/ci.yml/badge.svg)](https://github.com/hamanakam1/storyfoundry/actions/workflows/ci.yml)
+[![MIT License](https://img.shields.io/badge/license-MIT-55d6be.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-3776ab.svg)](pyproject.toml)
+[![Offline by design](https://img.shields.io/badge/imports-offline%20only-e58f65.svg)](docs/crm-import-contracts.md)
+
+> **Synthetic data with a memory.** Generate a coherent business history, validate its relationships and arithmetic, then inspect portable CRM mappings without touching a target system.
+
+**Status:** public release candidate · MIT · deterministic · offline-only adapters
+
+**Repository:** [github.com/hamanakam1/storyfoundry](https://github.com/hamanakam1/storyfoundry)
+
+**Coherent fictional businesses, portable records and reviewable offline CRM import plans.** StoryFoundry is a public MIT-licensed release. It generates fictional records and offline adapter fixtures; it does not perform live CRM imports.
 
 StoryFoundry generates an explicitly synthetic service-company history with reproducible seeds, stable external IDs, relationships, dated events and reconciled money. It includes failures, partial payment, cancellations, lost leads, repeated engagements, support and knowledge history—not only an idealized customer list. The canonical model is independent of any CRM. Five executable starter adapters map its account, contact and opportunity records into CSV/JSON fixtures for Salesforce, HubSpot, Dynamics 365, Zoho CRM and Pipedrive.
 
 **Every person, company and transaction is fictional.** Examples use reserved invalid domains, fictional telephone numbers and non-deliverable addresses. No real roster, biography, conversation, customer evidence, credentials or account identifiers are bundled. The generic talent distribution is independently enumerated in `inputs/profile-shapes.json`.
+
+## Start here
+
+| If you want to… | Go to |
+|---|---|
+| See the product | [Visual guide](docs/VISUALS.md) |
+| Generate a story | [Run locally](#run-locally) |
+| Understand the data | [Schema](docs/schema.json) · [Data dictionary](docs/data-dictionary.md) |
+| Compare CRM mappings | [Five-CRM contracts](docs/crm-import-contracts.md) |
+| Build a package | [Release checklist](docs/RELEASE.md) |
+| Contribute safely | [CONTRIBUTING.md](CONTRIBUTING.md) |
+
+## Why StoryFoundry
+
+Most fake-data fixtures are disconnected rows. StoryFoundry creates a dated, relational business story with leads, accounts, contacts, opportunities, projects, tasks, support, knowledge, invoices, credits, payments and meetings. Deterministic validation keeps the story coherent while preserving failure cases, partial payment, cancellations, lost opportunities and future work.
+
+The portable profile is deliberately broader than one CRM: firmographics, lifecycle, ownership, contactability, qualification, provenance, forecast, probability and next-action fields are retained canonically and translated into five target-shaped offline exports.
 
 ## Run locally
 
@@ -62,6 +101,20 @@ The intended distinction is a coherent business story and chronology, auditable 
 
 The public candidate contains independently authored generic profiles and fixtures only. Publication review must confirm the chosen license, attribution, fixture privacy, build evidence and exact file inventory. See [publication review](docs/PUBLICATION_REVIEW.md).
 
+## Package install
+
+The package has no runtime dependencies and exposes four command-line entry points:
+
+```bash
+python -m pip install storyfoundry-0.1.0.tar.gz
+storyfoundry-generate --output examples/service-company
+storyfoundry-validate --data examples/service-company --receipt validation.json
+storyfoundry-preview --data examples/service-company --output examples/canonical-import-preview
+storyfoundry-export --data examples/service-company --output examples/crm-fixtures
+```
+
+The package build is intended for reproducible local use. It does not add credentials, network clients or live-import behavior.
+
 ## License
 
-StoryFoundry is licensed under the [MIT License](LICENSE). The license decision is complete; public repository creation remains a separate owner-authorized release action.
+StoryFoundry is licensed under the [MIT License](LICENSE). Public release assets and package metadata preserve the offline-only boundary.
