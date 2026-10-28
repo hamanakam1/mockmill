@@ -1,6 +1,6 @@
 # StoryFoundry
 
-**Coherent fictional businesses, portable records and reviewable offline CRM import plans.** This is a local public-release candidate; no remote release or live CRM import is claimed. License selection and final publication review remain pending.
+**Coherent fictional businesses, portable records and reviewable offline CRM import plans.** This is a local public-release candidate licensed under MIT; no remote release or live CRM import is claimed. Final publication review remains pending.
 
 StoryFoundry generates an explicitly synthetic service-company history with reproducible seeds, stable external IDs, relationships, dated events and reconciled money. It includes failures, partial payment, cancellations, lost leads, repeated engagements, support and knowledge history—not only an idealized customer list. The canonical model is independent of any CRM. Five executable starter adapters map its account, contact and opportunity records into CSV/JSON fixtures for Salesforce, HubSpot, Dynamics 365, Zoho CRM and Pipedrive.
 
@@ -38,6 +38,10 @@ Only three entity families are mapped natively in this version. The other 35 dom
 
 See [foundation contracts](docs/crm-foundations.md), [adapter API](docs/adapter-api.md) and [canonical contract](docs/canonical-contract.md). A locally valid CSV is not evidence that a CRM accepted its data.
 
+## Visual tour
+
+The [visual guide](docs/VISUALS.md) shows the product flow, validation evidence and the exact boundary between the canonical model and the five offline adapters.
+
 ## Model, story and evidence
 
 The canonical domains cover company, accounts/customers/contacts, leads/opportunities, services/campaigns, talent/skills/staff, contracts/projects/milestones/tasks, time/expenses, invoices/credits/payments, support, meetings, conversations, notes/activity and knowledge versions. JSONL is canonical; CSV carries the same IDs and an explicit synthetic marker. Every mapped CRM row also carries a synthetic-marker column requiring explicit target mapping.
@@ -57,3 +61,7 @@ Formula-leading text is escaped with an apostrophe in CSV. Preserve the canonica
 The intended distinction is a coherent business story and chronology, auditable consistency checks, and researched offline CRM mappings. Reproducible seeds, foreign keys and dependency handling already exist in other generators; this project does not claim those as novel. A separately researched competitive review and 100-candidate prioritization distinguish future candidates from the five implemented file adapters. Rankings are product-roadmap proposals, not measured market-share claims or 100 completed integrations.
 
 The public candidate contains independently authored generic profiles and fixtures only. Publication review must confirm the chosen license, attribution, fixture privacy, build evidence and exact file inventory. See [publication review](docs/PUBLICATION_REVIEW.md).
+
+## License
+
+StoryFoundry is licensed under the [MIT License](LICENSE). The license decision is complete; public repository creation remains a separate owner-authorized release action.
