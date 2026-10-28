@@ -79,6 +79,8 @@ See [foundation contracts](docs/crm-foundations.md), [adapter API](docs/adapter-
 
 The [visual guide](docs/VISUALS.md) shows the product flow, validation evidence and the exact boundary between the canonical model and the five offline adapters.
 
+For the satire layer, see the [full-color MockMill ASCII portrait](docs/visuals/mockmill-meek-mill-color-ascii.html). It is an explicitly fan-made, unaffiliated character-mosaic transformation; the source photograph is not included.
+
 ## Model, story and evidence
 
 The canonical domains cover company, accounts/customers/contacts, leads/opportunities, services/campaigns, talent/skills/staff, contracts/projects/milestones/tasks, time/expenses, invoices/credits/payments, support, meetings, conversations, notes/activity and knowledge versions. JSONL is canonical; CSV carries the same IDs and an explicit synthetic marker. Every mapped CRM row also carries a synthetic-marker column requiring explicit target mapping.
