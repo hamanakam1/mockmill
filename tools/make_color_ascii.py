@@ -6,7 +6,7 @@ import argparse
 import html
 from pathlib import Path
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 CHARS = "@%#*+=-:. "
 
@@ -28,6 +28,19 @@ def render(source: Path, output: Path, width: int = 108) -> None:
         cells.append("".join(row))
     output.parent.mkdir(parents=True, exist_ok=True)
     body = "\n".join(cells)
+    if output.suffix.lower() == ".png":
+        font = ImageFont.truetype("/System/Library/Fonts/Menlo.ttc", 9)
+        canvas = Image.new("RGB", (width * 6 + 24, height * 10 + 24), "#05070b")
+        draw = ImageDraw.Draw(canvas)
+        for y in range(height):
+            for x in range(width):
+                r, g, b = image.getpixel((x, y))
+                luminance = (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255
+                char = CHARS[min(len(CHARS) - 1, int(luminance * len(CHARS)))]
+                draw.text((12 + x * 6, 8 + y * 10), char, font=font, fill=(r, g, b))
+        output.parent.mkdir(parents=True, exist_ok=True)
+        canvas.save(output, "PNG")
+        return
     if output.suffix.lower() == ".svg":
         lines = []
         for y, line in enumerate(cells):
