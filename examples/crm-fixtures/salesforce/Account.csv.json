@@ -7,8 +7,8 @@
     "NumberOfEmployees": 10,
     "AnnualRevenue": "2500.00",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000001",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000001",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Systems 002",
@@ -18,8 +18,8 @@
     "NumberOfEmployees": 23,
     "AnnualRevenue": "2573.11",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000002",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000002",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Systems 003",
@@ -29,8 +29,8 @@
     "NumberOfEmployees": 36,
     "AnnualRevenue": "2646.22",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000003",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000003",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Systems 004",
@@ -40,8 +40,8 @@
     "NumberOfEmployees": 49,
     "AnnualRevenue": "2719.33",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000004",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000004",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Systems 005",
@@ -51,8 +51,8 @@
     "NumberOfEmployees": 62,
     "AnnualRevenue": "2792.44",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000005",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000005",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Systems 006",
@@ -62,8 +62,8 @@
     "NumberOfEmployees": 75,
     "AnnualRevenue": "2865.55",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000006",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000006",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Systems 007",
@@ -73,8 +73,8 @@
     "NumberOfEmployees": 88,
     "AnnualRevenue": "2938.66",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000007",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000007",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Systems 008",
@@ -84,8 +84,8 @@
     "NumberOfEmployees": 101,
     "AnnualRevenue": "3011.77",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000008",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000008",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Systems 009",
@@ -95,8 +95,8 @@
     "NumberOfEmployees": 114,
     "AnnualRevenue": "3084.88",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000009",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000009",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Systems 010",
@@ -106,8 +106,8 @@
     "NumberOfEmployees": 127,
     "AnnualRevenue": "3157.99",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000010",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000010",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Systems 011",
@@ -117,8 +117,8 @@
     "NumberOfEmployees": 140,
     "AnnualRevenue": "3231.10",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000011",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000011",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Systems 012",
@@ -128,8 +128,8 @@
     "NumberOfEmployees": 153,
     "AnnualRevenue": "3304.21",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000012",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000012",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Systems 013",
@@ -139,8 +139,8 @@
     "NumberOfEmployees": 166,
     "AnnualRevenue": "3377.32",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000013",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000013",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Systems 014",
@@ -150,8 +150,8 @@
     "NumberOfEmployees": 179,
     "AnnualRevenue": "3450.43",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000014",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000014",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Systems 015",
@@ -161,8 +161,8 @@
     "NumberOfEmployees": 192,
     "AnnualRevenue": "3523.54",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000015",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000015",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Systems 016",
@@ -172,8 +172,8 @@
     "NumberOfEmployees": 205,
     "AnnualRevenue": "3596.65",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000016",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000016",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Systems 017",
@@ -183,8 +183,8 @@
     "NumberOfEmployees": 218,
     "AnnualRevenue": "3669.76",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000017",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000017",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Systems 018",
@@ -194,8 +194,8 @@
     "NumberOfEmployees": 231,
     "AnnualRevenue": "3742.87",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000018",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000018",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Systems 019",
@@ -205,8 +205,8 @@
     "NumberOfEmployees": 244,
     "AnnualRevenue": "3815.98",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000019",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000019",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Systems 020",
@@ -216,8 +216,8 @@
     "NumberOfEmployees": 257,
     "AnnualRevenue": "3889.09",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000020",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000020",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Analytics 021",
@@ -227,8 +227,8 @@
     "NumberOfEmployees": 270,
     "AnnualRevenue": "3962.20",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000021",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000021",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Analytics 022",
@@ -238,8 +238,8 @@
     "NumberOfEmployees": 283,
     "AnnualRevenue": "4035.31",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000022",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000022",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Analytics 023",
@@ -249,8 +249,8 @@
     "NumberOfEmployees": 296,
     "AnnualRevenue": "4108.42",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000023",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000023",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Analytics 024",
@@ -260,8 +260,8 @@
     "NumberOfEmployees": 309,
     "AnnualRevenue": "4181.53",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000024",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000024",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Analytics 025",
@@ -271,8 +271,8 @@
     "NumberOfEmployees": 322,
     "AnnualRevenue": "4254.64",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000025",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000025",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Analytics 026",
@@ -282,8 +282,8 @@
     "NumberOfEmployees": 335,
     "AnnualRevenue": "4327.75",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000026",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000026",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Analytics 027",
@@ -293,8 +293,8 @@
     "NumberOfEmployees": 348,
     "AnnualRevenue": "4400.86",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000027",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000027",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Analytics 028",
@@ -304,8 +304,8 @@
     "NumberOfEmployees": 361,
     "AnnualRevenue": "4473.97",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000028",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000028",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Analytics 029",
@@ -315,8 +315,8 @@
     "NumberOfEmployees": 374,
     "AnnualRevenue": "4547.08",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000029",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000029",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Analytics 030",
@@ -326,8 +326,8 @@
     "NumberOfEmployees": 387,
     "AnnualRevenue": "4620.19",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000030",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000030",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Analytics 031",
@@ -337,8 +337,8 @@
     "NumberOfEmployees": 400,
     "AnnualRevenue": "4693.30",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000031",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000031",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Analytics 032",
@@ -348,8 +348,8 @@
     "NumberOfEmployees": 413,
     "AnnualRevenue": "4766.41",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000032",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000032",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Analytics 033",
@@ -359,8 +359,8 @@
     "NumberOfEmployees": 426,
     "AnnualRevenue": "4839.52",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000033",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000033",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Analytics 034",
@@ -370,8 +370,8 @@
     "NumberOfEmployees": 439,
     "AnnualRevenue": "4912.63",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000034",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000034",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Analytics 035",
@@ -381,8 +381,8 @@
     "NumberOfEmployees": 452,
     "AnnualRevenue": "4985.74",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000035",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000035",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Analytics 036",
@@ -392,8 +392,8 @@
     "NumberOfEmployees": 465,
     "AnnualRevenue": "5058.85",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000036",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000036",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Analytics 037",
@@ -403,8 +403,8 @@
     "NumberOfEmployees": 478,
     "AnnualRevenue": "5131.96",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000037",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000037",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Analytics 038",
@@ -414,8 +414,8 @@
     "NumberOfEmployees": 491,
     "AnnualRevenue": "5205.07",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000038",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000038",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Analytics 039",
@@ -425,8 +425,8 @@
     "NumberOfEmployees": 14,
     "AnnualRevenue": "5278.18",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000039",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000039",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Analytics 040",
@@ -436,8 +436,8 @@
     "NumberOfEmployees": 27,
     "AnnualRevenue": "5351.29",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000040",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000040",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Workflow 041",
@@ -447,8 +447,8 @@
     "NumberOfEmployees": 40,
     "AnnualRevenue": "5424.40",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000041",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000041",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Workflow 042",
@@ -458,8 +458,8 @@
     "NumberOfEmployees": 53,
     "AnnualRevenue": "5497.51",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000042",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000042",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Workflow 043",
@@ -469,8 +469,8 @@
     "NumberOfEmployees": 66,
     "AnnualRevenue": "5570.62",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000043",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000043",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Workflow 044",
@@ -480,8 +480,8 @@
     "NumberOfEmployees": 79,
     "AnnualRevenue": "5643.73",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000044",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000044",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Workflow 045",
@@ -491,8 +491,8 @@
     "NumberOfEmployees": 92,
     "AnnualRevenue": "5716.84",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000045",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000045",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Workflow 046",
@@ -502,8 +502,8 @@
     "NumberOfEmployees": 105,
     "AnnualRevenue": "5789.95",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000046",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000046",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Workflow 047",
@@ -513,8 +513,8 @@
     "NumberOfEmployees": 118,
     "AnnualRevenue": "5863.06",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000047",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000047",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Workflow 048",
@@ -524,8 +524,8 @@
     "NumberOfEmployees": 131,
     "AnnualRevenue": "5936.17",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000048",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000048",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Workflow 049",
@@ -535,8 +535,8 @@
     "NumberOfEmployees": 144,
     "AnnualRevenue": "6009.28",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000049",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000049",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Workflow 050",
@@ -546,8 +546,8 @@
     "NumberOfEmployees": 157,
     "AnnualRevenue": "6082.39",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000050",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000050",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Workflow 051",
@@ -557,8 +557,8 @@
     "NumberOfEmployees": 170,
     "AnnualRevenue": "6155.50",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000051",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000051",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Workflow 052",
@@ -568,8 +568,8 @@
     "NumberOfEmployees": 183,
     "AnnualRevenue": "6228.61",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000052",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000052",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Workflow 053",
@@ -579,8 +579,8 @@
     "NumberOfEmployees": 196,
     "AnnualRevenue": "6301.72",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000053",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000053",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Workflow 054",
@@ -590,8 +590,8 @@
     "NumberOfEmployees": 209,
     "AnnualRevenue": "6374.83",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000054",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000054",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Workflow 055",
@@ -601,8 +601,8 @@
     "NumberOfEmployees": 222,
     "AnnualRevenue": "6447.94",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000055",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000055",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Workflow 056",
@@ -612,8 +612,8 @@
     "NumberOfEmployees": 235,
     "AnnualRevenue": "6521.05",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000056",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000056",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Workflow 057",
@@ -623,8 +623,8 @@
     "NumberOfEmployees": 248,
     "AnnualRevenue": "6594.16",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000057",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000057",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Workflow 058",
@@ -634,8 +634,8 @@
     "NumberOfEmployees": 261,
     "AnnualRevenue": "6667.27",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000058",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000058",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Workflow 059",
@@ -645,8 +645,8 @@
     "NumberOfEmployees": 274,
     "AnnualRevenue": "6740.38",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000059",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000059",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Workflow 060",
@@ -656,8 +656,8 @@
     "NumberOfEmployees": 287,
     "AnnualRevenue": "6813.49",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000060",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000060",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Signals 061",
@@ -667,8 +667,8 @@
     "NumberOfEmployees": 300,
     "AnnualRevenue": "6886.60",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000061",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000061",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Signals 062",
@@ -678,8 +678,8 @@
     "NumberOfEmployees": 313,
     "AnnualRevenue": "6959.71",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000062",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000062",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Signals 063",
@@ -689,8 +689,8 @@
     "NumberOfEmployees": 326,
     "AnnualRevenue": "7032.82",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000063",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000063",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Signals 064",
@@ -700,8 +700,8 @@
     "NumberOfEmployees": 339,
     "AnnualRevenue": "7105.93",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000064",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000064",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Signals 065",
@@ -711,8 +711,8 @@
     "NumberOfEmployees": 352,
     "AnnualRevenue": "7179.04",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000065",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000065",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Signals 066",
@@ -722,8 +722,8 @@
     "NumberOfEmployees": 365,
     "AnnualRevenue": "7252.15",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000066",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000066",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Signals 067",
@@ -733,8 +733,8 @@
     "NumberOfEmployees": 378,
     "AnnualRevenue": "7325.26",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000067",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000067",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Signals 068",
@@ -744,8 +744,8 @@
     "NumberOfEmployees": 391,
     "AnnualRevenue": "7398.37",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000068",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000068",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Signals 069",
@@ -755,8 +755,8 @@
     "NumberOfEmployees": 404,
     "AnnualRevenue": "7471.48",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000069",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000069",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Signals 070",
@@ -766,8 +766,8 @@
     "NumberOfEmployees": 417,
     "AnnualRevenue": "7544.59",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000070",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000070",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Signals 071",
@@ -777,8 +777,8 @@
     "NumberOfEmployees": 430,
     "AnnualRevenue": "7617.70",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000071",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000071",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Signals 072",
@@ -788,8 +788,8 @@
     "NumberOfEmployees": 443,
     "AnnualRevenue": "7690.81",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000072",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000072",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Signals 073",
@@ -799,8 +799,8 @@
     "NumberOfEmployees": 456,
     "AnnualRevenue": "7763.92",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000073",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000073",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Signals 074",
@@ -810,8 +810,8 @@
     "NumberOfEmployees": 469,
     "AnnualRevenue": "7837.03",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000074",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000074",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Signals 075",
@@ -821,8 +821,8 @@
     "NumberOfEmployees": 482,
     "AnnualRevenue": "7910.14",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000075",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000075",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Signals 076",
@@ -832,8 +832,8 @@
     "NumberOfEmployees": 495,
     "AnnualRevenue": "7983.25",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000076",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000076",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Signals 077",
@@ -843,8 +843,8 @@
     "NumberOfEmployees": 18,
     "AnnualRevenue": "8056.36",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000077",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000077",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Signals 078",
@@ -854,8 +854,8 @@
     "NumberOfEmployees": 31,
     "AnnualRevenue": "8129.47",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000078",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000078",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Signals 079",
@@ -865,8 +865,8 @@
     "NumberOfEmployees": 44,
     "AnnualRevenue": "8202.58",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000079",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000079",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Signals 080",
@@ -876,8 +876,8 @@
     "NumberOfEmployees": 57,
     "AnnualRevenue": "8275.69",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000080",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000080",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Platform 081",
@@ -887,8 +887,8 @@
     "NumberOfEmployees": 70,
     "AnnualRevenue": "8348.80",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000081",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000081",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Platform 082",
@@ -898,8 +898,8 @@
     "NumberOfEmployees": 83,
     "AnnualRevenue": "8421.91",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000082",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000082",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Platform 083",
@@ -909,8 +909,8 @@
     "NumberOfEmployees": 96,
     "AnnualRevenue": "8495.02",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000083",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000083",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Platform 084",
@@ -920,8 +920,8 @@
     "NumberOfEmployees": 109,
     "AnnualRevenue": "8568.13",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000084",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000084",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Platform 085",
@@ -931,8 +931,8 @@
     "NumberOfEmployees": 122,
     "AnnualRevenue": "8641.24",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000085",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000085",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Platform 086",
@@ -942,8 +942,8 @@
     "NumberOfEmployees": 135,
     "AnnualRevenue": "8714.35",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000086",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000086",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Platform 087",
@@ -953,8 +953,8 @@
     "NumberOfEmployees": 148,
     "AnnualRevenue": "8787.46",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000087",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000087",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Platform 088",
@@ -964,8 +964,8 @@
     "NumberOfEmployees": 161,
     "AnnualRevenue": "8860.57",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000088",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000088",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Platform 089",
@@ -975,8 +975,8 @@
     "NumberOfEmployees": 174,
     "AnnualRevenue": "8933.68",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000089",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000089",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Platform 090",
@@ -986,8 +986,8 @@
     "NumberOfEmployees": 187,
     "AnnualRevenue": "9006.79",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000090",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000090",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Platform 091",
@@ -997,8 +997,8 @@
     "NumberOfEmployees": 200,
     "AnnualRevenue": "9079.90",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000091",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000091",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Platform 092",
@@ -1008,8 +1008,8 @@
     "NumberOfEmployees": 213,
     "AnnualRevenue": "9153.01",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000092",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000092",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Platform 093",
@@ -1019,8 +1019,8 @@
     "NumberOfEmployees": 226,
     "AnnualRevenue": "9226.12",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000093",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000093",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Platform 094",
@@ -1030,8 +1030,8 @@
     "NumberOfEmployees": 239,
     "AnnualRevenue": "9299.23",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000094",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000094",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Platform 095",
@@ -1041,8 +1041,8 @@
     "NumberOfEmployees": 252,
     "AnnualRevenue": "9372.34",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000095",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000095",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Platform 096",
@@ -1052,8 +1052,8 @@
     "NumberOfEmployees": 265,
     "AnnualRevenue": "9445.45",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000096",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000096",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Platform 097",
@@ -1063,8 +1063,8 @@
     "NumberOfEmployees": 278,
     "AnnualRevenue": "9518.56",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000097",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000097",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Platform 098",
@@ -1074,8 +1074,8 @@
     "NumberOfEmployees": 291,
     "AnnualRevenue": "9591.67",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000098",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000098",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Platform 099",
@@ -1085,8 +1085,8 @@
     "NumberOfEmployees": 304,
     "AnnualRevenue": "9664.78",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000099",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000099",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Platform 100",
@@ -1096,8 +1096,8 @@
     "NumberOfEmployees": 317,
     "AnnualRevenue": "9737.89",
     "Description": "SYNTHETIC FICTION; customer",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000100",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000100",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Systems 101",
@@ -1107,8 +1107,8 @@
     "NumberOfEmployees": 330,
     "AnnualRevenue": "9811.00",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000101",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000101",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Systems 102",
@@ -1118,8 +1118,8 @@
     "NumberOfEmployees": 343,
     "AnnualRevenue": "9884.11",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000102",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000102",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Systems 103",
@@ -1129,8 +1129,8 @@
     "NumberOfEmployees": 356,
     "AnnualRevenue": "9957.22",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000103",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000103",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Systems 104",
@@ -1140,8 +1140,8 @@
     "NumberOfEmployees": 369,
     "AnnualRevenue": "10030.33",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000104",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000104",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Systems 105",
@@ -1151,8 +1151,8 @@
     "NumberOfEmployees": 382,
     "AnnualRevenue": "10103.44",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000105",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000105",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Systems 106",
@@ -1162,8 +1162,8 @@
     "NumberOfEmployees": 395,
     "AnnualRevenue": "10176.55",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000106",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000106",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Systems 107",
@@ -1173,8 +1173,8 @@
     "NumberOfEmployees": 408,
     "AnnualRevenue": "10249.66",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000107",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000107",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Systems 108",
@@ -1184,8 +1184,8 @@
     "NumberOfEmployees": 421,
     "AnnualRevenue": "10322.77",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000108",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000108",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Systems 109",
@@ -1195,8 +1195,8 @@
     "NumberOfEmployees": 434,
     "AnnualRevenue": "10395.88",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000109",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000109",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Systems 110",
@@ -1206,8 +1206,8 @@
     "NumberOfEmployees": 447,
     "AnnualRevenue": "10468.99",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000110",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000110",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Systems 111",
@@ -1217,8 +1217,8 @@
     "NumberOfEmployees": 460,
     "AnnualRevenue": "10542.10",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000111",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000111",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Systems 112",
@@ -1228,8 +1228,8 @@
     "NumberOfEmployees": 473,
     "AnnualRevenue": "10615.21",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000112",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000112",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Systems 113",
@@ -1239,8 +1239,8 @@
     "NumberOfEmployees": 486,
     "AnnualRevenue": "10688.32",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000113",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000113",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Systems 114",
@@ -1250,8 +1250,8 @@
     "NumberOfEmployees": 499,
     "AnnualRevenue": "10761.43",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000114",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000114",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Systems 115",
@@ -1261,8 +1261,8 @@
     "NumberOfEmployees": 22,
     "AnnualRevenue": "10834.54",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000115",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000115",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Systems 116",
@@ -1272,8 +1272,8 @@
     "NumberOfEmployees": 35,
     "AnnualRevenue": "10907.65",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000116",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000116",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Systems 117",
@@ -1283,8 +1283,8 @@
     "NumberOfEmployees": 48,
     "AnnualRevenue": "10980.76",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000117",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000117",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Systems 118",
@@ -1294,8 +1294,8 @@
     "NumberOfEmployees": 61,
     "AnnualRevenue": "11053.87",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000118",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000118",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Systems 119",
@@ -1305,8 +1305,8 @@
     "NumberOfEmployees": 74,
     "AnnualRevenue": "11126.98",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000119",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000119",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Systems 120",
@@ -1316,8 +1316,8 @@
     "NumberOfEmployees": 87,
     "AnnualRevenue": "11200.09",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000120",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000120",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Analytics 121",
@@ -1327,8 +1327,8 @@
     "NumberOfEmployees": 100,
     "AnnualRevenue": "11273.20",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000121",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000121",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Analytics 122",
@@ -1338,8 +1338,8 @@
     "NumberOfEmployees": 113,
     "AnnualRevenue": "11346.31",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000122",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000122",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Analytics 123",
@@ -1349,8 +1349,8 @@
     "NumberOfEmployees": 126,
     "AnnualRevenue": "11419.42",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000123",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000123",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Analytics 124",
@@ -1360,8 +1360,8 @@
     "NumberOfEmployees": 139,
     "AnnualRevenue": "11492.53",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000124",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000124",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Analytics 125",
@@ -1371,8 +1371,8 @@
     "NumberOfEmployees": 152,
     "AnnualRevenue": "11565.64",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000125",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000125",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Analytics 126",
@@ -1382,8 +1382,8 @@
     "NumberOfEmployees": 165,
     "AnnualRevenue": "11638.75",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000126",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000126",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Analytics 127",
@@ -1393,8 +1393,8 @@
     "NumberOfEmployees": 178,
     "AnnualRevenue": "11711.86",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000127",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000127",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Analytics 128",
@@ -1404,8 +1404,8 @@
     "NumberOfEmployees": 191,
     "AnnualRevenue": "11784.97",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000128",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000128",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Analytics 129",
@@ -1415,8 +1415,8 @@
     "NumberOfEmployees": 204,
     "AnnualRevenue": "11858.08",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000129",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000129",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Analytics 130",
@@ -1426,8 +1426,8 @@
     "NumberOfEmployees": 217,
     "AnnualRevenue": "11931.19",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000130",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000130",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Analytics 131",
@@ -1437,8 +1437,8 @@
     "NumberOfEmployees": 230,
     "AnnualRevenue": "12004.30",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000131",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000131",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Analytics 132",
@@ -1448,8 +1448,8 @@
     "NumberOfEmployees": 243,
     "AnnualRevenue": "12077.41",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000132",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000132",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Analytics 133",
@@ -1459,8 +1459,8 @@
     "NumberOfEmployees": 256,
     "AnnualRevenue": "12150.52",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000133",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000133",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Analytics 134",
@@ -1470,8 +1470,8 @@
     "NumberOfEmployees": 269,
     "AnnualRevenue": "12223.63",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000134",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000134",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Analytics 135",
@@ -1481,8 +1481,8 @@
     "NumberOfEmployees": 282,
     "AnnualRevenue": "12296.74",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000135",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000135",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Analytics 136",
@@ -1492,8 +1492,8 @@
     "NumberOfEmployees": 295,
     "AnnualRevenue": "12369.85",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000136",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000136",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Analytics 137",
@@ -1503,8 +1503,8 @@
     "NumberOfEmployees": 308,
     "AnnualRevenue": "12442.96",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000137",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000137",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Analytics 138",
@@ -1514,8 +1514,8 @@
     "NumberOfEmployees": 321,
     "AnnualRevenue": "12516.07",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000138",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000138",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Analytics 139",
@@ -1525,8 +1525,8 @@
     "NumberOfEmployees": 334,
     "AnnualRevenue": "12589.18",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000139",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000139",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Analytics 140",
@@ -1536,8 +1536,8 @@
     "NumberOfEmployees": 347,
     "AnnualRevenue": "12662.29",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000140",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000140",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Workflow 141",
@@ -1547,8 +1547,8 @@
     "NumberOfEmployees": 360,
     "AnnualRevenue": "12735.40",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000141",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000141",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Workflow 142",
@@ -1558,8 +1558,8 @@
     "NumberOfEmployees": 373,
     "AnnualRevenue": "12808.51",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000142",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000142",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Workflow 143",
@@ -1569,8 +1569,8 @@
     "NumberOfEmployees": 386,
     "AnnualRevenue": "12881.62",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000143",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000143",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Workflow 144",
@@ -1580,8 +1580,8 @@
     "NumberOfEmployees": 399,
     "AnnualRevenue": "12954.73",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000144",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000144",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Workflow 145",
@@ -1591,8 +1591,8 @@
     "NumberOfEmployees": 412,
     "AnnualRevenue": "13027.84",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000145",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000145",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Workflow 146",
@@ -1602,8 +1602,8 @@
     "NumberOfEmployees": 425,
     "AnnualRevenue": "13100.95",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000146",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000146",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Workflow 147",
@@ -1613,8 +1613,8 @@
     "NumberOfEmployees": 438,
     "AnnualRevenue": "13174.06",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000147",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000147",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Workflow 148",
@@ -1624,8 +1624,8 @@
     "NumberOfEmployees": 451,
     "AnnualRevenue": "13247.17",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000148",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000148",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Workflow 149",
@@ -1635,8 +1635,8 @@
     "NumberOfEmployees": 464,
     "AnnualRevenue": "13320.28",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000149",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000149",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Workflow 150",
@@ -1646,8 +1646,8 @@
     "NumberOfEmployees": 477,
     "AnnualRevenue": "13393.39",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000150",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000150",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Workflow 151",
@@ -1657,8 +1657,8 @@
     "NumberOfEmployees": 490,
     "AnnualRevenue": "13466.50",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000151",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000151",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Workflow 152",
@@ -1668,8 +1668,8 @@
     "NumberOfEmployees": 13,
     "AnnualRevenue": "13539.61",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000152",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000152",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Workflow 153",
@@ -1679,8 +1679,8 @@
     "NumberOfEmployees": 26,
     "AnnualRevenue": "13612.72",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000153",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000153",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Workflow 154",
@@ -1690,8 +1690,8 @@
     "NumberOfEmployees": 39,
     "AnnualRevenue": "13685.83",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000154",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000154",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Workflow 155",
@@ -1701,8 +1701,8 @@
     "NumberOfEmployees": 52,
     "AnnualRevenue": "13758.94",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000155",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000155",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Workflow 156",
@@ -1712,8 +1712,8 @@
     "NumberOfEmployees": 65,
     "AnnualRevenue": "13832.05",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000156",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000156",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Workflow 157",
@@ -1723,8 +1723,8 @@
     "NumberOfEmployees": 78,
     "AnnualRevenue": "13905.16",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000157",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000157",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Workflow 158",
@@ -1734,8 +1734,8 @@
     "NumberOfEmployees": 91,
     "AnnualRevenue": "13978.27",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000158",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000158",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Workflow 159",
@@ -1745,8 +1745,8 @@
     "NumberOfEmployees": 104,
     "AnnualRevenue": "14051.38",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000159",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000159",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Workflow 160",
@@ -1756,8 +1756,8 @@
     "NumberOfEmployees": 117,
     "AnnualRevenue": "14124.49",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000160",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000160",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Signals 161",
@@ -1767,8 +1767,8 @@
     "NumberOfEmployees": 130,
     "AnnualRevenue": "14197.60",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000161",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000161",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Signals 162",
@@ -1778,8 +1778,8 @@
     "NumberOfEmployees": 143,
     "AnnualRevenue": "14270.71",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000162",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000162",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Signals 163",
@@ -1789,8 +1789,8 @@
     "NumberOfEmployees": 156,
     "AnnualRevenue": "14343.82",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000163",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000163",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Signals 164",
@@ -1800,8 +1800,8 @@
     "NumberOfEmployees": 169,
     "AnnualRevenue": "14416.93",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000164",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000164",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Signals 165",
@@ -1811,8 +1811,8 @@
     "NumberOfEmployees": 182,
     "AnnualRevenue": "14490.04",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000165",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000165",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Signals 166",
@@ -1822,8 +1822,8 @@
     "NumberOfEmployees": 195,
     "AnnualRevenue": "14563.15",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000166",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000166",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Signals 167",
@@ -1833,8 +1833,8 @@
     "NumberOfEmployees": 208,
     "AnnualRevenue": "14636.26",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000167",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000167",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Signals 168",
@@ -1844,8 +1844,8 @@
     "NumberOfEmployees": 221,
     "AnnualRevenue": "14709.37",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000168",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000168",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Signals 169",
@@ -1855,8 +1855,8 @@
     "NumberOfEmployees": 234,
     "AnnualRevenue": "14782.48",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000169",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000169",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Signals 170",
@@ -1866,8 +1866,8 @@
     "NumberOfEmployees": 247,
     "AnnualRevenue": "14855.59",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000170",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000170",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Signals 171",
@@ -1877,8 +1877,8 @@
     "NumberOfEmployees": 260,
     "AnnualRevenue": "14928.70",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000171",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000171",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Signals 172",
@@ -1888,8 +1888,8 @@
     "NumberOfEmployees": 273,
     "AnnualRevenue": "15001.81",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000172",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000172",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Signals 173",
@@ -1899,8 +1899,8 @@
     "NumberOfEmployees": 286,
     "AnnualRevenue": "15074.92",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000173",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000173",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Signals 174",
@@ -1910,8 +1910,8 @@
     "NumberOfEmployees": 299,
     "AnnualRevenue": "15148.03",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000174",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000174",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Signals 175",
@@ -1921,8 +1921,8 @@
     "NumberOfEmployees": 312,
     "AnnualRevenue": "15221.14",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000175",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000175",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Signals 176",
@@ -1932,8 +1932,8 @@
     "NumberOfEmployees": 325,
     "AnnualRevenue": "15294.25",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000176",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000176",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Signals 177",
@@ -1943,8 +1943,8 @@
     "NumberOfEmployees": 338,
     "AnnualRevenue": "15367.36",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000177",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000177",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Signals 178",
@@ -1954,8 +1954,8 @@
     "NumberOfEmployees": 351,
     "AnnualRevenue": "15440.47",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000178",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000178",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Signals 179",
@@ -1965,8 +1965,8 @@
     "NumberOfEmployees": 364,
     "AnnualRevenue": "15513.58",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000179",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000179",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Signals 180",
@@ -1976,8 +1976,8 @@
     "NumberOfEmployees": 377,
     "AnnualRevenue": "15586.69",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000180",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000180",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Platform 181",
@@ -1987,8 +1987,8 @@
     "NumberOfEmployees": 390,
     "AnnualRevenue": "15659.80",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000181",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000181",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Platform 182",
@@ -1998,8 +1998,8 @@
     "NumberOfEmployees": 403,
     "AnnualRevenue": "15732.91",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000182",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000182",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Platform 183",
@@ -2009,8 +2009,8 @@
     "NumberOfEmployees": 416,
     "AnnualRevenue": "15806.02",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000183",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000183",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Platform 184",
@@ -2020,8 +2020,8 @@
     "NumberOfEmployees": 429,
     "AnnualRevenue": "15879.13",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000184",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000184",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Platform 185",
@@ -2031,8 +2031,8 @@
     "NumberOfEmployees": 442,
     "AnnualRevenue": "15952.24",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000185",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000185",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Platform 186",
@@ -2042,8 +2042,8 @@
     "NumberOfEmployees": 455,
     "AnnualRevenue": "16025.35",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000186",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000186",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Platform 187",
@@ -2053,8 +2053,8 @@
     "NumberOfEmployees": 468,
     "AnnualRevenue": "16098.46",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000187",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000187",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Platform 188",
@@ -2064,8 +2064,8 @@
     "NumberOfEmployees": 481,
     "AnnualRevenue": "16171.57",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000188",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000188",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Platform 189",
@@ -2075,8 +2075,8 @@
     "NumberOfEmployees": 494,
     "AnnualRevenue": "16244.68",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000189",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000189",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Platform 190",
@@ -2086,8 +2086,8 @@
     "NumberOfEmployees": 17,
     "AnnualRevenue": "16317.79",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000190",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000190",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Platform 191",
@@ -2097,8 +2097,8 @@
     "NumberOfEmployees": 30,
     "AnnualRevenue": "16390.90",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000191",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000191",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Platform 192",
@@ -2108,8 +2108,8 @@
     "NumberOfEmployees": 43,
     "AnnualRevenue": "16464.01",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000192",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000192",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Platform 193",
@@ -2119,8 +2119,8 @@
     "NumberOfEmployees": 56,
     "AnnualRevenue": "16537.12",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000193",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000193",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Platform 194",
@@ -2130,8 +2130,8 @@
     "NumberOfEmployees": 69,
     "AnnualRevenue": "16610.23",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000194",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000194",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Platform 195",
@@ -2141,8 +2141,8 @@
     "NumberOfEmployees": 82,
     "AnnualRevenue": "16683.34",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000195",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000195",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Platform 196",
@@ -2152,8 +2152,8 @@
     "NumberOfEmployees": 95,
     "AnnualRevenue": "16756.45",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000196",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000196",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Platform 197",
@@ -2163,8 +2163,8 @@
     "NumberOfEmployees": 108,
     "AnnualRevenue": "16829.56",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000197",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000197",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Platform 198",
@@ -2174,8 +2174,8 @@
     "NumberOfEmployees": 121,
     "AnnualRevenue": "16902.67",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000198",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000198",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Platform 199",
@@ -2185,8 +2185,8 @@
     "NumberOfEmployees": 134,
     "AnnualRevenue": "16975.78",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000199",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000199",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Platform 200",
@@ -2196,8 +2196,8 @@
     "NumberOfEmployees": 147,
     "AnnualRevenue": "17048.89",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000200",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000200",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Systems 201",
@@ -2207,8 +2207,8 @@
     "NumberOfEmployees": 160,
     "AnnualRevenue": "17122.00",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000201",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000201",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Systems 202",
@@ -2218,8 +2218,8 @@
     "NumberOfEmployees": 173,
     "AnnualRevenue": "17195.11",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000202",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000202",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Systems 203",
@@ -2229,8 +2229,8 @@
     "NumberOfEmployees": 186,
     "AnnualRevenue": "17268.22",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000203",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000203",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Systems 204",
@@ -2240,8 +2240,8 @@
     "NumberOfEmployees": 199,
     "AnnualRevenue": "17341.33",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000204",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000204",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Systems 205",
@@ -2251,8 +2251,8 @@
     "NumberOfEmployees": 212,
     "AnnualRevenue": "17414.44",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000205",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000205",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Systems 206",
@@ -2262,8 +2262,8 @@
     "NumberOfEmployees": 225,
     "AnnualRevenue": "17487.55",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000206",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000206",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Systems 207",
@@ -2273,8 +2273,8 @@
     "NumberOfEmployees": 238,
     "AnnualRevenue": "17560.66",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000207",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000207",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Systems 208",
@@ -2284,8 +2284,8 @@
     "NumberOfEmployees": 251,
     "AnnualRevenue": "17633.77",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000208",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000208",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Systems 209",
@@ -2295,8 +2295,8 @@
     "NumberOfEmployees": 264,
     "AnnualRevenue": "17706.88",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000209",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000209",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Systems 210",
@@ -2306,8 +2306,8 @@
     "NumberOfEmployees": 277,
     "AnnualRevenue": "17779.99",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000210",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000210",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Systems 211",
@@ -2317,8 +2317,8 @@
     "NumberOfEmployees": 290,
     "AnnualRevenue": "17853.10",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000211",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000211",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Systems 212",
@@ -2328,8 +2328,8 @@
     "NumberOfEmployees": 303,
     "AnnualRevenue": "17926.21",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000212",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000212",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Systems 213",
@@ -2339,8 +2339,8 @@
     "NumberOfEmployees": 316,
     "AnnualRevenue": "17999.32",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000213",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000213",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Systems 214",
@@ -2350,8 +2350,8 @@
     "NumberOfEmployees": 329,
     "AnnualRevenue": "18072.43",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000214",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000214",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Systems 215",
@@ -2361,8 +2361,8 @@
     "NumberOfEmployees": 342,
     "AnnualRevenue": "18145.54",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000215",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000215",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Systems 216",
@@ -2372,8 +2372,8 @@
     "NumberOfEmployees": 355,
     "AnnualRevenue": "18218.65",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000216",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000216",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Systems 217",
@@ -2383,8 +2383,8 @@
     "NumberOfEmployees": 368,
     "AnnualRevenue": "18291.76",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000217",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000217",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Systems 218",
@@ -2394,8 +2394,8 @@
     "NumberOfEmployees": 381,
     "AnnualRevenue": "18364.87",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000218",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000218",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Systems 219",
@@ -2405,8 +2405,8 @@
     "NumberOfEmployees": 394,
     "AnnualRevenue": "18437.98",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000219",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000219",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Systems 220",
@@ -2416,8 +2416,8 @@
     "NumberOfEmployees": 407,
     "AnnualRevenue": "18511.09",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000220",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000220",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Analytics 221",
@@ -2427,8 +2427,8 @@
     "NumberOfEmployees": 420,
     "AnnualRevenue": "18584.20",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000221",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000221",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Analytics 222",
@@ -2438,8 +2438,8 @@
     "NumberOfEmployees": 433,
     "AnnualRevenue": "18657.31",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000222",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000222",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Analytics 223",
@@ -2449,8 +2449,8 @@
     "NumberOfEmployees": 446,
     "AnnualRevenue": "18730.42",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000223",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000223",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Analytics 224",
@@ -2460,8 +2460,8 @@
     "NumberOfEmployees": 459,
     "AnnualRevenue": "18803.53",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000224",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000224",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Analytics 225",
@@ -2471,8 +2471,8 @@
     "NumberOfEmployees": 472,
     "AnnualRevenue": "18876.64",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000225",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000225",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Analytics 226",
@@ -2482,8 +2482,8 @@
     "NumberOfEmployees": 485,
     "AnnualRevenue": "18949.75",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000226",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000226",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Analytics 227",
@@ -2493,8 +2493,8 @@
     "NumberOfEmployees": 498,
     "AnnualRevenue": "19022.86",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000227",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000227",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Analytics 228",
@@ -2504,8 +2504,8 @@
     "NumberOfEmployees": 21,
     "AnnualRevenue": "19095.97",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000228",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000228",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Analytics 229",
@@ -2515,8 +2515,8 @@
     "NumberOfEmployees": 34,
     "AnnualRevenue": "19169.08",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000229",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000229",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Analytics 230",
@@ -2526,8 +2526,8 @@
     "NumberOfEmployees": 47,
     "AnnualRevenue": "19242.19",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000230",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000230",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Analytics 231",
@@ -2537,8 +2537,8 @@
     "NumberOfEmployees": 60,
     "AnnualRevenue": "19315.30",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000231",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000231",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Analytics 232",
@@ -2548,8 +2548,8 @@
     "NumberOfEmployees": 73,
     "AnnualRevenue": "19388.41",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000232",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000232",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Analytics 233",
@@ -2559,8 +2559,8 @@
     "NumberOfEmployees": 86,
     "AnnualRevenue": "19461.52",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000233",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000233",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Analytics 234",
@@ -2570,8 +2570,8 @@
     "NumberOfEmployees": 99,
     "AnnualRevenue": "19534.63",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000234",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000234",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Analytics 235",
@@ -2581,8 +2581,8 @@
     "NumberOfEmployees": 112,
     "AnnualRevenue": "19607.74",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000235",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000235",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Analytics 236",
@@ -2592,8 +2592,8 @@
     "NumberOfEmployees": 125,
     "AnnualRevenue": "19680.85",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000236",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000236",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Analytics 237",
@@ -2603,8 +2603,8 @@
     "NumberOfEmployees": 138,
     "AnnualRevenue": "19753.96",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000237",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000237",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Analytics 238",
@@ -2614,8 +2614,8 @@
     "NumberOfEmployees": 151,
     "AnnualRevenue": "19827.07",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000238",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000238",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Analytics 239",
@@ -2625,8 +2625,8 @@
     "NumberOfEmployees": 164,
     "AnnualRevenue": "19900.18",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000239",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000239",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Analytics 240",
@@ -2636,8 +2636,8 @@
     "NumberOfEmployees": 177,
     "AnnualRevenue": "19973.29",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000240",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000240",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Workflow 241",
@@ -2647,8 +2647,8 @@
     "NumberOfEmployees": 190,
     "AnnualRevenue": "20046.40",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000241",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000241",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Workflow 242",
@@ -2658,8 +2658,8 @@
     "NumberOfEmployees": 203,
     "AnnualRevenue": "20119.51",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000242",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000242",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Workflow 243",
@@ -2669,8 +2669,8 @@
     "NumberOfEmployees": 216,
     "AnnualRevenue": "20192.62",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000243",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000243",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Workflow 244",
@@ -2680,8 +2680,8 @@
     "NumberOfEmployees": 229,
     "AnnualRevenue": "20265.73",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000244",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000244",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Workflow 245",
@@ -2691,8 +2691,8 @@
     "NumberOfEmployees": 242,
     "AnnualRevenue": "20338.84",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000245",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000245",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Workflow 246",
@@ -2702,8 +2702,8 @@
     "NumberOfEmployees": 255,
     "AnnualRevenue": "20411.95",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000246",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000246",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Workflow 247",
@@ -2713,8 +2713,8 @@
     "NumberOfEmployees": 268,
     "AnnualRevenue": "20485.06",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000247",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000247",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Workflow 248",
@@ -2724,8 +2724,8 @@
     "NumberOfEmployees": 281,
     "AnnualRevenue": "20558.17",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000248",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000248",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Workflow 249",
@@ -2735,8 +2735,8 @@
     "NumberOfEmployees": 294,
     "AnnualRevenue": "20631.28",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000249",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000249",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Workflow 250",
@@ -2746,8 +2746,8 @@
     "NumberOfEmployees": 307,
     "AnnualRevenue": "20704.39",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000250",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000250",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Workflow 251",
@@ -2757,8 +2757,8 @@
     "NumberOfEmployees": 320,
     "AnnualRevenue": "20777.50",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000251",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000251",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Workflow 252",
@@ -2768,8 +2768,8 @@
     "NumberOfEmployees": 333,
     "AnnualRevenue": "20850.61",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000252",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000252",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Workflow 253",
@@ -2779,8 +2779,8 @@
     "NumberOfEmployees": 346,
     "AnnualRevenue": "20923.72",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000253",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000253",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Workflow 254",
@@ -2790,8 +2790,8 @@
     "NumberOfEmployees": 359,
     "AnnualRevenue": "20996.83",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000254",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000254",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Workflow 255",
@@ -2801,8 +2801,8 @@
     "NumberOfEmployees": 372,
     "AnnualRevenue": "21069.94",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000255",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000255",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Workflow 256",
@@ -2812,8 +2812,8 @@
     "NumberOfEmployees": 385,
     "AnnualRevenue": "21143.05",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000256",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000256",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Workflow 257",
@@ -2823,8 +2823,8 @@
     "NumberOfEmployees": 398,
     "AnnualRevenue": "21216.16",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000257",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000257",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Workflow 258",
@@ -2834,8 +2834,8 @@
     "NumberOfEmployees": 411,
     "AnnualRevenue": "21289.27",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000258",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000258",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Workflow 259",
@@ -2845,8 +2845,8 @@
     "NumberOfEmployees": 424,
     "AnnualRevenue": "21362.38",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000259",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000259",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Workflow 260",
@@ -2856,8 +2856,8 @@
     "NumberOfEmployees": 437,
     "AnnualRevenue": "21435.49",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000260",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000260",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Signals 261",
@@ -2867,8 +2867,8 @@
     "NumberOfEmployees": 450,
     "AnnualRevenue": "21508.60",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000261",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000261",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Signals 262",
@@ -2878,8 +2878,8 @@
     "NumberOfEmployees": 463,
     "AnnualRevenue": "21581.71",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000262",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000262",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Signals 263",
@@ -2889,8 +2889,8 @@
     "NumberOfEmployees": 476,
     "AnnualRevenue": "21654.82",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000263",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000263",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Signals 264",
@@ -2900,8 +2900,8 @@
     "NumberOfEmployees": 489,
     "AnnualRevenue": "21727.93",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000264",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000264",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Signals 265",
@@ -2911,8 +2911,8 @@
     "NumberOfEmployees": 12,
     "AnnualRevenue": "21801.04",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000265",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000265",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Signals 266",
@@ -2922,8 +2922,8 @@
     "NumberOfEmployees": 25,
     "AnnualRevenue": "21874.15",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000266",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000266",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Signals 267",
@@ -2933,8 +2933,8 @@
     "NumberOfEmployees": 38,
     "AnnualRevenue": "21947.26",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000267",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000267",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Signals 268",
@@ -2944,8 +2944,8 @@
     "NumberOfEmployees": 51,
     "AnnualRevenue": "22020.37",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000268",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000268",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Signals 269",
@@ -2955,8 +2955,8 @@
     "NumberOfEmployees": 64,
     "AnnualRevenue": "22093.48",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000269",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000269",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Signals 270",
@@ -2966,8 +2966,8 @@
     "NumberOfEmployees": 77,
     "AnnualRevenue": "22166.59",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000270",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000270",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Signals 271",
@@ -2977,8 +2977,8 @@
     "NumberOfEmployees": 90,
     "AnnualRevenue": "22239.70",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000271",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000271",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Signals 272",
@@ -2988,8 +2988,8 @@
     "NumberOfEmployees": 103,
     "AnnualRevenue": "22312.81",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000272",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000272",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Signals 273",
@@ -2999,8 +2999,8 @@
     "NumberOfEmployees": 116,
     "AnnualRevenue": "22385.92",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000273",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000273",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Signals 274",
@@ -3010,8 +3010,8 @@
     "NumberOfEmployees": 129,
     "AnnualRevenue": "22459.03",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000274",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000274",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Signals 275",
@@ -3021,8 +3021,8 @@
     "NumberOfEmployees": 142,
     "AnnualRevenue": "22532.14",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000275",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000275",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Signals 276",
@@ -3032,8 +3032,8 @@
     "NumberOfEmployees": 155,
     "AnnualRevenue": "22605.25",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000276",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000276",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Signals 277",
@@ -3043,8 +3043,8 @@
     "NumberOfEmployees": 168,
     "AnnualRevenue": "22678.36",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000277",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000277",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Signals 278",
@@ -3054,8 +3054,8 @@
     "NumberOfEmployees": 181,
     "AnnualRevenue": "22751.47",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000278",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000278",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Signals 279",
@@ -3065,8 +3065,8 @@
     "NumberOfEmployees": 194,
     "AnnualRevenue": "22824.58",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000279",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000279",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Signals 280",
@@ -3076,8 +3076,8 @@
     "NumberOfEmployees": 207,
     "AnnualRevenue": "22897.69",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000280",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000280",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Platform 281",
@@ -3087,8 +3087,8 @@
     "NumberOfEmployees": 220,
     "AnnualRevenue": "22970.80",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000281",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000281",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Platform 282",
@@ -3098,8 +3098,8 @@
     "NumberOfEmployees": 233,
     "AnnualRevenue": "23043.91",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000282",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000282",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Platform 283",
@@ -3109,8 +3109,8 @@
     "NumberOfEmployees": 246,
     "AnnualRevenue": "23117.02",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000283",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000283",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Platform 284",
@@ -3120,8 +3120,8 @@
     "NumberOfEmployees": 259,
     "AnnualRevenue": "23190.13",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000284",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000284",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Platform 285",
@@ -3131,8 +3131,8 @@
     "NumberOfEmployees": 272,
     "AnnualRevenue": "23263.24",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000285",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000285",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Platform 286",
@@ -3142,8 +3142,8 @@
     "NumberOfEmployees": 285,
     "AnnualRevenue": "23336.35",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000286",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000286",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Platform 287",
@@ -3153,8 +3153,8 @@
     "NumberOfEmployees": 298,
     "AnnualRevenue": "23409.46",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000287",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000287",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Platform 288",
@@ -3164,8 +3164,8 @@
     "NumberOfEmployees": 311,
     "AnnualRevenue": "23482.57",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000288",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000288",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Platform 289",
@@ -3175,8 +3175,8 @@
     "NumberOfEmployees": 324,
     "AnnualRevenue": "23555.68",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000289",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000289",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Platform 290",
@@ -3186,8 +3186,8 @@
     "NumberOfEmployees": 337,
     "AnnualRevenue": "23628.79",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000290",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000290",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Platform 291",
@@ -3197,8 +3197,8 @@
     "NumberOfEmployees": 350,
     "AnnualRevenue": "23701.90",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000291",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000291",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Platform 292",
@@ -3208,8 +3208,8 @@
     "NumberOfEmployees": 363,
     "AnnualRevenue": "23775.01",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000292",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000292",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Platform 293",
@@ -3219,8 +3219,8 @@
     "NumberOfEmployees": 376,
     "AnnualRevenue": "23848.12",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000293",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000293",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Platform 294",
@@ -3230,8 +3230,8 @@
     "NumberOfEmployees": 389,
     "AnnualRevenue": "23921.23",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000294",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000294",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Platform 295",
@@ -3241,8 +3241,8 @@
     "NumberOfEmployees": 402,
     "AnnualRevenue": "23994.34",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000295",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000295",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Platform 296",
@@ -3252,8 +3252,8 @@
     "NumberOfEmployees": 415,
     "AnnualRevenue": "24067.45",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000296",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000296",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Platform 297",
@@ -3263,8 +3263,8 @@
     "NumberOfEmployees": 428,
     "AnnualRevenue": "24140.56",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000297",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000297",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Platform 298",
@@ -3274,8 +3274,8 @@
     "NumberOfEmployees": 441,
     "AnnualRevenue": "24213.67",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000298",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000298",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Platform 299",
@@ -3285,8 +3285,8 @@
     "NumberOfEmployees": 454,
     "AnnualRevenue": "24286.78",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000299",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000299",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Platform 300",
@@ -3296,8 +3296,8 @@
     "NumberOfEmployees": 467,
     "AnnualRevenue": "24359.89",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000300",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000300",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Systems 301",
@@ -3307,8 +3307,8 @@
     "NumberOfEmployees": 480,
     "AnnualRevenue": "24433.00",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000301",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000301",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Systems 302",
@@ -3318,8 +3318,8 @@
     "NumberOfEmployees": 493,
     "AnnualRevenue": "24506.11",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000302",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000302",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Systems 303",
@@ -3329,8 +3329,8 @@
     "NumberOfEmployees": 16,
     "AnnualRevenue": "24579.22",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000303",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000303",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Systems 304",
@@ -3340,8 +3340,8 @@
     "NumberOfEmployees": 29,
     "AnnualRevenue": "24652.33",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000304",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000304",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Systems 305",
@@ -3351,8 +3351,8 @@
     "NumberOfEmployees": 42,
     "AnnualRevenue": "24725.44",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000305",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000305",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Systems 306",
@@ -3362,8 +3362,8 @@
     "NumberOfEmployees": 55,
     "AnnualRevenue": "24798.55",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000306",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000306",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Systems 307",
@@ -3373,8 +3373,8 @@
     "NumberOfEmployees": 68,
     "AnnualRevenue": "24871.66",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000307",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000307",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Systems 308",
@@ -3384,8 +3384,8 @@
     "NumberOfEmployees": 81,
     "AnnualRevenue": "24944.77",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000308",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000308",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Systems 309",
@@ -3395,8 +3395,8 @@
     "NumberOfEmployees": 94,
     "AnnualRevenue": "25017.88",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000309",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000309",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Systems 310",
@@ -3406,8 +3406,8 @@
     "NumberOfEmployees": 107,
     "AnnualRevenue": "25090.99",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000310",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000310",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Systems 311",
@@ -3417,8 +3417,8 @@
     "NumberOfEmployees": 120,
     "AnnualRevenue": "25164.10",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000311",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000311",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Systems 312",
@@ -3428,8 +3428,8 @@
     "NumberOfEmployees": 133,
     "AnnualRevenue": "25237.21",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000312",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000312",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Systems 313",
@@ -3439,8 +3439,8 @@
     "NumberOfEmployees": 146,
     "AnnualRevenue": "25310.32",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000313",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000313",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Systems 314",
@@ -3450,8 +3450,8 @@
     "NumberOfEmployees": 159,
     "AnnualRevenue": "25383.43",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000314",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000314",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Systems 315",
@@ -3461,8 +3461,8 @@
     "NumberOfEmployees": 172,
     "AnnualRevenue": "25456.54",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000315",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000315",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Systems 316",
@@ -3472,8 +3472,8 @@
     "NumberOfEmployees": 185,
     "AnnualRevenue": "25529.65",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000316",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000316",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Systems 317",
@@ -3483,8 +3483,8 @@
     "NumberOfEmployees": 198,
     "AnnualRevenue": "25602.76",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000317",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000317",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Systems 318",
@@ -3494,8 +3494,8 @@
     "NumberOfEmployees": 211,
     "AnnualRevenue": "25675.87",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000318",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000318",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Systems 319",
@@ -3505,8 +3505,8 @@
     "NumberOfEmployees": 224,
     "AnnualRevenue": "25748.98",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000319",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000319",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Systems 320",
@@ -3516,8 +3516,8 @@
     "NumberOfEmployees": 237,
     "AnnualRevenue": "25822.09",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000320",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000320",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Analytics 321",
@@ -3527,8 +3527,8 @@
     "NumberOfEmployees": 250,
     "AnnualRevenue": "25895.20",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000321",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000321",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Analytics 322",
@@ -3538,8 +3538,8 @@
     "NumberOfEmployees": 263,
     "AnnualRevenue": "25968.31",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000322",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000322",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Analytics 323",
@@ -3549,8 +3549,8 @@
     "NumberOfEmployees": 276,
     "AnnualRevenue": "26041.42",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000323",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000323",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Analytics 324",
@@ -3560,8 +3560,8 @@
     "NumberOfEmployees": 289,
     "AnnualRevenue": "26114.53",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000324",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000324",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Analytics 325",
@@ -3571,8 +3571,8 @@
     "NumberOfEmployees": 302,
     "AnnualRevenue": "26187.64",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000325",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000325",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Analytics 326",
@@ -3582,8 +3582,8 @@
     "NumberOfEmployees": 315,
     "AnnualRevenue": "26260.75",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000326",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000326",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Analytics 327",
@@ -3593,8 +3593,8 @@
     "NumberOfEmployees": 328,
     "AnnualRevenue": "26333.86",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000327",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000327",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Analytics 328",
@@ -3604,8 +3604,8 @@
     "NumberOfEmployees": 341,
     "AnnualRevenue": "26406.97",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000328",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000328",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Analytics 329",
@@ -3615,8 +3615,8 @@
     "NumberOfEmployees": 354,
     "AnnualRevenue": "26480.08",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000329",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000329",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Analytics 330",
@@ -3626,8 +3626,8 @@
     "NumberOfEmployees": 367,
     "AnnualRevenue": "26553.19",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000330",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000330",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Analytics 331",
@@ -3637,8 +3637,8 @@
     "NumberOfEmployees": 380,
     "AnnualRevenue": "26626.30",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000331",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000331",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Analytics 332",
@@ -3648,8 +3648,8 @@
     "NumberOfEmployees": 393,
     "AnnualRevenue": "26699.41",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000332",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000332",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Analytics 333",
@@ -3659,8 +3659,8 @@
     "NumberOfEmployees": 406,
     "AnnualRevenue": "26772.52",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000333",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000333",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Analytics 334",
@@ -3670,8 +3670,8 @@
     "NumberOfEmployees": 419,
     "AnnualRevenue": "26845.63",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000334",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000334",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Analytics 335",
@@ -3681,8 +3681,8 @@
     "NumberOfEmployees": 432,
     "AnnualRevenue": "26918.74",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000335",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000335",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Analytics 336",
@@ -3692,8 +3692,8 @@
     "NumberOfEmployees": 445,
     "AnnualRevenue": "26991.85",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000336",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000336",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Analytics 337",
@@ -3703,8 +3703,8 @@
     "NumberOfEmployees": 458,
     "AnnualRevenue": "27064.96",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000337",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000337",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Analytics 338",
@@ -3714,8 +3714,8 @@
     "NumberOfEmployees": 471,
     "AnnualRevenue": "27138.07",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000338",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000338",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Analytics 339",
@@ -3725,8 +3725,8 @@
     "NumberOfEmployees": 484,
     "AnnualRevenue": "27211.18",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000339",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000339",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Analytics 340",
@@ -3736,8 +3736,8 @@
     "NumberOfEmployees": 497,
     "AnnualRevenue": "27284.29",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000340",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000340",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Workflow 341",
@@ -3747,8 +3747,8 @@
     "NumberOfEmployees": 20,
     "AnnualRevenue": "27357.40",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000341",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000341",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Workflow 342",
@@ -3758,8 +3758,8 @@
     "NumberOfEmployees": 33,
     "AnnualRevenue": "27430.51",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000342",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000342",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Workflow 343",
@@ -3769,8 +3769,8 @@
     "NumberOfEmployees": 46,
     "AnnualRevenue": "27503.62",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000343",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000343",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Workflow 344",
@@ -3780,8 +3780,8 @@
     "NumberOfEmployees": 59,
     "AnnualRevenue": "27576.73",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000344",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000344",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Workflow 345",
@@ -3791,8 +3791,8 @@
     "NumberOfEmployees": 72,
     "AnnualRevenue": "27649.84",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000345",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000345",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Workflow 346",
@@ -3802,8 +3802,8 @@
     "NumberOfEmployees": 85,
     "AnnualRevenue": "27722.95",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000346",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000346",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Workflow 347",
@@ -3813,8 +3813,8 @@
     "NumberOfEmployees": 98,
     "AnnualRevenue": "27796.06",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000347",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000347",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Workflow 348",
@@ -3824,8 +3824,8 @@
     "NumberOfEmployees": 111,
     "AnnualRevenue": "27869.17",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000348",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000348",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Workflow 349",
@@ -3835,8 +3835,8 @@
     "NumberOfEmployees": 124,
     "AnnualRevenue": "27942.28",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000349",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000349",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Workflow 350",
@@ -3846,8 +3846,8 @@
     "NumberOfEmployees": 137,
     "AnnualRevenue": "28015.39",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000350",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000350",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Workflow 351",
@@ -3857,8 +3857,8 @@
     "NumberOfEmployees": 150,
     "AnnualRevenue": "28088.50",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000351",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000351",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Workflow 352",
@@ -3868,8 +3868,8 @@
     "NumberOfEmployees": 163,
     "AnnualRevenue": "28161.61",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000352",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000352",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Workflow 353",
@@ -3879,8 +3879,8 @@
     "NumberOfEmployees": 176,
     "AnnualRevenue": "28234.72",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000353",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000353",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Workflow 354",
@@ -3890,8 +3890,8 @@
     "NumberOfEmployees": 189,
     "AnnualRevenue": "28307.83",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000354",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000354",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Workflow 355",
@@ -3901,8 +3901,8 @@
     "NumberOfEmployees": 202,
     "AnnualRevenue": "28380.94",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000355",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000355",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Workflow 356",
@@ -3912,8 +3912,8 @@
     "NumberOfEmployees": 215,
     "AnnualRevenue": "28454.05",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000356",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000356",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Workflow 357",
@@ -3923,8 +3923,8 @@
     "NumberOfEmployees": 228,
     "AnnualRevenue": "28527.16",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000357",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000357",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Workflow 358",
@@ -3934,8 +3934,8 @@
     "NumberOfEmployees": 241,
     "AnnualRevenue": "28600.27",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000358",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000358",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Workflow 359",
@@ -3945,8 +3945,8 @@
     "NumberOfEmployees": 254,
     "AnnualRevenue": "28673.38",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000359",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000359",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Workflow 360",
@@ -3956,8 +3956,8 @@
     "NumberOfEmployees": 267,
     "AnnualRevenue": "28746.49",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000360",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000360",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Signals 361",
@@ -3967,8 +3967,8 @@
     "NumberOfEmployees": 280,
     "AnnualRevenue": "28819.60",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000361",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000361",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Signals 362",
@@ -3978,8 +3978,8 @@
     "NumberOfEmployees": 293,
     "AnnualRevenue": "28892.71",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000362",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000362",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Signals 363",
@@ -3989,8 +3989,8 @@
     "NumberOfEmployees": 306,
     "AnnualRevenue": "28965.82",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000363",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000363",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Signals 364",
@@ -4000,8 +4000,8 @@
     "NumberOfEmployees": 319,
     "AnnualRevenue": "29038.93",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000364",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000364",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Signals 365",
@@ -4011,8 +4011,8 @@
     "NumberOfEmployees": 332,
     "AnnualRevenue": "29112.04",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000365",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000365",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Signals 366",
@@ -4022,8 +4022,8 @@
     "NumberOfEmployees": 345,
     "AnnualRevenue": "29185.15",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000366",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000366",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Signals 367",
@@ -4033,8 +4033,8 @@
     "NumberOfEmployees": 358,
     "AnnualRevenue": "29258.26",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000367",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000367",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Signals 368",
@@ -4044,8 +4044,8 @@
     "NumberOfEmployees": 371,
     "AnnualRevenue": "29331.37",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000368",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000368",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Signals 369",
@@ -4055,8 +4055,8 @@
     "NumberOfEmployees": 384,
     "AnnualRevenue": "29404.48",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000369",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000369",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Signals 370",
@@ -4066,8 +4066,8 @@
     "NumberOfEmployees": 397,
     "AnnualRevenue": "29477.59",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000370",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000370",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Signals 371",
@@ -4077,8 +4077,8 @@
     "NumberOfEmployees": 410,
     "AnnualRevenue": "29550.70",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000371",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000371",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Signals 372",
@@ -4088,8 +4088,8 @@
     "NumberOfEmployees": 423,
     "AnnualRevenue": "29623.81",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000372",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000372",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Signals 373",
@@ -4099,8 +4099,8 @@
     "NumberOfEmployees": 436,
     "AnnualRevenue": "29696.92",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000373",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000373",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Signals 374",
@@ -4110,8 +4110,8 @@
     "NumberOfEmployees": 449,
     "AnnualRevenue": "29770.03",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000374",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000374",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Signals 375",
@@ -4121,8 +4121,8 @@
     "NumberOfEmployees": 462,
     "AnnualRevenue": "29843.14",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000375",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000375",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Signals 376",
@@ -4132,8 +4132,8 @@
     "NumberOfEmployees": 475,
     "AnnualRevenue": "29916.25",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000376",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000376",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Signals 377",
@@ -4143,8 +4143,8 @@
     "NumberOfEmployees": 488,
     "AnnualRevenue": "29989.36",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000377",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000377",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Signals 378",
@@ -4154,8 +4154,8 @@
     "NumberOfEmployees": 11,
     "AnnualRevenue": "30062.47",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000378",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000378",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Signals 379",
@@ -4165,8 +4165,8 @@
     "NumberOfEmployees": 24,
     "AnnualRevenue": "30135.58",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000379",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000379",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Signals 380",
@@ -4176,8 +4176,8 @@
     "NumberOfEmployees": 37,
     "AnnualRevenue": "30208.69",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000380",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000380",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Platform 381",
@@ -4187,8 +4187,8 @@
     "NumberOfEmployees": 50,
     "AnnualRevenue": "30281.80",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000381",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000381",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Platform 382",
@@ -4198,8 +4198,8 @@
     "NumberOfEmployees": 63,
     "AnnualRevenue": "30354.91",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000382",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000382",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Platform 383",
@@ -4209,8 +4209,8 @@
     "NumberOfEmployees": 76,
     "AnnualRevenue": "30428.02",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000383",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000383",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Platform 384",
@@ -4220,8 +4220,8 @@
     "NumberOfEmployees": 89,
     "AnnualRevenue": "30501.13",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000384",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000384",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Platform 385",
@@ -4231,8 +4231,8 @@
     "NumberOfEmployees": 102,
     "AnnualRevenue": "30574.24",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000385",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000385",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Platform 386",
@@ -4242,8 +4242,8 @@
     "NumberOfEmployees": 115,
     "AnnualRevenue": "30647.35",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000386",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000386",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Platform 387",
@@ -4253,8 +4253,8 @@
     "NumberOfEmployees": 128,
     "AnnualRevenue": "30720.46",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000387",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000387",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Platform 388",
@@ -4264,8 +4264,8 @@
     "NumberOfEmployees": 141,
     "AnnualRevenue": "30793.57",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000388",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000388",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Platform 389",
@@ -4275,8 +4275,8 @@
     "NumberOfEmployees": 154,
     "AnnualRevenue": "30866.68",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000389",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000389",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Platform 390",
@@ -4286,8 +4286,8 @@
     "NumberOfEmployees": 167,
     "AnnualRevenue": "30939.79",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000390",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000390",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Platform 391",
@@ -4297,8 +4297,8 @@
     "NumberOfEmployees": 180,
     "AnnualRevenue": "31012.90",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000391",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000391",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Platform 392",
@@ -4308,8 +4308,8 @@
     "NumberOfEmployees": 193,
     "AnnualRevenue": "31086.01",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000392",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000392",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Platform 393",
@@ -4319,8 +4319,8 @@
     "NumberOfEmployees": 206,
     "AnnualRevenue": "31159.12",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000393",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000393",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Platform 394",
@@ -4330,8 +4330,8 @@
     "NumberOfEmployees": 219,
     "AnnualRevenue": "31232.23",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000394",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000394",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Platform 395",
@@ -4341,8 +4341,8 @@
     "NumberOfEmployees": 232,
     "AnnualRevenue": "31305.34",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000395",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000395",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Platform 396",
@@ -4352,8 +4352,8 @@
     "NumberOfEmployees": 245,
     "AnnualRevenue": "31378.45",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000396",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000396",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Platform 397",
@@ -4363,8 +4363,8 @@
     "NumberOfEmployees": 258,
     "AnnualRevenue": "31451.56",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000397",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000397",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Platform 398",
@@ -4374,8 +4374,8 @@
     "NumberOfEmployees": 271,
     "AnnualRevenue": "31524.67",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000398",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000398",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Platform 399",
@@ -4385,8 +4385,8 @@
     "NumberOfEmployees": 284,
     "AnnualRevenue": "31597.78",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000399",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000399",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Platform 400",
@@ -4396,8 +4396,8 @@
     "NumberOfEmployees": 297,
     "AnnualRevenue": "31670.89",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000400",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000400",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Systems 401",
@@ -4407,8 +4407,8 @@
     "NumberOfEmployees": 310,
     "AnnualRevenue": "31744.00",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000401",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000401",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Systems 402",
@@ -4418,8 +4418,8 @@
     "NumberOfEmployees": 323,
     "AnnualRevenue": "31817.11",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000402",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000402",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Systems 403",
@@ -4429,8 +4429,8 @@
     "NumberOfEmployees": 336,
     "AnnualRevenue": "31890.22",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000403",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000403",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Systems 404",
@@ -4440,8 +4440,8 @@
     "NumberOfEmployees": 349,
     "AnnualRevenue": "31963.33",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000404",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000404",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Systems 405",
@@ -4451,8 +4451,8 @@
     "NumberOfEmployees": 362,
     "AnnualRevenue": "32036.44",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000405",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000405",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Systems 406",
@@ -4462,8 +4462,8 @@
     "NumberOfEmployees": 375,
     "AnnualRevenue": "32109.55",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000406",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000406",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Systems 407",
@@ -4473,8 +4473,8 @@
     "NumberOfEmployees": 388,
     "AnnualRevenue": "32182.66",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000407",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000407",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Systems 408",
@@ -4484,8 +4484,8 @@
     "NumberOfEmployees": 401,
     "AnnualRevenue": "32255.77",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000408",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000408",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Systems 409",
@@ -4495,8 +4495,8 @@
     "NumberOfEmployees": 414,
     "AnnualRevenue": "32328.88",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000409",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000409",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Systems 410",
@@ -4506,8 +4506,8 @@
     "NumberOfEmployees": 427,
     "AnnualRevenue": "32401.99",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000410",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000410",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Systems 411",
@@ -4517,8 +4517,8 @@
     "NumberOfEmployees": 440,
     "AnnualRevenue": "32475.10",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000411",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000411",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Systems 412",
@@ -4528,8 +4528,8 @@
     "NumberOfEmployees": 453,
     "AnnualRevenue": "32548.21",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000412",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000412",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Systems 413",
@@ -4539,8 +4539,8 @@
     "NumberOfEmployees": 466,
     "AnnualRevenue": "32621.32",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000413",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000413",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Systems 414",
@@ -4550,8 +4550,8 @@
     "NumberOfEmployees": 479,
     "AnnualRevenue": "32694.43",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000414",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000414",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Systems 415",
@@ -4561,8 +4561,8 @@
     "NumberOfEmployees": 492,
     "AnnualRevenue": "32767.54",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000415",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000415",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Systems 416",
@@ -4572,8 +4572,8 @@
     "NumberOfEmployees": 15,
     "AnnualRevenue": "32840.65",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000416",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000416",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Systems 417",
@@ -4583,8 +4583,8 @@
     "NumberOfEmployees": 28,
     "AnnualRevenue": "32913.76",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000417",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000417",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Systems 418",
@@ -4594,8 +4594,8 @@
     "NumberOfEmployees": 41,
     "AnnualRevenue": "32986.87",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000418",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000418",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Systems 419",
@@ -4605,8 +4605,8 @@
     "NumberOfEmployees": 54,
     "AnnualRevenue": "33059.98",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000419",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000419",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Systems 420",
@@ -4616,8 +4616,8 @@
     "NumberOfEmployees": 67,
     "AnnualRevenue": "33133.09",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000420",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000420",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Analytics 421",
@@ -4627,8 +4627,8 @@
     "NumberOfEmployees": 80,
     "AnnualRevenue": "33206.20",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000421",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000421",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Analytics 422",
@@ -4638,8 +4638,8 @@
     "NumberOfEmployees": 93,
     "AnnualRevenue": "33279.31",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000422",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000422",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Analytics 423",
@@ -4649,8 +4649,8 @@
     "NumberOfEmployees": 106,
     "AnnualRevenue": "33352.42",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000423",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000423",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Analytics 424",
@@ -4660,8 +4660,8 @@
     "NumberOfEmployees": 119,
     "AnnualRevenue": "33425.53",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000424",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000424",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Analytics 425",
@@ -4671,8 +4671,8 @@
     "NumberOfEmployees": 132,
     "AnnualRevenue": "33498.64",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000425",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000425",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Analytics 426",
@@ -4682,8 +4682,8 @@
     "NumberOfEmployees": 145,
     "AnnualRevenue": "33571.75",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000426",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000426",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Analytics 427",
@@ -4693,8 +4693,8 @@
     "NumberOfEmployees": 158,
     "AnnualRevenue": "33644.86",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000427",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000427",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Analytics 428",
@@ -4704,8 +4704,8 @@
     "NumberOfEmployees": 171,
     "AnnualRevenue": "33717.97",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000428",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000428",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Analytics 429",
@@ -4715,8 +4715,8 @@
     "NumberOfEmployees": 184,
     "AnnualRevenue": "33791.08",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000429",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000429",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Analytics 430",
@@ -4726,8 +4726,8 @@
     "NumberOfEmployees": 197,
     "AnnualRevenue": "33864.19",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000430",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000430",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Analytics 431",
@@ -4737,8 +4737,8 @@
     "NumberOfEmployees": 210,
     "AnnualRevenue": "33937.30",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000431",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000431",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Analytics 432",
@@ -4748,8 +4748,8 @@
     "NumberOfEmployees": 223,
     "AnnualRevenue": "34010.41",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000432",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000432",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Analytics 433",
@@ -4759,8 +4759,8 @@
     "NumberOfEmployees": 236,
     "AnnualRevenue": "34083.52",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000433",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000433",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Analytics 434",
@@ -4770,8 +4770,8 @@
     "NumberOfEmployees": 249,
     "AnnualRevenue": "34156.63",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000434",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000434",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Analytics 435",
@@ -4781,8 +4781,8 @@
     "NumberOfEmployees": 262,
     "AnnualRevenue": "34229.74",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000435",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000435",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Analytics 436",
@@ -4792,8 +4792,8 @@
     "NumberOfEmployees": 275,
     "AnnualRevenue": "34302.85",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000436",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000436",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Analytics 437",
@@ -4803,8 +4803,8 @@
     "NumberOfEmployees": 288,
     "AnnualRevenue": "34375.96",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000437",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000437",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Analytics 438",
@@ -4814,8 +4814,8 @@
     "NumberOfEmployees": 301,
     "AnnualRevenue": "34449.07",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000438",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000438",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Analytics 439",
@@ -4825,8 +4825,8 @@
     "NumberOfEmployees": 314,
     "AnnualRevenue": "34522.18",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000439",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000439",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Analytics 440",
@@ -4836,8 +4836,8 @@
     "NumberOfEmployees": 327,
     "AnnualRevenue": "34595.29",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000440",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000440",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Workflow 441",
@@ -4847,8 +4847,8 @@
     "NumberOfEmployees": 340,
     "AnnualRevenue": "34668.40",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000441",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000441",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Workflow 442",
@@ -4858,8 +4858,8 @@
     "NumberOfEmployees": 353,
     "AnnualRevenue": "34741.51",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000442",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000442",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Workflow 443",
@@ -4869,8 +4869,8 @@
     "NumberOfEmployees": 366,
     "AnnualRevenue": "34814.62",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000443",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000443",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Workflow 444",
@@ -4880,8 +4880,8 @@
     "NumberOfEmployees": 379,
     "AnnualRevenue": "34887.73",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000444",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000444",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Workflow 445",
@@ -4891,8 +4891,8 @@
     "NumberOfEmployees": 392,
     "AnnualRevenue": "34960.84",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000445",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000445",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Workflow 446",
@@ -4902,8 +4902,8 @@
     "NumberOfEmployees": 405,
     "AnnualRevenue": "35033.95",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000446",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000446",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Workflow 447",
@@ -4913,8 +4913,8 @@
     "NumberOfEmployees": 418,
     "AnnualRevenue": "35107.06",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000447",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000447",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Workflow 448",
@@ -4924,8 +4924,8 @@
     "NumberOfEmployees": 431,
     "AnnualRevenue": "35180.17",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000448",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000448",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Workflow 449",
@@ -4935,8 +4935,8 @@
     "NumberOfEmployees": 444,
     "AnnualRevenue": "35253.28",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000449",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000449",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Workflow 450",
@@ -4946,8 +4946,8 @@
     "NumberOfEmployees": 457,
     "AnnualRevenue": "35326.39",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000450",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000450",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Workflow 451",
@@ -4957,8 +4957,8 @@
     "NumberOfEmployees": 470,
     "AnnualRevenue": "35399.50",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000451",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000451",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Workflow 452",
@@ -4968,8 +4968,8 @@
     "NumberOfEmployees": 483,
     "AnnualRevenue": "35472.61",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000452",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000452",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Workflow 453",
@@ -4979,8 +4979,8 @@
     "NumberOfEmployees": 496,
     "AnnualRevenue": "35545.72",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000453",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000453",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Workflow 454",
@@ -4990,8 +4990,8 @@
     "NumberOfEmployees": 19,
     "AnnualRevenue": "35618.83",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000454",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000454",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Workflow 455",
@@ -5001,8 +5001,8 @@
     "NumberOfEmployees": 32,
     "AnnualRevenue": "35691.94",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000455",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000455",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Workflow 456",
@@ -5012,8 +5012,8 @@
     "NumberOfEmployees": 45,
     "AnnualRevenue": "35765.05",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000456",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000456",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Workflow 457",
@@ -5023,8 +5023,8 @@
     "NumberOfEmployees": 58,
     "AnnualRevenue": "35838.16",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000457",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000457",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Workflow 458",
@@ -5034,8 +5034,8 @@
     "NumberOfEmployees": 71,
     "AnnualRevenue": "35911.27",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000458",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000458",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Workflow 459",
@@ -5045,8 +5045,8 @@
     "NumberOfEmployees": 84,
     "AnnualRevenue": "35984.38",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000459",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000459",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Workflow 460",
@@ -5056,8 +5056,8 @@
     "NumberOfEmployees": 97,
     "AnnualRevenue": "36057.49",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000460",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000460",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Signals 461",
@@ -5067,8 +5067,8 @@
     "NumberOfEmployees": 110,
     "AnnualRevenue": "36130.60",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000461",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000461",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Signals 462",
@@ -5078,8 +5078,8 @@
     "NumberOfEmployees": 123,
     "AnnualRevenue": "36203.71",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000462",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000462",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Signals 463",
@@ -5089,8 +5089,8 @@
     "NumberOfEmployees": 136,
     "AnnualRevenue": "36276.82",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000463",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000463",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Signals 464",
@@ -5100,8 +5100,8 @@
     "NumberOfEmployees": 149,
     "AnnualRevenue": "36349.93",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000464",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000464",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Signals 465",
@@ -5111,8 +5111,8 @@
     "NumberOfEmployees": 162,
     "AnnualRevenue": "36423.04",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000465",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000465",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Signals 466",
@@ -5122,8 +5122,8 @@
     "NumberOfEmployees": 175,
     "AnnualRevenue": "36496.15",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000466",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000466",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Signals 467",
@@ -5133,8 +5133,8 @@
     "NumberOfEmployees": 188,
     "AnnualRevenue": "36569.26",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000467",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000467",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Signals 468",
@@ -5144,8 +5144,8 @@
     "NumberOfEmployees": 201,
     "AnnualRevenue": "36642.37",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000468",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000468",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Signals 469",
@@ -5155,8 +5155,8 @@
     "NumberOfEmployees": 214,
     "AnnualRevenue": "36715.48",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000469",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000469",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Signals 470",
@@ -5166,8 +5166,8 @@
     "NumberOfEmployees": 227,
     "AnnualRevenue": "36788.59",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000470",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000470",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Signals 471",
@@ -5177,8 +5177,8 @@
     "NumberOfEmployees": 240,
     "AnnualRevenue": "36861.70",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000471",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000471",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Signals 472",
@@ -5188,8 +5188,8 @@
     "NumberOfEmployees": 253,
     "AnnualRevenue": "36934.81",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000472",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000472",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Signals 473",
@@ -5199,8 +5199,8 @@
     "NumberOfEmployees": 266,
     "AnnualRevenue": "37007.92",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000473",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000473",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Signals 474",
@@ -5210,8 +5210,8 @@
     "NumberOfEmployees": 279,
     "AnnualRevenue": "37081.03",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000474",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000474",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Signals 475",
@@ -5221,8 +5221,8 @@
     "NumberOfEmployees": 292,
     "AnnualRevenue": "37154.14",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000475",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000475",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Signals 476",
@@ -5232,8 +5232,8 @@
     "NumberOfEmployees": 305,
     "AnnualRevenue": "37227.25",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000476",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000476",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Signals 477",
@@ -5243,8 +5243,8 @@
     "NumberOfEmployees": 318,
     "AnnualRevenue": "37300.36",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000477",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000477",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Signals 478",
@@ -5254,8 +5254,8 @@
     "NumberOfEmployees": 331,
     "AnnualRevenue": "37373.47",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000478",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000478",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Signals 479",
@@ -5265,8 +5265,8 @@
     "NumberOfEmployees": 344,
     "AnnualRevenue": "37446.58",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000479",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000479",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Signals 480",
@@ -5276,8 +5276,8 @@
     "NumberOfEmployees": 357,
     "AnnualRevenue": "37519.69",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000480",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000480",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Amber Platform 481",
@@ -5287,8 +5287,8 @@
     "NumberOfEmployees": 370,
     "AnnualRevenue": "37592.80",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000481",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000481",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Birch Platform 482",
@@ -5298,8 +5298,8 @@
     "NumberOfEmployees": 383,
     "AnnualRevenue": "37665.91",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000482",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000482",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Cloud Platform 483",
@@ -5309,8 +5309,8 @@
     "NumberOfEmployees": 396,
     "AnnualRevenue": "37739.02",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000483",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000483",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Dawn Platform 484",
@@ -5320,8 +5320,8 @@
     "NumberOfEmployees": 409,
     "AnnualRevenue": "37812.13",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000484",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000484",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Elm Platform 485",
@@ -5331,8 +5331,8 @@
     "NumberOfEmployees": 422,
     "AnnualRevenue": "37885.24",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000485",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000485",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Fern Platform 486",
@@ -5342,8 +5342,8 @@
     "NumberOfEmployees": 435,
     "AnnualRevenue": "37958.35",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000486",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000486",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Glen Platform 487",
@@ -5353,8 +5353,8 @@
     "NumberOfEmployees": 448,
     "AnnualRevenue": "38031.46",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000487",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000487",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Harbor Platform 488",
@@ -5364,8 +5364,8 @@
     "NumberOfEmployees": 461,
     "AnnualRevenue": "38104.57",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000488",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000488",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Ivory Platform 489",
@@ -5375,8 +5375,8 @@
     "NumberOfEmployees": 474,
     "AnnualRevenue": "38177.68",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000489",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000489",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Juniper Platform 490",
@@ -5386,8 +5386,8 @@
     "NumberOfEmployees": 487,
     "AnnualRevenue": "38250.79",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000490",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000490",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Kestrel Platform 491",
@@ -5397,8 +5397,8 @@
     "NumberOfEmployees": 10,
     "AnnualRevenue": "38323.90",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000491",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000491",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Lumen Platform 492",
@@ -5408,8 +5408,8 @@
     "NumberOfEmployees": 23,
     "AnnualRevenue": "38397.01",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000492",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000492",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Maple Platform 493",
@@ -5419,8 +5419,8 @@
     "NumberOfEmployees": 36,
     "AnnualRevenue": "38470.12",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000493",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000493",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] North Platform 494",
@@ -5430,8 +5430,8 @@
     "NumberOfEmployees": 49,
     "AnnualRevenue": "38543.23",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000494",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000494",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Opal Platform 495",
@@ -5441,8 +5441,8 @@
     "NumberOfEmployees": 62,
     "AnnualRevenue": "38616.34",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000495",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000495",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Pine Platform 496",
@@ -5452,8 +5452,8 @@
     "NumberOfEmployees": 75,
     "AnnualRevenue": "38689.45",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000496",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000496",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Quartz Platform 497",
@@ -5463,8 +5463,8 @@
     "NumberOfEmployees": 88,
     "AnnualRevenue": "38762.56",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000497",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000497",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] River Platform 498",
@@ -5474,8 +5474,8 @@
     "NumberOfEmployees": 101,
     "AnnualRevenue": "38835.67",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000498",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000498",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Silver Platform 499",
@@ -5485,8 +5485,8 @@
     "NumberOfEmployees": 114,
     "AnnualRevenue": "38908.78",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000499",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000499",
+    "MockMill_Synthetic__c": true
   },
   {
     "Name": "[SYNTHETIC] Thistle Platform 500",
@@ -5496,7 +5496,7 @@
     "NumberOfEmployees": 127,
     "AnnualRevenue": "38981.89",
     "Description": "SYNTHETIC FICTION; prospect",
-    "StoryFoundry_ID__c": "d2eec5850643-accounts-000500",
-    "StoryFoundry_Synthetic__c": true
+    "MockMill_ID__c": "d2eec5850643-accounts-000500",
+    "MockMill_Synthetic__c": true
   }
 ]

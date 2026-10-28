@@ -1,4 +1,4 @@
-name: StoryFoundry CI
+name: MockMill CI
 
 on:
   push:
@@ -23,11 +23,11 @@ jobs:
         run: python -m unittest -v
       - name: Generate and validate fixture
         run: |
-          python generate.py --output /tmp/storyfoundry-fixture
-          python validate.py --data /tmp/storyfoundry-fixture --receipt /tmp/storyfoundry-validation.json
+          python generate.py --output /tmp/mockmill-fixture
+          python validate.py --data /tmp/mockmill-fixture --receipt /tmp/mockmill-validation.json
       - name: Preview and export offline adapters
         run: |
-          python import_preview.py --data /tmp/storyfoundry-fixture --output /tmp/storyfoundry-preview
-          python export_crm.py --data /tmp/storyfoundry-fixture --output /tmp/storyfoundry-adapters
+          python import_preview.py --data /tmp/mockmill-fixture --output /tmp/mockmill-preview
+          python export_crm.py --data /tmp/mockmill-fixture --output /tmp/mockmill-adapters
       - name: Build package
         run: python -m pip install --upgrade build && python -m build

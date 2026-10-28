@@ -15,8 +15,8 @@ class AdapterTests(unittest.TestCase):
    self.assertTrue(all(r[plan['synthetic_marker_column']] is True for rows in files.values() for r in rows))
    self.assertIn('invoices',plan['unmapped_domains']);self.assertIn('talent',plan['unmapped_domains'])
  def test_salesforce_external_relationships_use_existing_canonical_accounts(self):
-  files,plan=build_adapter('salesforce',self.tables);accounts={r['StoryFoundry_ID__c'] for r in files['Account.csv']}
-  self.assertTrue(all(r['Account.StoryFoundry_ID__c'] in accounts for r in files['Contact.csv']))
+  files,plan=build_adapter('salesforce',self.tables);accounts={r['MockMill_ID__c'] for r in files['Account.csv']}
+  self.assertTrue(all(r['Account.MockMill_ID__c'] in accounts for r in files['Contact.csv']))
   self.assertTrue(all('Id' not in r for rows in files.values() for r in rows))
  def test_hubspot_requires_pipeline_and_unique_deal_key(self):
   files,plan=build_adapter('hubspot',self.tables)
@@ -37,7 +37,7 @@ class AdapterTests(unittest.TestCase):
  def test_pipedrive_joins_deal_contact_and_org_without_fabricated_system_ids(self):
   files,plan=build_adapter('pipedrive',self.tables);rows=files['people-organizations-deals.csv']
   self.assertEqual(sum(bool(r['Deal title']) for r in rows),len(self.tables['opportunities']))
-  self.assertEqual(len({r['Person StoryFoundry key'] for r in rows}),len(self.tables['contacts']))
+  self.assertEqual(len({r['Person MockMill key'] for r in rows}),len(self.tables['contacts']))
   self.assertFalse(any('system id' in k.lower() for r in rows for k in r))
   self.assertIn('actual Pipedrive System IDs',plan['replay'])
  def test_relationship_corruption_fails_before_export(self):

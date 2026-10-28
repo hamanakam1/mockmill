@@ -1,4 +1,4 @@
-# StoryFoundry
+# MockMill
 
 ```text
   ____  _                    _   ______                      _             
@@ -9,7 +9,7 @@
                                                                     |___/
 ```
 
-[![CI](https://github.com/hamanakam1/storyfoundry/actions/workflows/ci.yml/badge.svg)](https://github.com/hamanakam1/storyfoundry/actions/workflows/ci.yml)
+[![CI](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml/badge.svg)](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-55d6be.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776ab.svg)](pyproject.toml)
 [![Offline by design](https://img.shields.io/badge/imports-offline%20only-e58f65.svg)](docs/crm-import-contracts.md)
@@ -18,11 +18,11 @@
 
 **Status:** public release candidate · MIT · deterministic · offline-only adapters
 
-**Repository:** [github.com/hamanakam1/storyfoundry](https://github.com/hamanakam1/storyfoundry)
+**Repository:** [github.com/hamanakam1/mockmill](https://github.com/hamanakam1/mockmill)
 
-**Coherent fictional businesses, portable records and reviewable offline CRM import plans.** StoryFoundry is a public MIT-licensed release. It generates fictional records and offline adapter fixtures; it does not perform live CRM imports.
+**Coherent fictional businesses, portable records and reviewable offline CRM import plans.** MockMill is a public MIT-licensed release. It generates fictional records and offline adapter fixtures; it does not perform live CRM imports.
 
-StoryFoundry generates an explicitly synthetic service-company history with reproducible seeds, stable external IDs, relationships, dated events and reconciled money. It includes failures, partial payment, cancellations, lost leads, repeated engagements, support and knowledge history—not only an idealized customer list. The canonical model is independent of any CRM. Five executable starter adapters map its account, contact and opportunity records into CSV/JSON fixtures for Salesforce, HubSpot, Dynamics 365, Zoho CRM and Pipedrive.
+MockMill generates an explicitly synthetic service-company history with reproducible seeds, stable external IDs, relationships, dated events and reconciled money. It includes failures, partial payment, cancellations, lost leads, repeated engagements, support and knowledge history—not only an idealized customer list. The canonical model is independent of any CRM. Five executable starter adapters map its account, contact and opportunity records into CSV/JSON fixtures for Salesforce, HubSpot, Dynamics 365, Zoho CRM and Pipedrive.
 
 **Every person, company and transaction is fictional.** Examples use reserved invalid domains, fictional telephone numbers and non-deliverable addresses. No real roster, biography, conversation, customer evidence, credentials or account identifiers are bundled. The generic talent distribution is independently enumerated in `inputs/profile-shapes.json`.
 
@@ -37,9 +37,9 @@ StoryFoundry generates an explicitly synthetic service-company history with repr
 | Build a package | [Release checklist](docs/RELEASE.md) |
 | Contribute safely | [CONTRIBUTING.md](CONTRIBUTING.md) |
 
-## Why StoryFoundry
+## Why MockMill
 
-Most fake-data fixtures are disconnected rows. StoryFoundry creates a dated, relational business story with leads, accounts, contacts, opportunities, projects, tasks, support, knowledge, invoices, credits, payments and meetings. Deterministic validation keeps the story coherent while preserving failure cases, partial payment, cancellations, lost opportunities and future work.
+Most fake-data fixtures are disconnected rows. MockMill creates a dated, relational business story with leads, accounts, contacts, opportunities, projects, tasks, support, knowledge, invoices, credits, payments and meetings. Deterministic validation keeps the story coherent while preserving failure cases, partial payment, cancellations, lost opportunities and future work.
 
 The portable profile is deliberately broader than one CRM: firmographics, lifecycle, ownership, contactability, qualification, provenance, forecast, probability and next-action fields are retained canonically and translated into five target-shaped offline exports.
 
@@ -104,15 +104,15 @@ The public candidate contains independently authored generic profiles and fixtur
 The package has no runtime dependencies and exposes four command-line entry points:
 
 ```bash
-python -m pip install storyfoundry-0.1.0.tar.gz
-storyfoundry-generate --output examples/service-company
-storyfoundry-validate --data examples/service-company --receipt validation.json
-storyfoundry-preview --data examples/service-company --output examples/canonical-import-preview
-storyfoundry-export --data examples/service-company --output examples/crm-fixtures
+python -m pip install mockmill-0.1.0.tar.gz
+mockmill-generate --output examples/service-company
+mockmill-validate --data examples/service-company --receipt validation.json
+mockmill-preview --data examples/service-company --output examples/canonical-import-preview
+mockmill-export --data examples/service-company --output examples/crm-fixtures
 ```
 
 The package build is intended for reproducible local use. It does not add credentials, network clients or live-import behavior.
 
 ## License
 
-StoryFoundry is licensed under the [MIT License](LICENSE). Public release assets and package metadata preserve the offline-only boundary.
+MockMill is licensed under the [MIT License](LICENSE). Public release assets and package metadata preserve the offline-only boundary.

@@ -1,4 +1,4 @@
-Deal name,Pipeline,Deal stage,Amount,Close date,Forecast category,Next step,Company domain name,StoryFoundry source key,StoryFoundry synthetic
+Deal name,Pipeline,Deal stage,Amount,Close date,Forecast category,Next step,Company domain name,MockMill source key,MockMill synthetic
 [SYNTHETIC] Vendor 001 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,12000.00,2024-11-27,closed,[SYNTHETIC] Confirm scope and target prerequisites,vendor0001.example.invalid,d2eec5850643-opportunities-000001,true
 [SYNTHETIC] Vendor 002 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,20000.00,2024-12-08,closed,[SYNTHETIC] Confirm scope and target prerequisites,vendor0002.example.invalid,d2eec5850643-opportunities-000002,true
 [SYNTHETIC] Vendor 003 readiness engagement,CONFIGURE_EXISTING_PIPELINE,Closed Won,30000.00,2024-12-19,closed,[SYNTHETIC] Confirm scope and target prerequisites,vendor0003.example.invalid,d2eec5850643-opportunities-000003,true

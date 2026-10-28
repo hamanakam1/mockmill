@@ -1,8 +1,8 @@
-# StoryFoundry visual guide
+# MockMill visual guide
 
 These diagrams are generated, versioned SVG artifacts. They use only synthetic counts and public-safe product boundaries; they contain no portal screenshots, private records or credentials.
 
-![StoryFoundry product overview](visuals/storyfoundry-overview.svg)
+![MockMill product overview](visuals/mockmill-overview.svg)
 
 ![Validation dashboard](visuals/validation-dashboard.svg)
 

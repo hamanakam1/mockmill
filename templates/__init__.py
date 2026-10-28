@@ -1,1 +1,1 @@
-"""Bundled scenario templates for StoryFoundry."""
+"""Bundled scenario templates for MockMill."""

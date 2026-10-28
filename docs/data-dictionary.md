@@ -1,4 +1,4 @@
-# StoryFoundry data dictionary
+# MockMill data dictionary
 
 This dictionary describes the generated canonical fixture, not a recovered CloudTeams or CRM schema. Every domain is available as JSONL and CSV; adapters currently map only accounts, contacts and opportunities.
 

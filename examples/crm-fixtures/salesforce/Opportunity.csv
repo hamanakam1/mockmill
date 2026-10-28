@@ -1,4 +1,4 @@
-Name,Amount,StageName,CloseDate,Probability,ForecastCategoryName,Type,NextStep,Account.StoryFoundry_ID__c,Description,StoryFoundry_ID__c,StoryFoundry_Synthetic__c
+Name,Amount,StageName,CloseDate,Probability,ForecastCategoryName,Type,NextStep,Account.MockMill_ID__c,Description,MockMill_ID__c,MockMill_Synthetic__c
 [SYNTHETIC] Vendor 001 readiness engagement,12000.00,Closed Won,2024-11-27,100,closed,expansion,[SYNTHETIC] Confirm scope and target prerequisites,d2eec5850643-accounts-000001,SYNTHETIC FICTION,d2eec5850643-opportunities-000001,true
 [SYNTHETIC] Vendor 002 readiness engagement,20000.00,Closed Won,2024-12-08,100,closed,new_business,[SYNTHETIC] Confirm scope and target prerequisites,d2eec5850643-accounts-000002,SYNTHETIC FICTION,d2eec5850643-opportunities-000002,true
 [SYNTHETIC] Vendor 003 readiness engagement,30000.00,Closed Won,2024-12-19,100,closed,new_business,[SYNTHETIC] Confirm scope and target prerequisites,d2eec5850643-accounts-000003,SYNTHETIC FICTION,d2eec5850643-opportunities-000003,true

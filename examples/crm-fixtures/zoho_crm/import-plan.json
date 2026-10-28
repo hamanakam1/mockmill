@@ -6,10 +6,10 @@
   "required_configuration": [
     "Map Account Name; Contact Last Name; Deal Name, Closing Date and all target-layout-required fields",
     "Import Accounts first and resolve Account Name or a real target account ID",
-    "Map StoryFoundry source key to ordinary provenance text; it is not a claim that CSV updates external-ID fields",
+    "Map MockMill source key to ordinary provenance text; it is not a claim that CSV updates external-ID fields",
     "Select the actual permitted unique-field/module-ID duplicate/update mode and test it before replay",
     "Validate stage, owner, layout and edition restrictions",
-    "Map explicit synthetic marker StoryFoundry Synthetic to a configured compatible custom property; keep the file synthetic if a target lacks that property"
+    "Map explicit synthetic marker MockMill Synthetic to a configured compatible custom property; keep the file synthetic if a target lacks that property"
   ],
   "replay": "CSV replay depends on target-supported unique-field/module-ID matching. Zoho external-ID fields have API-specific update behavior; this package does not claim generic external-ID CSV upsert.",
   "adapter": "zoho_crm",
@@ -71,7 +71,7 @@
       "canonical_domain": "accounts",
       "row_count": 500,
       "external_key_columns": [
-        "StoryFoundry source key"
+        "MockMill source key"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "canonical_domain": "contacts",
       "row_count": 600,
       "external_key_columns": [
-        "StoryFoundry source key"
+        "MockMill source key"
       ]
     },
     {
@@ -87,7 +87,7 @@
       "canonical_domain": "opportunities",
       "row_count": 500,
       "external_key_columns": [
-        "StoryFoundry source key"
+        "MockMill source key"
       ]
     }
   ],
@@ -9996,7 +9996,7 @@
   "options": {},
   "unknown_target_configuration_is_a_hold": true,
   "rollback": "No target changes made. Capture target IDs and preimages before any future approved import; never delete by a synthetic source ID.",
-  "synthetic_marker_column": "StoryFoundry Synthetic",
+  "synthetic_marker_column": "MockMill Synthetic",
   "payload_manifest": [
     {
       "path": "Accounts.csv",

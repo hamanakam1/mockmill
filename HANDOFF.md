@@ -1,4 +1,4 @@
-# StoryFoundry successor handoff — stopped at operator checkpoint
+# MockMill successor handoff — stopped at operator checkpoint
 
 Status: working local public-release candidate; not yet initialized as its own Git repository, not committed or published. No process from this worker remains running. Preserve the current independent generic fixture and code.
 

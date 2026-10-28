@@ -6,10 +6,10 @@
   ],
   "required_configuration": [
     "Map Person name and Organization name plus Deal title/value/currency/stage for deal rows",
-    "Map the three StoryFoundry provenance keys to separately configured custom text fields or retain the sidecar",
+    "Map the three MockMill provenance keys to separately configured custom text fields or retain the sidecar",
     "Choose existing pipeline/stage values; verify duplicate detection and item linking",
     "For updates obtain genuine Pipedrive System IDs from the target; never use synthetic IDs as System IDs",
-    "Map explicit synthetic marker StoryFoundry synthetic to a configured compatible custom property; keep the file synthetic if a target lacks that property"
+    "Map explicit synthetic marker MockMill synthetic to a configured compatible custom property; keep the file synthetic if a target lacks that property"
   ],
   "replay": "Initial fixtures are create-oriented. Updates require actual Pipedrive System IDs; repeated upload is not declared idempotent.",
   "adapter": "pipedrive",
@@ -71,9 +71,9 @@
       "canonical_domain": "accounts+contacts+opportunities",
       "row_count": 600,
       "external_key_columns": [
-        "Organization StoryFoundry key",
-        "Person StoryFoundry key",
-        "Deal StoryFoundry key"
+        "Organization MockMill key",
+        "Person MockMill key",
+        "Deal MockMill key"
       ]
     }
   ],
@@ -14482,7 +14482,7 @@
   "options": {},
   "unknown_target_configuration_is_a_hold": true,
   "rollback": "No target changes made. Capture target IDs and preimages before any future approved import; never delete by a synthetic source ID.",
-  "synthetic_marker_column": "StoryFoundry synthetic",
+  "synthetic_marker_column": "MockMill synthetic",
   "payload_manifest": [
     {
       "path": "people-organizations-deals.csv",

@@ -1,4 +1,4 @@
-Deal Name,Amount,Closing Date,Stage,Probability,Type,Account Name,Description,StoryFoundry source key,StoryFoundry Synthetic
+Deal Name,Amount,Closing Date,Stage,Probability,Type,Account Name,Description,MockMill source key,MockMill Synthetic
 [SYNTHETIC] Vendor 001 readiness engagement,12000.00,2024-11-27,Closed Won,100,expansion,[SYNTHETIC] Amber Systems 001,SYNTHETIC FICTION,d2eec5850643-opportunities-000001,true
 [SYNTHETIC] Vendor 002 readiness engagement,20000.00,2024-12-08,Closed Won,100,new_business,[SYNTHETIC] Birch Systems 002,SYNTHETIC FICTION,d2eec5850643-opportunities-000002,true
 [SYNTHETIC] Vendor 003 readiness engagement,30000.00,2024-12-19,Closed Won,100,new_business,[SYNTHETIC] Cloud Systems 003,SYNTHETIC FICTION,d2eec5850643-opportunities-000003,true

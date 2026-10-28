@@ -1,4 +1,4 @@
-Name,Website,Industry,Phone,NumberOfEmployees,AnnualRevenue,Description,StoryFoundry_ID__c,StoryFoundry_Synthetic__c
+Name,Website,Industry,Phone,NumberOfEmployees,AnnualRevenue,Description,MockMill_ID__c,MockMill_Synthetic__c
 [SYNTHETIC] Amber Systems 001,https://vendor0001.example.invalid,Developer tools,'+1-202-555-0100,10,2500.00,SYNTHETIC FICTION; customer,d2eec5850643-accounts-000001,true
 [SYNTHETIC] Birch Systems 002,https://vendor0002.example.invalid,Business software,'+1-202-555-0101,23,2573.11,SYNTHETIC FICTION; customer,d2eec5850643-accounts-000002,true
 [SYNTHETIC] Cloud Systems 003,https://vendor0003.example.invalid,Data operations,'+1-202-555-0102,36,2646.22,SYNTHETIC FICTION; customer,d2eec5850643-accounts-000003,true

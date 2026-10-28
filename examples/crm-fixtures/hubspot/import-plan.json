@@ -6,11 +6,11 @@
   ],
   "required_configuration": [
     "Map Email for contact uniqueness and Company domain name for company matching",
-    "Create a permitted unique-value property for StoryFoundry source key on deals or obtain actual target Record IDs",
+    "Create a permitted unique-value property for MockMill source key on deals or obtain actual target Record IDs",
     "Select existing Pipeline and Deal stage internal values; fixture labels are not target validation",
     "Configure company-domain association mapping in the selected import workflow; check edition/property eligibility",
     "Blank imported cells do not mean clear existing values",
-    "Map explicit synthetic marker StoryFoundry synthetic to a configured compatible custom property; keep the file synthetic if a target lacks that property"
+    "Map explicit synthetic marker MockMill synthetic to a configured compatible custom property; keep the file synthetic if a target lacks that property"
   ],
   "replay": "Email/domain matching is scoped to configured objects; repeated deals require actual Record ID or supported custom unique property. Deal name is not a unique key.",
   "adapter": "hubspot",
@@ -73,7 +73,7 @@
       "row_count": 500,
       "external_key_columns": [
         "Company domain name",
-        "StoryFoundry source key"
+        "MockMill source key"
       ]
     },
     {
@@ -82,7 +82,7 @@
       "row_count": 600,
       "external_key_columns": [
         "Email",
-        "StoryFoundry source key"
+        "MockMill source key"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "canonical_domain": "opportunities",
       "row_count": 500,
       "external_key_columns": [
-        "StoryFoundry source key"
+        "MockMill source key"
       ]
     }
   ],
@@ -9999,7 +9999,7 @@
   "options": {},
   "unknown_target_configuration_is_a_hold": true,
   "rollback": "No target changes made. Capture target IDs and preimages before any future approved import; never delete by a synthetic source ID.",
-  "synthetic_marker_column": "StoryFoundry synthetic",
+  "synthetic_marker_column": "MockMill synthetic",
   "payload_manifest": [
     {
       "path": "companies.csv",

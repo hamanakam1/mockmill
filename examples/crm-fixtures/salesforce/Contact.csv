@@ -1,4 +1,4 @@
-FirstName,LastName,Title,Department,Email,Account.StoryFoundry_ID__c,Description,StoryFoundry_ID__c,StoryFoundry_Synthetic__c
+FirstName,LastName,Title,Department,Email,Account.MockMill_ID__c,Description,MockMill_ID__c,MockMill_Synthetic__c
 Avaven,Ambercrest Contact,Founder,Operations,contact0001@vendor0001.example.invalid,d2eec5850643-accounts-000001,SYNTHETIC FICTION,d2eec5850643-contacts-000001,true
 Avaven,Ambercrest Finance,Fictional finance contact,,finance@vendor0001.example.invalid,d2eec5850643-accounts-000001,SYNTHETIC FICTION,d2eec5850643-contacts-000002,true
 Avalune,Ambercrest Contact,Operations lead,Product,contact0002@vendor0002.example.invalid,d2eec5850643-accounts-000002,SYNTHETIC FICTION,d2eec5850643-contacts-000003,true

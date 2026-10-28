@@ -3,13 +3,13 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "storyfoundry"
+name = "mockmill"
 version = "0.1.0"
 description = "Deterministic synthetic business stories and offline CRM fixture adapters"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
-authors = [{ name = "StoryFoundry contributors" }]
+authors = [{ name = "MockMill contributors" }]
 keywords = ["synthetic-data", "crm", "fixtures", "data-generation", "offline"]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -22,15 +22,15 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/hamanakam1/storyfoundry"
-Documentation = "https://github.com/hamanakam1/storyfoundry/tree/main/docs"
-Issues = "https://github.com/hamanakam1/storyfoundry/issues"
+Homepage = "https://github.com/hamanakam1/mockmill"
+Documentation = "https://github.com/hamanakam1/mockmill/tree/main/docs"
+Issues = "https://github.com/hamanakam1/mockmill/issues"
 
 [project.scripts]
-storyfoundry-generate = "generate:main"
-storyfoundry-validate = "validate:main"
-storyfoundry-preview = "import_preview:main"
-storyfoundry-export = "export_crm:main"
+mockmill-generate = "generate:main"
+mockmill-validate = "validate:main"
+mockmill-preview = "import_preview:main"
+mockmill-export = "export_crm:main"
 
 [tool.setuptools]
 py-modules = ["generate", "validate", "import_preview", "export_crm"]

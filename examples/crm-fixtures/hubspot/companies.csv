@@ -1,4 +1,4 @@
-Name,Company domain name,Industry,Phone number,Number of employees,Annual revenue,Description,StoryFoundry source key,StoryFoundry synthetic
+Name,Company domain name,Industry,Phone number,Number of employees,Annual revenue,Description,MockMill source key,MockMill synthetic
 [SYNTHETIC] Amber Systems 001,vendor0001.example.invalid,Developer tools,'+1-202-555-0100,10,2500.00,SYNTHETIC FICTION,d2eec5850643-accounts-000001,true
 [SYNTHETIC] Birch Systems 002,vendor0002.example.invalid,Business software,'+1-202-555-0101,23,2573.11,SYNTHETIC FICTION,d2eec5850643-accounts-000002,true
 [SYNTHETIC] Cloud Systems 003,vendor0003.example.invalid,Data operations,'+1-202-555-0102,36,2646.22,SYNTHETIC FICTION,d2eec5850643-accounts-000003,true

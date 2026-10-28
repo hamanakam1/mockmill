@@ -1,6 +1,6 @@
-# Contributing to StoryFoundry
+# Contributing to MockMill
 
-StoryFoundry is a deterministic, synthetic-only project. Contributions must preserve the distinction between canonical facts, generated fiction, proposed mappings and verified target behavior.
+MockMill is a deterministic, synthetic-only project. Contributions must preserve the distinction between canonical facts, generated fiction, proposed mappings and verified target behavior.
 
 ## Before opening a change
 

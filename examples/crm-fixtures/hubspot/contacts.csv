@@ -1,4 +1,4 @@
-First name,Last name,Job title,Department,Email,Company domain name,Preferred language,StoryFoundry source key,StoryFoundry synthetic
+First name,Last name,Job title,Department,Email,Company domain name,Preferred language,MockMill source key,MockMill synthetic
 Avaven,Ambercrest Contact,Founder,Operations,contact0001@vendor0001.example.invalid,vendor0001.example.invalid,en,d2eec5850643-contacts-000001,true
 Avaven,Ambercrest Finance,Fictional finance contact,,finance@vendor0001.example.invalid,vendor0001.example.invalid,en,d2eec5850643-contacts-000002,true
 Avalune,Ambercrest Contact,Operations lead,Product,contact0002@vendor0002.example.invalid,vendor0002.example.invalid,en,d2eec5850643-contacts-000003,true

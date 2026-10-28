@@ -1,4 +1,4 @@
-Account Name,Website,Industry,Employees,Annual Revenue,Description,StoryFoundry source key,StoryFoundry Synthetic
+Account Name,Website,Industry,Employees,Annual Revenue,Description,MockMill source key,MockMill Synthetic
 [SYNTHETIC] Amber Systems 001,https://vendor0001.example.invalid,Developer tools,10,2500.00,SYNTHETIC FICTION,d2eec5850643-accounts-000001,true
 [SYNTHETIC] Birch Systems 002,https://vendor0002.example.invalid,Business software,23,2573.11,SYNTHETIC FICTION,d2eec5850643-accounts-000002,true
 [SYNTHETIC] Cloud Systems 003,https://vendor0003.example.invalid,Data operations,36,2646.22,SYNTHETIC FICTION,d2eec5850643-accounts-000003,true
