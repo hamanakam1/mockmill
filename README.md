@@ -36,6 +36,8 @@
              F A K E   D A T A  /  R E A L   F L O W
 ```
 
+![MockMill full-color character mosaic](docs/visuals/mockmill-meek-mill-color-ascii.svg)
+
 [![CI](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml/badge.svg)](https://github.com/hamanakam1/mockmill/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-55d6be.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776ab.svg)](pyproject.toml)
