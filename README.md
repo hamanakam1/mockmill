@@ -79,7 +79,7 @@ See [foundation contracts](docs/crm-foundations.md), [adapter API](docs/adapter-
 
 The [visual guide](docs/VISUALS.md) shows the product flow, validation evidence and the exact boundary between the canonical model and the five offline adapters.
 
-![MockMill](docs/visuals/mockmill-meek-mill-color-ascii.svg)
+![MockMill](docs/visuals/mockmill-meek-mill-color-ascii-poster.png)
 
 ## Model, story and evidence
 
