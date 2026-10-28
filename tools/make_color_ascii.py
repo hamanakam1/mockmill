@@ -57,10 +57,13 @@ def render(source: Path, output: Path, width: int = 108, label: str = "") -> Non
             # SVG text preserves the colored character mosaic while GitHub can preview it inline.
             lines.append(f'<text x="24" y="{32 + y * 10}" xml:space="preserve">{line}</text>')
         output.parent.mkdir(parents=True, exist_ok=True)
+        label_markup = ''
+        if label:
+            label_markup = f'<g font-family="monospace" text-anchor="middle" font-weight="700"><text x="750" y="{int(height * 10 * 0.68)}" font-size="28" fill="#05070b" stroke="#05070b" stroke-width="7">MOCK MILL</text><text x="750" y="{int(height * 10 * 0.68) + 34}" font-size="24" fill="#f4d37d" stroke="#fff4cf" stroke-width="1">FAKE DATA / REAL FLOW</text></g>'
         output.write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="{height * 10 + 64}" viewBox="0 0 1500 {height * 10 + 64}" role="img" aria-labelledby="title desc">
 <title id="title">MockMill full-color ASCII parody portrait</title>
 <desc id="desc">A high-detail colored character mosaic based on a public Meek Mill promotional portrait. Fan-made parody, not affiliated or endorsed.</desc>
-<rect width="1500" height="100%" fill="#05070b"/><g font-family="monospace" font-size="10">{''.join(lines)}</g></svg>''', encoding="utf-8")
+<rect width="1500" height="100%" fill="#05070b"/><g font-family="monospace" font-size="10">{''.join(lines)}</g>{label_markup}</svg>''', encoding="utf-8")
         return
     output.write_text(f'''<!doctype html>
 <meta charset="utf-8">
